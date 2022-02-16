@@ -1,0 +1,62 @@
+
+Four pilot projects can help build confidence, trust and rapport by gradually involving the board more deeply in key decisions and sharing more information.
+
+This is the second of a two-part series. In Part 1, we described leading practices for educating and involving the board across the full range of strategic and tactical decisions during the crisis and recovery. In this second installment, we articulate the broad range of director competencies, then suggest four pilots for implementing optimal board engagement.
+Exploiting perspective, experience and relationships
+
+At a time when management is increasingly dedicated to “putting out fires” with limited ability to plan or consider longer-term consequences, the board provides a unique and often underutilized pool of resources:
+
+Broad and deep experience. Directors bring centuries of collective experience across industries, functional disciplines, government service and academia. Many can share lessons learned from living through — and often leading companies through — past economic turmoil like the global financial crisis and dot-com bubble bursting, as well as the SARS and Ebola outbreaks.
+
+The board should complement management’s thinking around building robust scenarios that span what’s possible, then sequencing investment plans. And directors’ outside perspectives will enhance the debate on how to implement stakeholder-centricity, given the wide range of current practices.
+
+Cognitive diversity. The ability to generate a wide range of alternative solutions is critically important in complex, highly uncertain situations like the current crisis. Beyond the gradual progress being made in achieving diversity from gender and sexual orientation, recent research demonstrates the value of “cognitive diversity” in problem-solving — leveraging differences in how people process information and use expertise when faced with new situations.[1]
+
+Conversely, if everyone on the team approaches problems the same way — low cognitive diversity — it’s difficult to think outside the box, and better answers may be missed.
+
+Real-time insights. Drawing on their current roles as executives and board members at other organizations, directors can synthesize live case studies on how those leaders manage the crisis and plan for its aftermath — particularly when directors have exposure to industries and regions reopening at different rates.
+
+Extended networks. George Day and Paul Schoemaker point out how directors help managers improve their “vigilance” — the ability to identify potential internal problems and disruptive external trends.[2]
+
+In addition, directors’ mine their relationships to identify potential acquisitions, ecosystem partners, alternative suppliers and recruiting candidates from other industries.
+
+Complementary incentives. Other characteristics of the director’s role guard against risk aversion and short-termism:
+
+• Their tenure in S&P 500 companies averages more than twice that of CEOs (11 years vs. 5 years),[3][4] so they can encourage and oversee investments that pay off over several years. This is especially relevant because most companies’ valuations depend on cash flows beyond five years.[5]
+
+• Director compensation is usually some combination of fixed fees and equity ownership, which helps align their incentives as shareholder representatives. Beyond financial remuneration, their primary motivations revolve around their reputation and how other directors perceive their contributions.
+
+• Board decisions that prioritize the long-term interests of the company are protected from being second-guessed by a court if directors act with due care and in good faith. This “business judgement rule” is the centerpiece of Delaware corporation law.[6]
+Implementing optimal board engagement at your company
+
+The archetypal governance practices we described in Part 1 work best in corporate and board cultures that encourage candid feedback, honest debate and the open sharing of information. How can your company migrate to a culture where executives won’t feel threatened or distracted when directors observe senior management meetings and have access to all the same data?
+
+Figure 1: Use pilots to migrate toward leading practice board engagement
+
+As with any change process, pilot projects can help build confidence, trust and rapport by gradually involving the board more deeply in key decisions and sharing more information. On the director side of the quid pro quo, they need to commit to participating in line with their oversight and advisory roles. Here are four possible pilots for CEOs and boards to consider:
+
+1. Strategy refresh. A leading practice for the board’s role in strategy has been to solicit board input at kickoff and during development, well before asking for formal approval.[7] Adopting a more engaged approach would augment this process with one or two directors observing key working meetings of the strategy team. The team would also share their research and analyses along the way as they build scenarios, formulate strategic alternatives and converge on recommendations.
+
+2. Business unit mentoring. Experiment with implementing the new approach in a single business unit (BU) by assigning two directors as mentors who observe BU operating committee meetings, interact with executives and discuss their learnings with the rest of the board. Sharing information would begin narrowly with what’s relevant to meeting agendas, then expand as trust builds. Board members can play a devil’s advocate role in helping assess lessons learned and building resilience against future disruptions.
+
+3. Compensation and incentive review. Work with the compensation committee to construct and evaluate alternatives to your current incentive plan that may align better with long-term value creation, especially in a post-crisis world. In the short-term, directors’ external insights could also assist in stabilizing morale and raising confidence as employment- and health-related anxieties subside.
+
+4. Outside-in value diagnostic. Apply an investor’s “lens” to examine the company’s performance relative to peers during the crisis, to develop potential improvement initiatives during the recovery. This data-intensive exercise resembles what an activist shareholder would do based on public information and allows the board to anticipate potential criticism and catalyze a focus on value creation.
+
+While it takes a confident CEO and committed directors to engage the board using the governance practices we’ve outlined, the current environment presents the urgency and necessity to try. In confronting unique, daily challenges, management teams can lessen the burden — and improve their results — by unlocking the board’s full potential in today’s fluid and unpredictable business landscape.
+
+The views reflected in this article are the views of the authors and do not necessarily reflect the views of Fortuna Advisors LLC or Ernst & Young LLP and other members of these organizations.
+
+[1] “Teams Solve Problems Faster When They’re More Cognitively Diverse,” Alison Reynolds and David Lewis, Harvard Business School published on HBR.org, March 30, 2017.
+
+[2] See Sooner, Act Faster: How Vigilant Leaders Thrive in an Era of Digital Turbulence, George S. Day, Paul J. H. Schoemaker, The MIT Press, 2019.
+
+[3] “Corporate Board Practices in the Russell 3000 and S&P: 2019 Edition,” Matteo Tonello, Research Report R-1687-19-RR, THE CONFERENCE BOARD, INC.
+
+[4] “CEO Tenure Rates,” Dan Marcec, Equilar, Inc., Harvard Law School Forum on Corporate Governance, February 12, 2018.
+
+[5] We can see this with a simple example: Assume one year from today a business generates $100 of free cash flow that grows by 2 percent every year thereafter. Using a 9 percent cost of capital and the dividend discount model, the value of the business today is $1,429. The present value of the cash flows after year five years is more than 70% of the total.
+
+[6] “The Delaware Way: Deference to the Business Judgment of Directors Who Act Loyally and Carefully,” State of Delaware website, https://corplaw.delaware.gov/delaware-way-business-judgment/.
+
+[7] See for, example: “The Board’s Role in Strategy,” Roger L. Martin, Harvard Business Review published on HBR.org, December 28, 2018.

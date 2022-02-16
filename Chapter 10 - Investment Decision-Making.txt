@@ -1,0 +1,525 @@
+WHEN GOLDILOCKS TESTED the beds of the Three Bears,
+she found Papa Bear’s bed to be too firm, Momma Bear’s bed to be too
+soft, and Baby Bear’s bed to be just right. So it is with the propensity
+to invest exhibited by different companies. Some companies invest
+too much and make several value-destroying investments; some don’t
+invest enough and miss a number of value-creating investments; and
+some get it just right by accepting all value-creating investments and
+turning down all value-destroying ones.
+In principle, this may seem obvious. But certain companies put
+such an emphasis on the quantity of growth that managements at times
+will pursue investments that grow the revenue line of the company
+without delivering enough cash to sustain worthwhile profits. This
+was common a few decades ago. But since then, more emphasis
+has been placed on delivering profit margins and returns on capital.
+These companies that emphasize the quality of growth, as measured
+by margins and returns, often experience a stagnated growth profile
+because their executives have become so conservative that they pass
+on many investments that would create value and instead prioritize
+only the cream of the crop. Investing too much and investing too little
+are, of course, both suboptimal strategies. Like Goldilocks, we want
+our investment strategies to be just right.
+Consider a company that makes too many investments and, on
+top of all its good investments, management includes an investment
+of $25 million with a net present value of negative $10 million. This
+company has decreased its value creation by $10 million. Another
+company acts very conservatively to avoid precisely such a bad invest206
+ment outcome. But perhaps it’s too conservative, which leads it to
+also leave out a few value-adding investments that collectively would
+have added $10 million of net present value. Just like the overinvesting
+company, this underinvesting company has underdelivered on its value
+creation potential by $10 million. In a sense, forgoing the opportunity
+to make an investment that would have created $10 million of net
+present value destroys as much value as pursuing the opportunities
+that wipe out $10 million of value.
+What motivates some companies to make too many investments,
+while others make too few? It all comes down to the behaviors that are
+encouraged by the culture, the management processes in place, and
+the incentives available. Is the culture aggressive and entrepreneurial,
+or is it careful and conservative? Are growth rates emphasized more
+in operating reviews, or is the emphasis on percentage margins and
+rates of return on capital? And, importantly, what drives the incentive
+plan—how is performance being measured?
+Historically, back in the 1970s and early 1980s, companies
+commonly overemphasized growth and economies of scale. This
+led to a “growth at any cost” mindset and, though some companies
+managed to grow in a profitable fashion, many did not. One client’s
+CEO told us in the early 1990s that he felt that he had “fallen behind,”
+because one of his former colleagues who became CEO of a public
+company around the same time had grown revenue nearly twice as
+much as he had. We sought to convince him that his counterpart had,
+in fact, likely destroyed substantial value. Still, it was clear that growth
+and sheer size were extremely important to our client.
+Twenty-five years later, many companies still would benefit from
+shifting their focus to growing profits, not merely revenue. Yet in
+the intervening decades, many management teams have adopted
+more discipline about increasing or maintaining margins and rates of
+return. Unfortunately, the pendulum has swung too far in countless
+cases, and many companies are now so focused on maximizing rates
+of return that they have refused to consider all but the very highestreturn
+investments.
+Why has the pendulum swung too far? At least in many cases,
+the emphasis on holding managers accountable for delivering high
+and improving rates of return has stifled investments in the best
+businesses where growth is the most valuable. The answer is not to
+ignore rates of return, but instead to use a measurement and investment
+analysis framework that does a better job of motivating good
+investment, while at the same time holding management accountable
+for delivering a sufficient return.
+As discussed extensively in chapter 3, the cash-flow-based economic
+profit measure known as Residual Cash Earnings (RCE) does a better
+job than other measures at spreading the recognition of value over
+the life of the investment. Most traditional measures of rate of return
+and economic profit show front-load costs and reflect most of the
+benefits later in the asset’s life—at a time when it’s mostly depreciated!
+With these types of measures, even a reasonable forecast often
+looks like a hockey stock.
+As an example, consider a retail business that over decades has
+successfully opened some 1,000 stores that have been quite profitable.
+The enterprise value of the business is at a 25% premium to its asset
+value. The chain invested in attractive local markets and achieved a
+competitive advantage in merchandise selection and customer service,
+including a thriving e-commerce platform. Management is confident
+that it can identity perhaps another 150 locations that will duplicate
+the advantages of the existing stores, so it develops a plan to open
+these stores over the next three years. From a strategic standpoint,
+the expansion looks like a clear winner, though management needs
+to confirm this by evaluating the profitability of the growth strategy.
+Let’s assume the average capital commitment per store is $2
+million. In total, the company will invest $100 million of capital expenditures
+per year, and, for simplicity, we assume that the company forecasts
+that the revenue run rate will be flat after each store is opened.
+Once all the stores are open, they are expected to deliver $300 million
+in new revenue with a 20% EBITDA margin, to have a 21% corporate
+tax rate, and to use net working capital (mostly inventory) equal to
+25% of annual sales. All investments have a 10-year depreciation life,
+and the operations are expected to continue for two years after the
+assets fully depreciate on the accounting books, with no terminal
+value in the net present value calculation.
+The net present value of free cash flow for this investment program
+is quite positive, equaling 24% of the peak investment of free cash
+flow. So, by most measures, these are truly desirable investments. It’s
+like investing $100 each year in order to buy something worth $124.
+But the cumulative free cash flow breakeven point does not occur
+until year nine, as shown in figure 49, which may serve as a deterrent
+to management’s pursuing the investment program.
+(400)
+(300)
+(200)
+(100)
+0
+100
+200
+300
+400
+500
+600
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Cumulative Free Cash Flow ($ millions)
+Figure 49—Cumulative Free Cash Flow from Three-Year Expansion
+On an annual basis, free cash flow doesn’t turn positive until year
+four, as shown in figure 50. This is really not a problem, but these days
+many investors, analysts, and journalists often misuse the concept
+of “free cash flow,” treating it as a suitable period measure when it
+clearly should not be. Some even talk about free cash flow yield, as
+if that were a meaningful measure. The lower a company’s growth
+prospects, the lower the valuation multiple; and the less it invests,
+the higher the free cash flow. So, this maxim goes, if you don’t invest
+and therefore you don’t grow, you can achieve a high free cash flow
+yield (high free cash flow divided by a low share price).1 It’s hard to
+think of a measure with more potential for misleading investors! The
+point is that if a company is determined to tell its investors that it
+is improving annual free cash flow, this investment would definitely
+be shelved, since it would reduce annual free cash flow for three full
+years and cumulative free cash flow for nine years. Figure 50 shows
+the annual cash flows from this three-year investment program.
+(150)
+(100)
+(50)
+0
+50
+100
+150
+200
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Annual Free Cash Flow ($ millions)
+Annual Free Cash Flow
+Figure 50—Annual Free Cash Flow from Three-Year Expansion
+In fairness, far more companies examine the rate of return
+on the invested capital profile for new investments than they
+consider free cash flow profiles. And this is good, since rate-ofreturn
+measures are designed to indicate capital productivity
+by dividing a measure of current profits (or cash flow) by the
+cumulative amount of net (or gross) investment that is used to
+deliver those profits (or cash flow). This is a proper comparison,
+but in the three-year new store investment case we have been
+examining, the rate of return on invested capital does not rise
+above the 8% cost of capital until year five, when the return on
+invested capital reaches 8.8%. So, if management seeks to deliver
+returns above the cost of capital, they have to wait for the results.
+This is viewed as a long-term investment that takes time to pay
+off. And this is so, despite the simplifying assumption that each
+store delivers full run-rate revenue in year one of the investment.
+In reality, the revenues may ramp up more gradually and the rate
+of return may not exceed the cost of capital until much later in
+the duration of this investment program. Figure 51 shows the
+rate-of-return profile.
+8.8%
+31.6%
+43.9%
+52.7%
+52.7%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+20%
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Return on Invested Capital vs. Cost of Capital
+Return on Invested Capital Cost of Capital
+Figure 51—ROIC from Three-Year Expansion
+In addition to the delay in achieving a rate of return on capital
+above the cost of capital until year five, the rapidly depreciating
+asset base provides its own bias, and the returns keep increasing
+aggressively after surpassing the cost of capital and are above 30%
+for the final four years of the forecast. Note, too, that the revenue
+and EBITDA in this example are absolutely flat from year three
+through year 12, and yet the depreciating asset base drives rising
+returns that give the illusion of tremendous ongoing value creation
+in those years. With any kind of ongoing EBITDA growth, even
+from inflation, this artificial upward drift in rates of return would
+become far more dramatic. It is easy, then, to see how a rate-of-return
+focus using traditional rates of return can encourage managers to
+(1) milk old, depreciated assets since the returns look great and (2)
+avoid making new investments, because it takes so long for them
+to drive returns above the cost of capital.
+This conventional accounting treatment is a big reason that many
+companies are underinvesting. Management teams are right to care
+about earning adequate returns on capital but are using an approach
+that makes new investments look bad and old investments look good,
+which leads to demonstrably lower investment.
+In one extreme case, a large consumer products company seemed
+to be underinvesting in its businesses with the highest rates of return
+on capital. When prodded to consider allocating more to these businesses,
+executives said they would “love to,” but the business-unit
+management had been unable to identify any additional desirable
+investments. That was attributed to a lack of market growth coupled
+with a reasonably high market share, though other business units
+in similar situations were able to find desirable investments in brand
+extensions and permutations. Further discussions uncovered the real
+problem: The business-unit management teams were paid incentives
+based on the percentage improvement in return on capital.
+In some businesses, the existing return was 3% or 4%, so finding
+investments that earned a higher return, and would therefore bring
+up the average, was relatively easy. But for the very highest-return
+businesses, which were earning cash-on-cash rates of return of
+30% to 50%, it was harder to find new investments earning returns
+above the current return. And any investments earning less than
+the current return would result in lower bonuses for management,
+since they would drag down the average return. The emphasis on
+rates of return seemed careful and wise—yet it led to substantially
+less-than-optimal investment in the best businesses. And in an odd
+paradox, one part of the business was encouraged and financially
+rewarded for investing in projects earning 6%, while others were
+discouraged and financially penalized for investing in projects earning
+30% (five times the return!).
+EVA, as well as all traditional economic profit measures, in
+fact, was intended to improve the balance of growth and return
+by determining the dollars of profit above a minimum acceptable
+return, or capital charge, on the investment base. Though this is
+better, EVA suffers from the same depreciation distortion as traditional
+return on capital; it takes five years for EVA to turn positive
+in our example, as shown in figure 52.
+Much like return on capital, the strong EVA doesn’t show up
+until the assets are more than halfway depreciated—again reinforcing
+the milking of old assets and underinvestment in new assets.
+EVA is better than a percentage return on capital measure, but it
+is still flawed.
+$2.1
+($5.0)
+$0.0
+$5.0
+$10.0
+$15.0
+$20.0
+$25.0
+$30.0
+$35.0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Annual EVA ($ millions)
+Figure 52—EVA from Three-Year Expansion
+Some may wonder, “Why the heavy emphasis on how long it takes
+the results to show up?” If we are telling managers to think long-term,
+shouldn’t NPV settle the question? Simply take all positive-NPV projects
+and reject all that are negative. Unfortunately, we live in a world where
+there are annual performance measures, and even quarterly metrics
+matter a whole lot to managers. Therefore, finding a measure that
+provides a similar NPV signal but that spreads the benefits out more
+evenly over the life of an asset will encourage more good investment,
+since managers won’t have to wait for results due to depreciation distortions
+while still they’re being held accountable for delivering returns.
+Residual Cash Earnings properly balances growth, margin, and
+asset intensity while also spreading the benefits over the life of the
+investment, as figure 53 demonstrates.
+Through the RCE lens, the results appear desirable sooner and are
+spread out more evenly over the life of the investment. We won’t get
+to incentive design until chapter 14, but it’s easy to see that if we pay
+managers to improve performance compared to the prior year, then
+measures such as free-cash-flow, rate-of-return, and EVA would likely
+lead to this investment proposal’s being turned down. RCE, however,
+encourages such investment.
+$14.7
+$0.0
+$5.0
+$10.0
+$15.0
+$20.0
+$25.0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Annual RCE ($ millions)
+Figure 53—RCE for Three-Year Expansion
+In the context of this chapter, the important point of all this is
+that the primary analytical framework for investment evaluation
+and approval should be the very same RCE framework that is best
+for evaluating the ongoing performance of the overall business.
+Much like when using discounted cash flow analysis, a forecast is
+prepared; from it we calculate Gross Cash Earnings, Gross Operating
+Assets, and RCE year by year. Then we calculate the net present
+value of the forecasted RCE. Because of the way RCE works,
+these NPVs tend to be a bit higher than traditional NPV, which
+in practice means that managers don’t need to create unrealistic
+hockey-stick forecasts to get their projects approved.
+In addition to applying RCE to individual investments,
+managements require a methodology for comparing investments,
+prioritizing them, and ultimately making investment
+decisions. As mentioned before, corporate finance theory states
+that companies maximize value when they accept all projects with
+a positive NPV. But, in practice, managements should establish
+minimum criteria for what is “enough NPV to be worth it.” This
+can be established based on an RCE Profitability Index (RPI),
+which is simply the NPV of RCE as a percentage of the peak
+investment, or in other words the amount of value created per
+dollar of investment. Using such an index, projects can then be
+ranked and prioritized based on this profitability index. This
+way, the portfolio of investments selected for implementation
+will maximize the value-creation potential, given the size of the
+total investment budget. If other limitations are in play, such as
+having a minimal number of project managers for implementing
+investments, the best NPV strategy will be the one that delivers
+the most NPV while fitting within the constraint.
+The typical approach to prioritizing investments is to use the
+internal rate of return, or IRR, but four major flaws affect this
+approach. The first is that, if a project has cash flows that flip direction
+more than once, there will be multiple IRR solutions. Which
+one do you use? The marketing team likely emphasizes the higher
+IRR, while the finance folks care about the lower IRR. The second
+flaw is that projects with different durations can have the same IRR
+and yet very different net present values, which can lead to poor
+prioritizations and underperformance. Third, IRR also assumes
+that cash in-flows are reinvested at the IRR, while NPV doesn’t.
+Finally, IRR doesn’t indicate the dollars of value creation, whereas
+NPV does. This is important when thinking about prioritization
+under constraints, such as a limited number of managers or a fixed
+capital budget, because only NPV can be used to optimize value
+optimization.
+The project duration limitation on IRR came into play recently
+when the CEO of an oil and gas exploration and production
+company was considering rates of return from wells with varying
+reserve lives and production capacities. In some regions, the annual
+returns were high, but the reserves didn’t last very long—sometimes
+only two to three years before production faded. In other
+areas, natural geological formation created reserves that produced
+at a slower rate, but for a longer period. So, the peak returns in
+these reserves were not as high, but they lasted much longer. The
+IRR framework is particularly poor at properly comparing these
+different investment options. Instead, we recommend using the
+RPI, which indicates the amount of value created, per dollar of
+investment, regardless of the combination of IRR and duration
+expected, and can therefore be better used for prioritization.
+The RPI is a highly intuitive metric. For just a moment, forget
+everything but three pieces of information about an investment.
+We know the expected NPV, the amount of investment, and the
+ratio of the two (which is the RPI percentage). Consider an investment
+of $50 million with an NPV of $25 million—the RPI is 50%.
+Essentially you are paying $50 million to buy something worth
+$75 million, giving you a net profit, or net present value, of $25
+million. Let’s imagine this is an acquisition and these numbers are
+based on your review of the company before any discussions. Let’s
+assume we need to pay a 20% premium to get the deal closed. Now
+the purchase price rises to $60 million, the NPV is $15 million, and
+the RPI drops from 50% to 25%. Half the benefit is gone.
+Let’s further assume that, after discussions begin—and then
+become public through the loose-lipped investment banker you
+mistakenly chose to use—other potential buyers show up. After
+some public bidding, the market price rises to $68.2 million, and
+it looks like the RPI will be 10% ($6.8 million divided by $68.2
+million). We are rapidly losing ground as the purchase price rises
+and the value received stays the same. In many deals this is where
+the buyer “finds new synergies” to somehow convince itself the
+value is over $75 million. Lesson learned: Try to avoid justifying
+higher prices by changing the numbers that drive your estimate of
+the value you are getting. Except in rare cases, people do this to
+make themselves feel better. Most often, they feel much worse later.
+Now, say the deal arouses the interest of a few private equity
+firms that realize the target company is in play and can support a
+lot of debt, so they make a bid. You stick with your plan and are
+determined to buy this company. After all, you told your board
+it’s “strategic.” A few rounds of posturing and bidding go by, and
+the price reaches $71.4 million. It continues to rise, and ultimately
+you pay $73.5 million, which makes for a 2% RPI. Of the initial $25
+million of NPV, 94% of it was yielded to the selling shareholders
+during negotiations.
+This could still turn out to be a good deal, but after the acquisition
+closes and you begin to integrate, you would have a fairly
+small margin of safety before the NPV drops to zero and then turns
+negative. If, in the end, the synergies are a bit less than expected
+and additional investment is needed to achieve them, the value you
+get could be much less than the originally estimated $75 million.
+Let’s assume it is only $70 million. Unfortunately, you paid $73.5
+million, so the negative NPV of $3.5 million results in an RPI of
+–4.8%. Bottom line: It’s worth less than what you paid.
+Note that, if the deal went through at the original $60 million,
+which was a 20% premium to what the company traded for before
+any deal discussions, there would have been enough margin of
+safety to more than absorb the unexpected synergy shortfall. The
+positive NPV would have been $10 million ($70 million minus $60
+million), which, when divided by $60 million, would result in an
+RPI of 16.7%. Despite all the due diligence we may do, we can
+never know for sure what will happen both inside the company we
+acquire and across the industry and the economy. We are always
+better off with a greater margin of safety, which, fortunately for
+us, can be quantified by the RPI.
+The most interesting and useful applications of the RPI become
+evident when we apply it to a portfolio of investments as a means
+of prioritizing them and making strategic choices. This could have
+been done in real time for each of the negotiation rounds in the
+deal above. As things unfolded, where did the acquisition stack
+up? This process can provide managers with a good, continuous
+feel for their “opportunity set,” which can help them know when
+to walk away and when to come back to the table.
+At the start of the planning process, a company or business
+unit should evaluate major potential investments to come up with
+a high-level RCE and RPI analysis. Then these investments can
+be prioritized from highest to lowest RPI. In figure 54, we show
+a group of 12 investments prioritized by RPI. The first seven are
+shaded darker, indicating they have an RPI with a desirable margin
+of safety. The next three are shaded lighter since, though they
+have a positive expected NPV, it’s not high enough to provide an
+adequate margin of safety against unexpected differences between
+the projection and the actual results. Put more simply, these investments
+aren’t expected to deliver enough NPV to be worth the
+effort and risk.
+The final two investments have negative NPV. Whereas we
+might be willing to make an investment with a slim RPI if it’s
+strategic, we should always avoid negative-NPV investments.
+RCE Profitability Index (RPI)
+Investment
+Good investments with RPI above the
+minimum Margin of Safety
+Positive NPV, but below
+the Margin of Safety
+Negative
+NPV
+Figure 54—Project Prioritization with the RCE Profitability Index
+Project Look-Backs
+Most companies lack a rigorous process for evaluating how their
+investments turned out after the fact, and those that do usually fail
+to apply it very consistently or effectively. To have an effective lookback
+process requires work at the time of the original investment
+evaluation. Before giving a go-ahead to authorize capital spending,
+the project managers should be required to establish how often and
+how a look-back will be done to validate the effectiveness of the
+investment. Measurable financial and nonfinancial criteria, including
+specific metrics, data items, and minimum acceptable readings, should
+all be established in advance to ensure that the data is captured and
+reviewed as needed. Deciding to do a look-back two years after the
+investment takes more effort, time, and cost than making it part of
+the process from the start.
+Since many companies develop discounted free cash flow models
+of net present value at the time of the investment, this is often the
+financial basis for a look-back. But beware—this approach can confuse
+good and bad progress by mixing investment and operating cash flows.
+Consider the cumulative free cash flow graph in figure 55. From a
+cumulative free cash flow perspective, this look-back seems to be better
+than was projected, since we are ahead of where we were expected
+to be. Unfortunately, this is not because the investments are turning
+out better than expected; it’s because the investment results showed
+lower revenue, revealed thinner margins, and were altogether so bad
+that the investment program was discontinued after only 40% of the
+capital had been invested. What we see here is a shortfall of investment,
+not a surplus of profits. We could construct another case that looks
+exactly like this, where all the investment happened but the profits
+were way higher than expected. From the cumulative or annual free
+cash flow alone, we can’t tell if this is a good or bad outcome.
+Cumulative Free Cash Flow
+Time
+Actual
+Original
+Forecast
++
+-
+Figure 55—Project Look-Back Cumulative Free Cash Flow
+Since RCE always compares the actual Gross Cash Earnings during
+a given period to the capital charge on the actual cumulative investment
+in Gross Operating Assets, there are no mixed messages. If RCE
+is higher, the investment project is doing better than planned, and
+vice versa. Figure 56 clearly shows that this look-back is for a project
+that is simply not good, which we would expect with lower revenue,
+tighter margins, and a discontinuation of the investment program
+after only 40% of the capital had been spent.
+The frequency and nature of look-backs tend to have an important
+impact on both the propensity to invest and the accountability after
+the investment. Companies that rarely do look-backs—or do them
+with a process that is fragmented, ad hoc, or inconclusive—often
+consider capital to be free and thus can be inadvertently supporting
+a culture of overinvestment. To avoid this, many managements
+clamp down on the investment budget at the center, which can shift
+the pendulum too far toward underinvestment. In addition, when
+the process is governed by control rather than economics, midlevel
+managers won’t feel accountable, and as a result it’s more likely that
+investments won’t be prioritized where they can do the most good
+but instead will be focused on the proverbial squeaky wheel.
+Residual Cash Earnings (RCE)
+Forecast Actual
+Figure 56—Project Look-Back RCE
+Look-backs can also be used to improve capabilities and recalibrate
+forecasts by analyzing and adjusting the assumptions that were originally
+made in projections. For example, did customers and competitors
+respond as we initially expected them to? In any case, be wary of
+focusing too much on differences between the forecast and the actual
+results. Some companies spend far too much time and money analyzing
+these variances to an updated forecast, as if they really mattered.
+One of the worst comments ever uttered in my presence, and my good
+friend John Ballow remembers it well, was “That was very profitable
+after the write-off.”
+Of most importance, though, is whether the investment in fact
+created value. If a project’s RCE contribution is positive, that’s good.
+If it’s large and positive, that’s even better. If after three years we
+calculate that project A has delivered cumulative RCE of $125 million
+but was originally projected to deliver $150 million, I might discuss
+the reasons why it fell short of the original forecast. Still, I’m going to
+be much happier with project A than with project B, which employed
+a similar amount of investment but produced only $25 million in
+RCE, even if that’s way ahead of the $15 million that was originally
+planned for project B. Results matter—not variances.
+Two important behavioral problems can arise from emphasizing
+variances rather than focusing on absolute RCE. First, too much
+focus on variances can lead people to sandbag their forecasts to be
+barely above the allowable margin of safety, so that they get their
+project approved and their performance looks better when the results
+come in. This degrades the information available to those making
+investment decisions. Second, criticizing the managers responsible
+for project A may cause them to think twice before proposing more
+high-RCE investments, and this may inadvertently prod those with
+the best investment opportunities to reduce their reinvestment rate.
+Notes
+1 In some cases, the definition of “free cash flow” is adjusted to only subtract
+ongoing and maintenance investments, and not to charge growth investments
+against the free cash flow measure. This makes the measure less bad, but it still
+is a poor period measure.

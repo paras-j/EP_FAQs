@@ -1,0 +1,109 @@
+
+In designing executive pay strategy for an uncertain 2021, boards must reconcile their recent compensation adjustments with both new and lingering pressures for change.
+
+By Jeffrey Greene and Riley Whately, Fortuna Advisors; Sharath Sharma, Ernst & Young
+
+Boards and executive teams should use the reset opportunity provided by the pandemic to take a fresh look at how well current incentives will drive value creation in the “new normal.” Rather than fall back into an undifferentiated pre-Covid-19 approach, leaders can turn incentive design and performance management into a true competitive advantage. Compensation consultants usually benchmark to “best practices” which, paradoxically, leads plans to be more alike than different, inhibiting competitive advantage. As a result, they draw from a common set of metrics that are unlikely to reinforce the agile decision-making and complementary behaviors required to thrive in the post-crisis era:
+
+• Allocating resources to balance current earnings with long-term growth
+
+• Innovating across products, services and business models
+
+• Building an ownership culture
+
+• Cultivating patient investors
+
+As CEO, Bob Iger thought outside the compensation box to build Disney+.
+
+When Bob Iger glimpsed the future of media and saw the growing importance of digital distribution, he knew Disney would need to spur development of its Disney+ streaming service to deliver long-term value. But he also knew that, in its infancy, Disney+ would be unable to produce the short-term profits of traditional distribution.
+
+This meant coaching his executives:
+
+“I want you to pay less attention to the business at which you’ve been very successful and start paying more attention to [Disney+], and by the way … it won’t make money for a while.”[1]
+
+But he also knew “intentionally taking on short-term losses in the hope of generating long-term growth requires no small amount of courage.” To overcome this, Iger suspended traditional compensation metrics in favor of an approach that better supported innovation. Here is how he describes his thinking:
+
+“In order to get them all on board, I not only had to reinforce why these changes were necessary, but I also had to create an entirely new incentive structure to reward them for their work … . We were asking them to work considerably more, and, if we were using traditional compensation methods, earn less. That would not work.” [2]
+
+The pandemic has found many boards changing their metrics, with the view that this is a one-time exogenous shock they need to accommodate. Conversely, some companies have prospered — mostly those that, through some combination of foresight and luck, were already building for a technology-driven economic reality they saw as five to 10 years away. Imagine if Disney had acted earlier to realign incentives and encourage a longer-term perspective on innovation investments. They might have thrived in 2020, rather than facing activist pressure to further accelerate their shift toward a digital content strategy. In that sense, the pandemic could be viewed not as a temporary shock to the current economy, but as a springboard to a future with different rules for success. If boards have this mindset, they will capture little value by reverting to business-as-usual metrics.
+Time for fresh thinking
+
+Unpredicted business performance in 2020 — both downside and upside — has disrupted executive compensation decisions for most companies. In designing incentives for an uncertain 2021, boards must reconcile their recent compensation adjustments with both new and lingering pressures for change.
+
+• Scrutiny on executive pay has reached new heights. During the crisis, companies made ad hoc changes to executive remuneration, laid off workers, rationalized suppliers and altered shareholder payouts. Compensation planning for 2021 will be done under an intense spotlight from these stakeholders as well as regulators, politicians and the press.
+
+• Elevated stakeholder expectations vie with investor priorities. Boards and management teams need to determine how to empower their organizations to address environmental, social and governance (ESG) concerns that include racial disparities, income inequality, climate change and supplier security. At the same time, shareholders continue to hold the power to replace the CEO or sell the company. According to a recent activism review by Lazard, “ESG will become a ‘Trojan horse’ to advance campaigns where management has failed to deliver sector-leading performance and ESG appears sub-par.”[3] Others see financial performance and ESG as more directly linked. Harvard Business School’s “impact-weighted accounts” research is designed to codify how companies affect society and the environment. In many industries they observed “a significant correlation between negative environmental impacts and lower stock market valuations.”[4]
+
+• Accounting-based metrics do not align with long-term value creation. Long-term value is created by earning a return greater than the opportunity cost of capital. Common incentive metrics like revenue growth, EPS (earnings per share), free cash flow and ROIC (return on invested capital) measure aspects of current performance but provide poor signals on long-term value. A viable long-term measure must account for the use of capital by subtracting a capital charge from earnings. It must treat investments in tangible and intangible assets similarly, consistent with the future value they create. Beginning around 1999, companies began spending more on intangible asset investments — such as software, databases, brands and proprietary know-how — than on tangible asset investments.[5] Since intangible investments are expensed and not capitalized — unlike investments in physical assets — financial statements reflect economic reality less and less. Figure 1 summarizes key weaknesses of common measures.
+
+Figure 1: Traditional metrics encourage short-termism
+
+• Traditional incentive structures confuse decision-making. This menagerie of individual metrics forces managers to make arbitrary choices in trading off future growth, current earnings and capital productivity — sometimes having to accept lower pay to do what they know is best for the business, which Bob Iger faced with Disney+. They receive unclear signals on where value is truly being created and destroyed in the portfolio, so they misallocate capital. And executives typically emphasize short-term efficiency over flexibility, resulting in brittle supply chains and overleveraged balance sheets — both of which have exacerbated the pandemic’s economic effects.
+Case study: Innovating executive compensation at Varian Medical Systems
+
+Decisions by Varian Medical Systems — a market leader in cancer radiation therapy — show how the investment community rewards companies with well-constructed incentives that depart from the status quo. In the mid-2010s, a sagging stock price led to investor criticism of R&D productivity. The executive team identified two primary causes:
+
+1. By emphasizing short-term earnings, their compensation plan discouraged investments in viable innovation projects with multiyear payoffs.
+
+2. Incentive structures tied bonuses to budgets, which rewarded business unit leaders for negotiating lower targets, i.e., “sandbagging.” This had the unintended consequence of making managers risk-averse, the opposite of what had driven Varian’s innovative culture for decades.[6]
+
+In late 2017, the compensation committee adopted new annual cash incentives by replacing both EBIT (earnings before interest and taxes) growth and revenue growth with a measure of economic profit called, “Varian Value Added” (VVA). VVA is a customized version of Residual Cash Earnings (RCE)[7] developed by Fortuna Advisors that makes three essential adjustments to after-tax operating earnings:
+
+1. VVA recognizes a charge for the cost of capital employed to encourage capital discipline, representing the first time the company used a capital productivity metric.
+
+2. R&D spending is treated as an investment in future value creation by adding it back to earnings and capitalizing it on the balance sheet as a non-amortizing asset with an eight-year life.
+
+3. Finally, VVA excludes depreciation, with the capital charge calculated on the value of gross assets; this removes the accounting distortion that leads companies to “sweat assets” to produce GAAP-based returns that increasingly diverge from cash earnings, and importantly, to miss the signals to reinvest in the business to rebuild assets and remain competitive.[8]
+
+Varian also removed the effects of budget variances from performance evaluation. Incentive compensation now depends on the change in VVA over the prior year, so management can focus on developing value-creating projects while rationally evaluating risks.
+
+How did the capital markets respond? In 2018, when Varian released its first proxy since implementing VVA, their new evaluation and reward program was applauded by Institutional Shareholder Services (ISS) and many of Varian’s investors. In the two years following implementation, revenue growth quadrupled, and the stock price rose 61% (Figure 2). In August 2020, the company announced it was being acquired for a 25% premium, reinforcing the value creation story.
+
+During Varian’s Investor Day in November 2019, CFO Gary Bischoping, described the benefits of VVA:
+
+“First and foremost, it drives extreme alignment with shareholders over the right time horizon … [I]t drives that sense of ownership culture … [Y]ou have to think about how you make investments today that are going to drive results in years 3 to 10, not just next quarter or next year.
+
+Second, it aligns decision-making into one metric … sometimes you’ll hear other people talk about return on invested capital … profitability … growth. The nice part about VVA is that it … distills it all down into one metric … . And that singularity helps you in decision-making. That’s part of how we decided to walk away from the Sirtex [acquisition] transaction.[9]”
+
+Figure 2: New incentives help transform results at Varian Medical Systems
+Redesign incentives for the new normal
+
+Applying lessons from Varian’s successful performance management transformation can help turn the adversity of 2020 into 2021’s opportunity. Reactions to the pandemic have already created dislocations in the annual compensation cycle. Executives should take concrete steps to capture the potential advantages from moving beyond a traditional incentive structure: consistent decision-making across the enterprise, supported by an ownership culture that motivates the right behaviors.
+
+• Decouple performance targets from plans and budgets. Separating target-setting from operating plans avoids stressful, zero-sum negotiations that impede the flow of information between management and the board. This removes the temptation to sandbag budgets that understate potential and discourage experimentation — as the Varian case study demonstrates. The dialogue around planning and budgeting can then focus on setting aspirational goals and teaming to achieve them.
+
+• Choose metrics that provide clear signals for long-term value creation. Using a streamlined, cash-based version of economic profit incorporates the long-term value of P&L (profit & loss statement) investments, as Varian did with R&D. To measure alignment between CEO pay and company financial performance, proxy advisory firm ISS recently replaced GAAP-based metrics in favor of an early form of economic profit: economic value added (EVA) — in recognition of how accounting numbers can diverge from useful incentive targets.
+
+• Shape your culture to encourage everyone to act like long-term, committed owners. Culture determines how well the CEO’s key strategy decisions align with the thousands of organizational choices needed to implement them. The right behaviors emerge when culture, processes and metrics are aligned, rather than from top-down command and control. Senior executives who lead by example and embrace an ownership mindset help operators feel the same accountability to shareholders as the C-suite.
+
+• Embed stakeholder value in shareholder value. Using incentive design to enable a long-term view also nicely resolves the apparent tension between stakeholders and shareholders. Viewed over several years, returns from investing in employee training, supplier stability and sustainable manufacturing easily outweigh any negative short-term EPS effects. A recent study by Fortuna Advisors and Chief Executives for Corporate Purpose (CECP) highlights that firms with strong corporate purpose deliver ROIC six percentage points higher than peers, and four times higher TSR.[10]
+
+• Align investor communications with your new value story. Investors need to thoroughly understand the benefits and implications of your new approach to performance management and believe in it. By fostering transparency and credibility, companies can attract the right kinds of shareholders for their value story. Doug Giordano, Senior Vice President, Business Development at Pfizer, explains how investor credibility enables management flexibility — a critical asset in confronting all the uncertainties of the post-pandemic recovery:
+
+“If investors see you as prudent stewards of capital and you’re actually beginning to reap some current benefit from past investments, they will give you more of an opportunity to invest for the long term. If you start to lose that credibility, investors are going to want their money back sooner, in the form of dividends and repurchases.”[11]
+
+Given the significant potential to improve TSR performance through better incentive structures, we anticipate more third-party interventions by activist shareholders, hostile acquirers and private equity funds that include incentive redesign as part of their investment thesis. Since this is an important lever of value creation, it’s best to live by the motto: if you don’t do it, someone else will.
+
+The views expressed in this article are those of the authors and do not necessarily reflect the views of Fortuna Advisors LLC, Ernst & Young LLP or other members of the global EY organization.
+
+[1] Robert Iger, The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company, Random House, 2019, Chapter 12.
+
+[2] Ibid.
+
+[3] “Review of Shareholder Activism – Q3 2020,” Lazard, October 2020, page 17.
+
+[4] Ronald Cohen and George Serafeim, “How to Measure a Company’s Real Impact,” Harvard Business Review, September 3, 2020. Available at: https://hbr.org/2020/09/how-to-measure-a-companys-real-impact.
+
+[5] Michael J. Mauboussin and Dan Callahan, “One Job: Expectations and the Role of Intangibles,” Morgan Stanley Investment Management, September 15, 2020, page 4.
+
+[6] To learn more about Varian’s transformation, see: J. Michael Bruff and Marwaan Karame, “How One Company Drives Ownership Behavior to Innovate and Create Shareholder Value: The Case of Varian Medical Systems,” Journal of Applied Corporate Finance, Volume 32 Number 2, Spring 2020.
+
+[7] For a discussion of RCE, see: Gregory V. Milano, “Beyond EVA,” Journal of Applied Corporate Finance, Volume 31 Number 3, Summer 2019.
+
+[8] Gregory V. Milano, “Be Cautious About ‘Sweating Your Assets,’” CFO, October 16, 2017. Available at: https://fortuna-advisors.com/2017/10/16/be-cautious-about-sweating-your-assets/
+
+[9] Varian Investor Day 2019 transcript, November 15, 2019.
+
+[10] Gregory V. Milano, Brian Tomlinson, Riley Whately and Alexa Yiğit, “The Return on Purpose: Before and during a Crisis,” CEO Investor Forum, October 21, 2020. Available at: https://ssrn.com/abstract=3715573.
+
+[11] Jeffrey R. Greene, et al, The Stress Test Every Business Needs: A Capital Agenda for confidently facing digital disruption, difficult investors, recessions and geopolitical threats, by John Wiley & Sons, 2018, page 44.

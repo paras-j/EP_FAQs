@@ -1,0 +1,698 @@
+ODDS ARE, WHEN Mick Jagger and Keith Richards wrote the
+line “you can’t always get what you want,” they weren’t thinking
+about the relationship between executives and their shareholders. The
+difference between the expressed demands of investors and what they
+value, based on their actions in the stock market, probably wasn’t top
+of mind for Mick and Keith when they went on to write: “if you try
+sometimes, you just might find, you get what you need.” But as it
+turns out, these transgenerational lyrics convey an important message
+that executives should embrace.
+Corporate leaders must determine the performance measures
+that, when improved, will drive shareholder value higher over time.
+They must relentlessly pursue improvement in these measures even
+when the strategies and tactics required to lift the chosen measures
+appear to conflict with what their investors claim to want. That’s
+right: Like the rest of us, shareholders don’t always know what’s in
+their own best interest. So, for corporate management to do the best
+job possible, they must give their owners what they need, which may
+not always be what they think they want.
+The anthropologist Margaret Mead once remarked, “What people
+say, what people do and what they say they do are entirely different
+things.”1 To recast this phrase for our purposes, “It’s better to go by
+what investors do than what they say.” There is an abundance of
+rhetoric on how performance influences share prices. Every corporate
+executive is subject to a continuous barrage of often misguided
+viewpoints and undue pressures, with their shareholders frequently
+expressing their opinions about the strategies and tactics they themselves
+believe will lead to a higher share price. But many investor
+demands are completely, or at least largely, at odds with what extensive
+capital market research demonstrates actually drives a share price
+higher over time. What are executives to do?
+A chief executive scarcely faces a more important managerial
+policy decision than establishing the performance measures for rewarding
+performance throughout the company. It is said that “what gets
+measured gets done,”2 and my experience has shown this to be an
+understatement. That motto should actually read: “what gets measured
+gets extremely aggressively done.” Executives must consider the behaviors
+that their metrics encourage and must ensure consistency between
+what they incentivize and what they want accomplished. If the strategy
+involves innovation, market share expansion, and substantial revenue
+growth, yet the performance measures motivate only price hikes, cost
+efficiency, and capital productivity, then the company won’t be innovative—
+and it won’t win market share or deliver substantial revenue
+growth. You get what you pay for, to coin a phrase.
+Unfortunately, almost all performance measures are imperfect
+when used in isolation. Since most individual metrics represent only a
+piece of the performance measurement puzzle, at times such measures
+will decline, due to positive events, or increase, as a result of poor
+performance. These measurement shortcomings often stem from
+using metrics that overlook important benefits of corporate investment.
+Using such incomplete measures to evaluate performance is
+akin to squeezing one side of a balloon—the air is simply displaced,
+leaving a distorted view.
+Such measures pose the risk of motivating decisions that are
+liable to undermine both performance and share value. Many
+companies maintain tight managerial controls to restrict precisely
+the kinds of behaviors these incentives can encourage. It seems
+crazy, not to mention incredibly inefficient—instead, why not use
+measures that more reliably go up when good things happen and
+go down when bad things happen? Defining such measures may
+seem easier said than done, but it really can be accomplished.
+And when such better measures are implemented, then we can
+get rid of the excessive controls—and let the incentives motivate
+the right behavior.
+For example, revenue growth is in most cases a significant driver
+of long-run value and, to some observers, more growth may always
+seem to be an unambiguous indicator of success. But would a narrowminded
+focus on revenue growth encourage managers to terminate
+a business relationship with a very unprofitable customer? Such an
+action can preserve value even as revenue declines, by halting the
+destruction of value. Or, in another situation, consider a potential new
+product or service being sold at such a large discount that the resulting
+revenue doesn’t even cover the variable costs involved in delivering
+it. An incentive driven purely by revenue growth may encourage the
+sale, but it would destroy value. Yes, revenue growth is extremely
+important, as will be extensively discussed later, but companies that
+emphasize revenue growth above all else are likely encouraging valuereducing
+behaviors.
+Most long-serving executives recognized these shortcomings of
+revenue growth decades ago. Many began measuring profit, so only
+profitable growth was pursued. Problem solved? Not exactly…. It
+turns out that the unfettered pursuit of profit growth can encourage
+heavy investments that do deliver profit but not enough to cover
+the required return, meaning the cost of capital, of the investments.
+Managers can gather capital from lenders and equity investors; and as
+long as the investments they make generate enough cash flow to cover
+the depreciation and interest expense, profit increases. And if they
+reinvest retained earnings, there isn’t even any interest—they simply
+have to cover depreciation to improve profit. As would be expected,
+companies emphasizing profit alone tend to overinvest, particularly in
+very low-return investments. They wind up carrying a much heavier
+load of assets and capital, which can end up dragging down their share
+price—like a runner weighed down by a sack of potatoes.
+To be fair, many executives realize that an excessive focus on profits
+leads to bad motivation. But rather than improving the measure to
+make it more complete and so eliminate the bad incentives, they put
+in place tight policies and procedures to constrain capital investment.
+They push down “required assumptions” and forecasts, they establish
+unrealistically high hurdle rates, and they impose a general atmosphere
+of skepticism to make investments proposed by their business units
+and operations appear less desirable. This way, they can control their
+organization’s insatiable appetite for new investments and can limit
+total capital spending within what seems to be a reasonable overall
+capital budget, often set based on an arbitrary percentage of sales.
+But I digress….
+The profit measure that gets the most attention is earnings per
+share, or EPS. Put simply, EPS is the net income of the company divided
+by the number of shares outstanding. For over 20 years I’ve said that,
+paradoxically, EPS would be a much better performance measure if
+nobody knew we were measuring it! But instead, it’s the measure
+that is most watched, most discussed, most estimated, most analyzed,
+and, unfortunately, most managed. Every business or financial television
+and radio program, and every financial newspaper article, talks
+about EPS. Brokerage analysts, as is their wont, estimate future EPS,
+and many investors and commentators wrongly view the analysts’
+consensus as a prediction of the future. When quarterly earnings are
+announced, everyone looks to see if actual EPS “beats” the consensus.
+The headlines read, “XYZ announced earnings today and fell short
+of consensus EPS by $0.03”—and everybody shudders.
+Are there problems with EPS? Let me count the ways. First, the
+net income used to determine EPS is based on the accrual accounting
+rules in generally accepted accounting principles, or GAAP. As any
+corporate manager could tell you, GAAP rules are readily massaged
+by setting up or releasing reserves for potential liabilities, such as
+inventory losses, doubtful accounts receivable, or future expected or
+potential warranty exposures.
+Second, net income can be “protected” by managements that
+occasionally—or not so occasionally—take extraordinary charges
+to set up restructuring reserves that are later used to shield earnings
+from costs. And these restructuring charges are often excluded
+by management and investors who look at “adjusted” EPS. If EPS
+could somehow be insulated from both arbitrary reserve accounting
+and this so-called “big bath” accounting, it would be a much more
+reliable measure.
+As Warren Buffett wrote in his 1988 annual report, “Even honest
+and well-intentioned managements sometimes stretch GAAP a bit in
+order to present figures they think will more appropriately describe
+their performance. Both the smoothing of earnings and the ‘big bath’
+quarter are ‘white lie’ techniques employed by otherwise upright
+managements.” Buffett went on, “Then there are managers who
+actively use GAAP to deceive and defraud. They know that many investors
+and creditors accept GAAP results as gospel. So, these charlatans
+interpret the rules ‘imaginatively’ and record business transactions
+in ways that technically comply with GAAP but actually display an
+economic illusion to the world.” Bear in mind that Buffett wrote
+these words more than 30 years ago, and they are as true today as
+they were then.
+Third, GAAP requires that R&D investments be charged as annual
+expenses against EPS. Unless all the benefits of R&D are expected
+during the fiscal year, such expensing would distort EPS and reduce
+the usefulness of the measure. Companies that invest heavily in R&D
+tend to show lower EPS, while companies that are rapidly increasing
+their R&D spending typically show lower EPS growth or, in extreme
+cases, even a decline. The same logic applies to brand-building advertising,
+but since the disclosure of such investments is less consistent
+than for R&D, it is harder to evaluate the effects.
+One company with heavy R&D investments that are rapidly
+increasing is Amazon.com. In 2003, Amazon’s spending on technology
+and content—generally considered R&D3—was $257 million, a
+sizeable investment. It increased to $1.7 billion over the next seven
+years through 2010, for an astounding annual growth rate of 31%
+per year. Many companies reduce their rate of investment once they
+achieve scale, but no siree, not Amazon! Over the following seven
+years, through 2017, Amazon’s R&D jumped every year, reaching a
+whopping $22.6 billion in 2017, for a 44% annualized growth rate.
+The company increased R&D at a rate never seen before for such a
+large company. And in 2017 its R&D investment was fully 7.5 times
+its net income.
+Amazon is a particularly interesting case because of the large gap
+between its profitability and share price. Because of this, considerable
+skepticism has been expressed about its high valuation. But as I just
+pointed out, GAAP earnings provide a distorted picture of a company’s
+true “earnings power” whenever large and increasing investments
+in R&D are expensed as if the benefits were expected to be entirely
+realized in the current year. In Amazon’s case, the benefits are more
+likely to be spread out over several years, if not decades. Later on in
+this book, we will show that Amazon has likely been appropriately
+valued using a performance measure that more thoughtfully accounts
+for the company’s unconventionally high R&D expenditure. But in
+the meantime, back to the pitfalls of EPS.
+The flip side of this observation that heavy R&D can make earnings
+an unreliable guide to value is that companies can manage EPS
+by “managing” R&D. If they think they may have trouble hitting
+consensus EPS, they can cut a few R&D programs and, ipso facto,
+they meet the consensus. Never mind that they may have sacrificed
+their future to meet a quarterly performance target…they hit the
+target! If R&D and brand-building advertising were treated by GAAP
+as a capital investment rather than an expense—and thus in the same
+way as corporate investments in property, plant, and equipment—EPS
+would be a much more reliable measure.
+A fourth problem with EPS relates to the share count, a.k.a.
+the denominator in determining EPS. It’s true that many investors
+view “per-share” measures as being of great importance, since they
+can relate them to the per-share price. Any increase in shares dilutes
+the EPS, while any decrease in shares tends to drive EPS accretion
+or increases. A strict focus on the share-count impact on EPS would
+suggest that dilution is bad, and that reducing the share count is good.
+Unfortunately for those who think this way, research by my colleagues
+and me shows that this logic is flawed. For example, companies that
+generate EPS growth by buying back shares to reduce their share
+count tend to have declining price-to-earnings multiples that reduce
+the potential share price benefit that accrues from shrinking the share
+count.
+A rising share count, typically resulting from issuing shares to
+raise funds for acquisitions or other growth investments, tends to be
+associated with higher share-price performance. The obsession with
+buybacks that has led the S&P 500 members to deploy $2.9 trillion to
+buy back their own stock over the five years ending in 2018 was fueled,
+in many cases, by a misguided emphasis on reducing share count to
+increase EPS. As with arbitrary reserve and “big-bath” accounting,
+if we could insulate EPS from financially engineered changes in the
+share count, EPS would be a much more reliable measure.
+After both EPS and operating cash flow, EBITDA (earnings before
+interest, taxes, depreciation, and amortization) is the third most-cited
+performance metric in the “management discussion and analysis”
+section of public companies’ annual financial statements.4 EBITDA
+was popularized by leveraged buyout (LBO) firms, and later on also
+by private equity firms, that had a business model of finding underperforming
+companies that had just finished large capital investment
+programs. For years the investment banking industry has also valued
+companies based on multiples of EBITDA. This approach may have
+been derived from free cash flow, which, when forecasted over time,
+is the basis for the discounted cash flow valuation model. Free cash
+flow, or FCF, is simply the cash generated less the cash invested back
+into the business. It’s what’s freely available to both equity and debt
+investors. Despite the insights derived from evaluating free cash flow
+over time, most financial folk realize that as a period measure of
+performance, FCF is deeply flawed. To maximize free cash flow in
+a single period, the majority of companies would be encouraged to
+simply stop investing in the future!
+An interesting example of this is provided by the case of Walmart
+from 1981 through 1996. Over this 16-year period, Walmart’s FCF was
+negative in all but one year—and it was only slightly positive in that single
+year. The company generated literally tons of cash (how’s that for a
+unit of measure?), but invested more than 100% of it in the future,
+increasing its store count from 330 to over 2,600 and exploding its
+growing total revenue from $1.7 billion to over $94 billion. Despite
+its persistently negative FCF, the company’s total shareholder return
+was more than 4,500% over the period. (Good thing it wasn’t trying to
+maximize free cash flow each year!)
+Investment bankers realize that profit measures are distorted
+by noncash charges, such as depreciation and amortization, so they
+use EBITDA in their multiples. Although the noncash charges do
+distort profit measures, the lack of adequate recognition of the cost
+of capital is even worse with EBITDA than for profit measures. If a
+company were to invest $100 million and realized only $1 of cash
+flow, EBITDA rises by—wait for it— $1. The cash flow doesn’t even
+have to cover depreciation or interest expense; any cash flow makes
+EBITDA increase. So, while EBITDA might provide useful valuation
+insights, it’s terrible as a period performance measure, and it encourages
+even more overinvestment than profit measures.
+The important thread connecting my preceding arguments is
+that revenue growth, profit growth, and EBITDA growth simply
+don’t recognize the cost of the investments required to produce such
+growth. And using FCF as a period measure exaggerates the cost of
+investment by expensing it all in the year of the investment, instead of
+gradually over time. So, the next evolution in performance measurement
+was tracking some form of profit or cash flow in relation to
+the cumulative investment that has been made, in order to realize the
+profit or cash flow. Thus, rate-of-return measures were conceived to
+combine the income statement, which reflects profit, and the balance
+sheet, which reflects investment.
+Rates of return are a significant improvement over measures that
+focus on revenue, profit, or cash flow alone. For the first time in this
+evolution of performance metrics, we have a means of trading off
+profit margin and asset intensity—two potential performance drivers
+that can at times be at odds with each other. Making an asset-intensive
+investment? That can be fine, as long as it will generate enough of a
+profit margin to maintain a decent rate of return. Have a low-profitmargin
+business? That can be fine too, as long as it uses very little
+capital. But whether asset-intensive or asset-light, businesses deserve
+the infusion of new investment funds only when they can generate
+an incremental profit margin that is large enough, in relation to the
+additional capital required, to deliver an adequate rate of return over
+time. Rates of return have revolutionized the process of managing
+a portfolio of different businesses by allowing comparisons across
+varying business models.
+Many rate-of-return measures can be used, including return on
+net assets (RONA), return on invested capital (ROIC), and return on
+equity (ROE). For a typical industrial company, RONA and ROIC
+are widely viewed as effective, because they measure the performance
+of the business without regard to the proportions that are
+financed by debt or equity. Yet for financial institutions, where all
+but the longest-term debt is considered funding debt, and the interest
+on that debt is akin to a cost of goods sold, ROE tends to be
+favored. Nevertheless, in each of these cases, the return measures
+allow tradeoffs between the income statement and the balance sheet
+that are not evident in the revenue, profit, and cash flow measures
+discussed above.
+All is not rosy with rates of return, though, because all rate-ofreturn
+measures are percentage measures. As such, they are measures
+of the quality of corporate investment only, but not the quantity of
+such investment. Would you rather invest $100 earning a 50% return
+or a million dollars earning 40%? This may seem like an academic
+question, but it’s highly practical. When it comes to creating value,
+size matters.
+Consider a management team with an annual incentive entirely
+based on improving ROIC. They have been very successful, they
+currently manage about $1 billion of invested capital, and they have
+increased their ROIC from 20% only five years ago to 40% during the
+year that just ended. Investors were undoubtedly impressed, and the
+share price performed well. Management, too, was paid well.
+They ponder whether to invest $250 million to acquire a smaller,
+privately owned competitor with considerable cost overlap. With
+a reasonable estimate of cost synergies, the acquisition will deliver
+a 30% return, quite a bit higher than the company’s 10% cost of
+capital. The acquisition seems valuable; but as management prepares
+to make the acquisition, the head of financial planning and analysis
+shares the table in figure 2 and points out that, after the acquisition,
+the returns of the consolidated company will be lower—so they
+will all be paid less.
+Current + Acquisition = Consolidated
+Net Operating
+Profit After Taxes 400 + 75 = 475
+Invested Capital 1,000 + 250 = 1,250
+Return on
+Invested Capital 40% 30% 38%
+Figure 2—Rate of Return Dilution
+Even though the acquisition is expected to deliver a high-enough
+return to create value for shareholders, it’s not as high as that of the
+base business. So, when it’s added to the mix, the average ROIC will
+decline. This decline in both ROIC and incentive pay could induce
+management to pass up this valuable acquisition that is expected to
+earn three times the cost of capital. If they choose to pursue the deal,
+either management will be paid less when ROIC declines, or they
+will negotiate new targets with the compensation committee. How
+do committee members distinguish when management is suffering a
+true, undeserved compensation shortfall from when they are simply
+trying to negotiate their way out of the consequences of poor decisionmaking?
+The negotiation process takes time, and while the haggling
+ensues, the target company is sitting there waiting for closure…or
+another suitor.
+Why not use a measure that better reflects when both good and
+bad things happen? We will get to that shortly, but before leaving the
+rate of return topic, it’s important to note that this all can happen in
+reverse, too—with potentially worse consequences.
+Consider another company, again with $1 billion in capital, earning
+merely a 5% ROIC. This may sound low, given the discussion
+above; but according to the S&P Capital IQ database, almost 50 of
+the nonfinancial members of the S&P 500 had a ROIC below 5% in
+2017—so this example applies broadly.
+If the company has a cost of capital of 10%, the management
+team undoubtedly realizes they are underperforming, so they are
+likely to focus on improvements, especially if the members’ incentives
+are tied to improving ROIC. Just as in the case above, this can lead to
+really awkward incentives.
+Consider a $500 million acquisition that management projects
+will deliver a 15% incremental return on invested capital, which is
+adequately above the 10% cost of capital. After some consideration,
+the board of directors approves the acquisition, and management
+closes the deal three months later. The announcement is well received,
+and management celebrates their anticipated success.
+Unfortunately, during the integration of the acquired company,
+it is discovered that a number of key managerial assumptions used
+in developing their forecast weren’t based on accurate information.
+Some buildings that had to be exited turned out to have higher than
+expected lease cancellation costs. Certain of the management information
+systems weren’t compatible with the acquirer’s systems. But
+the big one was the discovery that the main products sold by the
+acquired company weren’t faltering due to an inept sales and marketing
+program, as previously thought. There were actual product flaws
+in the eyes of the customers, and new market entrants were stealing
+market share almost effortlessly. The company still had a loyal base
+of customers, though the growth forecast prepared before the deal
+now morphed into, at best, a flat volume profile—despite the growth
+of the overall product market.
+As each unexpected obstacle to success was discovered, management
+lowered its forecast, and after several months they realized that
+what they thought would be a 15% return would be lucky to end up
+at 8%. For the first full fiscal year after the deal closed, that’s exactly
+what the acquired company contributed, and there didn’t seem to
+be much upside thereafter. The board of directors was frustrated
+and demanded a “look-back” into how such a debacle could happen.
+The stock price, which rose on the acquisition announcement, now
+floundered 15% below where it was before the deal—and this, despite
+a slight upturn in the overall market.
+With all this doom and gloom, the management team was disappointed,
+too. The CEO demanded that someone pay a price for providing
+misleading information about the upside prospects. He assured
+investors they would, in those immortal words, “get to the bottom
+of it” and “never make these mistakes again.”
+In an almost comic irony, despite the dreadful failure of the
+acquisition for the company’s owners, plus the rage from the board
+of directors, management actually made money on the deal. That’s
+right— their incentive plan actually rewarded the improvement in
+ROIC. Never mind that they got there by investing a huge sum in a
+failed acquisition or that the share price collapsed as the bad news
+poured forth.
+As shown in figure 3, although the deal woefully underperformed
+management’s projected ROIC and meaningfully underperformed
+the company’s cost of capital, the 8% ROIC on the acquisition was
+higher than the 5% they had before the deal. Even with all the problems
+encountered after closing the deal, it turns out that the acquisition
+was less bad than what the company was already doing. As a result,
+the average ROIC of the company’s investments, and thus its overall
+reported ROIC, both go up.
+Yet many observers would counter that the increase in the return
+on invested capital was in fact “good.” In a word—no. If we get money
+from our shareholders and lenders at a combined expected return of
+10%, and we invest at only 8%, we have destroyed value. It’s that simple.
+Current + Acquisition = Consolidated
+Net Operating
+Profit After Taxes 50 + 40 = 90
+Invested Capital 1,000 + 500 = 1,500
+Return on
+Invested Capital 5% 8% 6%
+Figure 3—Rate of Return Accretion
+Let’s use a simple example to prove this. Imagine that the $40
+million in net operating profit after tax (NOPAT) was sustainable. Many
+probably don’t remember this from their school days, but the way to
+determine the present value of a sustained, or constant, stream of
+numbers is to divide the annual amount by the discount rate, which
+for a company is its cost of capital. Thus, the present value of $40
+million repeated over and over is $400 million, or $40 million divided
+by the cost of capital of 10%. Note that the $40 million provides a
+10% annual return on the $400 million.
+OK, sorry to drag you through present value calculations, but
+here’s the punch line: The company paid $500 million to acquire a
+company worth $400 million. Not good—whether the acquirer had a
+return on capital of 40%, 10%, or even 5% before the deal, it’s never
+a good idea to invest $500 million to buy something worth only $400
+million. It destroys $100 million of value, and this is why the company
+faces a sagging share price. Despite all that, the management team
+earned higher bonuses!
+It’s true that management’s stock and option-based long-term
+incentives would decline because of the softness in the share price.
+But for reasons we will explore later in this book, managements
+typically focus more on their annual bonus than on their long-term
+incentives. So, don’t count on long-term incentives to overcome the
+disincentives of short-term bonuses. It’s better to align both longand
+short-term incentives by using more-thoughtful measures and
+incentive structures.
+True, it’s perplexing that the very essence of value creation is
+the ability to invest at rates of return above the cost of capital, yet
+measuring improvements in the return on capital can provide such
+ineffective signals on when to invest. For those still unsold on the
+fallacy of rate-of-return metrics, here’s one more way to see the
+problem.
+Consider what would happen if the two examples above were
+business units of the same consolidated company. One business
+unit is earning a 40% ROIC, and the annual incentive plan would
+penalize its managers for making an investment earning a 30%
+return. At the very same time, the other business unit managers
+would be rewarded with higher bonuses for investing at merely
+8%—and that’s madness! Why would we want to punish one group
+of managers for an investment earning 30% while rewarding others
+for investing at 8%?
+Does this sound like an archaic technicality that occurs once in
+a blue moon? I assure you that this seemingly odd quandary isn’t as
+rare as you may think—it’s happening right now across corporate
+America. Often, it’s hard to see. But for management teams that think
+internal processes are none of their investors’ business, they should
+know that curious investors, particularly activist investors, can learn
+a lot from the outside.
+For companies that publish segment financial information,
+it’s often possible to see what’s happening with publicly available
+data alone. If the company publishes revenue, profit, and assets by
+segment, a crude analysis will show which segments earn higher
+returns by simply dividing profits or cash flow by assets. This can then
+be compared to an assessment of which segments are showing the
+most revenue growth—is the company actually growing the higherreturn
+businesses? Or even better, we can look at capital expenditures
+as well as the change in assets each year, to see if the company is
+investing a greater percentage of segment profits back into growing
+the businesses that have delivered higher returns.
+To illustrate this, consider United Technologies (NYSE: UTX). For
+the five years ending in December 2017, the company reported four
+primary operating segments: (1) Otis, (2) UTC Climate, Controls &
+Security, (3) Pratt & Whitney, and (4) UTC Aerospace Systems. For
+each segment, the company reports revenue, gross profit, operating
+profit before tax, assets, depreciation & amortization, and capital
+expenditures. They also report some items under “eliminations &
+other,” as well as general corporate expenses. Investors can spend
+considerable time determining if these items should be allocated to
+the primary operating segments and, if so, how. For the purposes
+of this example, these items have been allocated proportional to the
+amount shown for each of the primary operating segments. In other
+words, if a segment were 20% of the assets shown for the primary
+operating segments, they would be assigned 20% of assets listed as
+eliminations & other. This is not precise, but it’s a decent first step
+and adequate for this illustration.
+For each primary operating segment, depreciation & amortization
+can be added back to operating profit to get a rough estimate
+of EBITDA. This can then be divided by segment assets to get a
+ballpark indication of the cash return on assets. Using this simplistic
+segment cash return measure, we see in figure 4 that over the last
+five years the Otis segment has averaged a 26% cash rate of return,
+while Pratt & Whitney has averaged only 9%, or about one-third of
+the rate of return.
+RETURN REINVESTMENT
+RATE
+United Technologies Segment
+Estimated
+EBITDA/ Assets
+CapEx/Estimated
+EBITDA
+Otis 26% 5%
+UTC Climate, Controls & Security 14% 10%
+Pratt & Whitney 9% 41%
+UTC Aerospace Systems 8% 19%
+Figure 4—United Technologies Segments
+We can evaluate the amount of investment in each business by
+examining capital expenditures as a percentage of the rough EBITDA
+estimate. This reinvestment rate metric (admittedly a bit primitive)
+has averaged 5% for Otis over the last five years, while Pratt & Whitney
+averaged 41%, or about eight times the reinvestment rate. This
+analysis is not precise, but no matter how we allocate the eliminations
+& other items, the story will not change. UTX invests a lot more in
+a lower-return business both on an absolute basis and as a proportion
+of the cash generated.
+This is not meant to criticize UTX. It could be that Otis has
+such a high market share and that it has very few adjacent business
+areas to enter, so there’s really nothing to invest in. And the Pratt &
+Whitney segment may generate benefits that show up in the rates
+of return in other segments. It’s easy to see, though, how such an
+analysis would help an investor, or especially a manager, know what
+questions to ask.
+This very real example illustrates the problems with rate of return
+measures. If Pratt & Whitney invested in projects expected to earn
+a 15% rate of return, its average rate of return would rise. But if
+Otis invested in those very same projects, its rate of return would
+decline. In other words, its 26% return would be diluted by blending
+in some 15% return projects. If the business unit managers were paid
+to improve rates of return, it’s easy to see how the reinvestment rate
+in Otis would be expected to be lower than in Pratt & Whitney, since
+Otis’s current higher performance effectively sets a higher hurdle
+rate for management.
+Investors typically have numerous clues available to assess the
+situation. For example, a review of the executive compensation section
+of the annual proxy statement will describe the measures that the
+compensation committee uses to reward management. Are they
+being rewarded for improving returns? A review of transcripts from
+earnings calls and investor presentations will offer additional clues
+on what management finds important. Sometimes they will come
+right out and say, “We have been searching for ways to invest in [our
+highest-return business], but thus far we cannot find anything that
+doesn’t dilute its high returns.” Bingo.
+We need a performance measure that recognizes the importance
+of rates of return without creating a disincentive to invest in and grow
+our high-return businesses. The principle of economic profit first
+appeared in the literature as long ago as the 1800s.5 The key performance
+drivers of revenue growth, profit margins, and asset intensity
+are brought together by economic profit into one tidy measure
+designed to signal whether a business is generating enough profit to
+overcome all costs, including the cost of capital. For those readers
+who have taken economics classes, the notion of economic rent means
+essentially the same thing.
+For about a century or so, the notion of “economic profit” mostly
+languished in academic textbooks and journal articles, with an occasional
+practical application in the business world. One such early use
+almost a hundred years ago was by Alfred Sloan, who gave his General
+Motors executives a share of GM’s “economic profit.”6,7
+Then, beginning in the 1980s, my former partners Joel Stern and
+Bennett Stewart, the lead founders of Stern Stewart & Co., developed,
+trademarked, and popularized a financial metric known as Economic
+Value Added,8,9,10 or EVA®. It is worth noting that Institutional Shareholder
+Services, the proxy and governance advisory firm that advises
+investors on how to vote on public company proxy votes, acquired
+Bennett Stewart’s company, EVA Dimensions, in 2018. So, companies
+should expect investors to exert more pressure to adopt EVA-like
+measures in the future. And, as my partner Marwaan Karame has
+explained,11 it’s also important that companies customize the measure
+to be suitable for their business model and accounting policies.
+To calculate EVA, one would start with the net operating profit
+after tax, or NOPAT, and subtract a capital charge based on the
+weighted average cost of capital multiplied by the amount of capital
+invested in order to produce the NOPAT. For example, consider a
+business with $1,000 in revenue, $700 in operating costs, and a 40%
+corporate income tax rate. There would be $300 of operating profit
+before tax ($1,000 – $700), and after subtracting $120 of tax ($300 Î
+40%), the resulting NOPAT would be $180. If the company deployed
+$1,500 to fund facilities, production capacity, and working capital,
+and if its weighted average cost of capital were 10% (isn’t it always?),
+then the company would have a $150 capital charge ($1,500 Î 10%).
+The EVA would then simply be the $180 of NOPAT less the capital
+charge of $150, or $30.
+With EVA, and its generic form of economic profit, huge advances
+were made over all the measures discussed previously. For the first
+time, we have a complete measure that captures growth, margin,
+and investment. And, importantly, EVA measures both quality and
+quantity. Eureka!
+To illustrate the power of EVA, we will use the same examples
+that confounded ROIC and encouraged investments at 8% while
+discouraging investments at 30%. Consider the high-return business
+that currently earns a 40% ROIC and is seeking to invest in a $250
+million acquisition that it expects to earn a 30% ROIC. The annual
+bonuses based on ROIC discouraged this, but what if bonuses were
+tied to improving EVA? As shown in figure 5, EVA would encourage
+this value-increasing investment.
+Current + Acquisition = Consolidated
+Net Operating
+Profit After Taxes 400 + 75 = 475
+Invested Capital 1,000 + 250 = 1,250
+Return on
+Invested Capital 40% 30% 38%
+Capital Charge at
+10% (100) + (25) = (125)
+EVA 300 + 50 = 350
+Figure 5—EVA Accretion
+Notice that EVA rises by $50 million when this investment is
+pursued. The EVA of the acquisition (the middle column) is equal
+to the change in EVA; it’s readily calculated with simple math, and
+much clearer than seeing how combining 30% with 40% yields a
+38% ROIC. Regardless of whether the existing business earned
+40%, 10%, or 5%, this new acquisition would add $50 million of
+EVA. Good is good.
+And the same works in reverse. The managers of the other business
+earning 5% that were rewarded by their ROIC-based bonus for
+making an investment earning 8%, a rate below the 10% cost of capital,
+wouldn’t be so fortunate under EVA. Indeed, they would see their
+annual bonuses decline whenever they invested at a rate of return
+below the 10% cost of capital, the minimum threshold for success.
+This can be seen in figure 6.
+Current + Acquisition = Consolidated
+Net Operating
+Profit After Taxes 50 + 40 = 90
+Invested Capital 1,000 + 500 = 1,500
+Return on
+Invested Capital 5% 8% 6%
+Capital Charge at
+10% (100) + (50) = (150)
+EVA (50) + (10) = (60)
+Figure 6—EVA Dilution
+In this case, EVA declines by $10 million and would do so regardless
+of what the acquirer’s business looked like before the acquisition—bad
+is bad. So, EVA restores a sense of sanity in that good investments
+increase the measure while bad investments reduce it. Remember that
+value is created whenever an investment is made that earns a return
+above the required return on the investment.
+Sadly, EVA is not flawless. To improve the measure relative to
+merely using reported figures in the calculation, Stern Stewart recommended
+making various adjustments to the accounting numbers.
+For example, it recommended adding back the bad debt reserve to
+accounts receivable and adding the change in the bad debt reserve back
+to NOPAT. Similarly, inventory valuation methods, warranty reserves,
+goodwill and intangibles, the loss on foreign currency translation,
+and pension expenses were all adjusted to reflect a more economic
+view on performance. The firm utilized economic depreciation rather
+than accounting depreciation in some cases to smooth the total cost
+of owning assets (depreciation plus a capital charge) over the life of
+the assets. And cash operating taxes replaced tax provisions, because
+they believed the cash payment was more important to investors than
+the tax provision on the accounting books.
+At times, EVA became overcomplicated. I can attest that, when
+I worked at Stern Stewart, we took great pains to make only the
+most important adjustments to accounting for each client, so that the
+measure would be more understandable. But in practice, the internal
+accounting and finance staffers would often insist on a more “pure”
+measure. Translation: It often became overly complicated. What
+seemed like performance measurement heaven turned out to be hell
+for many who were regularly confused about how to calculate and
+apply it in making decisions.
+The cynic in me thinks, at least in some cases, that the complexity
+was deliberately added by the accounting and finance comrades to
+help maintain their control and job security. Operating folks would
+be confused by the complexity and would have to turn to the finance
+intelligentsia to work out the numbers—what a shame. The idea was
+to give people transparent measures and a clear sense of how performance
+related to success. Complexity thwarted this noble goal, and
+the finance politburo maintained their control.
+For companies that were careful in their EVA implementation
+and comprehensive in their communication and training, the potential
+complexity problem could be overcome. It took me nearly a decade
+to notice another much larger problem with EVA, and the better part
+of another to find a solution to it. The problem: EVA discouraged
+investment in growth.12 Still, there is a way to fix it.
+Notes
+1 This phrase has been attributed to the anthropologist Margaret Mead. Teaching
+Music Through Performance in Band, vol. 3 (2000), edited by Richard B. Miles, Larry
+Blocher, and Eugene Corporon, p. 13.
+2 This quote has been attributed to Peter Drucker, Tom Peters, W. Edwards Deming,
+and Lord Kelvin, among others.
+3 Amazon doesn’t disclose R&D. Capital IQ puts the full technology and content
+amount on its R&D line, so this is the treatment I have used when evaluating
+the company, though I acknowledge this is imperfect.
+4 “Look Beyond EBITDA,” GBQ, accessed June 22, 2019, https://gbq.com/lookbeyond-
+ebitda/.
+5 Alfred Marshall, Principles of Economics (London: Macmillan, 1890).
+6 J. McDonald, A. P. Sloan, and C. Stevens, My Years with General Motors (New York:
+Doubleday & Company, 1972).
+7 Stephen F. O’Byrne, “Three Versions of Perfect Pay for Performance (or, The
+Rebirth of Partnership Concepts in Executive Pay),” Journal of Applied Corporate
+Finance 26, no. 1 (2014): 29–38.
+8 EVA is a registered service mark of Stern Value Management, Ltd. (originally by
+Stern Stewart & Co. in 1994) for financial management and consulting services
+in the area of business valuation, and is registered as a trademark by Institutional
+Shareholder Services Inc. (originally by EVA Dimensions LLC in 2008) for a
+number of uses.
+9 G. Bennett Stewart, The Quest for Value: The EVA Management Guide (New York:
+HarperBusiness, 1998).
+10 Joel M. Stern and John S. Shiely, The EVA Challenge: Implementing Value-added
+Change in an Organization (New York: Wiley, 2004). Incidentally, I wrote the book’s
+epilogue, on “EVA and the New Economy.”
+11 Marwaan Karame, “Prepare for This Pay-for-Performance Measure,” CFO.com,
+accessed December 4, 2018, http://fortuna-advisors.com/2018/12/04/preparefor-
+this-pay-for-performance-measure/.
+12 See Gregory V. Milano, “EVA and Growth,” EVAngelist, no. IV. EVAngelist is a
+publication produced by Stern Stewart & Co. for its clients. I was a partner at
+Stern Stewart when I wrote this article.

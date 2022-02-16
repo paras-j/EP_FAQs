@@ -1,0 +1,835 @@
+IN JANUARY 1992 I began working as an associate at Stern Stewart
+& Co., primarily implementing EVA. Over more than a decade I
+worked with more than one hundred companies in North America,
+Europe, Asia, and Africa. With each successive client came a stronger
+and more complete appreciation of EVA, not as a shiny, new
+performance metric but rather as a means of motivating managers
+to act more like long-term, committed owners.
+I was—and still am—convinced that EVA is far superior to the
+measures my clients were using before. As discussed previously, EVA
+combined revenue growth, margin, and investment in a new and
+practical way that helped companies implement better measures,
+more effective management processes, and enhanced incentives.
+Our goal was to change the mindset of managers, and it worked!
+Nearly all my clients significantly increased their recognition of the
+cost of capital and began treating their shareholders’ and lenders’
+capital more like their own money. The EVA management framework
+became popular, and by the late 1990s I was frequently invited
+to speak at conferences to explain EVA and talk about the cultural
+transformation I was helping to bring about.
+Back then, I often described the benefits of EVA as akin to those
+provided by a leveraged buyout (LBO), but without putting the
+company at risk. The mostly successful 1980s wave of LBOs had left
+an indelible mark on my thinking. Countless public companies were
+taken private with a sliver of equity and a mountain of debt. If you
+acquired a $100 million company with 10% equity and 90% debt, the
+upside was potentially enormous. If you could increase the company
+value by 10% to $110 million, the shareholders doubled the value of
+their investment to $20 million because the debt stayed fixed at $90
+million. If you doubled the value of the total company, the investors
+could realize a $100 million gain—10 times their investment!
+The ideal target was an undervalued, mature, and cash-generating
+company in a stable industry with management that somehow
+demonstrated an inability to control costs and capital spending. It
+seemed like cash burned a hole in managements’ pockets like a $20
+bill in a 17-year-old’s wallet—they couldn’t resist spending it.
+Imagine a hypothetical company that could generate $500 million
+a year in cash flow from producing and selling high-quality products.
+The stable cash flows insulated management from any sense
+of urgency. Over time, this destroyed whatever discipline might
+otherwise have existed, leading to ballooning costs that cut the $500
+million down to $400 million and to a penchant for capital spending
+on unneeded and wasteful property, plant, and equipment that
+consumed half the rest. The company was being valued in the stock
+market based on delivering $200 million of sustainable cash flow
+each year, when its real potential was $500 million. If the stock price
+was $20, it could have been $50, or more. The squandered potential
+resulted from management’s being too cozy to be concerned with
+continuous growth and improvement. The real eye-opener of that
+business best-seller Barbarians at the Gate1 was not the lengths to
+which KKR and its rivals were willing to go to gain control of RJR
+Nabisco, but rather the sheer waste of capital and value that was
+occurring “inside the gates” under CEO Ross Johnson. And RJR
+Nabisco could be viewed as just the tip of the iceberg in terms of
+the kinds of corporate largess being dispensed before LBOs helped
+rein it in. Suffice it to say, corporate airplanes probably shouldn’t
+have been used to transport the beloved family dog.
+Nothing lasts forever. Largely unbeknownst to the executives
+leading these wasteful cash cows, by the early 1980s Michael Milken
+had convinced a large group of investors that high-yield debt, or
+junk bonds, had higher yields than warranted by their actual default
+rates. This stimulated strong demand from investors for junk bonds,
+which in turn provided the fuel for LBOs.
+The demand by fixed-income investors for junk bonds made
+it easier to borrow outrageous sums with almost no equity at all.
+So private equity investors, such as KKR and Forstmann Little,
+borrowed all they could and embarked on a company-buying spree.
+It is estimated that some 2,000 LBOs valued at over $250 billion were
+completed in the 1980s. And the vast majority were successful for the
+investors. Often this success came with reduced employee numbers
+and slashed capital budgets, which in turn reduced employment in
+every mature U.S. industry with significant excess capacity, including
+oil and gas, retail, tires, banking, airlines, paper, construction,
+and financial services.
+The heavy debt loads taken on by LBOs not only instilled an
+urgency to drive cash flow, but had the effect, as Michael Jensen
+put it, of “making the cost of capital both explicit and contractually
+binding.”2 And putting this kind of pressure on management
+proved highly effective in eradicating wasteful spending, purging
+unnecessary capital investments, and instigating the sale of
+noncore and underutilized assets. The cash flow generated by these
+actions was typically enormous, which facilitated debt repayment
+and distributions to the private equity investors. These actions
+also tended to increase the eventual exit value after a period of
+transformation.
+As it is said, however, leverage cuts both ways. The substantial
+potential upside was balanced by the immense financial risk imposed
+by mountains of debt. If management struggled to turn the LBO
+around, or if the changes happened too slowly, they would begin
+missing required interest and principal payments on debt. This often
+led to more draconian cuts that in many cases reduced the long-term
+value of the company in order to meet short-term cash flow needs.
+This ended up being bad for investors as well as for employees,
+customers, vendors, and other stakeholders.
+As the 1980s wore on, these risks became more significant,
+and a greater percentage of LBO companies faltered. This was
+largely due to the increase in LBO acquisition prices, which necessitated
+taking on even more debt. These high prices were driven by
+the generally rising stock market coupled with the bidding up of
+acquisition price premiums as a result of the expanding number of
+LBO investors—more than 600 by the end of the decade. The later
+LBO-target companies were also often less suitable, since the most
+attractive companies had already been acquired in prior transactions.
+Toward the end of the decade, the perils of the LBO craze were
+beginning to surface. Some of the largest buyouts went bankrupt,
+including Revco and Federated Department Stores. It didn’t end well
+for Drexel Burnham Lambert and Michael Milken, either.3 Though
+there were many pains along the way, I believe the net effect of the
+LBO wave in the 1980s was to the long-term benefit of both the
+economy and the country. But in the short term, losing your job
+never seems right, and the magnitude of job loss was attracting
+enormous public—and political—interest.
+I note two ironies here. First, many of the investors in the funds
+raised by the private equity firms were pension plans. These organizations
+were charged with protecting the retirement of countless
+workers by intelligently and safely investing retirement assets. In their
+pursuit of higher returns, on many occasions they backed investors
+that significantly reduced job security for employees not greatly
+different from those whose future they were supposed to protect.
+The greater irony was in Washington, D.C., as it often is. Voters,
+lobbying groups, and political action committees were outraged—
+so senators and congressional representatives were outraged, too.
+There was extensive criticism of LBOs, their management teams,
+and the leaders of the private equity firms that pursued the deals.
+In 1988, Representative Dan Rostenkowski of Illinois said, “There’s
+no question that the Committee on Ways and Means will be looking
+at leveraged buyouts and mergers and acquisitions—and do
+something about it.”4
+What all those individuals and institutions didn’t seem to realize
+was that the government, and its poorly understood tax code,
+had significantly increased the incentive to pursue LBOs in the
+first place. Because interest payments are tax-deductible to the
+company, profits paid out to lenders are only taxed once, as a tax
+on the lenders. But equity profits are taxed first at the company
+level and again when investors receive dividends or sell their shares.
+This relative tax benefit of debt made the cost of borrowing much
+cheaper for both the LBO firms and the companies they acquired.
+All the tax that was saved by deducting enormous interest payments
+on a large pile of debt accrued to the shareholder, which, after
+a leveraged buyout, was the LBO firm and its fund investors. If
+this debt tax benefit didn’t exist, there would have been far fewer
+leveraged buyouts. But Congress couldn’t— and still can’t—agree
+on a single tax system for shareholders, so the incentive for LBOs
+persists today. So much for solutions from our congressional representatives.
+Most political discussions at the time suggested that the solution
+was to increase taxes on debt to put them in line with those on
+equity. But some feared that this would render American companies,
+and financial institutions, less competitive globally. The better
+solution, they suggested, would be to adjust taxes on equity so that
+they would be incurred only once. Many other countries take an
+approach to level the cost of equity and debt without compromising
+competitiveness. For example, Australia allows investors to use
+the tax paid by the corporation as a credit against tax payable by
+the investor. Such “franking” of the dividend, as the Aussies call it,
+removes some of the incentive to pursue LBOs—and in a way that
+helps maintain competitiveness.
+To be fair, the tax benefit probably wasn’t enough by itself to
+motivate many LBOs. The private equity (PE) firms and their investors
+saw tremendous upside in finding companies with bloated spending
+budgets, and they made piles of money by putting them on a crash
+diet. So much of the spending was unnecessary that they often could
+slash without any burn. And they motivated management of the
+LBO’d companies with lucrative equity stakes, often at least partially
+purchased by the executives by selling other investments or mortgaging
+their homes. Almost all the capital was debt, so the cost of
+capital, as Jensen implied, became a very real cash cost. It provided
+a huge incentive to be successful—”make the debt payments or the
+company goes bust, you lose your job, and your equity stake will be
+worthless.” Most adventurers succeeded, and a large number delivered
+extraordinarily high returns on investment. Unfortunately, some didn’t
+succeed. Either the target company was a bad LBO target, or management
+didn’t get it, or they were unlucky. And some good companies
+disappeared—because LBOs are risky business.
+These days, activist investors take a similar approach to identifying
+target companies, but they avoid paying a control premium by only
+buying a minority interest. These activists then seek to win over other
+institutional investors in order to collectively pressure management
+to embrace their own strategic agenda.
+My point in all this is that leveraged buyouts, and even activist
+investors, on average, actually serve a useful purpose. When a public
+company is not reaching its true potential, it becomes an LBO or
+activist target. I believe that aggregate U.S. national wealth is higher
+today, and pension plans are better funded, because of LBOs along
+with the cost and capital efficiency they have motivated. And this
+had a salutary effect even on those many other companies that
+worked hard to avoid being taken over in an LBO. But, as already
+noted, in some cases LBOs failed, shareholders lost everything, and
+many good people were out of work.
+EVA Instills LBO-Like Incentives
+What if we could create management incentives similar to those
+in an LBO without taking on debt and putting the company at
+risk? By basing management incentives on the improvement in
+economic value added versus the prior year, EVA makes the cost
+of capital very real, which encourages LBO-like cost cutting and
+the paring of capital budgets. Management incentives reflect a
+charge for the cost of capital, and bonuses only grow bigger if
+EVA increases. This means the company is doing a better job of
+covering the cost of capital: no excessive debt, no company at
+risk, but incentives that are similar to those provided by an LBO.
+It seemed so perfect.
+Or so I thought…. As I worked on one EVA implementation
+after another, I noticed that many of my clients substantially reduced
+their investment in the business—even when overinvesting wasn’t
+a problem. As a result, a number of them saw their growth slow
+down and eventually stall. Sure, for a few years they would see EVA
+jump higher as they cleared out cost inefficiencies and dealt with idle
+assets. But there is a limit to how high you can drive profit margins
+and asset productivity. If you cut too much fat, you eventually cut
+into the muscle. And without investment and growth, EVA stalled.
+Many companies became disenchanted and stopped using EVA after
+a few years. Those, like me, who were convinced of the efficacy of
+EVA, felt puzzled. We had thought EVA would become the universal
+model for management!
+Just as I started connecting these dots, I left Stern Stewart, and
+a few years later I found myself at Credit Suisse after it acquired
+HOLT Value Associates. I joined the Buyside Insights Group in investment
+banking, where we used HOLT and other sophisticated equity
+valuation techniques to advise companies on what might happen to
+their share price if they made an acquisition or divestiture, bought
+back stock, issued convertible debt, or pursued virtually any other
+transaction that was influenced by equity valuation. Our group’s
+role was most interesting.
+The HOLT valuation framework5 is based on the net present
+value of a real cash flow forecast derived from a prediction of fading
+cash flow return on investment, or CFROI, and real asset growth.
+The cash flow forecast is real—that is, before inflation—so it is
+discounted at a market-derived real discount rate. (Don’t worry,
+there won’t be a quiz on this.)
+HOLT is a very sophisticated framework for valuation, which is
+to say that it’s extremely complicated. It was designed for investors
+who, on average, are a fairly numerate lot, so the complexity is fine.
+But amid all the sophisticated complexity, HOLT has two features
+that, while absolutely insightful, are very simple. The first is that
+HOLT is “cash flow based,” so it doesn’t recognize depreciation as
+a cost, and assets don’t decline in value as they get older. Indeed,
+HOLT actually increases the value of assets by inflation, over time.
+The second HOLT contribution was that, in addition to using
+a return measure, HOLT explicitly forecasts an asset growth rate.
+Thus, it recognizes the importance of not only earning high returns,
+but also investing and growing an asset base, so long as the incremental
+CFROI is high enough. It is not simply about quality, or the
+percentage return; it is also about quantity—meaning the size of the
+asset base. This stood at odds with the capital spending cuts I saw
+at many of my EVA clients. During my nearly five years at Credit
+Suisse, I pondered the implications over and over.
+Unfortunately, my reflection was cut short by the largest financial
+crisis since the Great Depression of 1929. Along with most of my
+group, I was suddenly left looking for a job. Surveying the carnage,
+I quickly realized there were few, if any, jobs for someone with my
+specialized skills and experience. So, I decided that my only nearterm
+path was to start my own shareholder-value advisory firm. I
+managed to convince my friend and colleague John Cryan to join
+me as a cofounder, and together we managed to persuade Frank
+Hopson, my current partner, and Jeff Routh to join us.
+It was March 2009 when we started the venture. The S&P 500
+index bottomed at 57% below its 2007 peak on March 9, and nearly
+everyone in the business world was in a state of shock. We surmised
+that few companies would be interested in hiring us for any meaningful
+consulting projects until the crisis stabilized, so we set out
+to design a better mousetrap. John and I came up with all sorts
+of ideas about better ways to measure performance, while Frank
+and Jeff tested whether what we came up with actually worked in
+capital markets.
+Armed with our knowledge of EVA and HOLT, and with the
+Capital IQ6 database of financial and market information, we began
+testing our ideas. Our objective was to see if we could design a
+measure that was (1) simple enough to explain, even to those with no
+financial background, and (2) accurate enough for us to be confident
+that increases in it would consistently create value.
+John, Frank, Jeff, and I thought hard about this new approach.
+We considered how to treat aspects of financial performance such
+as depreciation, R&D, leases, and taxes. From this process we
+created Residual Cash Earnings, or RCE, our standard measure
+of performance. Over time we customized different versions of
+RCE for various companies, including Varian Medical Systems and
+National Oilwell Varco, among others. Of the many performance
+measures that I have worked with over the last three decades, RCE
+remains the most useful and effective for corporate management
+applications.
+Don Chew had been my partner at Stern Stewart. Although I
+don’t claim to have reviewed every financial journal in existence,
+Don’s Journal of Applied Corporate Finance is by far the most insightful,
+useful, and readable of those I have seen. He is a wonderful
+editor. Whenever I’ve written for the journal, Don pushes me to be
+sure I have thought through my points and my arguments and have
+explained them thoroughly. He is a pleasure to work with. When
+we invented RCE, Don gave me the opportunity to publish “Postmodern
+Corporate Finance,”7 where I presented and then explained
+the potential uses and benefits of this new measure.
+As I wrote in the article, postmodern architecture builds on the
+open floor plan style that evolved during the modernist movement
+while adding back ornamentation from earlier classical periods.
+In similar fashion, “postmodern” corporate finance builds on the
+principles of modern corporate finance. At the same time, it restores
+part of the emphasis on top-line growth that prevailed before the
+intense emphasis on returns on capital that was brought on by the
+ongoing shareholder value movement.
+The most important difference between RCE and EVA is the
+treatment of depreciation. EVA recognizes accounting depreciation
+as a cost, while RCE does not. EVA reduces the capital on which
+management must earn a return by accumulated depreciation, while
+again RCE does not. To many, these probably sound like painstaking
+accounting details that can and should be left to the green-eyeshaded
+accounting team. I wish it were so. But the difference in the behavior
+that is motivated by RCE versus EVA is dramatic.
+The significance can be illustrated with a simple example, which
+is depicted rather extensively in figure 7. What if your company
+invested $1 million in an asset that has a five-year accounting life?
+Let’s assume that such assets typically stay in service for about seven
+years, that the asset generates EBITDA of $240,000 in the first year,
+and that this grows at 3% per year. The weighted average cost of
+capital is, say, 8%, which is pretty common these days with interest
+rates as low as they are.
+Before going any further, forget accounting for a moment. Forget
+big-corporation finance. Let’s take a very practical view. If you owned
+a small business and shelled out money to expand, you would be
+quite happy with a pretax cash return of 24% (i.e., $240,000 divided
+by $1,000,000), especially if this were expected to rise by 3% per
+year for seven years. And standard corporate finance tools back this
+up; the after-tax internal rate of return, or IRR, is over 14.7%—well
+above our 8% weighted average cost of capital. The investment seems
+desirable through both a practical and a theoretical lens.
+What about the EVA lens? Since the asset has a five-year accounting
+depreciation life, there will be depreciation of $200,000 per year,
+which leaves taxable income of $40,000 ($240,000 of cash flow less
+$200,000 of depreciation). At a 21% tax rate, the taxes would be
+$8,400, which leaves $31,600 of NOPAT, or net operating profit after
+taxes. If we calculate the capital charge based on the beginning capital
+of $1,000,000 using an 8% weighted average cost of capital, we get
+a capital charge of $80,000. So, EVA in the first year is $31,600 of
+NOPAT less $80,000 of capital charge, or negative $48,400. Not a
+great motivator to make the investment if we are paying executives
+to increase EVA! At least for this investment, the EVA lens isn’t very
+consistent with the practical or theoretical lens.
+$000s Year 0 Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Year 7
+Input Data
+EBITDA 3% 240.0 247.2 254.6 262.3 270.1 278.2 286.6
+Depreciation (200.0) (200.0) (200.0) (200.0) (200.0)
+Pretax Profit 40.0 47.2 54.6 62.3 70.1 278.2 286.6
+Tax 21% (8.4) (9.9) (11.5) (13.1) (14.7) (58.4) (60.2)
+Gross Book Value 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0
+Accumulated Depreciation (200.0) (400.0) (600.0) (800.0)
+(1,000.
+0)
+(1,000.
+0)
+(1,000.
+0)
+Net Book Value 1,000.0 800.0 600.0 400.0 200.0 0.0 0.0 0.0
+Economic Value
+Added (EVA)
+NOPAT 31.6 37.3 43.1 49.2 55.4 219.8 226.4
+Average Net Book Value 900.0 700.0 500.0 300.0 100.0 0.0 0.0
+EVA Capital Charge 8% (80.0) (64.0) (48.0) (32.0) (16.0) 0.0 0.0
+EVA (48.4) (26.7) (4.9) 17.2 39.4 219.8 226.4
+NPV 238.5 = 24% of investment
+Residual Cash Earnings
+(RCE)
+Gross Cash Earnings 231.6 237.3 243.1 249.2 255.4 219.8 226.4
+Gross Operating Assets 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0
+Average Gross Operating Assets 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0 1,000.0
+RCE Capital Charge 10% (100.0) (100.0) (100.0) (100.0) (100.0) (100.0) (100.0)
+RCE 131.6 137.3 143.1 149.2 155.4 119.8 126.4
+NPV 671.5 = 67% of investment
+Returns & Free
+Cash Flow
+ROCE 3.5% 5.3% 8.6% 16.4% 55.4% N/A N/A
+FCF
+(1,000.
+0) 231.6 237.3 243.1 249.2 255.4 219.8 226.4
+IRR 14.7% = +83% over the 8% cost of capital (i.e. 14.7%/8%)
+Figure 7—EVA and RCE over Time
+If we are trying to motivate managers to make value-adding
+investments, and if EVA pays them a smaller first-year bonus for
+making an investment that delivers a 14.7% IRR versus an 8%
+weighted average cost of capital, we have a problem. Corporate
+managers typically prefer a higher bonus—as they should—and
+they can achieve it in this case by forgoing the investment. What’s
+more, it doesn’t get any better in years two or three, as it takes
+until year four for the EVA contribution of this investment to be
+positive and to yield a higher cumulative bonus payment for the
+executive.
+If we keep everything the same but increase the first-year
+cash flow from the investment, EVA breaks even in the first year
+when the IRR rises to over 20%. That’s two and a half times the
+weighted average cost of capital. Investments of this nature that
+earn 12%, 15%, or even 18% internal rates of return over the life
+of the investments would have negative first-year EVA and would
+reduce the bonuses earned by executives tasked with improving
+EVA. In some cases, executives step up and say, “Though this project
+takes a long time to pay off, we are still making the investment
+in the future.” But most of the time the investment isn’t actually
+made. As the analysis shows, EVA stifles positive investment.
+And this situation gets worse as the growth rate increases. The
+investment in our example generating zero EVA in year one delivers
+an IRR even higher than 20% when we increase the EDITBA
+growth rate above 3%. EVA not only stifles growth, it provides an
+even tougher hurdle for investments that deliver higher growth
+rates, since the IRR of projects that deliver zero year-one EVA
+would be that much higher than for lower-growth investments.
+This is unfortunate, but it may explain why tech industries, which
+often have higher than average growth rates, were less frequent
+adopters of EVA. The same is true in reverse. A mature industry
+with little growth, or even experiencing contraction, would face
+less of a “stifled investment” problem with EVA. Said differently,
+the mature cash cows that made good LBO targets were also fine
+platforms for EVA, but for companies with any sort of growth
+opportunities, EVA stifled that growth.
+The root cause of these behavioral problems is depreciation.
+For the original purposes of accounting, which was to represent a
+reasonable view of profits and a conservative view of the balance
+sheet, depreciation makes sense. If I were a lender assessing the
+assets to back up my loan, I would like the idea of using depreciated
+net property, plant, and equipment. There is much less risk that
+I will be caught lending to a company with assets that are worth
+much less than book value. Accounting as a practice isn’t wrong;
+it just wasn’t made for measuring value creation.
+Perhaps depreciation is best viewed from the perspective of an
+investor in a private company. Imagine that your neighbor Irma
+approaches you with a business idea. She wants to open a store
+selling work boots, and she explains all the reasons why she believes
+she will be successful. You don’t like investing with friends, but
+you think Irma is smart and business savvy; further, you believe
+the idea might even work.
+You and your spouse agree to invest $50,000 in Irma’s new
+store. During the decision process, you evaluate alternative possible
+investments and how this might compare in terms of the upside
+opportunity and downside risk. You tell Irma you would be satisfied
+with earning 10% on your investment. Obviously, you’d like
+as much as possible, but you say you’d be satisfied with 10%. Irma
+says she understands your goal and appreciates the clarity.
+A year later, Irma drops by and hands you a check for $5,000.
+You express your satisfaction along with your interest in how things
+will go the following year. At the end of year two, Irma hands you
+a check for $4,000, but is surprised at your dissatisfaction. When
+your spouse calls Irma’s attention to your expectation of a 10%
+return on the investment, Irma responds that the accountants
+have depreciated the assets. The original investment for $50,000
+amounted to a $40,000 net book value at the start of year two, she
+explains. She waxes eloquent about how accounting depreciation
+works, and then does the math out loud to demonstrate that the
+$4,000 check is, as she says again, a 10% return on investment. You
+and your spouse stare at Irma in silence, as if she had four heads.
+A similar argument can be made in a corporation. Investors
+want a return on their investment. They are not concerned with
+depreciation and other noncash accounting charges. They just want
+a cash return on the cash they gave you. Residual Cash Earnings
+works this way.
+The definition of Residual Cash Earnings is gross cash earnings
+(GCE), minus a capital charge calculated by multiplying the
+company’s Required Return by its gross operating assets (GOA).
+GCE is essentially EBITDA after tax, except, where material,
+we add back R&D and lease expense. GOA represents the undepreciated
+investment in the business that must earn a return. It
+includes operating working capital, such as accounts receivable
+and inventory, plus gross property, plant, and equipment, as well
+as other operating assets, including capitalized R&D and leases
+when material. It is critical that we use gross property, plant,
+and equipment, not net. Since we are not charging for depreciation,
+we need to keep recognizing a capital charge based on the
+original cost, or gross property, plant, and equipment value. The
+formal definition of RCE also contains an inflation adjustment.
+But because inflation has been low for some time, we have not
+implemented this step in practice, to make the measure a bit
+easier to understand.
+Let’s go back to the $1 million investment discussed above.
+To determine RCE, we must first calculate GCE and GOA. Since
+depreciation is not a charge to RCE, the GCE would be $240,000
+of cash flow less the $8,400 of tax, or $231,600. The Required
+Return in RCE is derived from the relationship of market values
+to GCE, and is higher than the weighted average cost of capital
+for most companies. If the Required Return were 10%, which is
+higher than the 8% weighted average cost of capital,8 then the
+capital charge would be the $1,000,000 of GOA multiplied by 10%,
+or $100,000. So RCE would be $231,600 of GCE less $100,000 of
+capital charge, or $131,600. For managers who are being paid to
+increase it, RCE provides a positive signal to go ahead and invest
+in this value-creating project.
+RCE measures after-tax cash flow, in the form of GCE in relation
+to a capital charge based on GOA, multiplied by a Required
+Return. The noncash depreciation charges are ignored, except to
+the extent that they shield taxes. The noncash reduction in asset
+values from accumulated depreciation is ignored, as well. With
+RCE, positive performance is recognized sooner and more evenly
+over the life of the investment. Notice in figure 8 that when the
+tax payments jump in years six and seven, RCE declines rather
+than increases, as is the case for EVA and ROCE.
+Companies that are investing heavily in growth tend to look
+better from the perspective of RCE than that of EVA. The combination
+of high depreciation and high capital charges on assets that
+are relatively new weighs heavily on EVA. By contrast, companies
+that are making few investments, and that are essentially milking
+old assets, tend to look worse in RCE, mainly because it steps up
+the value of depreciated assets to gross book value and so recognizes
+their original costs.
+Figure 8 illustrates the differences between EVA and RCE for
+this example:
+1 2 3 4 5 6 7
+Cost of Ownership (EVA)
+EVA Capital Charge Depreciation AT
+1 2 3 4 5 6 7
+Cost of Ownership (RCE)
+RCE Capital Charge
+1 2 3 4 5 6 7
+Residual Cash Earnings
+1 2 3 4 5 6 7
+Economic Value Added
+New assets appear expensive.
+Old assets
+appear cheap…
+…or free.
+Delayed recognition of
+value discourages
+investment.
+Most of the value appears at
+the end, encouraging the
+milking of old assets.
+Smooth recognition of value over asset life.
+RCE dips
+when taxes
+rise.
+Constant cost of ownership as long as in service.
+Note: Simulates the Economic Value Added and Residual Cash Earnings of an asset with a five-year accounting
+life and a seven-year actual life. The IRR is 14.7%, which is 1.8 times the 8% cost of capital.
+Figure 8—EVA and RCE Cost of Ownership
+As can be seen in figure 8, RCE provides a smooth recognition of
+value over the life of an investment; by so doing, it presents decisionmakers
+with the clearest possible incentive to undertake positive
+investments while discouraging the milking of old assets that are not
+expected to provide long-term value. More so than any other measure,
+when RCE rises, it does so because good actions were taken that
+benefit both the business and the share price. And when RCE declines,
+one can be confident it is because performance—as conceived of in
+terms of NPV—has also declined. Using RCE dramatically improves
+the ability of companies to consistently reward good performance
+and penalize bad performance.
+Consider what happens with less effective measures, especially
+when they are linked to compensation. Most financial performance
+management in U.S. businesses revolves around performance
+measured against a budget. This way, goals can be set at the start of
+the year. For example, if the company uses EBITDA or operating
+profit, they can set goals expressed in terms of these metrics that
+reflect what they have agreed to at the start of the year. If a lot of
+investment has been made, the targets may be raised. Externalities
+can be incorporated, as well.
+But, as we saw in earlier chapters, a big problem arises when
+performance targets are set on the basis of budgets: Doing so
+effectively eliminates any emphasis on delivering results in terms
+of true, multiyear improvements in performance for shareholders.
+Since poor value-creating business units tend to have dire
+outlooks, they also tend to be assigned modest goals that don’t
+imply much value creation. At the same time, star businesses
+are often assigned “stretch goals.” Ironically, in many cases the
+nonvalue creators earn as much bonus as the top value creators,
+or even more. Any possibility of getting managers to think about
+opportunities and accountabilities like owners do is cast by the
+wayside. The negotiation of the budget often has more impact on
+rewards than performance does.
+Two steps are required to fix this and to focus behavior on true
+improvements in performance. First, stop measuring performance
+against budgets, and begin measuring against the prior year. Second,
+implement RCE, which provides a sufficiently comprehensive view
+of overall performance that improvement over the prior year is
+almost always a reliable indicator of value added.
+The primary goal is to increase both total shareholder return
+(TSR) and RCE through balanced improvements in growth,
+margin, and asset efficiency. If the business has zero RCE margin,
+growth will not help, except to the extent that it leverages fixed
+costs and capacity, and improves the RCE margin. In this case,
+the focus of management is automatically shifted by RCE to
+margin and asset productivity improvements. For a business with
+a high RCE margin, the focus will be on investing aggressively in
+growth, even if some RCE margin has to be sacrificed. The goal
+is to grow RCE year-on-year and year-after-year. Sometimes RCE
+will decline in a single year following large investments. But this
+will pay off for managers only if in a later year RCE rebounds
+when the investment pays off. If it never pays off, management
+will be paid less—period. This absolute accountability focuses
+attention on making all effective investments and on culling
+investments in both capital and R&D that are not adequately
+promising.
+The RCE measure is comprehensive and complete, and
+enables a manager to make tradeoffs, evaluate alternatives, and
+optimize performance. To better understand how and why RCE
+rises or falls, we developed the “Five Tools of Value Creation,”
+which will be discussed in chapter 4. Two of the five tools are the
+Reinvestment Rate, which measures the amount of GCE that is
+reinvested back into the business, and Reinvestment Effectiveness,
+which indicates the amount of actual revenue growth delivered
+per dollar of investment. Both these measures are generally
+considered over three- or five-year periods, and can be incorporated
+into incentives. The use of these two measures over
+a multiyear horizon is designed to ensure that a manager who
+achieves RCE improvements while making good future investments
+will be paid more than one who simply delivers RCE while
+cutting investment.
+The RCE approach will always encourage management to
+pursue the optimal balance of growth and returns. Figure 9
+shows “Iso-TSR” lines that indicate the relative value of improving
+either returns or growth, given the current state of each. The
+main message of the figure is that for companies already earning
+returns that are well above the cost of capital, but achieving
+modest growth rates, incremental growth tends to be perceived
+by the market as more valuable than increasing the already high
+returns. Conversely, for companies experiencing rapid growth in
+sales and even earnings, the market—at least at some point—is
+likely to respond more positively to increases in returns than to
+further growth. Another way of thinking about this growth-return
+tradeoff is that, merely by virtue of management’s focus on one
+of these two goals in the recent past, pursuit of the other becomes
+likely to create more value.
+ΔReturn
+Revenue Growth
+Iso-TSR Line Illustration
+Different combinations of return and
+growth can lead to the same TSR
+Figure 9—Balancing Growth and Return
+People often question whether giving up returns for growth can
+really lead to better TSR. So, my colleagues and I studied the facts.
+As reported in my paper “Don’t Be Too Preoccupied with Return
+on Capital,”9 sacrificing returns to achieve higher revenue growth
+worked for most companies over the full decade of the study, which
+ran from 2000 through the end of 2009. The study sample included the
+1,000 largest nonfinancial U.S. companies as of 12/31/2009, excluding
+those not public for the entire 10-year period of the study—for a total
+of 765 companies. Although only 14% of the companies had both
+higher revenue growth and lower return on capital in the second half
+of the decade, 57% of these higher-growth, lower-return companies
+generated TSR above the median. Among these were several wellknown
+companies, including Oracle, PepsiCo, CVS Caremark, and
+Procter & Gamble.
+Oracle illustrates this well. During the first half of the decade, the
+company’s return on capital hovered between 33% and 36%, while
+its growth averaged only 3%. And Oracle’s TSR underperformed the
+NASDAQ in those five years. During the second half of the decade,
+Oracle invested heavily, acquiring Peoplesoft, BEA Systems, Seibel,
+and Hyperion; growth surged to an average of 18% while return on
+capital collapsed to the 15%-to-25% range. This investment in growth
+delighted investors, and TSR outpaced the NASDAQ by 73%. Figure
+10 illustrates the year-by-year performance trends.
+-15%
+-10%
+-5%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Revenue Growth
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Return on Capital
+-40%
+-20%
+0%
+20%
+40%
+60%
+80%
+100%
+Dec-99 Dec-04 Dec-09
+Relative TSR
+Figure 10—Oracle Growth, Return, and TSR
+An overemphasis on growth or return often reflects the corporate
+culture. Some companies, such as Mylan and Alliance Data Systems
+over the last five years, have been so concerned with growth that
+they never seem to deliver solid returns. Other companies, like The
+Gap and IBM also over the last five years, have been so protective
+of their high returns that they have forgone growth. In both cases,
+these companies’ TSR has suffered. Yet a number of companies have
+succeeded in balancing the two objectives to deliver superior TSR,
+for example Microsoft and Electronic Arts over the last five years.
+One Important Adjustment to RCE
+To ensure that RCE is comprehensive and encourages the right behavior,
+in businesses where R&D is critical, an adjustment may be needed.
+In these situations, RCE should be defined by excluding the R&D
+expense from the calculation of Gross Cash Earnings and adding the
+capitalized R&D investment to Gross Operating Assets. The standard
+approach is to accumulate the prior five years of R&D spending and
+treat it as an asset. In some businesses with longer investment cycles,
+it is better to use more than five years as the weighted average life, so
+as to reflect the longer expected payoffs from the R&D. At the same
+time, it’s important to recognize that the weighted average life of a
+company’s R&D investments is often considerably shorter than the
+average life of its successful R&D investments, since unsuccessful R&D
+investments tend to get weeded out earlier—and the earlier the better.
+By capitalizing R&D we seek a better relationship between movements
+in RCE and TSR and, perhaps more important, better decisions
+by management. For example, sometimes managers squeeze
+R&D budgets to meet short-term EPS and other goals. They are, in
+essence, sacrificing the long-term value of the business to meet these
+short-term objectives, which is generally not in the best interest of
+shareholders. At other times, the pursuit of steady growth in EPS leads
+management to spread out R&D spending over multiple accounting
+periods, despite the evidence that investing more aggressively early
+on, or less evenly in general, may yield better results.
+A case in point was Monsanto in the late 1990s, which had implemented
+EVA with R&D capitalized as an investment. At the time,
+I was the Stern Stewart project manager assigned to the company.
+As an interesting aside, Monsanto simultaneously hired the Boston
+Consulting Group (BCG), which uses HOLT. As a consequence, the
+ultimate measures and strategic direction turned out to be more of a
+hybrid than would have been recommended by either Stern Stewart
+or BCG alone, and were closer to what we advocate today as RCE.
+(The leadership of Monsanto was ahead of its time.)
+During our work with the company, Monsanto faced some tough
+decisions regarding the timing of R&D and product-launch expenditures
+in its Searle pharmaceutical business unit. If they accelerated
+expenditures, EPS would suffer. If they spread the expenditures out
+over multiple accounting periods, the launches would be delayed, and
+the time from launch to patent expiry would be shortened. A Wall
+Street Journal article10 documented the story. The following are excerpts:
+Third-quarter results will be weighed down by a 40% increase
+in research spending at Searle, Monsanto said. That unit currently
+has five drugs in advanced-testing stages, when development costs
+are particularly high.
+“In our judgment, aggressive funding is warranted to make
+sure that [new] products reach the market quickly,” with speedy
+regulatory approvals and broad public acceptance, Chairman Robert
+B. Shapiro said in a prepared statement. “The costs associated with
+these activities have depressed current income,” he said.
+In response to this news, a NatWest Securities analyst, Mark Wilamuth,
+said he would lower his 1997 earnings-per-share estimate to
+$1.20 from $1.28 and his 1998 per-share estimate to $1.40 from $1.60.
+But how did the market respond to this information? Monsanto closed
+$1 higher at $39.6875 on the day of the announcement.
+Undoubtedly, many companies would benefit from employing
+a similar accelerated investment strategy, but they seem to be too
+preoccupied with meeting the short-term EPS consensus of security
+analysts to pursue it. This is not to say that all R&D spending is
+always good. The two virtues of treating R&D as an investment are
+(1) the enhanced incentive to invest without regard to short-term
+EPS implications, and (2) the enhanced accountability for delivering
+a return on the R&D over time. If a company invests millions
+in R&D that is unsuccessful, it will have to bear a capital charge on
+the capitalized R&D for five or more years. But by increasing both
+the incentive to invest and the accountability for delivering returns,
+we encourage decision-making by management that is more aligned
+with the interests of owners.
+Some say that a focus on EPS growth doesn’t dissuade management
+from making the right decisions on R&D spending. Many managers
+may be out there who are willing to forgo short-term praise and
+financial rewards to do the right thing for the long-term success of
+their business. But why have a system that requires management to
+override their own best interests? Why not use incentives that make
+“the right thing” for managers and shareholders one and the same?
+The same case can be made for other investments that are treated
+as period expenses in accounting. Among these are marketing expenditures
+aimed at building long-term brand value, training expenditures
+that seek to improve employee skills, and information systems
+expenses that are intended to augment long-term capabilities. For
+many companies, these expensed investments are growing, which
+creates a growing distortion of their accounting statements. In each
+of these cases, if the item is material and important, better behavior
+can be motivated by treating the item as an investment. It is much
+harder to do any capital market research on these items, since there
+are no consistent accounting standards for their disclosure as there
+is for R&D.
+So, in RCE we don’t depreciate fixed assets, and we capitalize R&D
+only when it’s material. Is that it? No, we must perform one more
+standard accounting adjustment to define RCE. Some companies make
+extensive use of operating leases. So, to normalize the measurement
+of leased versus owned assets, we add back the rent to GCE, and we
+add the present value of lease commitments to GOA. Note that this
+doesn’t make RCE the same between leased and owned assets—it
+simply applies the same treatment. Leases can be quite strategic, as
+discussed in chapter 12, and our treatment recognizes this.
+The importance of customizing measures for the characteristics and
+needs of a company cannot be overstated. Consider something as simple
+as whether cash should be included in the asset base when measuring
+returns and economic profits. Most performance measurement
+seeks to separate operating and financing elements. So, in theory, the
+“operating cash” needed to run the business should be included in the
+asset base, and excess cash should be considered essentially negative
+debt. But if the primary objective is to motivate operating decisions
+that convert working capital and underutilized fixed assets to cash,
+as is often the case, then it may be best to exclude all cash from the
+asset base. As a result, as soon as an asset is converted to cash, it is
+recognized and rewarded. If cash is left in the asset base, no credit is
+given when assets are converted to cash.
+But if the company has historically been a chronic underinvestor,
+and the goal is to promote operating-asset investment, then maybe
+cash should be left in the asset base. This way, whether management
+reinvests it or not, it incurs a capital charge. That will tend to motivate
+investment but may also overencourage distributions. Also, some
+companies have trouble getting subsidiaries to sweep cash up to the
+parent. Yet by including the cash in the asset base of the subsidiaries,
+this encourages transferring cash to corporate.
+Naturally, there is no single right answer that applies to all
+companies and situations. Therefore, the customization of RCE for
+a particular business involves the specification of adjustments to GAAP
+accounting, which in turn requires the careful consideration of key
+financial measurement issues. In the interest of simplicity, though,
+such adjustments to accounting should be made only when the benefits
+far outweigh the complexity. A full evaluation of data availability and
+objectivity, behavioral implications, and materiality should guide
+the prioritization. As discussed further in chapter 9, multi-business
+companies also need to specify the methodology for transfer pricing
+and also, more generally, that for treating shared costs and assets.
+Notes
+1 Bryan Burrough and John Helyar, Barbarians at the Gate: The Fall of RJR Nabisco
+(New York: HarperBusiness, 2008).
+2 See Michael C. Jensen, “Corporate Control and the Politics of Finance,” Journal
+of Applied Corporate Finance 4, no. 2 (1991): 13–34.
+3 See “Leveraged Buyout,” Wikipedia, December 28, 2018, accessed January 15,
+2019, https://en.wikipedia.org/wiki/Leveraged_buyout#1980s.
+4 Robert D. Hershey Jr., Special to the New York Times, “Congress Is Moving Closer
+to Acting on Buyout Curbs,” New York Times, December 5, 1988, accessed January
+15, 2019, https://www.nytimes.com/1988/12/05/business/congress-is-movingcloser-
+to-acting-on-buyout-curbs.html.
+5 For more on the HOLT framework, see Bart Madden, CFROI Valuation (Burlington,
+VT: Elsevier Science, 1999); see also David Holland and Bryant Matthews, Beyond
+Earnings: Applying the HOLT CFROI and Economic Profit Framework (Hoboken, NJ:
+Wiley, 2018).
+6 Capital IQ is a database produced and marketed by S&P Global: https://www.
+spglobal.com/marketintelligence/en/solutions/sp-capital-iq-platform .
+7 Gregory V. Milano, “Postmodern Corporate Finance,” Journal of Applied Corporate
+Finance 22, no. 2 (Spring 2010): 48–59.
+8 Gregory V. Milano, Steven C. Treadwell, Jeffrey L. Routh, and Joseph Theriault,
+“A Fresh Look at the Required Return,” Buona Fortuna!, February 13, 2012.
+9 Gregory V. Milano, “Don’t Be Too Preoccupied with Return on Capital,” SSRN
+Electronic Journal, 2010.
+10 Peter Fritsch, “Monsanto Warns R&D Spending May Depress Third-Quarter
+Net,” Wall Street Journal, September 29, 1997, accessed January 15, 2019, https://
+www.wsj.com/articles/SB875312098246726500.

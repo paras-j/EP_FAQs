@@ -1,0 +1,511 @@
+THE PRIMARY EMPHASIS in this book is on business strategy
+and operational execution, but financial policies are important, too,
+and can help or hinder value creation. In most cases, financial policy
+should be subordinated to business strategy. With that in mind, this
+chapter provides insights on capital structure, operating leases, dividends,
+and cash balances that are part of an integrated, overall view
+of corporate finance.
+Capital Structure Policies
+Ever since the wave of leveraged buyouts in the 1980s, it has been
+commonplace for investors, academics, and commentators alike to
+suggest that “levering up” the balance sheet can be beneficial for
+shareholders. As we first argued in “Is Financial Leverage Good for
+Shareholders?”1 on CFO.com, our capital market research suggests
+otherwise.
+Most people generally try to be careful with how much debt they
+take on in their personal lives, so why do many corporate finance
+experts believe that high levels of corporate debt and leverage are
+a good thing? And why doesn’t it seem to work out as well as these
+experts tell us it should?
+The appeal of debt originates in academic corporate finance
+classes, where students are taught that reducing the weighted average
+cost of capital (WACC) by operating with the optimal proportion
+of debt and equity can be a major contributor to shareholder value.
+Because the U.S. tax code allows a deduction for corporate interest
+payments, WACC tends to be lower for companies that are able to
+support more leverage, as long as the risk of financial default doesn’t
+become excessive. A lower WACC increases the calculated present
+value of anticipated future cash flow, which is expected to increase
+the share price.
+In addition to the argument that debt reduces WACC through tax
+savings, corporate finance scholars provided another explanation for
+how the heavy use of debt increases efficiency and value—namely,
+by disciplining the otherwise free-spending ways of managements
+running companies in mature industries with limited growth. When
+formulating this argument in The American Economic Review in 1986,2
+Michael Jensen wrote, “Thus debt reduces the agency costs of free
+cash flow by reducing the cash flow available for spending at the
+discretion of managers.” The presumption here is that management
+would squander capital on value-destroying projects, so leverage
+is needed to rein in capital spending, improve cost efficiency, and
+drive superior performance. Many investors, analysts, and bankers
+encourage companies to increase leverage to reduce their WACC,
+and further to communicate their leverage policy to investors, with
+the expectation that such steps will increase both the efficiency and
+the long-run value of these companies.
+But is this really what happens? With the aim of shedding some
+light on this question, we undertook a study in which we started with
+the 1,000 largest nonfinancial U.S. companies and eliminated those
+without full financial and market data for 2001 through 2010, which
+left us with 512 companies. We separately explored two subsets of
+time—pre-crisis (2001–2007) and mid-crisis (2008–2010)—to see if we
+could distinguish the effects of higher leverage during different points
+in the economic and credit cycle. Simply sorting companies based on
+leverage seemed to produce industry distortions, since some industries
+tend to use significantly more debt than others. In fact, some of
+the industries that delivered the highest TSR over the study period,
+including food retailing, pharmaceuticals and biotechnology, software,
+and technology hardware, also happen to be those that use less debt.
+To avoid industry distortions, we compared companies within
+each industry that carried above- and below-industry average leverage,
+using three different measures, and then averaged the results.
+The leverage measures were: (1) debt to debt plus the book value of
+equity, (2) debt to debt plus the market value of equity, and (3) debt
+to EBITDA. Over the full 10-year period, the companies with aboveaverage
+leverage within their industry delivered 0.6% lower annualized
+TSR. We repeated the analysis for 2008 through 2010, when credit
+was less available, credit spreads were generally higher, and the heavy
+use of debt was more punished by investors. As expected, we found
+that highly leveraged companies performed even worse during this
+tighter credit period by delivering annual TSR 1.7% lower than their
+less-leveraged peers. As also expected, during the credit boom from
+2004 through 2006, highly leveraged companies performed better,
+with 1.2% higher TSR per year.
+Over the full 10 years, then, leverage had a negative impact. Thus,
+our findings may appear to contradict the common wisdom that
+“leverage is beneficial for shareholders.” Does this imply that the
+theory behind WACC and its impact on valuation is wrong? I do not
+believe so, but there are reasons to believe that corporate managers
+behave differently when carrying higher debt levels. For example,
+those companies with higher debt delivered 3% lower median revenue
+growth per year than the less-leveraged companies in the same industry.
+One possible interpretation is that the growth opportunities of the
+more highly leveraged companies are less profitable than the opportunities
+faced by their less-leveraged counterparts. Perhaps that’s why
+they have taken on more leverage, or possibly it’s the debt that leads
+to management’s making fewer growth investments.
+As discussed throughout this book, our capital market studies
+have demonstrated a strong link between revenue growth and TSR
+both for the market as a whole and for many specific industries—so at
+least some of the more-leveraged companies in a given industry may
+well be forgoing investments in profitable sales growth in order to
+service their heavier debt. These companies and their shareholders
+clearly would have been better off with less debt.
+In other words, the association of higher leverage with lower TSR
+has nothing to do with the effects of leverage on valuation per se—but
+likely everything to do with how leverage affects the managers who have
+to service that debt. For mature businesses with few opportunities for
+profitable growth, heavy debt, as Jensen told us, is likely to add value
+by putting the firm on a diet; that was a big part of the success of the
+first wave of LBOs. But for the vast majority of companies that have
+at least a decent array of promising growth opportunities, the use of
+high leverage is quite likely to reduce value by forcing managements
+to think twice about making even clearly value-adding investments.
+In fairness to Jensen, in the middle of the 1980s LBO boom, it
+seemed really obvious that many, if not most, companies were inefficient
+and unproductive. In that environment, the discipline of debt
+may have been more valuable than the drag of reduced growth. But
+over the last few decades, the pendulum has swung, and now we
+see many companies with extremely high rates of return that have
+underperformed on growth—and leverage, as I suggested, seems to
+have been part of this problem. For example, toward the end of 2018,
+almost nine out of 10 of the largest 1,000 nonfinancial companies had
+positive RCE, so with only about 10% of companies delivering negative
+RCE, there are fewer companies today, as compared to the past,
+that struggle to beat the cost of capital and would therefore benefit
+from the discipline of debt.
+Should companies increase leverage as a means of driving shareholder
+value? We believe this only works in a limited number of cases
+in which profitable reinvestment in the future is not readily available.
+Sure, such temporarily higher debt levels to facilitate investment in
+desirable growth opportunities can be beneficial, as long as there is
+a clear plan plus a commitment to paying down that debt. But for
+most companies, increasing leverage tends to make management
+more conservative, which in turn tends to reduce the propensity to be
+strategically opportunistic—something that is often required to deliver
+valuable revenue growth. Leverage constricts revenue growth, which
+leads to worse share-price performance, on average. So, notwithstanding
+the potential benefits of leveraging up the balance sheet for very
+mature companies, most companies would deliver better share-price
+performance over time if they acted more prudently with the amount
+of leverage they take on.
+Putting Financial Policy into Practice
+To operationalize these principles and research findings into actual
+financial policies requires insights on a variety of business characteristics.
+The starting point is always that financial policy should be
+subordinated to business strategy and should be designed to help get
+the most out of the available business opportunities.
+Of course, less debt should be used in industries with highly variable
+performance, due to either cyclicality or volatility. Companies
+using business models that carry more fixed costs and have greater
+capital requirements than their industry competitors should also
+use less debt. But this prescription is often ignored when a company
+replaces a more expensive outsourced service with an in-house capability
+that, though providing cost and capital savings on average, may
+also limit the firm’s ability to respond to downturns or other changes
+in conditions.
+As a general rule, the most important determinant of a company’s
+capital structure should be the size and nature of its investment
+opportunities. Of course, it may be difficult to quantify the size and
+frequency of unexpected valuable investment opportunities, but it’s
+important to recognize them, at least qualitatively. We don’t ever want
+to have to turn down a significant value-creating opportunity because
+we had too much debt at the time. For companies that come across
+such unexpected opportunities more frequently, there is a higher value
+to financial flexibility, and debt levels should be kept lower. By contrast,
+in many commodity businesses where returns are rarely sustained well
+above the required return, the opportunities that do materialize will
+tend to carry lower NPVs, so there is less risk that high debt will lead
+to missing out. Tech, in particular, is an industry where the ability to
+deliver high returns is common, where new organic and acquisitive
+investment prospects come along all the time, and, therefore, where
+carrying less debt is desirable. More will be said on this in the final
+section of this chapter.
+Strategic Leasing
+Some say that operating leases are really just a form of financing and
+thus are not “strategic.” But leases can be strategic by virtue of the
+option value they create; and when they are strategic, we want the
+use of these business structures to be encouraged and, to reinforce
+this, to be reflected in RCE.
+Some CFOs and company treasurers avoid operating leases as
+a matter of course. They claim that leases dilute EPS and EBITDA
+and are merely expensive forms of financing that other companies
+employ to artificially push assets off their balance sheets. Further,
+they correctly point out that rating agencies and creditors recognize
+this off-balance-sheet financing by determining the capital obligation
+associated with minimum lease commitments.
+Nevertheless, operating leases can be a more-efficient use of
+capital and provide greater operating flexibility in many businesses.
+In an uncertain business world, operating leases enable a company to
+commit to only a portion of the life of an asset. They pay a “financing
+premium” to do this; but if a portfolio of leases is managed
+properly, with staggered expirations, the leases allow companies to
+dial up and down the capital they employ in order to mitigate risk
+at the bottom of a cycle. When times are tough, it’s much easier
+to decide not to renew leases than to sell assets just when demand
+for them has collapsed.
+What’s more, many successful companies follow a strategy
+of constantly refreshing their assets with newer versions. Having
+updated assets can help companies maintain reliability while improving
+customer experience and perception. Indeed, leases create an automatic
+prompt for companies to consider upgrades on every renewal.
+This can be an important consideration when leasing retail space,
+automobiles, trucks, aircraft, and other assets.
+To be sure, employing operating leases more aggressively tends
+to reduce EBITDA. That’s clear in an industry like retail, where the
+use of operating leases is substantial. In a study whose findings we
+reported in “Can Leases Be Strategic,”3 we separated the 84 largest
+retailers into high- and low-lease groups, based on the size of their
+latest annual rent payment as a percentage of net property, plant,
+and equipment. The median EBITDA of the high-lease group was
+43% lower than it would be before rent (also known as EBITDAR,
+which is earnings before interest, taxes, depreciation, amortization,
+and rent). That’s a much larger reduction in EBITDA than the 23%
+median decline of the low-lease group.
+However, this hit to EBITDA was largely offset by how these
+companies were valued. For the high-lease group, the median ratio of
+enterprise value (market capitalization plus net debt) to EBITDA was
+7.4x over the period, which was about 20% higher than the median
+of 6.1x for the low-lease group. The lower EBITDA didn’t seem to
+penalize valuation at all.
+Several important considerations must be noted when a company
+develops an effective operating-lease strategy. But first, it can forget
+about the distinction between “on-balance-sheet” and “off-balancesheet.”
+Indeed, accounting rules are likely to change soon, and all
+leases with multiyear commitments will be put on the actual GAAP
+balance sheet. Admittedly, this accounting change has been expected
+for years, but it will happen at some point. Before and after such a
+change to generally accepted accounting principles may occur, your
+focus should be on comparing the capital commitment of a lease to
+the purchase price of the asset. Signing a multiyear lease with minimum
+required payments is scarcely different from borrowing money
+to buy the asset and therefore committing to payments of interest
+and principal. The operating lease is merely of a shorter duration, so
+it’s like borrowing less money to buy a portion of the asset’s useful
+life and only a portion of its benefits. Of course, in some situations
+with scarce assets, it can be better to sign longer leases to ensure
+access to the asset, but the approach makes these costs clear when
+comparing tradeoffs.
+To improve the comparability of companies that lease with those
+that buy, Standard & Poor’s adjusts a company’s debt to include the
+debt-equivalent value of its lease contracts by calculating the present
+value of its lease commitments. This is a useful general approach for
+companies to employ. For example, consider a company that leases
+assets with a 30-year life and an underlying value of $10 million for
+five years at a rate of 10% of the original underlying asset value per
+year. Assuming the company has a marginal cost of debt of about 6%,
+the present value of the five-year lease commitment is $4.2 million at
+the outset. That is about 42% of the purchase commitment. And this
+amount declines over the life of the lease as the remaining commitment
+gets shorter.
+This is strategically significant. The company could buy more than
+twice as many assets for the same amount by committing to a shorter
+period of use than the full life of the asset. For some companies, such
+moves can help propel a growth strategy.
+When confronted with this math in the 1990s, a retail client
+in London told me, “If that’s how you will determine my capital
+base, I will sign one-year leases with 24 one-year-renewal options”
+rather than the standard 25-year leases that prevailed at the time
+in London retail. Of course, if he could convince a lessor to agree
+to such an arrangement, he would have full use of a store with the
+right but not the obligation to walk away every year, which would
+provide strategic flexibility and risk protection in downturns. Imagine
+never having unused or underperforming capacity! Of course,
+the lessor will want to charge a higher rent when giving away such
+flexibility, and that’s where the tradeoff comes in. Luckily, RCE
+treats the present value of lease commitments as an investment,
+so it’s the perfect tool to measure this tradeoff and thereby make
+an informed decision.
+To make the best use of the strategic flexibility and maximize the
+value created by leases, you need to structure a portfolio of leases to
+expire gradually over time, rather than all at once. For example, if 20%
+of the assets under five-year leases come up for renewal each year,
+evenly spread over the quarters, you have an ongoing opportunity to
+reduce capital by not replacing expiring leases when unexpected tough
+times arrive. This tends to salvage more value than selling assets in
+such tough times, since the resale values often decline then, as well.
+Most operating leases last more than one year. But they can often
+be structured so that the company must commit to only a portion
+of the asset life, which is why the capital commitment is lower. The
+implied interest rate embedded in leases often seems high compared
+to borrowing rates, but this is simply the cost of the flexibility that
+leases provide.
+Yet, as we have learned, too much is no good. Like most things in
+life, leases can be a problem if taken to an extreme. The annual cash fixed
+charges are usually higher for leases than for owned assets. Companies
+thus must be careful to limit the proportion of their assets under lease to
+ensure that, through good times and bad, they haven’t taken on excessive
+financial risk. Traditional debt and the implied debt equivalents of leases
+must be considered together in setting the right financial policies. When
+determining how far to push a lease strategy, be sure to prepare robust
+scenario analyses to test the downside and see how the leases help or
+hinder the situation when an unexpected crisis hits.
+Are leases right for your company? Consider the types of assets,
+the uniqueness, and the specialization of those assets and the frequency
+with which you may want to replace or upgrade them. Also consider
+industry cyclicality and volatility, because the optionality afforded by
+leases has greater value when more peaks and valleys are likely to
+occur in the business. Then think about this in the context of the lease
+rates, durations, and covenants available, to determine whether leases
+would be likely to provide significant strategic or financial benefits.
+Many companies are likely to find that they should be leasing somewhat
+more than they do now.
+Dividend Policy
+When do dividends truly matter?4 They have a positive effect on valuation
+during a financial downturn and a negative effect when markets
+are booming—but under normal circumstances, and on average, they
+have little effect at all on shareholder returns.
+Throughout the 2008–2009 financial crisis, there were substantially
+fewer dividend increases and an abnormally large number of
+dividend cuts. These generally stingy dividend policies were often in
+response to a true liquidity crunch. But for many companies, dividend
+prudence merely reflected general conservatism. As economic fears
+subsided, managements evaluated whether reinstating or boosting
+dividends would help their share price.
+The dividend decision is difficult in the face of an abundance of
+divergent views. In his celebrated paper “Do Dividends Really Matter?”5
+the renowned Nobel Laureate Merton Miller argued that “the seeming
+evidence that dividends do matter…is not to be trusted. It’s an
+optical illusion.” He claimed that the apparent effect of dividends
+on share prices is not caused by the dividends per se, but is merely
+the market’s recognition of what the dividends communicate about
+investment policy and future earnings trends. Given this, it would
+seem an open-and-shut case that dividends don’t matter.
+Then why the fuss? Many investors pester managements by
+demanding new or increasing dividends. The investors cite studies
+showing that high-dividend-yield stocks are better than low and
+nondividend stocks at delivering TSR. A flurry of such recent studies
+has attracted attention in the media and the boardroom. What should
+management do?
+It depends. Our capital market research on the dividend policies
+of the largest 1,000 nonfinancial companies, excluding those that
+were not public for the full decade of the 2000s, indicates that there
+is no one-size-fits-all answer.
+Our research shows that dividends do have a positive effect on
+valuation during downturns, when economic confidence is low and
+investors fear the worst, and thus prefer the cash in hand. But in
+boom times investors have more confidence that companies will invest
+their money wisely, so dividend hikes (or initiations) may actually be
+interpreted as signs that investment opportunities are drying up. We
+determined this by looking at valuation in terms of enterprise value
+to gross operating assets and then compared this to the cash-oncash
+return on capital. We found a strong correlation between these
+measures of valuation and return, as documented in the article “Postmodern
+Corporate Finance.” Some companies were valued higher
+or lower than their returns alone would imply, so we tested whether
+dividends influenced this premium or discount. From 2004 through
+2007, a majority of companies trading at a premium were nondividend
+payers. This flipped from the first quarter of 2008 through 2009, when
+a majority of companies trading at a premium were dividend payers.
+Do some companies’ share prices benefit more from dividends?
+If so, when do dividends really matter? In principle, investors should
+prefer higher dividends from companies with few desirable investment
+opportunities, so that the investors can redeploy the capital
+elsewhere. And companies with an abundance of desirable growth
+opportunities can probably create more value than the investors can, so
+logically they should maintain low or no dividends. From the outside,
+however, we can’t assess the quality of investment opportunities, so
+we characterize companies by the returns and revenue growth they
+have generated historically.
+We evaluated average cash-on-cash returns over the 2000s to
+separate companies into high-, medium-, and low-return groups.
+We then divided each of these groups, based on whether a company
+experienced revenue growth above or below the 8.1% median annualized
+revenue growth for the full sample. Each company was classified
+as a nondividend payer, a low payer, or a high payer, depending on
+whether it was below or above the median dividend as a percentage
+of after-tax operating cash flow.
+Regardless of return, the companies with low revenue growth
+delivered higher TSR if they paid a dividend. The size of the dividend
+did not matter much, but paying a dividend was better than not. This
+effect was most significant for the group that was low on both growth
+and return, where both low- and high-dividend payers delivered median
+TSR that was a whopping 13.7% higher than the nondividend payers.
+For the medium-return group, the high-dividend payers delivered 6.9%
+more TSR per year than nondividend payers, and for those with high
+returns this difference was 3.5%. In sum, dividends seem to help the
+share prices of all low-growth companies, but the benefit is larger for
+low-return companies than for those with high returns.
+This pattern reverses for high-revenue-growth companies.
+Comparing the high payers to the nondividend payers, the TSR gaps
+for the high-, medium-, and low-return groups were –0.7%, –3.6%,
+and –0.5%, respectively. For high-growth companies there seems to
+be a drag on TSR from paying dividends, though the data is more
+scattered since company-specific circumstances vary more.
+So, what are the implications for managements contemplating
+dividend policy? First, recognize that changes to dividend policy will be
+heavily scrutinized by investors, analysts, and the media. But that’s no
+reason to avoid desirable changes. Also, remember that your reinvestment
+rate and future earnings stream will influence your share price
+more over time than your dividends, so keep your capital deployment
+priorities straight. Given the research, here are some guidelines:
+• If your company doesn’t earn the required return, and you expect
+growth to be lower than 8% per year, then your company should
+absolutely pay a dividend.
+• Even if your company does earn a high return, if you are not
+growing rapidly, then your TSR would probably benefit from
+paying a dividend.
+• If you expect to grow rapidly, dividends may constrain your
+TSR, particularly if they consume cash you could have invested
+in profitable growth. This is even true, though less so, if your
+returns are currently below the required return.
+Consider your prospects for deploying capital in high-return investments
+over the next few years. If the amount of expected investment is
+a large percentage of the cash you generate, you should be less inclined
+to initiate or increase dividends. But recognize that, if you have had
+returns that have fallen persistently below the required return, your
+share price may be penalized if you don’t pay a large-enough dividend.
+For companies with fewer desirable future investments, dividends
+should be more attractive. But if you have been aggressively investing
+in growth and have delivered returns well in excess of the required
+return, a dividend increase may hurt the share price. That’s because
+investors may conclude that you have run out of desirable investments.
+If you are on the fence, then more-modest dividend policies may
+be warranted, since this will leave more cash available for reinvestment
+in future growth.
+Cash Balances
+With the backdrop of record-setting repatriation of international cash
+balances in the wake of the Tax Cuts and Jobs Act of 2017, shareholders,
+analysts, and pundits are all up in arms about corporate America’s
+ballooning cash balances, and are demanding share repurchases to
+make productive use of the cash. Oddly, managements sometimes
+get more questions from investors about what they plan to do with
+idle cash balances than about strategy and operating performance.
+Should managements listen to their shareholders and distribute cash
+balances? Should they disgorge the financial slack, or is the flexibility
+it provides more valuable than any drag on performance of holding
+the cash?
+A number of strong arguments can be made in favor of cash
+distributions. Often, having a surplus of cash can take the pressure
+off and make executives less forceful in driving cost efficiency and
+capital productivity. Reducing the financial cushion can heighten the
+urgency for them to streamline operations and management processes
+in order to purge waste and eliminate unneeded activities. We have all
+witnessed this in our personal lives. When times are good, we spend
+on things that are not necessities; when times are tight, we avoid such
+purchases. That’s fine when we’re doing it with our own money and
+realizing the benefits for ourselves. But when working with other
+people’s money, we should have zero incentive to spend wastefully,
+whether it’s deliberate or inadvertent.
+The more financial slack a company has, the more investors worry
+about how prudent management will be in making investments.
+When money is tight, the burden of bad investments is quickly and
+sharply felt. But when cash is abundant, there is less sensitivity to
+such outcomes. Distributing cash reduces these perceptions of the
+risk of inefficient reinvestment. And reducing cash imposes the need
+for management to go to the market to raise capital for investments,
+which provides a market test of the validity of their investment strategy.
+Can management convince outside investors of the merit of its
+investment plan?
+The buyback is used more and more to distribute excess cash and
+yet, as discussed in chapter 8, the beauty of many buybacks is only
+skindeep. Despite surface appearances, our extensive capital market
+research at Fortuna Advisors has led us to conclude that a majority
+of repurchases are less attractive than they appear. Most companies
+would be better off either investing more in their business or holding
+the cash to wait for potential investment opportunities. If they
+do want to distribute cash, ordinary and special dividends tend to
+be more effective over the business cycle, since there is no price risk.
+Integrated Financial Policy Decisions
+So, what’s a management team to do? They will ask themselves:
+Should we have more or less debt? More or less cash? How aggressively
+should we use leases? Should we pay dividends? And should
+we buy back stock?
+The same financial flexibility arguments that apply to capital
+structure also relate to all elements of financial policy, so there is a
+consistent theme throughout this chapter. Corporate financial policies
+for target leverage, cash balances, leases, dividends, and share
+repurchases should not be the inadvertent outcome of a series of
+haphazard “insights,” such as “the leases looked cheap” or “in the
+one-on-one meeting, investors told us they’d like us to increase our
+buybacks.” Instead, financial policy should be deliberately and holistically
+designed to maximize value in the context of the chosen corporate
+business strategy as well as the desirability, size, and timing of
+investment opportunities.
+For a stable company with limited or predictable investment
+opportunities, financial flexibility is not particularly valuable. So, it
+would be appropriate to institute more aggressive leverage, cash, and
+distribution policies. But too often, management puts its company
+in this category when in fact the company has peers that are making
+successful large investments in their future. If a company has sizable
+growth investment opportunities despite uncertain timing, more flexibility
+may be required. Such situations dictate lower leverage, higher
+cash balances, and less distribution to shareholders.
+Operating leases should be used when their option value is strategically
+worthwhile. If a company typically buys assets in a highly
+regular pattern and uses them well past their depreciation life, then it
+probably should continue to buy them. Using debt to purchase assets
+is cheaper than leases in such cases. But if a company faces cyclicality
+and volatility such that the option to not renew leases from time to
+time would be valuable, then operating leases that commit to only a
+portion of the asset life would be better. As discussed above, it’s critical
+that the lease expirations be staggered so that in each quarter and each
+year there will be some leases that can be cancelled (not renewed),
+thereby pushing the asset risk back on the lessor. Another important
+consideration is whether assets tend to be replaced before they are
+fully depreciated. When this is the case, it reinforces the benefits of
+operating leases as a meaningful part of the capital structure.
+One thing is abundantly evident: Companies need to fully integrate
+their capital allocation and financial policies with their corporate strategy.
+This holistic view of strategy, capital allocation, and financial policy
+should be clearly communicated to the market, and companies should
+target investors who value their strategy appropriately. In the absence
+of a clearly defined corporate and financial strategy, investors will likely
+be skeptical or even fearful that the company will misuse its cash at
+the expense of shareholders. In such cases, the stock price is likely to
+fall, and investors are likely to demand their capital be returned, so
+that they can redeploy it elsewhere.
+Notes
+1 Gregory V. Milano and Joseph Theriault, “Is Financial Leverage Good for Shareholders?,”
+CFO.com, April 13, 2012, accessed January 15, 2019, http://ww2.cfo.
+com/capital-markets/2012/04/is-financial-leverage-good-for-shareholders/.
+2 Michael C. Jensen and Richard A. Posner, “Agency Costs of Free Cash Flow,
+Corporate Finance, and Takeovers,” American Economic Review, May 1986.
+3 Gregory V. Milano, “Can Operating Leases Be Strategic?,” CFO.com, March 15,
+2012, accessed January 15, 2019, http://ww2.cfo.com/management-accounting/
+2012/03/can-operating-leases-be-strategic/.
+4 Gregory V. Milano, “When Do Dividends Really Matter?,” CFO.com, April
+1, 2011, accessed January 15, 2019, http://ww2.cfo.com/banking-capitalmarkets/
+2011/04/when-do-dividends-really-matter/.
+5 Merton H. Miller, “Do Dividends Really Matter?,” Selected paper No. 57, Graduate
+School of Business, University of Chicago.

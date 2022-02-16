@@ -1,0 +1,1058 @@
+OVER THE LAST few decades, the cost of capital has become a
+commonly used benchmark for considering investment, performance
+management, and valuation decisions. These days, instead of blindly
+pursuing growth at any cost, many companies invest in buildings,
+equipment, technologies, brands, and human talent with the expectation
+of earning an adequate return on their investment. And corporate
+finance principles define an “adequate return” as the cost of capital.
+I began my career as a flight control system design engineer, and a
+colleague once said to me, “too much is no good.” We were working
+together on some design changes to an experimental plane, the X-29,
+and he was describing how nearly every attempt by his team to offset
+control system design deficiencies tended to overshoot and leave them
+facing the opposite problem. For example, if the aircraft tended to
+have too much lift when coming out of a specific maneuver, the design
+fix tweaked the algorithms in the flight control computers too much
+and tended to leave the aircraft with insufficient lift. Fortunately, my
+colleague was working on a simulator, and these bugs were repaired
+before the plane ever flew.
+So it has been with the cost of capital. The intended application of
+the cost of capital was as the discount rate to be used when calculating
+net present value of a long-term forecast of free cash flows. Many
+users of this analytical framework realized that the spread between
+the average return on capital and the cost of capital, over the life of
+an investment, was generally associated with net present value. That
+is, when the average return on capital exceeded the cost of capital, the
+NPV tended to be positive, and vice versa. As a result, many financial
+analysts, both at operating companies and at investment advisory firms,
+devised a shortcut whereby they would present this spread between
+return on capital and cost of capital as the most important variable
+in their performance scorecards. If the return spread was positive,
+they took this as an unambiguous sign that value was being created.
+The implications of measuring this return spread were positive
+at first, but the increasing focus on ensuring a wide and expanding
+positive gap between the company’s return on capital and its cost
+of capital has, in many cases, gone too far. Indeed, as with my flight
+control system design colleague, “too much is no good.” Far too many
+management teams are overly risk averse, which discourages new
+investment, and they often have become so preoccupied with beating
+the cost of capital by maximizing their return on capital that they
+tend to underinvest in the future of their business. The result, more
+often than not, is a high near-term return on capital, but a slowdown
+in capital investment, a decline in revenue growth, a weakening of
+differentiation and long-term prospects, a drop in valuation multiples,
+and, ultimately, poor total shareholder returns.
+These managements have the right intentions, but the outcome
+too often differs from their expectations. They habitually blame this
+outcome on the fickle stock market, but in fact they created a valuecreation
+problem by underestimating the influence of investment
+and growth on TSR. They hear, and heed, the calls from investors
+for more financial discipline, reduced capital spending, and a higher
+return on capital. They listen to what investors say, and over time they
+view capital expenditures and acquisitions as unfavorable necessities
+that should be minimized.
+This excessive focus on percentage rates of return and the resulting
+underinvestment has led many companies to experience rising cash
+balances, which leads to questions from investors about what to do
+with all the cash. To add to this, historically U.S. corporate tax law has
+exacerbated the problem by essentially giving companies a tax break
+by not taxing cash held overseas, trapping hoards of cash in foreign
+subsidiaries—though the Tax Cut and Jobs Act of 2017 largely fixed
+this part of the problem.
+While it may be no coincidence, this emphasis on rates of return,
+the deemphasis on investing in the future, and the surplus cash situation
+all developed at the same time that corporate America became
+infatuated with the stock buyback. Perhaps the biggest discrepancy
+between reality and common perception involves the impact of share
+buybacks on shareholder value. Quite a few academic research papers
+show that, on average, when a company announces a share buyback,
+its share price rises. If you believe stock markets are highly efficient,
+then this evidence alone is enough to convince you that buybacks are
+good for the company and its owners. No doubt, the stock market is
+very effective and accurate over time. But having lived through the
+junk-bond bubble, the Internet bubble, the real-estate bubble, and
+other less-pronounced bubbles, I am unwilling to believe it is accurate
+and efficient enough to base strategy development and decisionmaking
+solely on short-term stock market reactions to corporate
+announcements.
+The cases made for buybacks abound. Some investors and other
+commentators ask questions such as, “why don’t companies buy
+back more stock in their own company, which they know, rather
+than buying stock in other companies they don’t know?” It is easy
+to see how these buyback arguments are attractive to managements
+and boards alike. This is especially so when the very same share price
+reaction research is used to show that acquisitions, on average, destroy
+value—as demonstrated by the tendency of share prices to drop on
+the announcements of such deals.
+These days, many managements devote considerable attention
+to ensuring that their teams can deliver earnings per share (EPS)
+that meet or exceed the consensus estimates of brokerage analysts.
+In almost all cases, buying back stock lifts EPS, since the number of
+shares declines and earnings hardly change. Bankers use this angle
+to pitch share buybacks as a financial strategy, making it particularly
+appealing to managements who use EPS as a primary measure in their
+incentive compensation plans. After all, why not aim to improve the
+single most discussed measure of company performance?
+Taxes have also played a role. In years past, buybacks had better
+tax treatment than dividends, at least for the combined company and
+investor. However, the Jobs and Growth Tax Relief Reconciliation
+Act of 2003 eliminated this tax difference. Oddly, buybacks accelerated,
+growing nearly fivefold from 2003 to 2007. And over the five
+years through the end of 2017, total buybacks by the 353 members
+of the S&P 500 in the 2018 Fortuna Advisors Buyback ROI Report1
+amounted to $2.5 trillion, 64% more than was distributed in dividends
+by these companies. Total buybacks and dividends were $4.0 trillion,
+which is 106% of net income over the period. Many experts claim that
+corporate America is underinvesting in the future, and these figures
+suggest that this may be because investments are being crowded out
+by an obsession with distributing cash as dividends and buybacks.
+The strategic reality is quite different when we observe what
+investors do rather than what they say. A rigorous study of the performance
+of companies over time shows that those who deploy more
+of the cash earnings they generate to buy back stock deliver lower
+TSR to shareholders.2 Our original research on this was based on the
+1,000 largest nonfinancial U.S. companies as of 12/31/2009, excluding
+those not public for the entire period of the study. For the five years
+through 2008, the companies were separated into quartiles based on
+the amount spent on buybacks as a percentage of Gross Cash Earnings.
+Those directing more of their cash earnings to buybacks had
+lower median TSR, and each quartile showed successively worse TSR
+as the buybacks increased, as shown in figure 31.
+0%
+8%
+26%
+57%
+IV
+III
+II
+I
+Quartile on Buybacks/GCE
+Buybacks/Gross Cash Earnings
+28%
+21%
+12%
+-3%
+Median TSR
+More Buybacks
+Higher TSR
+Figure 31—Buyback Rate Inversely Related to TSR
+How can this be? Investors say they want most companies to buy
+back stock, and yet those that listen tend to do worse for shareholders.
+To unpack this, let’s reflect on the case of stock buybacks at a small
+private company. Consider a restaurant where you are one of five
+owners, and one of the other owners seeks to exit the business and
+pursue a different career path, as illustrated in figure 32.
+$000s Baseline
+Value
+Increases
+Value
+Declines Buyout
+Value
+Increases
+Value
+Declines
+Partner 1 (you) $200 $240 $160 $200 $250 $150
+Partner 2 $200 $240 $160 $200 $250 $150
+Partner 3 $200 $240 $160 $200 $250 $150
+Partner 4 $200 $240 $160 $200 $250 $150
+Partner 5 $200 $240 $160
+Equity Value $1,000 $1,200 $800 $800 $1,000 $600
+Debt $0 $0 $0 $200 $200 $200
+Total Restaurant Value $1,000 $1,200 $800 $1,000 $1,200 $800
+Individual Investor Returns 20% -20% 25% -25%
+More
+Upside
+More
+Downside
+Situation Before Buyout Situation After Buyout
+Figure 32—Restaurant Buyback Example
+If you buy out the fifth partner, the restaurant will borrow the
+money to pay for the repurchase of the departing partner’s shares.
+The remaining partners, then, will each own one quarter of the now
+somewhat leveraged business. If the purchase price is fair, and if
+the value of the business stays stable, the value of your stake in the
+restaurant won’t change. This can be seen by comparing the baseline
+and buyout columns in the figure.
+When you and your remaining partners get together to decide
+whether to buy out the departing partner, and at what price, your
+main consideration is the forward prospects of the business. You’re
+likely to be keen to buy out your partner if you and your remaining
+partners see a solid future with strong profit growth over the next few
+years. If your confidence turns out to be justified, you will realize a
+better upside than you would have with five partners, since the extra
+value creation will be shared by four owners instead of five. This can
+be seen in the figure by comparing the two Value Increases columns.
+The return rises from 20% to 25% because of the leverage effect of
+the debt and the reduced share count.
+By contrast, perhaps a renowned chef is rumored to be launching
+a new restaurant down the block, and you and your partners think
+your restaurant may have seen its best days. In this case, you don’t
+want to buy the partner out at anything but a very low price. You
+dread the thought of looking back in a few years to see your ownership
+worth a fraction of what you paid, as the decline in value would
+then be shared by fewer partners (as shown in the two Value Decreases
+columns). In this scenario, the leverage effect of the reduced share
+count causes the negative return to decline from –20% to –25%.
+For public companies, a stock buyback should be contemplated
+the same way. Share price increases after a repurchase will reward the
+remaining shareholders, since the gain is now divisible by fewer shares.
+The converse holds for a drop in share price: Just as with gains, losses
+are dispersed across fewer shares, meaning the company now is stuck
+with a higher concentration of the losses. When this happens, expect
+to hear groaning along the lines of: “the company repurchased 100
+million shares of stock when the price was $60, and now that it’s $40,
+they could have repurchased 150 million shares for the same amount.”
+So, the first lesson is that investors should prefer more buybacks
+when the upside seems better (when the stock price seems low), and
+they should want management to avoid buybacks when the stock
+price seems high and therefore when the prospects for further share
+price growth are diminished. Unfortunately, this is the opposite of
+what most companies do. As shown in figure 33, buybacks tend to be
+higher when stock prices are high relative to history, and vice versa.
+There are various explanations for why companies do a poor
+job of timing buybacks. One culprit is the conventional corporate
+approach to capital deployment, whereby certain uses of capital are
+prioritized and management successively allocates available cash to
+different possible uses.
+The traditional approach follows a sequence similar to the following
+prioritization. First come urgent financial needs. For companies that
+are overleveraged, the initial priority is to pay down debt and establish
+enough liquidity to ensure that the company remains viable. Next,
+companies typically consider organic investment and, if any money
+is left over, they may consider acquisitions as well. Next, or possibly
+before acquisitions, the company considers dividend increases. Finally,
+any money left is used for buybacks. This seems wonderfully logical—
+but unfortunately, capital is typically left over for buybacks only
+when the company is generating the most cash, which is also when
+the stock price is usually peaking. This capital deployment strategy
+often backfires because it ignores the business and market cycles and
+concentrates buybacks in times when the share price is the highest.
+$0.00
+$0.50
+$1.00
+$1.50
+$2.00
+$2.50
+$3.00
+-100
+0
+100
+200
+300
+400
+500
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
+Value of $1 Invested in the S&P 500
+Net Buybacks ($ billions)
+Figure 33—Net Buybacks for the S&P 500
+The desire to deliver strong quarterly EPS improvements also
+motivates buybacks at the peak of the market cycle. Generally, as
+we approach the top of a market cycle, we also approach the top of
+an economic cycle. So, though revenue and profits are still very high,
+the rate of growth slows down. Corporate leaders who have become
+accustomed to seeing strong quarterly EPS growth don’t really want
+the party to end, so as growth in net income slows down, their motivation
+remains strong to buy back shares to maintain EPS growth.
+Once again, this tends to drive up the volume of buybacks at the
+worst time for the remaining shareholders: when the price is highest.
+The decision-making challenge at hand is complex and fraught
+with all sorts of behavioral biases. We don’t really want management
+to sit on excess cash, since this can serve as a slush fund to absorb
+errors and can even lead to poor discipline and subpar investments,
+which can invite activist investors. And the cash may be more valuable
+in the hands of another management team that faces more desirable
+or plentiful investment opportunities. Nor do we really want the
+company to disgorge its cash when there may be better things to do
+with it internally, now or in the future. We need a consistent means
+of comparing past and future buybacks to other past and future uses
+of capital; but unfortunately, investments tend to be evaluated using
+rates of return and NPV, while buybacks are evaluated, if at all, based
+on EPS accretion/dilution statistics. So, how do we compare an investment
+that is expected to earn a 17% IRR to a buyback that is expected
+to improve EPS by $0.02?
+What’s worse, EPS accretion generally considers only the nearterm
+decline in share count from the buyback. It doesn’t consider the
+potential net income, had the capital been invested. In other words,
+factoring EPS accretion alone ignores the opportunity cost of buying
+back stock.
+This capital deployment dilemma led me to develop a new
+measure of a buyback program’s return on investment, which I
+refer to as Buyback ROI. This measure was specifically designed
+to address the above-mentioned need to make direct comparisons
+of buybacks to other uses of capital, such as buying equipment or
+making acquisitions. Buyback ROI reflects the annualized rate of
+return, determined by comparing the capital deployed to repurchase
+shares to the dividends saved, plus what the shares would be worth
+at the end of the period.
+Consider a company that uses $100 million to buy back five million
+shares at $20 dollars a share. To keep it simple, let’s assume they don’t
+pay dividends. If at the end of the year the share price is $18, the
+buyback doesn’t look too good. The decline in value of $2 represents
+a negative 10% Buyback ROI. Just like the restaurateurs who didn’t
+want to sell high and watch the value of their restaurant fall, public
+shareholders don’t want management to buy at $20 in advance of a
+$2 share price decline. Had management waited, it would now be
+able to buy back more shares at $18.
+When calculating Buyback ROI using public information, we
+would like to use the monthly number of shares and the average
+share price that is reported in the quarterly 10-Q report. But, as of
+this writing, this data is not captured in the Capital IQ database, so
+we relied on the quarterly amount deployed to buy back shares in the
+statement of cash flows. Our standard approach is to use the average
+daily closing price each quarter to estimate the number of shares
+purchased, which may be a bit high or low, depending on how well
+managements time their buybacks within the quarter. Of course, all
+the evidence points to poor buyback timing by many managements,
+so our assumption may indeed make the situation look better than
+it really is. But it could go the other way, too.
+Some say this approach is too exposed to the whims of fickle
+markets and unexpected share price movements. This is true, but
+how is this different from acquiring a public company? Is the price
+paid in an acquisition to be ignored because of market quirks? Of
+course not, so it shouldn’t be ignored in a buyback. In fact, it is quite
+possible for management to estimate a rough intrinsic value and
+then to distinguish when a share price is generally high or low. This
+is especially true in an environment in which the company’s shareprice
+high during a given year is often 40%–50% or more above the
+low for the year.3 But despite how reasonable it seems to try to time
+buybacks better, managements are notoriously bad at determining
+when their own share price is (too) high or low.
+Coming back to Buyback ROI—we can disaggregate the measure
+into the two main drivers of whether a buyback actually creates
+value. The first Buyback ROI driver is Buyback Strategy, which tells
+us whether a company bought back shares during a period when its
+share price was generally rising. Buyback Strategy reflects the total
+shareholder return, based on share price appreciation and dividends
+over the period.
+Predictably, companies with rapidly rising share prices tend to
+have higher Buyback ROI. So, naturally, it’s a good Buyback Strategy
+to repurchase shares when the share price is rising. In such situations,
+reducing the share count tends to push the share price even higher,
+since the quarter-by-quarter increase in market capitalization is spread
+across fewer shares. Similarly, companies with falling share prices tend
+to deliver a low or negative Buyback Strategy, because the decline in
+market capitalization is also spread across fewer shares, accelerating
+the decline in the per-share price.
+The second Buyback ROI driver is Buyback Effectiveness, which is
+simply the compound difference between Buyback ROI and Buyback
+Strategy and reflects how well buybacks were timed, based on price
+fluctuations within a given period.4 Companies that tend to buy back
+more when the share price is below the overall trend, and less when
+it is above, buy back more shares for the same amount. In other
+words, their buybacks are more effective. It should be noted that
+Buyback Effectiveness is positive whenever Buyback ROI is higher
+than Buyback Strategy.
+After developing these new measures of buyback success, Institutional
+Investor magazine chose to publish our Buyback ROI Ranking
+in its November 2012 issue. Yet, even five years later in 2017, in an
+article titled “The Most and Least Effective Buyback Programs,”5
+author Stephen Mintz wrote: “In fact, return measurements that are
+typically applied to capital expenditures, mergers and acquisitions,
+and virtually every other use of corporate capital are rarely used to
+measure the value of buybacks, even though they consume equal or
+greater amounts of corporate capital.” We agree.
+The magazine decided to have us determine the Buyback ROI
+ranking, based on the trailing two years, or eight quarters. While we
+considered using a longer period to elicit more robust findings, the
+editors preferred a shorter period to show results that were more
+current and more relevant to their readership. We ranked only those
+companies that spent an amount on buybacks that was at least 4%
+of their ending market capitalization, or at least $1 billion, so as to
+exclude those where the findings might be less meaningful. The first
+ranking showed an average Buyback ROI of 9.7%, with an average
+Buyback Strategy of 10.7% and an average Buyback Effectiveness of
+–1.0%. Overall, these buybacks didn’t create or destroy much value,
+as their Buyback ROIs were probably not far off the average cost of
+capital; if your shareholders want to earn a 10% return and you deploy
+capital at 10%, you neither create nor destroy value.
+Though it seemed neutral on average, at the extremes the results
+were quite different. Sunoco, the energy company, led the table with
+a whopping Buyback ROI of 115.4%. It was a great time for it to
+buy back stock, as shown by its Buyback Strategy of 34.2%, which
+was amplified by good buyback timing, as indicated by a Buyback
+Effectiveness of 60.5%.
+To understand the relationship between Buyback Strategy,
+Buyback Effectiveness, and Buyback ROI, it is helpful to see the math,
+as shown in Figure 34.
+( 1 + ) ( 1 + 34.2%) Buyback
+Strategy
+X ( 1 + ) ( 1 + 60.5%) Buyback
+Effectiveness
+= ( 1 + ) ( 1 + 115.4%) Buyback
+ROI
+Figure 34—Sunoco Buyback ROI as of 2012
+In that inaugural 2012 ranking, the top 18 companies all had
+both positive Buyback Strategy and positive Buyback Effectiveness,
+meaning they timed their buybacks well, as the price was generally
+rising. And the bottom 18 were all negative on both Buyback Strategy
+and Buyback Effectiveness, indicating both that it was a bad time
+for them to pursue buybacks generally, and that, based on the price
+movements within this period, they also timed them poorly. While at
+the time of this writing it seems hard to explain, Netflix was last on
+the list with a Buyback ROI of –51.9%. After that, however, Netflix
+delivered very strong share price performance and its Buyback ROI
+improved considerably.
+These rankings continued on more or less a quarterly basis in
+Institutional Investor, but then Fortune Magazine picked up the ranking
+for 2017 and requested a few changes. Most important, the period
+evaluated was extended to five years, or 20 quarters. This decision
+was made collaboratively with the editorial staff, but we at Fortuna
+Advisors felt fully on board. The longer period would provide a more
+robust impression of how companies were performing on buybacks,
+with less influence from market volatility.
+On May 1, 2017, Ryan Derousseau’s article “Stocks that Dodge
+the Buyback Blues”6 appeared in print and in a longer format on
+Fortune’s website. The strong stock market over the five years ending
+in 2016 drove median Buyback Strategy up to 16.6%, which created a
+better environment for buybacks to be successful. Unfortunately, the
+ability to successfully time buybacks got worse and average Buyback
+Effectiveness dropped to –4.3%. Almost a third of the median positive
+buyback strategy was consumed by poor buyback timing, and
+median Buyback ROI diminished to just 11.2%. These returns were
+still slightly positive for shareholders, but could have been improved
+with better timing.
+The second Fortune article, “Why Stock Market Buybacks Should
+Make Investors Nervous,”7 again authored by Ryan Derousseau, was
+published on April 20, 2018. It showed that median Buyback ROI rose
+from 11.2% in the prior ranking to 13.8% for the five years ending
+in 2017. By sorting companies into high, medium, and low groups
+based on their buybacks over the five years as a percentage of recent
+market capitalization, we were able to measure whether companies
+doing more or fewer buybacks had better median Buyback ROI. We
+found that the high-buyback group had the lowest median Buyback
+ROI, Buyback Strategy, and Buyback Effectiveness. This, of course,
+was very bad news for investors who advocate heavy use of buybacks.
+As we have learned already, too much is no good.
+We developed Buyback ROI during a bull market and, as of this
+writing, the bull is still charging ahead. This has served as wind at
+the back of the massive corporate buyback programs. But how will
+these enormous buyback programs that were executed in 2018 look
+through the Buyback ROI lens after the next market downturn? People
+sometimes quip that there are two certainties in life, death and taxes.
+But they should add a third certainty: cycles. Ever since there has
+been an economy, it has gone through cycles, and the stock markets
+also go through cycles. After every upturn in the past, a downturn
+has always followed, then after that another upturn (and so on, into
+infinity). Everyone knows this, but few behave accordingly.
+As discussed above, perhaps the worst part of this buyback mania
+may be how buybacks have crowded out good investment in operations,
+thereby depleting the potential future value of growth. At first, I
+was somewhat apprehensive about my hypothesis that buybacks were
+impeding good investments. Though the numbers seemed to support
+that view, I couldn’t envision any meaningful number of executives
+deliberately underinvesting so that they could pursue more buybacks
+and elevate short-term EPS. Then a series of corporate experiences
+provided the confirmation I had been seeking.
+My former partner, John Cryan, and I were looking for a way
+to bridge the gap between the notions that “Buybacks lead to worse
+TSR” and “Buybacks increase EPS.” John began testing changes in
+PE multiples for companies that did or did not do buybacks. While
+it was his idea, we worked together on the research and published
+our findings that, on average, PE multiples declined relative to those
+of the overall market for companies doing heavy buybacks.8 The
+more that EPS increased from repurchasing shares, the less valuable
+each dollar of incremental EPS became. Our study showed that each
+increment of EPS growth from buybacks was worth about half as
+much as EPS growth from profitable revenue growth together with
+operational improvements.
+This was significant to us because, as former investment bankers,
+we had participated in many client meetings where the industry
+bankers and financial strategy experts expressed some variant of the
+following: “If your EPS rises by 15%, and if we assume the PE multiple
+stays the same, then your share price should also rise by 15%.” It seemed
+to management like a pretty easy way to boost the share price. Back at
+the office, we often wondered why they would assume the PE multiple
+would stay the same. When we would ask them, the response was
+“why not?” Now we had evidence that the PE multiple declines, on
+average. But we are quite sure few bankers have changed their story.
+OK, so I get a little intense when it comes to buybacks. At least
+that’s what I was told by friends who read my debate with Whitney
+Tilson that was published as “The Pros and Cons of Stock Buybacks” in
+The Wall Street Journal.9 But who wouldn’t be intense if they discovered
+that companies were deploying an average of half a trillion dollars
+each year to do something that often hurts investors?
+This is not to say that companies should avoid distributing cash
+to investors when they have a surplus and foresee few promising
+investment opportunities. But by doing this through buybacks, they
+are imposing price risk on their remaining shareholders. Given the
+preponderance of poorly timed buyback programs, a less risky way
+for them to distribute cash to investors is a special dividend, through
+which all shareholders receive the same treatment. Unfortunately, two
+major obstacles stand in the way. First, the special dividend imposes
+a tax event on the investor, whereas buybacks allow the investor to
+choose whether they want to sell and trigger a tax event. Either they
+get the cash if they sell into the buyback, or they get the potential
+benefit of a reduced share count if they don’t.
+The second problem is much larger, and it is the main reason
+we seldom see special dividends. Long-term incentives in the form
+of restricted stock, performance shares, and stock options are rarely
+insulated from special dividends. For example, consider stock options.
+Standard dividends reduce the valuation of stock options since the
+likelihood of share-price appreciation is reduced by the payment of
+dividends. Since each option is worth less, managers tend to be given
+more stock options when the company pays dividends. So, the present
+value of what is delivered to them is unaffected by the dividend.
+There is no easy way to factor in potential (future) special dividends
+at the time of granting, so when special dividends are paid, the value
+of all long-term incentives declines.
+Imagine a share price of $20 and a special dividend of $2. Typically,
+the share price declines all or most of the way on the ex-dividend
+day—that is, the day the dividend is locked in even if the stock is sold.
+If management holds stock options with an exercise price of $16, the
+day the special dividend is paid they forfeit half of the in-the-money
+value. Management wouldn’t want that, so they prefer stock buybacks.
+It shouldn’t be hard to change the language in long-term incentive
+contracts to prevent these distorted incentives, yet few companies
+have done so.
+The process for capital deployment decision-making includes
+making estimates of all sources of capital, including operating cash
+flow, cash expected from transactions, cash in the bank, and potential
+borrowings—and then determining the best way to deploy this capital
+across the company’s opportunities for organic investment, acquisitions,
+buyback, dividends, and debt repayment. Many companies get
+this process wrong every year.
+Key Capital Deployment Principles
+The golden rule of capital deployment, whether we are considering
+capital expenditures, acquisitions, or buying back our own shares, is
+that value is created only when we buy something that turns out to
+be worth more than what we paid. If we are interested in long-term
+sustainable value creation, what matters is what it’s worth over the
+long haul, not the day after we buy it.
+There seem to be many more executives who can recite this simple
+NPV rule than can actually follow it. Few deliberately ignore it. But
+executives are human and face all sorts of real-world pressures and
+obstacles. So, while they all mean to do the right thing, they often
+can’t help themselves.
+As discussed in chapter 1, the field of behavioral finance can
+help explain why investor and managerial behavior often deviates
+from maximizing NPV or even self-interest. Remember that recency
+bias suggests that we often extrapolate recent events into the future.
+From a capital deployment perspective, this leads to investing too
+much, both organically and in acquisitions, at the top of the cycle
+(when assets are most expensive). Other behavioral biases, such as
+“loss aversion,” exacerbate this tendency by causing procrastination
+and “analysis paralysis,” rather than decisive action. Leverage, too,
+can play a part by amplifying the effects of this loss aversion and thus
+further slowing down the decision process.
+Another critical behavior bias is “herding,” in which executives
+find it easier to follow what others are doing, or seem to be doing.
+This bias leads to poorly thought-out capital deployment strategies
+that mimic the behavior of others in the industry. Few executives
+feel comfortable standing out from the pack, which also of course
+has to do with loss aversion. Many managers are so loss-averse and
+concerned with self-preservation that they appear to be content to
+just hand money back to investors. This may seem like a conservative
+and prudent decision, but it often leads to underinvestment.
+And managers’ incentives may be, or at least are perceived to be,
+asymmetric with more downside than upside. Many executives
+have observed early in their careers that even small failures are
+punished more than successes are rewarded, and the result is a
+conditioned reluctance to pursue any growth investment with an
+expected outcome that is less than certain.
+In addition to these biases, organizations experience all sorts of
+office politics, power struggles, and bureaucratic restraints that also
+lead to “groupthink,” maintenance of the status quo, and the stifling
+of alternative or dissenting ideas. These effects can all severely restrict
+the creativity and innovation that should fuel growth.
+Most of us, at least at times, fall prey to the likes of recency bias,
+loss aversion, herding, and poor understanding of business cycles.
+Luckily, we can develop fact-based capital deployment policies and
+processes that help overcome these natural biases and steer us toward
+doing what is right for investors.
+It was shown earlier in figure 33 that buybacks tend to happen
+when prices are high, despite the fact that most managers understand
+they can buy back more and deliver more benefit to their shareholders
+if they’re patient and avoid buybacks around the peaks.
+As shown in figure 35, a similar relationship exists for acquisitions;
+that is, companies commit more capital to acquiring other companies
+when they’re expensive than when they’re cheap. This would indicate
+that companies are either not considering or unable to perceive
+macro price and market trends when making acquisitions. In certain
+years, companies have overpaid by billions of dollars by ignoring this
+principle of “buy low, sell high.” Of course, in the middle of a sharp
+downturn, such as the 2009 financial crisis, it is difficult to summon
+the confidence to make a large, acquisitive bet—unless your name
+is Warren Buffett. But why was almost twice as much invested in
+acquisitions in 2007 than in 2005, or in 2016 than in 2013?
+$0.00
+$0.50
+$1.00
+$1.50
+$2.00
+$2.50
+$3.00
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
+Value of $1 Invested in the S&P 500
+Cash Acquisitions ($ billions)
+Figure 35—Cash Acquisitions for the S&P 500
+If we care about the difference between the value of what we
+get versus what we pay, then buybacks and acquisitions shouldn’t
+be concentrated at the top of the market cycle when prices are the
+highest. At a minimum, they should be spread somewhat evenly over
+the cycle. To achieve this requires capital deployment processes that
+are explicitly designed to overcome our natural human biases when
+they would lead us to suboptimal choices.
+It is easy to be overwhelmed by the complexity of capital deployment.
+There is a certain amount of cash available from operations, and
+the company can borrow more, sell stock, or divest existing businesses
+to generate more for allocation. This capital can be used to invest
+organically or in acquisitions, to pay dividends or buy back stock, or
+to adjust the capital structure by accumulating cash or paying down
+debt. As shown in figure 36, two important decisions drive the process.
+First, we must assess whether there are current desirable investment
+opportunities; second, if there are no such opportunities, we must
+assess whether future ones can be expected.
+Investment
+Sources of Capital
+Flexibility Distribution
+Cash from
+Operations
+Cash from
+Financing
+Cash from
+Divestments
+Current
+Investment
+Opportunities
+?
+Future
+Investment
+Opportunities
+?
+Organic Growth
+Acquisitive
+Growth
+Pay Down Debt
+Build Cash
+Dividends
+Share
+Repurchases
+Yes
+No
+No
+Yes
+Figure 36—The Sources and Uses of Capital
+The process seems simple—just two straightforward questions
+to answer. But every source and use of capital is as dynamic and
+subject to change as the critical internal and external factors that
+tend to drive such decisions. And to further complicate the matter,
+many of these factors interact. Perhaps a consumer staples business
+has suffered a 15% decline in its share price due to a negative market
+reaction to a recently announced acquisition. At this lower valuation,
+buybacks may look attractive; but as a result of the financing
+commitment to fund the announced acquisition, the company would
+need to borrow to fund the buyback, which may push credit stats
+below the desired range. Management decides against a buyback.
+Would the answer be different if the share price fell 25% and thus
+created more upside for the buybacks? What if the share price fell
+by half, or more?
+Or consider a hot retail business that has readily found and invested
+in new store opportunities that have delivered consistent 25%–30%
+cash returns. The company is innovative and successful at marketing,
+so the returns are expected to be sustainable. These returns are on
+the order of three times the required return of 8%–10%, and an NPV
+analysis shows that each dollar the company invests in new stores
+turns into three dollars of present value. The store footprint is still
+rather small, so there appears to be a lot of runway to keep opening
+value-creating stores for years to come.
+A competitor becomes available for sale, and management considers
+acquiring it since it is convinced it can run that brand better. But to
+complete the acquisition would absorb so much human and financial
+capital that it would slow the expansion of the existing brand. The
+question in this case is not whether the NPV from the acquisition is
+positive; it is whether the NPV is sufficiently positive to make up for
+the lost NPV from slowing the growth rate of the existing business.
+This type of analysis can be performed to evaluate alternative investment
+decisions and the opportunity costs associated with them—in
+this case weighing organic versus acquisitive growth. Consider how
+the decision would differ if the base business were mature and had
+few growth opportunities. Then there is a much lower threshold
+before the acquisition creates value.
+Ten Key Principles for Effective Capital Deployment
+Complexity is best dealt with by establishing principles to guide
+management and designing processes to rigorously follow those principles.
+The following 10 key principles for effective capital deployment
+provide the foundation for establishing an enduring capital deployment
+process to drive long-term value creation.
+Principle 1—The Top Priority Is Survival: In order to have the opportunity
+to achieve success, company leadership must first circumvent complete
+failure by ensuring business survival. Management must avoid excessive
+risk-taking, provide adequate financing capacity and liquidity, and protect
+important tangible and intangible assets, including key personnel, brands,
+technologies, and other essential differentiators. Many business failures
+are avoidable with adequate forethought and planning, but most truly
+difficult challenges come from underestimating change. For example,
+companies producing record albums when CDs were introduced in 1984
+probably expected a more gradual transition, but what they got was an
+abrupt upheaval. By 1990, most music was purchased in the form of CDs.
+And then CDs were replaced by electronic content ownership, which has
+now been replaced by streaming. What’s next?
+Survival is the top priority, for obvious reasons, but most managements
+don’t pay enough attention to change. Management must devote
+resources to identifying potential threats to survival and then act to get
+ahead of change and turn these potential threats into opportunities.
+The biggest obstacle, of course, is short-termism, which is reinforced
+by overconfidence, procrastination, and a distaste for cannibalizing
+existing products or services. It also doesn’t help that many managers
+feel they can readily influence their own short-term compensation
+but often view long-term incentives as a bit of a lottery. Management
+processes and incentive compensation must be structured to explicitly
+address and reduce the impact of each of these obstacles.
+Principle 2—Buy Low and Sell High, Really: To emphasize NPV
+in capital deployment requires a mindset of always buying low and
+selling high. In the movie Caddyshack, Rodney Dangerfield bellowed
+into his golf bag phone, “What’s that? Then sell! Oh, they’re selling?
+Then buy!” Audiences laughed because of the absurdity, but also
+because of the cliché. Still, clichés are clichés for a reason, and the
+value of selling when others are buying, and vice versa, is obvious to
+the vast majority of investors. But we know from the previous discussions
+of buybacks and acquisitions that corporate executives tend to
+do the opposite of Rodney’s maxim. It can sometimes be difficult to
+tell when prices are too high or low, so executives must pay careful
+attention to cycles and rely on thoughtful analysis to actually buy or
+sell assets when prices are favorable.
+One important way to do this is to explicitly factor the expectation
+of operational, financial, and other cycles into planning and
+decision-making. One oil and gas CFO explained how he uses the
+same midrange oil price when considering the acquisition of new oil
+and gas reserves, regardless of where the industry is in the commodity
+price cycle. This way, he tends to buy more reserves when they are
+cheap and fewer when they are expensive. For companies in industries
+that don’t experience much cyclicality in financial performance, it is
+still important to pay attention to market cycles. From the 2007 peak
+to the trough of the market in the 2009 financial crisis, the median
+utility company suffered TSR of –41%. Utilities are not viewed as
+being cyclical. Indeed, the median utility, Exelon, saw its EPS increase
+slightly from $4.03 to $4.09 from 2007 to 2009, a period when its
+EBITDA increased 9.5%. So why was its TSR –41%? Market fear.
+Exelon acquired no competitors that year, but perhaps it could have
+improved its long-run performance by buying a very stable competitor
+that would have essentially been on sale.
+Principle 3—Don’t Follow the Crowd: Make it a strong policy to
+never select capital deployment choices because some loud shareholders
+ask you to do it, or because bankers say everyone is doing it, or
+because you overheard on the golf course or at the yacht club that
+your rival is doing it. Did Warren Buffett see everyone buying railroads
+in 2009 when he announced the investment of $34 billion to buy the
+Burlington and Northern Santa Fe railroad? Doubtful. In fact, it was
+that everyone lost interest in railroads that created the opportunity.
+Did he care what the immediate investor reaction would be, or did
+he focus exclusively on whether he could buy an asset for anything
+less than his assessment of its long-term intrinsic value? We seek to
+make capital deployment choices that create value whether or not
+they are perceived as “trending.” And indeed the best investments are
+often not trending; good—that is, value-creating—ideas that everyone
+is pursuing aren’t value-creating for long.
+This contrarian mindset is not new. In 1841, Charles Mackay
+published Extraordinary Popular Delusions and the Madness of Crowds,
+which discusses Dutch tulip-mania, the South Sea Company bubble,
+and numerous other examples where the crowd, or the market for our
+purposes, got it wrong. Market bubbles are an unbelievably interesting
+deviation from long-run market efficiency, and Mackay’s book offers
+one of the earliest commentaries on the subject. What’s most useful
+for corporate managers is to understand the innate desire to follow
+the crowd. This type of “herding” can be seen today by both companies
+and investors in the market. For those who were old enough at
+the time, look back at the Internet bubble and think about the typical
+business news commentary in those days. The repetitive buzzing of
+“profits don’t matter anymore, it’s about clicks and eyeballs” fueled an
+emotional response of not wanting to miss out. This fear of missing out
+feeling, or FOMO, afflicted even the well-schooled in finance, valuation,
+and basic economics, among other less sophisticated investors. Capital
+deployment processes must explicitly contemplate emotional bubbles
+and their effect on the likely trends and opportunities to be managed.
+Principle 4—Investment Usually Outperforms Financial Engineering:
+Much more long-term value comes from investment and
+execution than from financial engineering. In the very same study and
+article behind figure 31, we showed the positive relationship between
+investment in the business and TSR, as shown in figure 37.
+19%
+44%
+68%
+115%
+IV
+III
+II
+I
+Quartile on Investments/GCE
+Investment/Gross Cash Earnings
+-3%
+12%
+25%
+34%
+Median TSR
+More Investment
+Higher TSR
+Figure 37—Reinvestment Rate Positively Related to TSR
+Investment creates value, on average, because it’s not a zerosum
+game; and companies, on average, deliver returns well above
+the required return demanded by investors. Managers need to be
+disciplined, since it’s easy to make bad investments, but this should
+only lead them to be extra careful rather than leading them to avoid
+making investments altogether. As long as the incremental return is
+above the required return, managers should drive the reinvestment
+rate as high as possible.
+Principle 5—Prioritize Organic Investment: Virtually all great business
+success stories began with some form of organic investment,
+especially investments that increase differentiation through innovation
+and branding. So organic investments should always be given priority
+over acquisitive investments. The range of organic investment opportunities
+is wide. It includes projects that are familiar, have reasonable
+risk exposures, and are expected to produce decent, but not extreme,
+upside potential, such as expanding production capacity, improving
+efficiency and productivity, and updating the look and feel of retail
+stores, restaurants, and hotels. These can be classified as either doing
+more of what we already do or doing what we do better.
+Opportunities also exist to invest in less familiar areas, sometimes
+taking on greater risks and potentially realizing extremely substantial
+returns. This can include the development of new products and
+services, the marketing launch of totally new or significantly rejuvenated
+brands, or the expansion of delivering products and services to
+new geographies. For example, consider a pharmaceutical company
+that contemplates investing for many years in expensive scientific
+research with the hope of developing a new drug that then requires
+tremendous research and marketing to ensure efficacy, navigate regulatory
+approval, and bring the treatment to market. Every company
+should dedicate at least a reasonable portion of its investment budget
+to higher risk-reward areas; and for those with existing commercial
+products and services, there will usually be plenty of opportunity to
+make lower risk-reward investments to drive the existing business
+forward. But both the low- and high-risk organic investments should
+be prioritized over acquisitive investment.
+Principle 6—Be Willing to Grow Carefully by Acquisition and
+Shrink Through Divestitures or Spinoffs: It has become a bit of a
+business cliché to say that “most acquisitions destroy value.” Fortunately,
+this is not true, generally. The vast majority of our capital
+market research across industries and varying time periods shows that
+those investing more in acquisitions do, on average, deliver higher
+average TSR. We all know of spectacular acquisition failures, such as
+the 1998 acquisition of Chrysler by Daimler and the 2010 acquisition
+of Palm by HP—both deals that turned out terribly for the acquirer in
+rapid fashion. These, and other such disasters, make for eye-catching
+news headlines but are truly a small minority of cases.
+Although acquisitions should be a second priority behind organic
+investment, it is quite possible to build a successful acquisition track
+record. Like learning all other skills, acquisition expertise requires
+development and practice. This is why serial acquirers tend to perform
+better than occasional acquirers. It is also critical to align acquisition
+strategy with business strategy, as will be discussed in chapter 11.
+Companies should actively monitor a list of potential targets and
+constantly grade them on fit and desirability, as indicated by the value
+expected to be received in relation to the price. Success is much less
+likely with such a deliberate process versus when deals originate
+with a banker stopping by with a pitch book of ideas, or an offering
+memorandum on a company that wasn’t otherwise contemplated by
+the acquirer. It’s like having a real estate agent regularly show you
+and your family houses that are available—you may end up moving
+to a bigger and more expensive house that you weren’t even thinking
+about beforehand.
+Principle 7—Leverage Tends to Stifle Investment: Maintaining
+high debt leverage can be a bigger problem than buybacks in some
+companies. In good times, leverage seems good. If our business is
+growing strongly with nice profit margins and decent rates of return,
+having more leverage will amplify the EPS growth rate, and TSR will
+often follow it, to at least some degree. But if, or frankly when, the
+economy falters, the industry loses momentum, or our company
+suffers a competitive setback, perhaps due to a new competitive product
+that leapfrogs our own, then the leverage will amplify the downside
+just as it did the upside. From the S&P 500 peak on October 9, 2007,
+through the trough on March 9, 2009, the S&P 500 fell 57%. In most
+sectors, the companies that had higher total debt as a percentage of
+EBITDA at the start of the market downturn had worse TSR over
+the 17-month period than their less-levered peers. The most notable
+exception to this was healthcare, which is one of the least cyclical of
+industries.
+What’s worse is that the amount of debt leverage seems to also
+have a negative impact on the willingness to invest in growth. This
+is unbelievably important, yet generally goes unrecognized. Many
+corporate finance experts claim that having more debt creates value
+by causing a reduction in the weighted average cost of capital and
+showing how the present value of free cash flow rises; but they fail to
+incorporate the effect the debt has on the amount of long-term free
+cash flow. Companies faced with the financial risk associated with
+high debt levels tend to invest less in the business, and this behavioral
+effect can make the company value drop even though the company
+has reduced the weighted average cost of capital.
+Principle 8—Implement Buyback Execution Rules: The goal of
+buybacks should be to create value for the remaining shareholders by
+buying back shares that management believes are worth more than
+what must be paid to repurchase them. It’s no different from buying
+stock in another company.
+To combat the tendency of companies to buy back more stock
+when it’s expensive than when it’s cheap, as discussed above, companies
+should implement rules-based processes for executing stock
+buybacks, as will be discussed in chapter 12. It’s important to recognize
+that companies pursuing buybacks tend to suffer declines in
+their price-to-earnings valuation multiple; so perhaps companies
+should mandate that the words “buyback” and “EPS” never be
+mentioned in the same meeting—whoever breaks this rule has to
+put $20 in the holiday luncheon fund. At least for the first year of
+this policy, this should provide a tidy sum for some joyous celebrating
+at year-end.
+Principle 9—Dividends Are Value Neutral: Potentially the most
+misunderstood use of capital is the dividend, which is only a means
+of giving shareholders access to money they already own. Nothing
+more, nothing less. By definition, dividend policy cannot create longterm
+value. There is a theory that dividends communicate confidence
+in the business, and sometimes this is true. But, frankly, a faltering
+dividend trend is more likely to convey a lack of confidence. As will
+be discussed in chapter 12, dividends are more an outcome of capital
+deployment strategy than they are a strategy in and of themselves.
+One potentially beneficial, but rarely tapped, use of dividends is
+as a better alternative to stock buybacks when a company wants to
+distribute excess capital while its share price is above the midpoint of
+the market cycle. This still isn’t true value creation; it’s the avoidance
+of the value destruction that would come from buying back what will
+later seem to have been overpriced shares.
+Principle 10—Value Creation Is Hard Work: Recognize that there
+are no tricks, easy paths, or quick fixes. For example, if the company’s
+earnings have been growing for a few years, but now the economy
+is peaking and earnings growth is slowing, a quick fix to boost next
+quarter’s EPS by repurchasing a boatload of stock may give the share
+price a pop on the date of announcement. But over the ensuing cycle,
+management and shareholders alike will probably regret the move and
+wish management had held the cash to be used when assets, including
+the company’s own share price, were more attractively priced.
+A Dynamic and Integrated Capital Deployment Process
+Capital should be earmarked for areas where it can provide the most
+benefit, rather than being smeared indiscriminately across a broad
+range of opportunities. To this end, the foundation for a successful
+capital deployment process requires insights into the company’s
+sources of success and failure. Such insights entail an understanding
+of performance both across the company and in comparison to
+competitors, customers, and suppliers. In which business areas do
+we have strong strategic positions in attractive markets where we
+can earn high sustainable returns—and more important, why? Do
+we have the most sought-after product features, the most ardently
+desired brand, the most comprehensive distribution network, or
+some other source of competitive advantage that allows us to price
+at a premium in relation to costs, including our cost of capital? With
+a broad understanding of the sources of value-creation success and
+failure, we are better equipped to allocate resources to their best
+possible uses.
+The market environment, the industry, and indeed everything
+inside the company is dynamic. The pace of disruption has accelerated
+in recent decades and is likely to continue to do so in the future. It is
+not enough to look backward when formulating capital deployment
+strategy; we must also constantly monitor changes and new developments,
+and be ready to adjust the capital deployment plan in real
+time. A contemplated acquisition could suddenly be more attractively
+priced, which could crowd out other capital uses or draw down on
+available debt capacity. Or a competitor may launch an unexpected,
+new and improved offering in direct competition with our strongest
+product, requiring us to accelerate our own innovation projects, step
+up marketing, and compete more aggressively on price until our own
+superior products are available. Some sectors and industries are more
+dynamic than others and require greater financial flexibility as well
+as a more active real-time capital deployment process to be able to
+seize opportunities and react to threats.
+Far too many companies view the various areas of capital deployment
+as separate processes, without recognizing and dealing with
+their interrelationships. How much we invest organically affects what
+we have available to invest acquisitively, while our total investment
+commitment affects cash and debt balances along with the ability to
+devote capital to buybacks and dividends. But we often see operations
+managers handling a share of the organic investment, with the rest
+being managed by marketing and product research departments, all
+independently, while acquisitions are contemplated by a corporate
+development group. Often the treasury group manages capital structure
+and liquidity, and leads the discussion of stock buybacks and
+dividend increases, with the investor relations group having a say in
+the latter. Surely the people leading these groups talk to each other
+and share information, in most cases. Yet many companies lack a truly
+integrated and dynamic capital deployment process that captures and
+prioritizes all the possibilities and that simultaneously determines
+the best combination of sources and uses of capital to maximize the
+future value of the company.
+As with much of what has been discussed so far, capital deployment
+is often considered over too short a period, as well. Sure, there
+are 10- or 20-year free cash flow forecasts with NPV calculations for
+new production facilities, but the overall capital deployment plan
+rarely seems to be considered in the context of a full cyclical view.
+For example, say our team is a little short on new investment ideas to
+fund right now, but over the last decade we have generally had plenty
+of opportunity to make good investments. So, perhaps we should
+reduce the investment budget for the time being, but hold the excess
+in reserve either as cash in the bank or as unutilized debt capacity. The
+next time opportunities present themselves, possibly when our team
+comes up with better organic investment ideas or when competitors
+are cheaper to acquire during an industry or market downturn, we
+will have the financing capacity to seize the day.
+This may seem a difficult practice to follow, given the threat that
+an activist investor might come in and demand that the company
+lever up to buy back stock. For companies that have consistently
+earned well above the cost of capital, have grown, and have delivered
+strong TSR, such a strategy might well be defended successfully
+against the most ardent opposition. Yet for companies that
+have routinely underperformed, the activist is likely to have a point.
+Maybe the value of maintaining financial firepower is limited and
+perhaps even value-destroying, since there is a high risk of bad
+investments in the future. Or maybe management simply needs
+to earn the right to grow.
+The good old net-present-value rule should guide all decisions and
+should be applied by determining the amount of NPV per dollar of
+capital being deployed, which is the RCE Profitability Index (discussed
+in the next chapter). For anyone with finance experience, the application
+of NPV to organic and acquisitive investments is straightforward.
+Dividends have zero net present value unless they trigger taxes that
+could have been deferred. And, much like acquisitions, buybacks deliver
+a positive or a negative NPV to the remaining shareholders, based
+on the difference between the price of the shares and their cyclically
+adjusted intrinsic value. When the share price is unusually low, the
+potential value creation from buybacks might be greater than some
+of the otherwise desirable investments in the business. But when
+the share price is high, the opposite is true. Cash and debt levels can
+affect NPV, as well, since they can influence the required return and
+valuation. The prioritization of opportunities should be an ongoing
+process, and the dynamics of the market and the business will cause
+priorities to shift.
+The process will vary somewhat by industry and even by company.
+But capital deployment planning should always start with a thorough
+understanding of where value is created and where destroyed. Corporate
+leaders must recognize that the world is dynamic and always be
+ready and willing to change their capital deployment plans in real time.
+The processes for managing sources and uses of capital should be integrated
+by a capital deployment oversight group that manages priorities
+and tradeoffs. At most companies, this is the executive committee.
+Decisions must be made in the context of both near- and longer-term
+expectations. In the end, however, all capital deployment decisions
+should be aimed at maximizing net present value.
+Notes
+1 “2018 Fortuna Buyback ROI Report,” accessed January 14, 2019, https://
+fortunedotcom.files.wordpress.com/2018/04/2018-fortuna-buyback-roireport.
+pdf.
+Note that this study includes all companies in the S&P 500 that bought back at
+least $1 billion worth of stock or at least 4% of their ending market capitalization
+over the five-year period.
+2 Gregory V. Milano, “Are Buybacks the Best We Can Do?,” Buona Fortuna, February
+16, 2010.
+3 In 2018, for example, the median company in the Russell 1000 had a 52-week
+high that was 52% higher than the 52-week low. This figure was 41% in 2017 and
+54% in 2016.
+4 The concept of Buyback Effectiveness was originally suggested by my former
+partner at Fortuna Advisors, Steve Treadwell.
+5 S. L. Mintz, “The Most and Least Effective Stock Buyback Programs,” Institutional
+Investor, September 30, 2017, accessed January 15, 2019, https://www.
+institutionalinvestor.com/article/b14zpnbhzxyk7q/the-most-and-least-effectivestock-
+buyback-programs.
+6 Ryan Derousseau, “4 ‘Buyback’ Stocks Worth Buying,” Fortune, accessed January
+15, 2019, http://fortune.com/2017/04/26/best-buyback-stocks-trump-bump/.
+7 Ryan Derousseau, “Why Stock Market Buybacks Should Make Investors Nervous,”
+Fortune, accessed January 15, 2019, http://fortune.com/2018/04/20/stock-marketbuybacks-
+nervous/.
+8 Gregory V. Milano and John R. Cryan, “Advocates Overrating the Benefits of
+Buybacks,” CFO.com, October 17, 2012, accessed January 15, 2019, http://ww2.
+cfo.com/cash-flow/2012/10/advocates-overrating-the-benefits-of-buybacks/.
+9 Maxwell Murphy, “The Pros and Cons of Stock Buybacks,” Wall Street Journal,
+February 27, 2012, accessed January 15, 2019, https://www.wsj.com/articles/
+SB10001424052970203824904577213891035614390.

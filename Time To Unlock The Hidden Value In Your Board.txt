@@ -1,0 +1,116 @@
+
+In an environment with no easy answers and an overstretched C-Suite, effective board engagement can mean the difference between muddling through and thriving in the post-pandemic world. A guide.
+
+This is the first of a two-part series. Read part two here.
+
+Management teams don’t have to confront the pandemic’s daunting challenges alone. As they move from stabilizing cash flow and reengineering workplaces to creating a little breathing room — both financially and mentally — CEOs and directors should reflect on how to most effectively deploy their boards.
+
+Regardless of where company performance lies on the spectrum — from distressed (physical retailers) to thriving (video conference software) — leaders can improve outcomes by:
+
+• Systematically involving directors in critical decisions on strategy, culture, building resilience, investor communications and compensation
+
+• Efficiently facilitating directors’ education about the company and its markets
+
+• Fully utilizing the board’s collective experience, diverse perspectives, real-time insights and extended networks
+
+Management and shareholders cannot afford to underutilize the board in addressing this crisis, for which there are no playbooks, or its aftermath, which is unlikely to resemble any past recoveries.
+
+Companies face challenges across multiple dimensions — medical science, health care, financial markets, economics, supply chains and geopolitics — to which their only viable approach is an adaptive problem-solving process[1] that is swift and decisive, yet iterative, as new information arises.
+
+Heightened and rolling uncertainties in each domain mean executives must resolve continued tensions between coping in the short-term and preparing for eventual recovery phases. Director input helps balance these trade-offs.
+
+Figure 1: Improve shareholder returns through active board engagement
+A case study in facilitating informed advice and oversight
+
+In deciding how to educate, inform and engage directors in the current environment, Netflix governance practices provide an instructive case study:[2]
+
+• Directors attend regular senior management meetings as observers.
+
+• In advance of each board meeting, directors receive a narrative memo of 20–40 pages describing performance, industry trends and competitor developments, with links to underlying data and supporting analysis.
+
+• Directors have access to all information on the company’s internal systems.
+
+• Board members are empowered to follow up individually with the CEO and other executives.
+
+These practices originated to build director belief in the credibility of management’s long-term plans. Since then, they credit management’s transparency and willingness to debate with enabling confident decisions:
+
+There are so many radical major transformative steps that Netflix has done since I’ve been on the board: DVD distribution into streaming over the web, moving into international, committing millions of dollars in content … The management team is so thoughtful and open to dissension in the decision-making process that it makes very challenging decisions relatively easier because of the rigor of the process.[3]
+
+Each action could apply directly to the crisis management, recovery and future growth challenges every company must adapt to today. Well-informed directors with open communication channels to management can debate issues in real time and test assumptions that underpin executives’ recommendations.
+Advising on critical decisions: a checklist
+
+In an environment with no easy answers and an overstretched C-suite, effective board engagement can mean the difference between muddling through and thriving in the post-pandemic world. Consequential, urgent decisions benefit from quality board input as they’re being structured, not just when it’s time for formal approval:
+1. Culture, talent and performance management
+
+What steps can we take to make sure we have a coherent corporate culture that supports and informs our strategy, operating model and purpose?
+
+Medtronic’s new CEO, Geoff Martha, recognizes the talent management challenges: “The younger generations, Gen Z in particular, will make future employment decisions in large part based on how companies are showing up in this pandemic. The social responsibility piece of this will have a direct impact on your ability to attract and retain top talent.”[4]
+
+How should we restructure executive compensation to better align with refreshed priorities to drive long-term value?
+
+Commenting on Electronic Arts’ recent say-on-pay vote, the editor of Chief Executive said, “…employee compensation is in a state of flux unseen since the Great Recession.”[5]
+2. Strategy, purpose and portfolio optimization
+
+• As the crisis cascades through industries, altering the attractiveness of our existing businesses and competitive advantages, how should our strategy adapt?
+
+Looking beyond a pandemic-driven short-term earnings decline, IBM has committed $1 billion to investing in ecosystem partners to support the build-out of its hybrid cloud strategy.[6]
+
+• What role should creating societal value play in our updated strategy?
+
+Lenovo launched “a partner stimulus package to expedite payments to distributors and solution providers in its supply chain.”[7]
+
+• What M&A opportunities arise based on our new priorities and intelligence on struggling competitors?
+
+Recent acquisition announcements by NVIDIA and Chevron show how financially sound players can add complementary capabilities while shaping industry consolidation.[8]
+
+• Should we divest any non-core businesses to stabilize the core or fund new opportunities?
+
+• How should we refine our portfolio of innovation projects? What new business models should we be testing?
+
+To help protect health care workers, Medtronic has ramped up its offering around remote device management, so, for example, ventilators can be monitored from outside the ICU.[9]
+
+Figure 2: Fully deploy the board on critical decisions
+3. Capital strategy and investor relationship management
+
+• Do we have a deep understanding of what will drive investors’ behavior post-pandemic? How should we communicate our evolving value-creation story to them?
+
+• Which mix of financial policies is now appropriate — dividends, share repurchases and capital structure?
+
+• Should we put in place a poison pill to guard against a hostile acquiror taking advantage of a temporary gap between our stock’s price and its intrinsic value? How can we remedy potential vulnerabilities to preempt an activist shareholder’s critique?
+4. Resilience and learning
+
+• How can we better prepare for the next black swan or gray rhino?[10] How much efficiency should we trade off in favor of operational and financial flexibility?
+
+• Which transformational projects (such as digitalization or reorganization) can we now accelerate — leveraging the sense of urgency created by the crisis?
+
+A new CEO “is using the COVID-19 crisis to transform Disney much faster than expected, all with an eye toward making the company an online juggernaut that reaches far more people worldwide.”[11]
+
+• What weaknesses in policies and processes has the crisis revealed that we need to fix?
+
+These questions demonstrate the broad scope of short- and long-term issues executive teams face today. Their responses to the existential threats and novel opportunities presented by the crisis will be incomplete without a well-engaged board.
+
+In Part 2, we’ll explore key sources of the board’s value and several practical initiatives for unlocking it. We will suggest implementation pilots addressing strategy development, business unit mentoring, compensation design and an outside-in value diagnostic.
+
+The views reflected in this article are the views of the authors and do not necessarily reflect the views of Fortuna Advisors LLC or Ernst & Young LLP and other members of these organizations.
+
+[1] “Crisis Management for Leaders: COVID-19 as a Novel Event and Risk Management Framework,” Professors Dutch Leonard and Bob Kaplan, 24 March 2020, Harvard Business School website, https://www.hbs.edu/coronavirus/managing-through-crisis/Pages/faculty-virtual-programming.aspx#popup.
+
+[2] “Netflix Approach to Governance: Genuine Transparency with the Board,” David F. Larcker and Brian Tayan, May 1, 2018, Stanford Graduate School of Business.
+
+[3] Ibid.
+
+[4] “What is the Next Normal Going to Look Like?” Harvard Business Review, July-August 2020.
+
+[5] “CEO Briefing,” Dan Bigman, Chief Executive, August 17, 2020.
+
+[6] “109 year-old IBM is planning to take on Amazon. Here’s how,” Clare Duffy, CNN Business, August 13, 2020.
+
+[7] “Seven Lessons from the Corporate Front Lines,” Nikolaus Lang, et al, Boston Consulting Group, June 17, 2020.
+
+[8] “Nvidia in talks to buy Arm from Softbank for more than $32bn,” Arash Massoudi, et al, Financial Times, July 31, 2020. “Chevron Deal for Oil and Gas Fields May Set Off New Wave of Mergers,” Clifford Krauss, The New York Times, July 20, 2020.
+
+[9] “What is the Next Normal Going to Look Like?” Harvard Business Review, July-August 2020.
+
+[10] “Gray rhino” refers to an event that can be anticipated and prepared for, yet is often ignored. See, for example: “No, the coronavirus pandemic wasn’t an ‘unforeseen problem,’” Michele Wucker, Wall Street Journal, March 17, 2020.
+
+[11] “Disney’s CEO Is Scrapping Once-Sacred Businesses,” Christopher Palmeri, Bloomberg, August 12, 2020.

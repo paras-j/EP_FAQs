@@ -1,0 +1,1049 @@
+A LITTLE OVER a decade ago, I attended a seminar run by New
+York University Professor of Finance Aswath Damodaran, which he
+called the “loose ends in valuation.” It was highly informative, practical,
+and entertaining, too. As you probably noticed, it was also the
+inspiration for the title of this chapter, which discusses special applications
+of the investment analysis and decision principles discussed in
+chapter 10, each of which requires us to alter our approach and, in
+some cases, also to incorporate additional information.
+Investments in innovation and marketing are, in principle, similar
+to investments in machinery and equipment, but in practice these
+investments are expensed for accounting purposes and must, therefore,
+be treated differently. Acquisitions are also different from capital
+expenditures; it’s a specific core competency to be skilled at tracking
+acquisition ideas, vetting them, negotiating deals, and, most important,
+running the acquired companies after the deal closes. One last
+special situation addressed in this chapter is “investments that don’t
+earn a return”—as, for example, replacing the roof on a production
+facility or doing repairs after a major flood. In other words, these are
+investments that are hard to justify by using financial criteria alone.
+Premium (Discount) Valuations
+Just 15 years ago, a young Harvard University student named Mark
+Zuckerberg launched the “FaceMash” website to allow visitors to
+compare and comment on student pictures. But the site was shut
+down by the Harvard administration and Zuckerberg was almost
+expelled. In 2004 he launched “TheFacebook,” and certainly few, if
+any, corporate strategy departments knew or cared. This seemingly
+trivial idea was the seed from which grew the now globally dominant
+relationship-based social media site and ad platform called Facebook.
+Over the 12 months through mid-2018, Facebook delivered revenue
+of $48 billion and net income of $19 billion, while attaining a market
+capitalization that surpassed half a trillion dollars that summer—talk
+about Jack (or Mark) and the beanstalk, with his magic seeds! To
+allocate capital effectively requires forward thinking, awareness of
+what’s happening in adjacent markets, and an organizational desire
+to place enough bets on the future to be reasonably sure of not being
+left behind, like Facebook’s predecessor Myspace.
+Who could have seen this coming? I certainly didn’t, and I’m not
+sure Zuckerberg did either, at least not while inventing the future in his
+college dorm room. I don’t believe that aiming to match Facebook’s
+miraculous track record is a realistic goal for anybody’s corporate
+innovation processes, but it’s helpful to understand that such a story
+is possible.
+Using straight accounting figures, the net book value of all tangible
+assets owned by the companies of the S&P 500 totaled $4.7 trillion at
+the end of 2017. This sounds like a humongous figure, but it actually
+represents a mere 18% of the total enterprise value of these organizations.
+When they complete acquisitions for prices that are above the
+attributable net assets, the price paid is recognized either as goodwill
+or as “other intangibles” in the accounting books. This adds another
+$5.0 trillion, making the value of all tangible and intangible assets on
+the books of the S&P 500 companies much larger—$9.7 trillion, to
+be more precise. But even this number represents only 37% of total
+enterprise value.
+As shown in figure 57, the total enterprise value of these companies
+also includes another $16.8 trillion worth of what I call the “value
+premium.” It’s simply the difference between the actual enterprise
+value and the total net book value of both the tangible and the intangible
+assets. This value premium is worth 173% of the total net book
+value of the tangible and intangible assets! Where does it come from?
+Net Tangible
+Assets, $4.7T
+Goodwill &
+Other
+Intangibles,
+$5.0T
+Value Premium,
+$16.8T
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+S&P 500 (12/31/2017)
+Components of Enterprise Value (% of Total)
+Figure 57—Importance of Intangibles
+Of course, one important source of value premium is innovation,
+as in the Facebook example discussed above. Yet brand strength is also
+important, since differentiated brands can support premium pricing,
+market share growth, or some combination of the two.
+Occasionally, a company controls a captive supply of some
+commodity or an intermediate product that offers a sustainable
+edge over the competition, such as a plastics plant built adjacent to
+a sustainable natural gas production field. Premium value can also
+derive from proprietary process know-how, sharper decision-making
+capabilities, and both an execution mentality and a focus on results.
+And even the ownership culture that this book aims to help management
+create, as we show in chapter 13, can itself be a competitive
+advantage, especially in large organizations.
+Managing Innovation and R&D Investments
+Executives should be sure to manage R&D and other forms of innovation
+and development with a sharp focus on value creation. We
+can’t actually force innovation to happen with financial measures and
+controls, but we can certainly stifle it by using the wrong measures.
+Our resource allocations for planning and innovation, therefore, should
+be focused on areas where strong economics have been achieved or
+where we believe the numbers are desirable. Innovation funding
+should be freely available to fund good (or potentially good) ideas,
+but this must go hand-in-hand with ongoing accountability for both
+nonfinancial milestones and, eventually, financial results.
+Managers sometimes seem to worry more about how much they
+invest in innovation than about the result. As long as their expensive
+benchmarking studies show that their spending on R&D as a percentage
+of sales is reasonable, then all is fine, or so they assume. If poor
+innovations result, they claim they have a bad R&D head or team.
+They fire, they hire; but the results may never get any better. They
+spend excessive time justifying expenditures and not enough making
+sure that their investments generate a return. In many entrepreneurial
+companies, the founder has a passion for innovation that inspires
+everyone else to reach for the stars. Their collective excitement about
+results reinforces the idea that it’s not the research itself that matters,
+but instead the fruits of the research.
+Many think the greatest virtue of Silicon Valley is its ability to
+identify and fund good investments. But an even greater contributor
+to the success of venture capital is the speed and decisiveness with
+which firms in that innovative place often cut funding for bad ideas
+or pivot to a more tenable strategy. This is also one of the biggest
+differences between the corporate world, where R&D is frequently
+allocated on the basis of arbitrary qualitative factors with ineffective
+monitoring and infrequent spending reallocations, and the world of
+venture capital, where the emphasis is on results. Many corporate
+projects continue to be carried out for many years after their lack of
+potential has already been identified. They place very little emphasis
+on true accountability and delivering results. What’s missing is any
+urgency about commercial viability—a criterion for investment that
+is often subject to the whims of the head of the R&D department,
+who may simply “have a feeling this is going to work.”
+In an ideal world, the allocation, performance monitoring, and
+portfolio management of a corporate R&D effort would function
+like a micro-economy of angel investors, venture capitalists, startup
+businesses, mature companies, and capital markets. The champion
+of an R&D idea would secure funding by submitting a plan laying
+out resource requirements, milestones, activities, projections, and
+payoffs. If a sponsor approved it, our champion would then gradually
+be given funding, as the projections deem appropriate, and as long
+as periodic milestones are met. If the milestones are not reasonably
+achieved, the sponsor would have the opportunity to pull the plug
+and reallocate the financial and human resources. There would be
+ongoing monitoring, coupled with resource reallocations as needed
+to divert resources away from bad ideas and toward good ones.
+From the outside, investors don’t know the exact state of affairs
+in corporate R&D—and for the purpose of protecting trade secrets,
+this is likely as things should be. But corporate management must
+have a firm grasp of what the innovation investments aim to accomplish,
+the status of development programs, and the expectations for
+the magnitude and timing of results. This is not a delegated function.
+Did Steve Jobs sit back and let innovation magically happen at
+Apple? No, he led the process. This is one of the biggest obstacles to
+success for conglomerates, since the CEO may well be responsible
+for overseeing businesses in five different industries (as opposed to
+just the one where he cut his teeth). How would Steve Jobs have
+overseen innovation at Ford? I know, I know: He would have done
+pretty well for sure, though most “normal” corporate people have
+a hard time understanding customer needs and problems as well as
+the innovation paths, technical drivers, and performance tradeoffs in
+an industry they are less familiar with. So, they delegate with inadequate
+accountability and the result, in the vast majority of cases, is
+that the conglomerate business units are less innovative than their
+stand-alone peers. They spend the money. They have nice, shiny
+“innovation centers.” They reimagine everything reimaginable. But
+they just don’t get the innovation bit.
+Both in form and in function, the corporate innovation process,
+which normally falls within an R&D functional mandate, should try to
+adopt as many elements of American venture capital practice as are found
+workable. A process is needed for midlevel and business-unit managers
+to propose new R&D ideas to the corporate heads of the innovation
+process and perhaps, depending on the size and scope of the proposed
+investments requested, even to senior management. There should be
+well-established project selection criteria, again ones that simulate the
+approach of venture capitalists and investors alike. Each proposal must
+include a description of the project, the expected outcomes, impact on the
+business, milestones, resources, and projections. Clear opportunities for
+go/no-go decisions must be specified in advance, including the metrics,
+data collection methods, and boundaries for continuation.
+A formal and regular periodic review process can be developed
+and streamlined to focus exclusively on results and go/no-go decisions,
+with reassessments of the future when appropriate. The management
+process must be as fact-based and objective as possible, to ensure that
+projects are delivering at or above planned minimum milestones,
+otherwise resources should be properly reallocated. To be sure there is
+adequate discipline, as in the venture capital setting, the default should
+be that, when previously approved funding runs out, the project ends
+unless it can secure additional funding. There should be forced rankings,
+portfolio pruning, and maybe even forced ramp-ups for especially
+attractive projects. We don’t want to be content with a “steady as she
+goes” mindset for the best ideas; we want them to always be backed
+with funding—funding that may well end up coming from defunding
+the projects that didn’t turn out as well as originally expected (though
+this should generally not be a requirement).
+This innovation process should then directly feed the overall
+business-planning process. This, after all, is not just a sandbox for
+adult playtime—it’s work, often the most important work. Once these
+R&D ideas begin to take shape, they should be assigned probabilityweighted
+projections that feed the revenue and RCE growth of the
+plan as a separate line item. The R&D pipeline should be discussed
+in the planning reviews to the extent that the various initiatives are
+expected to affect the five tools of value creation. Particular attention
+should be given to reinvestment effectiveness, which, again, is a
+measure of revenue growth per dollar of investment over a three- or
+five-year period. When managers are asked to commit to the revenue
+they need to deliver with R&D, they are more likely to prune ideas
+that are not delivering according to expectations so they can focus on
+ones more likely to make the R&D payoff.
+The method of financial measurement is often an obstacle in and
+of itself. Unfortunately, management teams are influenced by the
+differences in accounting treatment between various types of investments,
+and this affects how they prioritize investment opportunities.
+Investments in R&D and marketing are expensed immediately as
+period expenses, while investments in property, plant, and equipment
+are typically capitalized and treated as having a longer life. These
+differences can lead executives to invest far too much in one form of
+investment, such as capital expenditures to build a new manufacturing
+plant, and not enough on other types, such as R&D spending
+for product development or brand-building marketing expenditures.
+The Special Case of Acquisitions and Goodwill Accounting
+Perhaps the most challenging of the rules for investment accounting
+are the complexities and issues arising from acquisition goodwill. If a
+company pays more for another company than a reasonable amount
+that can be ascribed to tangible and intangible assets, the accounts
+need to show an asset somewhere that is being purchased—hence the
+creation of what’s called “goodwill.” Let’s say there is a $100 million
+acquisition and, even after marking up some of the assets to reasonable
+levels, we have $60 million of property, plant, and equipment
+and $15 million of intangible assets like customer lists and brands.
+The $25 million difference between the $100 million paid and the $75
+million of acquired assets is attributed to the somewhat mysterious
+goodwill, which reflects the purchase price premium over the book
+value of the assets received.
+Why would a company pay a premium over asset value? Perhaps it
+has desirable products, brands, technologies, or customer satisfaction
+that are capable of driving higher revenues and cash flows, possibly
+through synergies. As we saw earlier in figure 57, across the entire
+spectrum of U.S. publicly traded companies, well over half of their
+current market value resides in this premium. When the acquired
+company invested in its products, brands, technologies, or customer
+satisfaction, this investment was expensed. But when someone else
+acquires the company, then the new owner gets to treat these items
+as investments in assets. Of course, after the acquisition, all new
+R&D and marketing expenditures will once again be expensed as
+period costs. To be sure, there is no logical problem with the notion
+of goodwill—the problem is that at all other times accounting treats
+these investments in products, brands, technologies, and customer
+satisfaction as period costs rather than longer-term investments.
+In principle, accounting treatment shouldn’t matter. If we invest
+$100 million and it is reasonably expected to earn an adequate annualized
+return over the next five or 10 years, that should be sufficient
+for management to decide that the investment is worthwhile. For an
+investment in a new plant, this is straightforward. But for investments
+in R&D and marketing, many managements hesitate, because of the
+treatment of these investments as period expenses in the accounting
+books. Again, in principle, few executives will honestly claim
+they’re driven by short-term profit and loss accounting. But in practice,
+as management prepares for the never-ending stream of quarterly
+earnings calls, investments that are expensed are often given a lower
+prioritization than investments that can be capitalized and recorded
+against earnings on a gradual basis over time, if at all.
+If investments such as R&D and marketing are important to
+your business, your process for evaluating these expenditures should
+be the same as that for evaluating capital expenditures. Using the
+methodology set out below, such investments should be considered
+and prioritized simultaneously. All investments should be subject to
+a similar test of worthiness, and the main question should thus be
+whether the investment creates enough value to be included in the
+company’s investment plans.
+Managements tend to seek smoothly growing earnings and, since
+R&D and marketing are expensed immediately against earnings, they
+have an incentive to smooth out these expenditures, too, to avoid
+making earnings unnecessarily volatile. But because opportunities
+for good investment are often not so predictable, in years when fewer
+prospects loom on the horizon, the company may tend to invest more
+than the optimal amount in these expensed investments—while in
+other years it invests less than it should.
+Marketing Resource Allocation
+Though the principles are the same, the typical impediments to effective
+marketing investment are different from those that tend to stifle
+innovation. Ask finance officers how much to invest in marketing
+for a given brand, and they often seem at a loss.1 When it comes
+to allocating marketing resources across a range of products and
+geographies, the value-maximizing solution can be even more of a
+mystery. What impact will this spending have on volumes, the ability
+to raise prices, and long-term brand value? If marketing dollars are
+reallocated from product A in region 1 to product B in region 2, what
+is the likely impact on aggregate sales and profits? And what effect do
+these decisions have on the stock price?
+For the last 25 years or so, the standard approach to allocating
+marketing resources has been through “marketing-mix modeling,”
+which involves statistical analysis of periodic marketing and sales
+data to estimate the near-term volume impact of raising, lowering, or
+shifting marketing resources and also adjusting promotion and pricing
+policies. Advocates use such modeling to enhance the effectiveness
+of marketing allocations, even though the analysis ignores most of
+the cost structure, the balance sheet, and changes to the strength and
+differentiation of the brand itself. At most companies, the real focus
+of such modeling is actually on maximizing sales alone.
+While the mix-modeling approach seems somewhat logical,
+critics claim that it is too short-term focused and doesn’t help build
+long-term brand value. They contend that mix modeling emphasizes
+current sales through promotion and price discounts, while largely
+ignoring the value of innovation and brand-building investments,
+such as advertising. True, mix modeling helps meet quarterly sales
+and earnings guidance, but in many cases it will do little to drive the
+valuation multiple and share price over the next few years.
+For those who don’t think long-term brand value is an investor
+priority, consider the case of the activist investor Trian Group and
+the H. J. Heinz Company. The asset management group condemned
+Heinz’s management for putting too much money into trade allowances
+and promotion to drive short-term profits, while neglecting
+the advertising and product innovation that would nurture differentiation,
+long-term brand value, and stock price. After a failed proxy
+fight and acceptance of some new board members, Heinz acquiesced
+and increased its advertising budget. With such a strong emphasis on
+making investments that provide long-term brand benefits, potentially
+at the expense of sacrificing near-term results, this was certainly not
+the old story of shortsighted activists pillaging a venerable company
+for immediate gain that has become so common in business news.
+So, what can be done to avoid the “sales-at-all-costs” trap of
+mix modeling while ensuring that managements allocate marketing
+resources in ways that will drive long-term value? Are there metrics
+and decision tools available that can improve the balance between
+delivering current performance and building long-term value?
+As mentioned in chapter 7, in 2017 my colleagues and I began
+working with a firm called BERA Brand Management, where Ryan
+Barker and his team developed one of the largest brand-equity assessment
+platforms in the world to explain and quantify how brands
+grow. The framework and database they created not only explains
+how brand growth translates to financial performance, but also takes
+things a step further by explaining differences in market valuations.
+As my colleague Joe Theriault and I reviewed some of Barker’s
+original research on the linkage between BERA metrics and valuation,
+a few lightbulbs went on. Managers constantly face a tradeoff
+between driving current performance and managing for the long
+term. The problem is that, from a purely financial perspective, they
+have fact-based measures of current performance, but only forecasts
+and opinions about the future. Most executives talk a good longterm
+game, but when push comes to shove they make sure they hit
+their near-term numbers, even if it means giving up some long-term
+opportunity. It’s simply the present-day business version of “a bird
+in the hand is worth two in the bush.” But now, thanks to BERA, we
+have a fact-based way to measure, and not just guess at, the drivers
+of valuation multiples that represent future expectations. Managers
+can balance fact-based current performance and fact-based objective
+measures of future performance. Having done what I’ve done for
+over 25 years, I regard this as a true epiphany—and by far the most
+outstanding breakthrough I have been part of.
+But I am getting ahead of myself. BERA, which stands for Brand
+Equity Relationship Assessment, is built around a battery of 100+
+metrics that are rooted in behavioral science and market research.
+While traditional marketing wisdom emphasizes awareness and preference
+for a brand, BERA has found that these two qualities—plus
+the metrics associated with each—offer an incomplete and unreliable
+picture of the complex, often irrational dynamics of consumer choice.
+Awareness and funnel metrics, like consideration and preference, are
+informative but tend to be lagging indicators that tell you more about
+what has happened than about what will happen. They follow sales
+or, at best, provide contemporaneous indications. These metrics don’t
+capture the underlying drivers of customer intent or consideration,
+which makes them a far less reliable basis for driving brand optimization
+or for validating, predicting, and orienting investment in the brand.
+With the aim of addressing these shortcomings, BERA has developed
+a multidimensional brand model that consists both of lagging
+indicators, which explain how brand characteristics contribute to
+a brand’s market share or revenue today, and of leading indicators
+that explain and predict how a brand contributes to tomorrow’s sales
+volume and pricing power. It is this combination of leading and lagging
+indicators that makes the BERA framework ideal for bridging the
+analytical gap between marketing and finance.
+Fortuna Advisors completed a capital markets research study
+that found strong relationships between the BERA metrics and a
+variety of measures of stock price performance, financial performance,
+and valuation. We studied a list of over 160 publicly owned
+monobrand companies in the BERA database. (“Monobrand” refers
+to companies whose majority of revenue comes from a single brand,
+such as Coca-Cola, Delta Air Lines, or Facebook.) The study spanned
+an eight-quarter period from the third quarter of 2015 through the
+second quarter of 2017.
+The first step was to verify that these brand metrics correspond to
+the ultimate goal of driving higher TSR, or total shareholder return,
+which includes dividends and share price appreciation. The monobrand
+companies were sorted into high, medium, and low groups based on
+their Today score, and the median TSR was calculated for each group.
+The companies that scored highly on Today delivered median TSR that
+was 0.7% higher per year than the median for companies with low
+Today scores. This is a slightly positive relationship, but Tomorrow’s
+impact on TSR was considerably stronger, with the median TSR for
+the high Tomorrow companies being a significant 7.3% higher than
+for the low Tomorrow companies.
+Next, the Today and Tomorrow metrics were related to periodic
+financial metrics like sales growth and rates of return, as well as to
+valuation multiples, which indicate the collective view of investors
+with regard to a company’s long-term trends in performance and
+value creation.
+The monobrand companies in the top Today group had 2.1% more
+median revenue growth than the low group, and the top Tomorrow
+group delivered an extra 2.3% revenue growth. Since revenue growth
+is an important driver of TSR, it’s reassuring to note these findings
+that the Today and Tomorrow brand scores correlate so strongly with
+growth.
+Yet growth for growth’s sake isn’t very valuable, so we tested the
+relationships to return on assets (ROA), return on capital (ROC), and
+return on equity (ROE). In all cases, scoring high on both Today and
+Tomorrow were associated with higher returns and more improvement
+in returns than the low Today and Tomorrow groups. The strongest
+results were associated with ROE, whereas the median company
+in the high Today group delivered 8.4% more ROE and 4.6% more
+improvement in ROE than the low Today group. The high Tomorrow
+group delivered 5.0% more ROE and 3.5% more improvement in
+ROE than the low Tomorrow group.
+It is encouraging, then, that higher Today and Tomorrow scores
+correspond to higher sales growth; higher rates of return using ROA,
+ROC, and ROE; and positive improvements in these return measures.
+To complete the study, we examined the relationship of these brand
+scores to valuation multiples, since high and increasing multiples can
+be interpreted as signals of increasing brand value. The relationships
+were tested for Today and Tomorrow versus the price-to-earnings (PE)
+ratios and the enterprise-value-to-EBITDA ratios using both trailing
+and forward (analyst consensus) figures. The analysis also included
+price-to-forward-revenue and price-to-book-value ratios. For every
+one of these valuation metrics, the companies with high Today or
+Tomorrow scores were valued higher than companies with low Today
+or Tomorrow scores. And in each case, Tomorrow showed a more meaningful
+impact than Today. Since multiples tell us about the value of
+the future in relation to today, perhaps it is no surprise that Tomorrow
+seems to be a more powerful indicator than Today.
+In sum, our research confirms that these metrics are highly related
+to growth, profitability, and valuation multiples; and as such, the metrics
+provide comprehensive indicators of both short- and long-term performance
+that can significantly improve the typical mix modeling signals.
+Integrating the insights provided by detailed brand metrics with valuebased
+financial analysis can materially enhance the allocation of marketELEVEN:
+LOOSE ENDS IN INVESTMENT DECISION-MAKING 235
+ing investments, as well as boost innovation, CapEx, and acquisition
+investments, by enabling optimization of short-term versus long-term
+performance. We can improve strategic allocations at a high level, as
+well as strengthen tactical allocations deep within the organization,
+by consistently focusing resources where they create the most value.
+Chief financial officers tend to prefer better financial performance
+to a vague expectation of future benefits, so when they hear marketing
+folks wax on about brand attributes, their eyes may begin to
+glaze over. Chief marketing officers, on the other hand, probably
+view long-term brand stewardship as critical to long-term success,
+and may see the excessively short-term profit focus of their financial
+executive counterparts as a sacrilege. Sometimes the marketing and
+finance subordinates form teams to collaborate, but that’s a bit like
+asking cats to collaborate with dogs. It takes more than the idea of
+collaboration; it requires a strategic framework that bridges the two
+functions in a way that encourages the evaluation of tradeoffs with
+consistent, analytical rigor.
+The first step in evaluating marketing investments is similar to
+that taken for almost any other investment—we determine how much
+revenue growth we can expect the investment to deliver. It is common
+to rely on traditional marketing mix modeling to forecast revenue, but
+the incorporation of brand-trait information substantially improves
+the accuracy of sales forecasts (a common complaint of the finance
+team, of course). This is because changes in scores can be used to
+accurately predict changes in sales over both the near and the long
+term. The other benefit of understanding these brand characteristics
+and their changes over time is that it informs the best strategy to
+maximize brand value—but more on that soon.
+The second step is to estimate changes in RCE, which requires
+an understanding of expected costs and investments involved with
+sustaining and expanding capacity. Using our estimated RCE, we can
+develop our first estimate of value, which is simply based on Gross
+Operating Assets plus capitalized RCE (which reflects the present
+value of the future performance if we expect RCE to remain flat.)
+Some companies trade at a premium to this valuation, which means
+investors are pricing in future RCE improvements based on new valuecreating
+investments that have not yet been made. Other companies
+trade at a discount, which implies an expectation that RCE will fade.
+The third step is to gather and analyze the BERA insights. When
+the BERA scores are high and rising, especially the Tomorrow score,
+we expect a premium valuation, and vice versa. When we combine
+the second and third steps, we get a value estimate, which we can
+divide by current sales to ascribe a value-to-sales ratio to each brand
+or subbrand.
+In our article “Bridging the Gap Between Marketing and Finance,”
+Ryan Barker and I demonstrated this process by building a case study
+based on a hypothetical apparel company with four business units,
+each represented by a real public company. The businesses chosen
+were the following: Columbia Sportswear, designer and marketer of
+outdoor and active apparel; Urban Outfitters, a retailer and wholesaler
+of women’s and men’s apparel, home goods, electronics, and beauty
+products; Chico’s FAS, a specialty retailer of women’s casual-to-dressy
+clothing and accessories; and, last but not least, Lululemon Athletica,
+designer and distributer of athletic and “athleisure” apparel. Several
+of these companies operate multiple brands, but for the purpose of
+simplicity we only included brand information on each company’s
+primary brand.
+Based on BERA’s data, Columbia Sportswear scored the highest
+on both Today and Tomorrow, while Lululemon Athletica had the
+highest Ratio of Tomorrow to Today, followed, in order, by Columbia
+Sportswear, Urban Outfitters, and Chico’s. The ratio of Tomorrow
+to Today appears to be a telling indicator of financial performance,
+as suggested by the fact that it ranks these four brands in the same
+order as when they are ranked in terms of four key financial metrics:
+five-year revenue growth, current RCE margin, EBITDA multiple,
+and value to sales. As can be seen in figure 58, neither the brand nor
+the financial information is alone sufficient to explain the differences
+in value to sales for these four companies. The Ratio of Tomorrow
+to Today is quite similar for Urban Outfitters and Chico’s, but the
+difference in RCE Margin is why the difference in value to sales is
+material. Similarly, Columbia Sportswear and Urban Outfitters have
+similar RCE Margins, but the difference in the Ratio of Tomorrow to
+Today explains the difference in value to sales.
+Of course, it may seem that we want to maximize either RCE,
+which the chief financial officer may prefer, or BERA brand scores, as
+the chief marketing officer may favor. It is likely, though, that neither
+of these extreme choices is the value-maximizing decision. Maybe
+the ideal marketing mix of TV, radio, and print advertising, when
+coupled with selective social media, packaging, and in-store promotions,
+will deliver a bit less than maximum RCE, but will do more to
+drive BERA brand scores, which in turn drives the valuation multiple
+higher. This combination of the financial and brand improvements
+could thus deliver a better total return for shareholders.
+190%
+114%
+69% 63%
+Lululemon Athletica
+Columbia Sportswear
+Urban Outfitters
+Chico's
+BERA
+Tomorrow/Today
+Ratio 15.4%
+7.1%
+6.1%
+2.9%
+Lululemon Athletica
+Columbia Sportswear
+Urban Outfitters
+Chico's
+RCE Margin
+496%
+210%
+119%
+46%
+Lululemon Athletica
+Columbia Sportswear
+Urban Outfitters
+Chico's
+Enterprise Value to
+Sales
+Figure 58—Value to Sales Driven by RCE and the Tomorrow/Today Ratio
+Some have asked why the value-to-sales ratio is so important. One
+investor friend reminded me that such ratios were often used during
+the Internet bubble to describe companies that had sales but no profits
+or cash flow. Just the thought of such abuse of metrics makes the hair
+stand up on the back of my head…or it would if there were any left.
+The value-to-sales ratio is the key to transforming marketing
+mix models from sales optimization to value maximization. Look
+back at figure 58—and no, that’s not a typo—and note that the
+enterprise value of Lululemon Athletica really was almost five times
+the company’s sales, while the same metric for Chico’s was less than
+half of sales. In effect, each dollar of Lulu’s sales was worth over 10
+times as much as a dollar of Chico’s sales. If these were truly business
+units of a single multi-business corporation and the company
+had managed marketing resources to maximize sales growth, as
+most companies’ marketing departments do, then it is certain that
+this corporation would drive too much low-value sales growth in
+Chico’s and not enough high-value sales growth at Lulu.
+Figure 59 illustrates the importance of the value-to-sales ratio.
+First, let’s consider a baseline situation with two brands, A and B,
+each of which is allocated $25 million of marketing spend. Once the
+funds are optimized across multiple media, the brands deliver the
+sales volumes shown in the figure.
+Brand
+Baseline
+Marketing
+Spend
+Baseline
+Sales
+Baseline
+Sales/
+Marketing
+A $25 $500 20.0x
+B $25 $250 10.0x
+Total $50 $750 15.0x
+Figure 59—Baseline for Illustration of Value to Sales
+Notice that brand A delivers twice the sales with the same marketing
+spend, so the marketing department decides to allocate $5 million
+that’s currently being spent on brand B to brand A while keeping the
+total budget fixed. This is oversimplified, yet decisions like this happen
+all the time as marketing-mix models are employed for optimizing
+marketing spend both across media supporting a specific brand and
+across brands, to optimize the overall growth rate.
+Brand
+Baseline
+Marketing
+Spend
+Baseline
+Sales
+Baseline
+Sales/
+Marketing
+Modified
+Marketing
+Spend
+Modified
+Sales
+Modified
+Sales/
+Marketing
+A $25 $500 20.0x $30 $600 20.0x
+B $25 $250 10.0x $20 $200 10.0x
+Total $50 $750 15.0x $50 $800 16.0x
+%Δ 0.0% 6.7%
+Sales Optimization
+Figure 60—Sales Growth Optimization by Reallocating Marketing Resources
+As shown in figure 60, the marketing management team accomplishes
+6.7% revenue growth through its sales-growth optimization
+process, and with no incremental marketing budget. When one brand
+has a different elasticity of sales to marketing spend, these sorts of
+opportunities will always be available. If our goal were to maximize
+sales, we would be celebrating. But our goal is to maximize value, so
+we need to know how valuable these sales are in each brand. And
+that’s where the value-to-sales ratio fits in.
+To make the example interesting, let’s assume brand B has a
+value-to-sales ratio of 500%, as does Lulu in the case above, and brand
+A has a value-to-sales ratio of 50%, which is similar to Chico’s. Now
+if we examine the value implications of the sales growth optimization
+strategy, shown in figure 61, the celebrations quickly halt as we
+realize that this reallocation of marketing spend is actually a valuedestroying
+catastrophe.
+Brand
+Baseline
+Marketing
+Spend
+Baseline
+Sales
+Baseline
+Business
+Value
+Baseline
+Value to
+Sales
+Modified
+Marketing
+Spend
+Modified
+Sales
+Modified
+Business
+Value
+Modified
+Value to
+Sales
+A $25 $500 $250 50% $30 $600 $300 50%
+B $25 $250 $1,250 500% $20 $200 $1,000 500%
+Total $50 $750 $1,500 200% $50 $800 $1,300 163%
+%Δ 0.0% 6.7% -13.3%
+Sales Optimization
+Figure 61—Introducing the Value to Sales Ratio
+The marketing reallocations may have driven sales growth, but
+they do so by increasing growth in the brand that contributes much
+less value per dollar of sales. Why are the value-to-sales ratios so
+different? Perhaps brand B is so sought after by consumers that market
+share is generally rising, even though it is priced at a premium to the
+competition, while brand A has the opposite situation: It is losing share
+even though it’s constantly being discounted and promoted. Brand B
+probably has more revenue growth and higher RCE margin, and its
+Tomorrow score stands well above its Today score, indicating a bright
+future and a higher valuation multiple.
+Unfortunately, most marketing departments have zero idea what
+the value to sales is for their brands, so in their minds the sales-growth
+optimization plan seems ideal. What would they do if they had the
+value-to-sales information? Perhaps they would reallocate resources
+in the opposite direction—from brand A to brand B. In fi gure 62, we
+see that sales actually decline with this reallocation, though the value
+of the company signifi cantly increases.
+Figure 62—Using Value to Sales to Maximize Value
+This is only an illustration, of course, but the optimal plan may
+be to increase the marketing spend on brand B, as illustrated, and at
+the same time to hold or increase the spending on brand A, as well.
+As already intimated, the goal of this spending is not to maximize
+near-term sales, but rather to improve differentiation and the Tomorrow
+score, so that the value to sales rises. The Tomorrow score is composed
+of two metrics: Uniqueness and Meaningfulness. While these are useful
+constructs for quantifying a brand’s overall health across all sectors,
+what it means to be Meaningful or Unique is particular to each brand
+and sector. To address this, BERA has developed an array of emotional
+and image-based traits whose associations with each brand can be
+both measured and benchmarked so as to defi ne Uniqueness and Meaning
+fulness for each brand. These traits can be thought of as a brand’s
+DNA, or the building blocks that form our impression of that brand.
+Put simply, to move the needle on Meaningfulness or Uniqueness, we
+must change what people associate with the brand. And the BERA
+approach guides the way.
+In practice, defining and using the value-to-sales ratio is a bit more
+involved, yet it’s not too complex for most managers to understand.
+Even the basic notion of multiplying the sales output of the marketing
+mix models by the value-to-sales ratio to maximize value would be a
+huge process improvement for most branded companies.
+Making Acquisitions that Create Value
+It’s in vogue to say, “Most acquisitions destroy value”—but, however
+fashionable, it’s simply not true. As previously discussed, companies
+that invest more to acquire other businesses deliver average long-term
+TSR that is higher than in companies investing less in acquisitions.
+For example, in our article “Improving the Health of Healthcare
+Companies,”2 we showed that highly acquisitive healthcare companies
+delivered median annual TSR that was 3.3% higher than their less
+acquisitive peers. We find directionally similar results in most industries.
+Some acquisitions fail spectacularly, to be sure, but on average
+acquisitions create value for the acquirer’s shareholders.
+The necessary steps for success with acquisitions are clear, but
+achieving them can be challenging and requires discipline to overcome
+natural human tendencies that can stand in the way of success. To be
+successful, an acquirer must first select a target company that would
+genuinely be worth more as part of its organization than as a standalone
+company or business unit of another company. Perhaps there
+are production or distribution synergies, or maybe there is the ability
+to scale marketing to new levels and achieve a level of revenue growth
+the stand-alone company could never hope to achieve.
+Often these benefits result from poor resource allocation—especially
+at the tails, in big-value creators and destroyers. Some companies
+simply tolerate waste in costs and assets, hold excess cash, or underuse
+their debt capacity. These are the types of inefficiencies that tend to
+attract PE firms. But “strategic” acquirers, which tend to be competitors,
+or are at least operating in an adjacent market, rely more on
+synergies to create value. Synergies are produced when an increase in
+sales or reduction in costs or assets results from the two firms’ being
+integrated. For example, consider a large firm with global distribution
+that buys a small, regional firm with differentiated products. Both
+businesses benefit from the other’s core competencies.
+An acquirer can seek a deal in three areas: in-market, in adjacent
+markets, or in an unrelated market. For the reasons mentioned above,
+private acquirers can be less discriminating, but strategic acquirers
+should rely foremost on companies in the same market or in adjacent
+markets to achieve synergies. This all may seem obvious, but it’s
+important to have a clear acquisition agenda so that those seeking
+and sourcing the deal don’t waste time and resources considering
+uneconomic acquisitions.
+Next, the acquirer must negotiate a reasonable price for the
+purchase—one that’s above the stand-alone value of the target, to
+entice them to sell, but below the value of the target company to
+the acquirer, with all synergies included. Finally, the acquirer must
+effectively manage, and in many situations also integrate, the acquired
+business and finally execute the plan successfully. Each step is fraught
+with obstacles, so success isn’t likely to happen by chance. It takes
+careful planning, shrewd decision-making, hard work, and leadership.
+The worst method for finding good acquisition deals, though,
+is to sit back and wait for investment bankers to come by shopping
+their ideas. Occasionally, gems can be found this way; but first ask:
+“If this business is so valuable, why does it have to be shopped?”
+Investigate whether management has taken actions to inflate results
+before “considering strategic options.” Look out for future performance
+cliffs looming from possible patent expirations, fading brands,
+or leapfrogged technologies. Try to spot any active short-termism
+by current management designed to temporarily drive up prices and
+revenue—and therefore the company’s valuation—while potentially
+creating headwinds for future growth. Or maybe the company is
+excessively sweating tangible and intangible assets by underspending
+to maintain and support them. Inquire about the process to see if you
+will be bidding against every strategic buyer and financial sponsor out
+there, and always consider the odds of getting a good price.
+Though good deals do sometimes drop in your lap, if you want
+to be a successful acquirer, it’s best to set up an ongoing process to
+track companies that could become acquisition targets. These are not
+fully vetted targets; they’re just reasonable ideas that appear to make
+strategic sense and can be tracked over time. All available information
+on products, services, investments, and financials should be gathered
+and evaluated to continuously update the status of each opportuELEVEN:
+LOOSE ENDS IN INVESTMENT DECISION-MAKING 243
+nity. It’s useful to meet with management occasionally, perhaps even
+informally at industry conferences or through interaction of midlevel
+employees. Most newly gathered information will merely be collected,
+but at times fresh insights, such as the launch of a new, innovative
+product or the cheap disposal of an unattractive business, will make
+an opportunity more desirable. At other times, new information
+that comes your way will make the target less desirable. It is best to
+have a scoring system to quickly convey the status of what may be a
+dozen or more tracked targets; and as targets reach a sufficiently high
+score, they should be thoroughly reviewed as a potential acquisition.
+This acquisition-tracking and -planning process helps your company
+find deals that aren’t being shopped on the market; it helps provide
+context for comparison when a likely deal does appear; and it enables
+you to act quickly and decisively when a transaction becomes more
+attractive—or less.
+Often, corporate development groups have a short list of businesses
+they think their company can make more valuable on acquisition,
+even though the purchase price is currently prohibitive. As
+is often the case in business, patience is a virtue in such situations.
+In a similar fashion to equity investors who, looking for desirable
+entry prices, follow attractive companies, corporate acquirers should
+establish share price guidelines and track their best targets while
+waiting for their number to be hit. Be sure to set the price low
+enough that it will still be acceptable after adding a reasonable
+acquisition premium.
+When discussing the monitoring of acquisition-target prices, an
+executive for one client asked us whether this patience was really going
+to matter, given the efficiency of the stock market. True, markets are
+relatively efficient over time, but new information is always emerging,
+and expected long-term trends get whipsawed back and forth,
+so prices can and do deviate from “perfect efficiency.” As mentioned
+previously, during 2018, the median premium of the 52-week high
+over the 52-week low for the Russell 1000 was 52%. If a company
+acquires another when the share price is close to its low, the price can
+become much more attractive, even after an acquisition premium that
+may be a bit higher to compensate for the cheap price. Therefore,
+waiting around for a good price can pay off, simply due to general
+volatility in the market.
+It is critical that the acquisition planning process actually facilitate
+deals, and not just create some “for show.” Corporate development
+executives sometimes express frustration with all their effort that goes
+into tracking and evaluating opportunities, only to see that deals actually
+get done when bankers visit the CEO with “hot ideas.” A properly
+designed planning process instills discipline, yet that discipline can only
+be effective if the process is relied on for the majority of acquisitions.
+Once a deal becomes live, regardless of how it originates, the
+real fun begins. Always start by understanding the stand-alone business
+before considering the acquisition plan. Learn the products and
+services, the customers and distribution channels, the production
+capabilities and capacities, and, of course, the expectations for growth,
+profitability, and investment. It is worthwhile to forecast and value
+the stand-alone case to see how it stacks up on its own. For public
+companies, this can be very useful as a comparison to the pre-deal
+public valuation. It’s hard to make a deal work well when the starting
+point is a public share price that overvalues the stand-alone business,
+though there are always a few exceptions.
+One example of an exception is a large pharmaceutical company
+with a broad, deep, global distribution network. Such a company
+may be able to create so much value when it acquires a fledgling
+biotechnology company with a solid drug pipeline that it can still
+create value when the acquisition price is several times what the
+biotech target would be worth on a stand-alone basis. Some of this
+tremendous potential upside will likely reside in viewing the target’s
+share price as an ongoing premium to recognize the potential of
+an acquisition, even well before any announcement of an actual
+transaction. But as long as the value created is sufficiently above the
+preexisting value plus this premium, the deal can still be successful.
+In “Improving the Health of Healthcare Companies,” we found
+that highly acquisitive pharmaceutical companies were much more
+successful acquirers than the typical healthcare company, generating
+almost 6% more TSR per year than less-acquisitive pharmaceutical
+companies.
+Once you understand the stand-alone business, you’ll need to
+measure and then build a case for potential synergies, including
+revenue synergies as well as all investments needed to generate
+them. For some reason, many management teams emphasize cost
+synergies more than revenue growth, which is unfortunate for both
+their decision processes and their acquisition integration plans. For
+example, sometimes the acquirer has a global footprint, as Becton
+Dickinson did when it bought CareFusion. Considerable value can
+result from the growth associated with global expansion of the target
+company. So, be sure to explore and to include revenue-growth
+synergies, otherwise good deals may be either missed completely
+or suboptimally executed.
+Some corporate development teams do extensive sensitivity analysis,
+in which they test major assumptions in sensitivity tables or cubes.
+This can be informative, though an even more useful approach is
+to prepare a few thoughtful, comprehensive cases, both upside and
+downside, for review. Mechanical sensitivities tend to miss the interaction
+between external assumptions and the ensuing internal reactions
+and choices. For example, consider a retail acquisition in which the
+acquirer decided to pursue the more-expensive of two store refurbishment
+strategies. Only probing same-store sales growth would miss
+the fact that, if sales fell short of expectations, management would
+have the early option to scale back to the less-expensive refurbishment
+strategy for all remaining stores. By evaluating meaningful cases, then,
+we gain a better sense of the true upside and the downside, and we
+are encouraged to build flexibility into our integration strategies so
+that we can adapt them when things turn out better or worse than
+expected. Flexibility often costs money, so the baseline case may suffer
+a bit. But by protecting against severe downside situations, the average
+NPV across a realistic set of high, medium, and low cases will likely
+be higher, at least over a long-enough period.
+Once the baseline and acquisition forecasts have been developed,
+we are ready to consider the maximum desirable acquisition price.
+Again, RCE provides an exceptional framework because we can
+compare the forecasted capital charges—a function of the purchase
+price and expected investments after the deal—to the expected GCE,
+both with and without synergies, as shown in figure 63.
+The stacked bar chart shows the projected GCE both as standalone
+and with synergies. The dashed box in year 1 reflects a reduction
+in GCE, based on the costs associated with achieving synergies. The
+solid line shows the expected capital charges, based on the expected
+initial purchase price and the planned CapEx after the deal closes. At
+that price, RCE is neutral in year 2 and positive from year 3 on. But
+when negotiations get intense and either the seller demands a higher
+price or another bidder jacks up the price, this type of RCE graph
+can be quickly consulted. At the higher price, the capital charge solid
+line rises to the dotted line, and the acquirer would have to wait until
+year 4 for RCE to break even and would give up half the year-5 RCE.
+This is a great tool both for providing insights and for maintaining
+discipline during negotiations.
+Integration Costs
+1 2 3 4 5
+Gross Cash Earnings & Capital Charges
+Stand-alone GCE Acquired GCE Baseline Capital Charge High-price Capital Charge
+Figure 63—Purchase Price Sets the GCE Targets
+Some acquisitions take a long time to pay off, even with the
+smoother recognition of performance made possible by using RCE
+versus traditional rates of return and EVA. One important consideration
+in such deals is that the longer a deal takes to show positive
+RCE, the higher the minimum acceptable RCE Profitability Index
+should be, both to compensate for the added risk and to be sure that
+the value creation is truly worth the wait, in comparison to other
+deals that show positive RCE sooner.
+The final key element for acquisition success is execution. Topics
+surrounding acquisition execution— including how goals are set,
+plans developed, decisions made, incentives introduced, and newly
+acquired managers trained—will be discussed in the remaining chapters
+of the book.
+Projects with Zero or Negative NPV
+The NPV rule is considered the golden rule of corporate finance and is
+featured in virtually every corporate finance class in business schools.
+After decades of working in the shareholder value field, I have come
+to firmly believe that the NPV rule is an accurate and comprehensive
+way to evaluate decisions, as well as an extremely useful way to value
+prospective companies.
+Despite the general acceptance and validity of NPV, however,
+every single company makes investments that appear to have zero
+or negative NPV.3 This is not bad per se, as long as it is done for the
+right reasons and properly managed. Unfortunately, many corporate
+executives pursue negative NPV projects for the wrong reasons, and
+fail to manage the process well.
+Executives often, oddly, describe a decision as “strategic” when
+it can’t be justified financially. It’s true that sometimes the benefits of
+an investment are hard to quantify or are expected to take an unusually
+long time to materialize. Yet if the financial benefits never arrive,
+the investment probably wasn’t all that “strategic” after all! Don’t
+rationalize a forecast that amounts to throwing darts at a wall; just
+recognize that the benefits do exist—or will likely come to exist—but
+may simply be hard to quantify or to predict.
+In many companies, the problem begins at the start of the process.
+Often, the capital investment approval process launches with a request
+form indicating at the top whether this investment is for growth, for
+improved efficiency, or for some other strategic reason. This latter
+category can include investments to improve safety, comply with
+environmental regulation, or maintain assets (recall our example of
+the aging roof or catastrophically flooded plant).
+Too frequently, when the “other” box is checked, it is just assumed
+that the investment is required, so the approval process moves along
+with little or no financial analysis. After all, if we know the NPV will
+be negative, why do the analysis? It won’t affect the decision, right?
+Herein lies a catch.
+We can realize many benefits by preparing forecasts and evaluating
+NPV, even when we know in advance that the results will yield zero
+or negative NPV. We can still consider different investment alternatives,
+to try to find the least-negative NPV solution. Perhaps we are
+installing a scrubber designed to reduce emissions from a chemical
+or industrial process. Our facilities engineering team has identified a
+scrubber capable of handling the job, but it recommends a scrubber
+twice the size that right now costs only 20% more. Purchasing the
+larger scrubber will significantly delay the point at which the next one
+must be added. Over a life cycle, this larger scrubber may be a choice
+that has a less-negative NPV. Or maybe the smaller scrubber is better.
+Who really knows, unless we do the analysis? Without it, it’s almost
+certain that the smaller scrubber will be selected, as it consumes less
+of the capital budget. And, after all (we assure ourselves), we will have
+a new capital budget when a new scrubber will be needed!
+Often, the problem isn’t that the investment has a negative NPV
+but that the benefits are hard to quantify. Instead of throwing up one’s
+arms and saying it can’t be analyzed, it is far better in some cases to
+at least back into the NPV-breakeven forecast and to qualitatively
+assess whether management believes the investment will be above
+or below the NPV breakeven line. For example, we might think that
+if we install a new research information storage system, and if the
+researchers will access it on average 100 times per week, the system
+will pay for itself (versus the manual retrieval process currently in
+use). Will the new system be used enough to justify the new investment?
+Corporate decision-makers are often more willing to indicate
+whether a breakeven level of an activity can be achieved than they
+are to submit a forecast of what might in fact happen.
+Also important, we can then use the breakeven assumptions
+to establish minimum milestones, financial and otherwise, that can
+be tracked after the investment. We can monitor how many people
+access the system each day and at least see if the expected benefits
+are being achieved. This will also be useful information the next time
+an investment of this type is considered.
+Sometimes projects seem to have negative NPV because the investment
+doesn’t make anything better; instead, it keeps something from
+getting worse. If the roof isn’t replaced, it will leak and eventually we
+will need to close the facility—or worse, it could collapse, resulting
+in liabilities and safety hazards. Keeping a bad (or potentially catastrophic)
+outcome from happening can save a company huge sums,
+but whether the facility is running or not isn’t material to the NPV
+analysis. So, we calculate the negative NPV of roof replacement costs
+and investments, and still try to find the least-negative NPV solution.
+In other cases, though, some companies go to great lengths to
+execute strategic investments that appear to have negative NPV, but
+nevertheless are believed to eventually provide some long-term,
+nonquantified benefit. In some cases, managements deliberately tweak
+transfer prices and misallocate costs and assets in ways that penalize
+more-profitable projects to make these strategic investments appear
+more attractive. These cross subsidies are intended to keep a resultsoriented
+organization from terminating strategic initiatives before
+they have a chance to stand on their own. Unfortunately, this propping
+up of strategic investments masks their true level of performance;
+this often endures for unconscionably long periods because of organizational
+inertia and political posturing, resulting in bad decisions
+where truly profitable projects are rejected for being saddled with
+costs wrongly allocated to them.
+Picture a private equity investor overseeing a portfolio company
+that is making strategic investments that may cause losses for quite
+some time, but where both management and the investor believe the
+eventual scale and profitability will justify the early investments. The
+investor plans to inject equity funds to support the burn rate during
+the early stages, but, to manage risk and ensure accountability, the
+investor may provide the funding in stages to be sure that everything
+is on track before each tranche of funding is released.
+Now imagine an unlikely scenario where the investor would prefer
+not to see the burn rate in their strategic portfolio company, so instead
+they provide excess funding to their other, more-profitable portfolio
+companies, with instructions for one to provide seconded employees
+at half their all-in cost; for another to provide raw materials at a steep
+discount to market; and for a third to buy product from the strategic
+business at a significantly marked-up price. Each of these other
+businesses would suffer losses, which would distort their strategic
+decision-making, their performance, their exit strategies, and their
+compensation for the portfolio company managements. The resulting
+mess would prevent any reliable analysis of the performance and
+potential of all four companies. It’s no different with cross subsidies
+within multi-business public companies.
+When corporations rely on cross subsidies, eventually the
+misaligned costs and assets run the risk of being treated as real. This
+distorts operational processes, such as pricing, as well as strategic
+decisions such as how much money to invest in growing both the
+subsidized and the subsidizing business. It is better by far to face the
+negative NPV, support the initiative anyway (if truly warranted), and
+set clear financial as well as nonfinancial milestones that will signal
+that the activity should either continue to grow (into positive NPV)
+or be shut down.
+To summarize, doing financial analysis on zero and negative
+NPV investments is every bit as important as doing analysis for positive
+ones. This will help both in evaluating alternatives to find the
+least-negative NPV solution and in setting up minimum milestones
+that can be used to track performance after the investment. When
+forecasts are hard to create, consider using NPV breakeven analysis.
+And always avoid subsidizing activities to make them look better;
+facing reality consistently leads to wiser decisions.
+Notes
+1 Some of these opening paragraphs, slightly modified, come from “Brand Value
+Drives Corporate Value,” by Gregory V. Milano and Joseph Theriault, and “Bridging
+the Gap Between Marketing and Finance,” by Gregory V. Milano and Ryan
+Barker. Gregory V. Milano and Joseph Theriault, “Brand Value Drives Corporate
+Value,” CFO.com, August 21, 2018, accessed January 15, 2019, http://ww2.cfo.
+com/budgeting/2018/01/brand-value-drives-corporate-value/. Gregory V. Milano
+and Ryan Barker, “Bridging the Gap Between Marketing and Finance,” Journal
+of Applied Corporate Finance 30, no. 2 (Spring/Summer 2017).
+2 Gregory V. Milano, Marwaan R. Karame, and Joseph G. Theriault, “Improving
+the Health of Healthcare Companies,” Journal of Applied Corporate Finance 29,
+no. 3 (Summer 2017): 18–29.
+3 Gregory V. Milano, “When Projects Have a Zero or Negative NPV,” CFO.
+com, August 8, 2017, accessed January 15, 2019, http://ww2.cfo.com/cashflow/
+2017/08/projects-zero-negative-npv/.

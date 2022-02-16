@@ -1,0 +1,1128 @@
+THERE ARE FAR better ways to motivate executives to think
+and act like owners than the typical corporate incentive program.
+But before getting to the details, the following will set the stage by
+identifying a few common obstacles. The first is that compensation
+committees, and many compensation experts as well, seem to care
+more about following what others do and less about whether an
+incentives package motivates the right behavior.
+When we were young, many of us were asked by our parents
+whether we would follow our friends if they jumped off a bridge.
+Typically, this was in response to our saying, “Well, Jimmy did it!”
+We all responded “no,” of course, but we were never really tested.
+My wife and I were blessed with four wonderful children who are all
+adults now. But as they grew up, I feared the possibility of peer pressure,
+and the harm it could inflict on them. Though admittedly to a
+lesser degree, I have felt similar anxiety talking to client executives and
+compensation-committee members over the years. Frequently, they
+justify features of their compensation design by saying, “this particular
+approach is common in our industry,” even while conceding that it
+really doesn’t make particular sense for their business. I always want
+to ask if they would jump off a bridge if their industry counterparts
+had done so. The few times I couldn’t help myself, and did ask, they
+simply laughed—and we moved on. (Probably better that way.…)
+To be clear, it’s not only the corporate folk. Over the years,
+I have attended scores of meetings held at dozens of companies
+during which compensation experts presented an extremely thorough
+description of each compensation element used across the
+industry, along with their recommendations for how to fit in with
+the pack. But rarely did they mention how their recommendations
+would motivate the desired behaviors—or even what those behaviors
+are. Sadly, executive compensation processes seem to have quite a
+bit in common with high schoolers: They are highly susceptible
+to peer pressure and are designed to promote conformity with
+the industry…“because Jimmy is doing it.” What a distraction this
+whole process has become!
+As discussed throughout this book, managers and, particularly, board
+members often care more about how they are perceived than about
+results. It sounds dreadful, but in the case of a typical board member,
+this is actually quite rational, since they are disproportionally exposed
+to bad outcomes in terms of reputational risk, and they usually don’t
+partake significantly (monetarily) in the fruits of good outcomes. If a
+company blazes a new trail with a compensation package full of seemingly
+logical, but untested, features, and if the outcome proves to be
+an excessively large payday for executives relative to performance, the
+head of the compensation committee may be publicly criticized. Such
+criticism can make it difficult for directors to renew their positions
+or land new ones. And the looks they get at conferences and cocktail
+parties can be borderline ruthless, too. After all, what’s the upside if
+the groundbreaking compensation plan does succeed in motivating
+exceptional performance? It varies by director and company, but usually
+a relatively small percentage of their total personal wealth is invested
+in the stock of the company. So, they typically play it safe.
+The beaten path, with its lack of PR risk, can look attractive to
+executives, as well. As with directors, they are less likely to attract negative
+attention if they’re just following industry standards. In addition
+to this pressure to conform, for any compensation plan to be implemented,
+it must be endorsed and championed by the CEO, the CFO,
+and the head of human resources. Ultimately, the board’s compensation
+committee must approve the plan, though the process should be led
+by management if it’s to motivate owner-like behaviors and reinforce
+an ownership culture. Executives must understand the current adverse
+incentives, embrace a path to reinforce better behavior, and adopt the
+principles discussed below.
+To illustrate the range of obstacles to motivating the right behavior,
+let’s consider two identical companies. Company A is led by a
+founder who, despite her company’s having gone public eight years
+ago, still owns 25% of the outstanding shares, which makes up over
+90% of her wealth. She participates in all the executive compensation
+plans that her executive team participates in, but her salary and her
+long- and short-term incentive opportunities are all roughly 10% below
+median for comparable CEOs. She simply hasn’t made it a priority to
+push for salary increases, because she would prefer that the money
+be spent on her team.
+The CEO of Company B has been in his position for eight years
+and receives an annual salary that is at the 80th percentile relative to
+the rest of the industry; due to the wide dispersion of CEO salaries in
+his industry, it is 25% higher than the median. His target annual bonus
+is 125% of salary, as compared to a norm of 100%, and in addition he
+receives grants of restricted stock and stock options every year that
+are each valued equal to his salary (to keep it simple, we won’t use
+performance share units that have performance tests in this example,
+though these are discussed below). One-third of the restricted stock
+vests on the first, second, and third anniversaries of the date of grant;
+he normally sells all the shares that aren’t needed to comply with the
+company’s executive stock-ownership guidelines. The options, which
+vest after one year, have a 10-year life. He has been told it doesn’t
+usually make economic sense to exercise stock options early in their
+life; but to diversify his personal wealth, he has usually held options
+between one and two years before cashing them out. Of course, this
+varies as he tries to sell more when the stock seems high, which is
+tough, given the blackout periods when executives cannot transact
+in the company’s stock.
+On the surface, it seems that both CEOs should be motivated to
+do what is best for the long-term good of their shareholders—but
+in reality their motivations are quite different. What will drive the
+change in their personal wealth over the next five years? Clearly, our
+Company A CEO will benefit financially only if there is strong fiveyear
+TSR from dividends and share-price appreciation. To accomplish
+this requires improvements in her company’s results while it makes
+substantial, effective investments in the future to maintain or drive
+the future growth rate and, therefore, the valuation multiple.
+For Company B’s CEO, however, the single-most-important determinant
+of his personal wealth over the next five years is whether he
+is still CEO in five years. So, he will be extremely careful to avoid any
+risk exposures that may cost him his job, which is fine if it means
+prudent risk aversion for the company; but unfortunately that attitude
+will often lead to an overly conservative strategy and business
+culture, along with less investment and less growth. That’s OK by
+him, though, since his annual bonuses can still remain high as long as
+the slower growth is budgeted. The second-most-important influence
+on his wealth is his ability to consistently sandbag the compensation
+committee with endless stories of how the sky is falling in order to
+explain each year why growth and profitability are going to be extra
+tough that year. He laments, “I know I said the same thing last year,
+and we did well, but this year is really going to be tough because of x,
+y, and z.” It doesn’t matter in most companies whether performance
+improves, just that it beats the budget. So, a low budget is every bit
+as valuable for management as a good performance—and it’s often
+easier. Thus, this CEO sets aside any thought of setting stretch-goals
+to fire up the troops and get them thinking outside the box, lest his
+actions give the compensation committee the crazy idea that they
+should raise the performance targets.
+The third-most-important influence on Company B’s CEO
+compensation is to maintain and increase his already-above-market
+salary. Of course, the high salary means extra money in his pocket,
+but it’s even more important that it be kept high since the target bonus
+is 125% of salary, and since the restricted stock and stock options are
+each granted at 100% of salary. So, each dollar of salary translates
+to $4.25 of total target compensation. For many CEOs, the total
+compensation multiplier is even higher. One of the important factors
+in benchmarking CEO salaries is company size, whether viewed in
+terms of revenue, assets, market capitalization, number of employees,
+or other metrics. This causes an incentive to grow that may be
+tough to accomplish when a conservative management style has
+caused underinvestment. This roundabout inducement to enlarge
+the business can motivate a megamerger even when the economics
+are marginal. Earlier in this book, we noted that acquisitions tend to
+be associated, on average, with better long-term TSR, but only when
+adequate cash flow is generated over time. Acquisitions “to grow for
+growth’s sake,” or really for CEO compensation’s sake, rarely end
+well—except, of course, for the CEOs.
+It’s unlikely that Company A’s CEO would be excessively riskaverse.
+She should be expected to manage risks, but not be afraid to
+pursue worthwhile investments and projects. She probably wouldn’t
+obsess over her salary, though she would want it to be fair, and we
+shouldn’t expect her to launch any megamergers that just make the
+company bigger. The typical CEO package, alas, does a poor job of
+encouraging Company B’s CEO to act like A’s.
+Most complaints about executive compensation by journalists
+and investors focus on how much a CEO makes, not how she or he
+makes it. This tendency was articulated well in 1990 by Professors
+Michael Jensen and Kevin Murphy in their Harvard Business Review
+article titled “CEO Incentives: It’s Not How Much You Pay, but How.”1
+There they wrote:
+There are serious problems with CEO compensation, but excessive pay
+is not the biggest issue. The relentless focus on how much CEOs are
+paid diverts public attention from the real problem—how CEOs
+are paid. In most publicly held companies, the compensation of top
+executives is virtually independent of performance. On average, corporate
+America pays its most important leaders like bureaucrats. Is it
+any wonder then that so many CEOs act like bureaucrats rather than
+the value-maximizing entrepreneurs companies need to enhance their
+standing in world markets?
+Thank you, Professors Jensen and Murphy—almost 30 years later,
+these thoughts ring every bit as true as the day they were written.
+In certain situations, executives are not paid enough for outstanding
+performance; in many companies this is as big a problem as overpaying
+underperformers is in other companies. Consider, for example,
+Transocean, the leading offshore driller, which delivered 480% TSR
+over the five years from the end of 2002 through the end of 2007. In
+three of those five years its annual incentive plan for senior executives
+paid nothing, and in the other two years it paid an average of target
+annual incentives. But the company’s TSR was 5.9 times that of the
+S&P 500, so it is clear that management was underpaid. Sure, they
+made money on their long-term incentives, but why have an annual
+plan if it doesn’t reward outstanding value creation? Beyond the risk
+of managers’ making suboptimal decisions, companies in these situations
+are likely to have a hard time recruiting and then retaining
+executive talent.
+The executive compensation industry is huge and replete with
+many thousands of experts, pundits, and advisors. Hundreds of journals,
+conferences, academic studies, and all sorts of governance experts
+are at the beck and call of interested compensation committees and
+managements. Somehow, though, despite all this effort, and undoubtedly
+the best of intentions, executive compensation is a mess—full
+of terrible compensation strategies, structures, and execution. One
+telling example of good intentions gone awry is the widespread use
+of relative TSR by U.S. companies.
+The Relative TSR Conundrum
+In the 1990s, few people had ever heard of “relative TSR,”2 but it was
+up-and-coming. Over 50% of S&P 500 companies now use some form
+of relative total shareholder return to determine executive compensation,
+and many believe it’s a highly effective measure. To some, relative
+TSR rewards success while limiting the risk that large payouts might
+accumulate and attract media attention simply because of an upwarddrifting
+stock market or industry. To the rest of us, relative TSR just
+weakens the alignment between shareholders and executives while
+amplifying compensation volatility and uncertainty.
+To determine relative TSR, companies typically calculate the
+percentile ranking of a company’s TSR over a period against the
+TSR of a list of public companies; these can include the constituents
+of a stock index, the members of an industry, or a customized set
+of comparable publicly traded companies. The performance cycle,
+or period for measurement, is often three years; to dampen market
+volatility, share prices are often averaged over 30 to 90 days at the start
+and end of the cycle. The stock with the top TSR in the comparison
+group is labeled as being in the 100th percentile; the stock at the
+bottom is labeled zero; and the rest are distributed in between, using
+the standard percentile method.
+The conceptual idea behind relative TSR is to recognize skill,
+without being distracted by luck and randomness, so as to deliver
+compensation that’s “fair.” The intent is to deliver more shares to an
+executive team that leads a tough industry and fewer to an executive
+group that trails in a high-performing industry. Energy and utility
+companies first adopted relative TSR because they and their peers face
+many industry-wide market influences, such as exposure to cyclical
+and volatile energy prices. Nowadays, relative TSR is used across all
+industries.
+Management is typically granted a number of performance share
+units (PSUs), which are conditional company shares. An alternative
+is to grant performance share options (PSOs). The number of shares
+or options that vest at the end of the cycle is determined by using
+the relative TSR performance test. For example, it could be that if a
+company’s relative TSR is 75th percentile or higher, the executives are
+granted twice as many shares as indicated by the number of PSUs.
+From the 50th percentile up to the 75th percentile, they may receive
+between 100% and 200%. Between the 25th and 50th percentile, they
+could get between 50% and 100% of the shares; and if they perform
+at less than the 25th percentile, they forfeit their PSUs altogether.
+Many alternative vesting profiles are in use, but this is the approach
+used in the testing that is discussed below.
+When a company delivers a top relative-TSR result, it gives its
+managers a double benefit, since the relative-TSR ranking can deliver
+up to twice the shares. And, of course, the share price has typically
+risen, so each share is worth more. But if the only reason the stock
+did well was that their market or industry itself did well, the shares
+may each be worth more; however, depending on how the company’s
+relative TSR ranks, it may forfeit all or some of the potential maximum
+number of PSUs. In principle, this emphasis on both absolute and
+relative performance seems ideal; but as we will see below, it doesn’t
+work as well in practice.
+Our first capital market research project on relative TSR used 2016
+data for an article that we published on CFO.com; then we updated
+and improved the analysis through 2017 for an article in Workspan. In
+the latter project, we conducted two studies on the relative TSR of
+the companies in the Russell 1000 that were public for the full period
+of each study; in every case, the starting and ending share prices were
+averaged over 60 days to reflect the 30- to 90-day conventions that
+companies typically use. The first study also showed weak pay-forperformance
+linkage.
+We studied the 712 Russell 1000 companies that were public
+throughout the entire period from the end of 2005 through the end
+of 2017. Ten cycles were studied, with the first being from the end
+of 2005 to the end of 2008, and so on through the end of 2017. Each
+company’s TSR was compared with that of the whole group, and each
+was assigned a percentile rank in each cycle. We ran the results for
+each company for each cycle through the typical PSU-vesting logic,
+described above, and then we averaged the vesting for each company
+over the 10 cycles. When we compared this average of those 10 cycles
+to what the vesting percentage would have been if based on cumulative
+relative-TSR performance over the full period, we found a large
+gap between the average rewards to management and the cumulative
+returns for shareholders.
+Consider the semiconductor company NVIDIA. Over the full
+12-year cycle, NVIDIA’s cumulative TSR was 1,712%. This was 98th
+percentile, an enormously high TSR that should have generated an
+equally fantastic reward. Indeed, if it were cumulative relative TSR
+over the long term that had mattered, this level of performance would
+have generated the maximum 200% vesting. However, due to the
+pattern of the cycle-by-cycle relative TSR, NVIDIA’s average relative-
+TSR ranking was only 44th percentile. And if it had used exactly the
+above-described version of the relative TSR test, its executives would
+have averaged only 79% vesting. This appears rather far out of alignment
+with the shareholders’ return, with management seeming to
+be vastly underpaid. Across the whole sample, management teams
+would have either over-vested or under-vested, on average, by 45%
+of their total original number of PSUs. This is such a large average
+deviation from the intended outcome that it completely dismisses
+any notion that relative TSR is useful for aligning management with
+owners over time.
+With pay schemes based on relative TSR, then, many managers
+end up feeling underpaid relative to shareholders. In other cases,
+many shareholders wish they’d earned a higher TSR to reflect the
+high level of executive pay. When managers feel underpaid it can
+be demotivating for management; and when management appears
+overpaid, it can face a public relations crisis, which in turn fosters
+attention from activist investors.
+Also, within each relative-TSR cycle the awards earned can vary
+considerably, depending on which day the cycle ends. To demonstrate
+this, we examined the relative-TSR percentile ranking for each
+company during 52 three-year cycles ending as of each week in 2017.
+For example, at the start of 2017, Celgene would have vested in 148%
+of its PSUs. This vesting dropped to 122% for the cycle ending at the
+conclusion of one month. Then over the following weeks, the vesting
+percentage would have increased until it reached the cap of 200% by
+mid-April, where it stayed for two months. But as the middle of the
+year approached, a substantial deterioration occurred in relative TSR;
+for December its relative TSR was bottom-quartile, so no PSU vesting
+would have been triggered. With only a few months of movement in
+the vesting date, the value of this allegedly long-term incentive would
+have reached either the cap or the floor. Again, either the managers
+or the owners are likely to feel shortchanged.
+Although, in principle, relative TSR appears attractive, in reality
+it does not align managers and owners over long periods and, within
+a given cycle, the executives will vest in vastly different numbers of
+shares, depending on the day the three-year cycle ends. Many executives
+already discount the value of stock awards, and using relative
+TSR only exacerbates this, which is not at all helpful for attracting
+or retaining talent.
+After our research, we began to advise clients to reduce their
+reliance on relative TSR and, in pursuit of that goal, we implement
+performance tests based on fundamental growth, margin, and return
+metrics. The main point of this discussion of relative TSR, though, is
+to illustrate how easy it is to design compensation frameworks that
+seem to make logical sense but that in reality do a poor job of instilling
+an appropriate ownership mentality.
+The Main Compensation Goals and Tradeoffs
+Our main compensation goal is to simulate ownership that encourages
+managers to think and act like long-term, committed owners.
+Admittedly, it’s hard to design these types of incentives.
+To illustrate some of the difficulties, consider an owner of a
+mom-and-pop hardware store. It has been quite profitable for years,
+but then a Lowe’s big-box store opens across the street. Reality sets
+in fast. Can the owner beat Lowe’s? Probably not…they have a larger
+store, more variety, and lower consumer prices because they buy at
+scale. If the owner can beat them, perhaps with great service, and
+can continue to thrive—great. But if they realize they can’t, they
+close their shop fast to preserve capital—much more quickly than a
+corporate-owned branch that could spend months or years justifying
+why performance is down, presenting corrective measures, and
+lingering as a weak competitor that bleeds cash every darn day. It’s
+OK with the corporate manager that profits are down, as long as
+it’s explainable. Of course, he has the hidden motivation of protecting
+his own job, and perhaps those of his subordinates. After all, he
+may feel a greater allegiance to them than to a group of anonymous
+shareholders. The owner of the small store, though, feels frustrated
+by the turn of events but doesn’t need to justify himself to anybody
+else. It’s hard, but not impossible, to design incentives that emulate
+this owner-like thinking in these types of circumstances.
+When designing a compensation plan, three overriding decisions
+must be made: Which measures will be used? How will targets be
+set? And how leveraged or sensitive will the incentive payments be if
+performance is above- or below-target? Naturally, many other important
+considerations will crop up that need to be taken into account,
+yet these three are the ones we will now focus on.
+I am, of course, partial to the Fortuna Advisors performance
+measure, RCE, but any measure or combination of measures can be
+used that accomplishes the following:
+• Balances the desire to drive cost efficiency and capital productivity,
+or, in other words, to achieve high returns on capital, while
+investing in future growth
+• Emphasizes long-term value creation while at the same time
+motivating outstanding current performance
+• Encourages P&L investments, such as R&D and marketing (if
+important to the business), on a consistent basis relative to any
+capital expenditures and acquisitions that appear on the balance
+sheet
+• Relates well to company TSR, on average, over time (for private
+companies, it should relate well to TSR for public peers)
+When these criteria are met by a single measure, such as RCE,
+that solution is vastly preferred to asking management to balance two
+measures, which would create a potentially confusing optimization
+challenge. One multi-measure approach that works is to set up a grid
+with growth on one axis and return or margin on the other axis. My
+colleagues and I have designed such an approach for PSU tests, to
+replace relative TSR, but care must be taken in defining the measures
+and calibrating the performance requirements to ensure that higher
+payouts generally occur when higher TSR is expected based on past
+experience. When management, and especially CFOs, determine such
+grids based on gut feel alone, they often overemphasize margins and
+returns while underemphasizing growth and investment.
+The table in figure 66 comes from the Varian Medical Systems proxy
+issued in 2018.3 It illustrates the vesting of performance share units,
+depending on revenue growth and margin improvement. As it clearly
+states in the proxy, “the targets for Three-Year Revenue Compound
+Annual Growth Rate and Three-Year Change in EBIT as a Percentage
+of Revenue in the payout matrix were set based on the median results
+of our Business Model Peers.” By calibrating the table against what
+delivered strong TSR for the company and its business model peers in
+the past, the company has confidence that if management achieves a
+high PSU vesting, it will have delivered the type of performance that
+usually leads to strong TSR. The linkage to value creation is undoubtedly
+clearer to management than it would be with relative TSR, and at the
+same time the company would avoid stock market volatility problems.
+≥0.0% 3.5% 7.0% 10.5% 14.0+%
+4.0% 100% 133% 167% 200% 200%
+2.0% 67% 100% 133% 167% 200%
+0.0% 33% 67% 100% 133% 167%
+-2.0% 0% 33% 67% 100% 133%
+≥-4.0% 0% 0% 33% 67% 100%
+Three-Year ΔEBIT Margin
+Three-Year Sales Growth CAGR
+Figure 66—Performance Test for Varian Medical Systems
+Performance Share Units
+Note that the table is not based on budgeted EBIT margin or
+some absolute level, but rather on improvement over the three years.
+This feature dramatically improves the relationship to TSR. A similar
+table can be used to calibrate annual bonuses, as well.
+As discussed extensively in chapter 6 and throughout the book,
+targets should always be defined as an improvement over the prior
+year, rather than based on budgets or plans. Due to the way RCE
+is defined, for about half the companies out there, investors have
+priced the company’s stock at or below the level that reflects future
+flat RCE. For these companies, and even for those where the market
+has priced in modest RCE improvement, it is sufficient to simply set
+the target RCE at the actual RCE achieved the prior year. Compensation
+committee members often seem surprised that we recommend
+a target improvement of zero—but that’s because they haven’t yet
+fully internalized what RCE actually is.
+National Oilwell Varco, often referred to as NOV, is a large oilfield
+services and equipment company. The customized version of RCE
+that it implemented is known as NOV Value Added, or NVA. As
+it states in the company’s proxy statement issued in 2018, “Achieving
+NVA results flat to the year prior’s actual performance requires
+management to earn the cost of capital on new investments and to
+sustain the performance of existing activities.”4 Some companies
+are so successful and their share prices so high that investors already
+have “baked in” the present value of significant future RCE improvements.
+If, however, a company’s stock has been up and down, and if
+this premium valuation is likely to be temporary, it is generally best
+to revert to measuring performance against the prior year’s RCE. If
+this premium valuation has been persistent for three to five years, it
+would not be fair to shareholders to provide management with full
+target incentive payouts merely for reaching the prior year’s actual
+RCE. Instead, the plan should have a preset Expected Improvement
+in RCE that is either a fixed number or a fixed percentage of Gross
+Operating Assets at the start of the year.
+To ensure that managers know the deal as thoroughly as owners
+do, it’s best to establish the approach to target-setting and then set
+it in stone for multiple years. Therefore, for companies requiring an
+Expected Improvement in RCE, it is best to evaluate the amount of
+RCE baked in the share price on an annual or quarterly basis over the
+prior three to five years, and then commit to use the average as the
+target for the next three to five years.
+After we define the measure and establish the framework for target
+setting, we then need to determine how leveraged or sensitive the plan
+will be when performance goes above or below the targeted performance.
+A long time ago in a faraway land—well, actually in New York
+City—my good friend Steve O’Byrne taught me that there are three
+primary objectives in designing and calibrating incentives and, unfortunately,
+you can’t optimize them all simultaneously. But before going
+down that path, it’s important to know that Steve is one of the very
+few compensation experts, out of the scores I have met, who truly
+understands the importance of simulating ownership in incentives.
+Among Steve’s many innovations is what he calls wealth leverage,5
+which in simple terms reveals how linked the executive’s personal wealth
+is to changes in the wealth, or market value, of the company. If, when
+the share price rises 1%, the executive’s wealth also rises 1%, wealth
+leverage is considered 100%. This would pretty much be the case for the
+CEO of Company A above, since her company ownership constitutes
+nearly all her personal wealth. But in the case of Company B, a considerable
+portion of its CEO’s income is driven by salary, payouts set as a
+multiple of salary, plus annual incentives that reward sandbagging as
+much as performance. And that CEO can sell any shares he wishes to,
+so as to diversify his investments. His wealth leverage would be decidedly
+less than 100%, so he has far less motivation to drive the company
+value higher. Steve O’Byrne has developed an uncanny ability to use
+information published in financial statements and in corporate proxies
+to rank executives based on their wealth leverage to show who is willing
+to truly expose their pay to performance—and who, by contrast,
+is just trying to hedge and secure more compensation regardless of
+performance. He has also demonstrated that companies with higher
+wealth leverage tend to deliver higher TSR, which is consistent with
+the notion that incentives are truly an investment that can generate a
+return if designed and calibrated correctly.
+Steve has used his wealth leverage approach to determine what
+an executive should have been paid, given his or her performance; by
+comparing these figures to actual total compensation, he identifies what
+he calls “excess pay.”6 In other words, Steve’s approach doesn’t only
+examine whether pay was “high” or “low”; he goes further, to identify
+what should have been paid as the benchmark, given the company’s
+performance and also the compensation package’s wealth leverage.
+If a management team has low-wealth leverage, which protects their
+pay when performance declines, and yet their pay skyrockets when
+performance turns up, Steve would fairly describe that as “excess
+pay.” The guy is a true innovator whose methodology is much better
+than simply branding anyone making a lot of money as a “fat cat”
+and then walking away.
+For me, though, the best lesson from Steve was the first he taught
+me about 25 years ago, which follows. The three main goals of executive
+compensation are: (1) to attract and retain executive talent, (2)
+to motivate executives to create more value, and (3) to do so at a
+reasonable total cost. You simply cannot optimize these three goals
+simultaneously; tradeoffs are needed.
+To illustrate the tradeoffs, consider figure 67. Let’s imagine that
+a company initially sets its pay-for-performance curve for its annual
+incentive plan at line A.
+Incentive Pay
+Performance
+Target
+Target
+C B A
+Zero Payout
+More Bonus
+Sensitivity
+Less Bonus Sensitivity
+Figure 67—Tradeoffs between Motivation, Retention, and Cost
+If target performance is achieved, executives receive a target annual
+incentive payment. If they perform higher than target performance,
+then they receive a higher annual incentive payment until perforFOURTEEN:
+DESIGNING OWNER-LIKE COMPENSATION PLANS 301
+mance increases enough to reach the cap. If performance is below
+target, so is pay until it reaches zero. Some executives ask to remove
+the cap, but the quid pro quo is to remove the floor, and as a general
+rule they don’t want to write checks to the company if performance
+declines too much.
+To help client executives understand these implications, I believe
+it’s always important to prepare simulations of payouts based both on
+management’s projections and on historical performance trends for
+their company and their peers. Sometimes this review leads management
+to believe there is not enough of a payout when performance is
+strong, so they say motivation will be weak and therefore they must
+seek to increase the incentive leverage. That is, they want each increment
+of performance improvement to lead to a greater pay increase.
+To add leverage, we can rotate the pay-for-performance curve
+around the point where target performance provides target pay until
+we land on line B, which is steeper. This new incentive will be more
+motivating since the incremental payouts rise and fall faster; and
+management will be hungrier to improve performance since they
+get a bigger share themselves. Other levels of performance would
+have had a payout on line A, but would deliver zero payout on line B.
+This creates a higher probability of zero payout, which can make it
+harder to attract and retain executive talent.
+This too we can fix by sliding line B to the left until it aligns with
+line C, which has the same slope as B (that is, it is equally steep) but
+also has the same potential for zero payout as A. This new plan is
+very good at motivating, attracting, and retaining executives, yet
+it does so at a much higher average cost. The three main goals of
+motivation, attraction/retention, and cost cannot be simultaneously
+optimized—again, tradeoffs are required to design an optimal plan
+for any given company.
+The financial performance of certain companies, in some industries,
+is more volatile or cyclical. So, as a general rule such companies
+should flatten their pay-for-performance curves so that their larger
+swings in performance are dampened, resulting in similar pay volatility.
+In figure 67, this would be line A.
+Another important factor that affects the bonus sensitivity tradeoff
+is company culture. A corporation’s culture consists of a great many
+important elements, but the aspect that’s important here is how
+aggressive or conservative that culture is. When executives are encouraged
+to reach for the stars, take more risks, and drive success, without
+feeling afraid of manageable failures, a somewhat steeper incentive
+curve is in order. In such a culture, it’s fine that pay jumps up or down
+and is more differentiated across various business units, since this
+reinforces the culture. But in more conservatively managed companies,
+a flatter curve may be better. Again, the best way to test this is
+through simulations of forecasted and historical performance using
+the track record of the company and its peers.
+Compensation Package Design
+Before we design a compensation package, we should establish our
+compensation goals and some key criteria. How aggressive do we
+want to be in motivating success? In other words, how much leverage
+do we want? What is the time horizon for decision-making? This will
+dictate the nature of, and balance across, a number of elements of
+the compensation package, some of which would necessarily reinforce
+longer- or shorter-term thinking. As we roll incentives down to
+business-unit management, how much do we want to emphasize local
+accountability and success versus motivating teamwork and sharing
+best practices? These and other considerations must be discussed before
+designing a compensation plan so that there is a frame of reference.
+As there is no truly typical situation for setting compensation,
+there is no one-size-fits-all solution. The main elements I will discuss
+are the split of salary, target bonus, and long-term incentive, followed
+by strategies and alternatives for each of the three main elements of
+a compensation package.
+When it comes to salary, that’s one of those peculiar situations
+in life when less is more. If we are trying to motivate owner-like
+behavior, why would we want the big, dead anchor of a high fixed
+salary in the mix? The reason many executives are given high salaries
+is not that they need some minimum income, at least not CEOs. It’s
+that everything else in compensation is granted as a percentage or
+multiple of salary. So, let’s stop that right away and separate the two.
+For now, let’s consider cash compensation only. Since salary
+requires solely that the executive keep the job, it is of lower risk
+than other variable elements of compensation. Annual incentives, for
+example, vary year to year and therefore carry more risk. Sure, they
+may be higher, but they could be lower, too. In finance, we discount
+cash flows for risk, and we can do the same with compensation. If
+a dollar of salary is worth one dollar, then a dollar of target annual
+incentive plan payment, which can end up being worth more or less,
+must be worth less than one dollar. This follows the basic principle
+that stable cash flows are worth more than variable cash flows, so for
+variable cash flows to have the same value, they must be targeted at
+a higher level.
+One of the great things consulting firms do well regarding executive
+compensation is gather, sort, and apply data. Let’s say that in a
+given industry the median CEO salary is $500,000 and the median
+target bonus is 100% of this, or another $500,000. Let’s further assume
+that the bonus can rise to 200% or drop to zero, based on performance.
+So, in a great year the bonus will be two times $500,000, or $1,000,000,
+and total cash compensation will be $1,500,000. Sounds great, but of
+course the pendulum can swing both ways and the bonus can be zero.
+We all like to think people are perfectly rational, but they’re not
+(of course). In 1979, the psychologists Daniel Kahneman and Amos
+Tversky created their famous “prospect theory” that asserts that
+decision-making is typically based on the potential value of losses
+and gains rather than the final expected outcome, and finds that
+people evaluate these results using heuristics (a fancy word for the
+decision-making rules). When people are offered a choice formulated
+in one way, they may be risk-averse, but when offered the same choice
+formulated differently, they may display risk-seeking behavior. For
+example, as Kahneman says, people may drive across town to save
+$5 on a $15 calculator but not to save $5 on a $125 coat.
+One very important result of the work of Kahneman and Tversky
+is demonstrating that people’s attitudes toward risks concerning gains
+may be quite different from their attitudes toward risks when losses
+are involved. For example, when given a choice between receiving
+$1,000 with certainty versus having a 50% chance of $2,500, many
+may well choose the certain $1,000 in preference to the uncertain
+chance of getting $2,500, even though the mathematical expectation
+of the uncertain option is $1,250. This is a perfectly reasonable attitude
+that is described as risk aversion. But Kahneman and Tversky found
+that the same people, when confronted with a certain loss of $1,000
+versus a 50% chance of no loss or a $2,500 loss, often do choose the
+risky alternative. This is called risk-seeking behavior. This behavior
+is not necessarily irrational, though it is important for compensation
+designers to recognize the asymmetry of human preferences.
+So, if we evaluate the value of the target bonus, we might say $1
+of target bonus is worth only $0.80 of salary, though of course this
+would vary based on the characteristics of each incentive plan. The
+$0.80 is where managers would be indifferent. In other words, the variable
+(risky) target bonus of $500,000 is really viewed by the executive
+as being worth the same as about $400,000 of stable (low-risk) salary.
+If we set each component of total expected cash compensation at the
+benchmarked industry medians for salary and target bonus, this point
+is somewhat academic. It is what it is….
+But if we want to consider changing the mix, it’s a critical point. If
+we take away some salary and offer a higher target bonus, we need to
+replace each $1 of salary reduction with $1.25 of target bonus, if the
+relationship in the prior paragraph holds (remember that in different
+situations this $1.25 will be higher or lower). If we don’t follow this
+and treat $1 of target bonus as the same as $1 of salary, given a shift
+to less salary and more bonus to improve the alignment of executives
+with owners, the executives may view the change in package as a pay
+cut. Oh, sure, in a great year the new package will pay more, but there
+is an equal and opposite downside exposure, and managers would
+rightfully want something to make up for the extra risk.
+Keeping the 1.25:1 ratio, the three packages would be valued
+similarly by the executive, as detailed in figure 68.
+Of course, executives would like to experience both the conservative
+downside and the aggressive upside, but to provide the appropriate
+risk-reward relationship we should always strive for symmetry
+whether the plan is conservative, market median, or aggressive. The
+question of which one is best comes down to the culture and strategic
+objectives of the organization.
+If a company sticks to its culture, what its management finds is
+that it has many “good employees” who may not actually fit with
+the culture. For example, a company may decide to be conservative
+in business strategy, organizational culture, and compensation
+strategy. To do this, it will be extra careful about risk-taking, which
+means management will turn down some investments that others
+may accept, because the value creation is not adequate for them to
+feel comfortable taking on the risk.
+Conservative Market Median Aggressive
+Salary $600,000 $500,000 $400,000
+Target Bonus $375,000 $500,000 $625,000
+Target Total Compensation $975,000 $1,000,000 $1,025,000
+The following shows what happens, in both good and bad times, to these different
+mixes of salary and target annual incentives:
+Conservative Market Median Aggressive
+Good Times (Upside Scenario)
+Salary $600,000 $500,000 $400,000
+Max. Bonus (2x) $750,000 $1,000,000 $1,250,000
+Max. Total Compensation $1,350,000 $1,500,000 $1,650,000
+Bad Times (Downside Scenario)
+Salary $600,000 $500,000 $400,000
+Min. Bonus (0x) $0 $0 $0
+Min. Total Compensation $600,000 $500,000 $400,000
+Figure 68—Compensation Mix and Payout Variation
+From a cultural perspective, a premium will be placed on being
+careful in a risk-averse company when developing plans and approving
+decisions. Such a company would be more likely to hedge its
+bets than to take on a “Big Hairy Audacious Goal,” or BHAG, a term
+that James Collins and Jerry Porras coined in their 1994 book, Built to
+Last: Successful Habits of Visionary Companies.7 A BHAG encourages
+companies to define visionary goals that are strategic and emotionally
+compelling. These goals may encourage reaching for the stars, but they
+can also involve betting the company on the outcome. A conservative
+culture would shun such ideas and prefer instead to pursue a series
+of smaller, more-predictable, and less-risky goals.
+This conservative company would be best served by an incentive
+plan that reinforces the low-risk culture by emphasizing salary and
+less-leveraged incentive components. That is, it would take larger
+swings in performance to achieve high or low payouts.
+Such a company would likely have many employees, perhaps even
+some with solid skills and strong motivation, who would feel frustrated
+by the conservative strategy, culture, and compensation package.
+They would buck the culture, try to change it, and seek to instill an
+entrepreneurial spirit—but would be constantly met with resistance
+and outright objections. Some executives might recognize their skills
+and fear losing such employees, but they usually wouldn’t realize that
+trying to retain them would be unlikely to succeed in the longer term
+and that doing so would likely weaken the company culture.
+The same is true, in reverse, for a company with an aggressive
+business strategy, culture, and compensation package. It will have
+skilled and effective employees who, by nature or circumstance, feel
+uncomfortable in the environment and seem unhappy with the volatility
+of their pay. For them, the idea of launching a new BHAG that
+could prove highly lucrative but risk years of bonus pay may not be
+tolerable.
+Unfortunately, there is no perfect answer to how aggressive or
+conservative a company’s strategy should be, but the culture and
+compensation package should be aligned. If it has employees who don’t
+fit the culture and seek to resign or, worse, threaten to quit unless
+demands are met, it’s better to let them leave. Even if they are
+skilled, it’s advisable not to dilute the desired strategy and culture
+by keeping them.
+Better Annual Incentives
+Once a company has established its business strategy, desired culture,
+and compensation strategy, the next question is how to design an
+annual incentive plan that reinforces an ownership culture. In reality,
+well-designed long-term incentives will do more to cement the
+partnership between executives and shareholders, though an annual
+plan to reinforce the ownership culture is also valuable.
+An annual incentive plan requires four elements. We would need
+to define the measures, the methodology for setting targets, the sensitivity
+if the performance is above- or below-target, and the system of
+caps and floors that limits payouts in extreme circumstances. Although
+we would need considerable expertise to customize an appropriate
+performance measure and then to calibrate the targets and sensitivities,
+the principles required are straightforward.
+As discussed throughout this book, the most reliable measure to
+link to compensation is RCE, which should always be tailored to the
+business dynamics and accounting conventions of both the company
+and its industry. More than any other measure, RCE rises when “good”
+things happen and declines when “bad” things happen; using RCE
+improves the incentive to invest in the future and eliminates the incentive
+to milk old assets long after they should have been replaced.
+Most companies are priced to maintain their current RCE with
+small increments of improvement or decline, as mentioned earlier.
+For these companies, the best target-setting mechanism is to establish
+the target RCE each year equal to the actual RCE performance in the
+prior year. This improves on more commonly used methods in three
+ways. First, it breaks the cycle of setting targets off a budget or plan,
+which encourages sandbagging and underperformance. Second, it
+removes the potential for year-end gaming of the system, such as
+offering discounts to pull January sales into December, temporarily
+driving down accounts receivable, and having other cascading
+effects. Third, and most important, it encourages managers to treat
+the capital as if it were their own. If they invest capital that doesn’t
+cover the required return, and then the RCE declines, they are paid
+less, and vice versa, of course.
+As discussed above, we should set targets with a built-in expected
+improvement for companies that already have an expectation of higher
+RCE in the future baked into their stock price. But unfortunately, it is
+hard to do the reverse for companies that are valued low enough that
+investors have baked in an expectation that the current level of RCE
+is not sustainable. In principle, the target RCE each year should be set
+at the prior-year RCE less an expected decline. In practice, however,
+prevailing compensation and investor-relations practices are such that
+setting targets as a systematic decline from actuals each year is hard
+for compensation committees to agree to. In these cases, targets are
+generally set equal to the prior-year actual, and management must
+accept this if they want to accrue the behavioral benefits that come
+along with the rest of the compensation improvements. With any luck,
+success will affect expectations and investors will drive share prices
+higher, to reflect new expectations of more-sustained or even improving
+performance after a few years; and management will then benefit
+through their long-term incentives that are tied to the share price.
+Though there is some room for making the pay-for-performance
+curve a bit steeper or flatter, the range of acceptable bonus sensitivities
+should be based on the volatility of RCE. Some businesses are
+highly volatile or cyclical, and their median year-to-year change in
+RCE can be 3%, 4%, or even 6%–8% of gross operating assets. In
+other more-stable businesses, these variations are generally 1% or
+less. This is illustrated in figure 69.
+Figure 69—Stable vs. Volatile RCE
+If we used the same bonus sensitivity for the two businesses
+whose RCE is shown in the figure, the bonuses for the volatile business
+would be bouncing between the bonus cap and floor, while the
+stable business would get almost the same bonus each year, as shown
+in figure 70.
+Using the same bonus sensitivity for both businesses also leads
+to extremes for the volatile business. The stable business has the
+opposite problem. Note that both businesses earn payouts that average
+above 1x because both businesses create value and improve RCE
+over time. By varying the bonus sensitivity based on historical and
+expected RCE volatility, we can provide similar compensation volatility
+in both businesses. Consider the two incentive-payout relationships
+shown in figure 71.
+By flattening the pay-for-performance curve for the volatile business,
+we make the bonus sensitivity more suitable for that business.
+Again, management has some flexibility if it wishes to be more conservative
+or aggressive, but if you were in their shoes you wouldn’t want
+to move one curve toward the other too much. Note that, when we
+change the slope, we solve the volatility problem; another benefit is that
+we wind up rewarding the stable business managers who have achieved
+cumulative improvement with a bit higher average payout, because
+the underlying upward trend is being rewarded against a steeper
+curve. This makes sense, because generating cumulative long-term
+improvements in a very stable business is harder but more valuable.
+Bonus Multiple
+Figure 70—Stable vs. Volatile Bonus Multiple
+0.00x
+0.50x
+1.00x
+1.50x
+2.00x
+Bonus Multiple RCE
+Stable Volatile
+Figure 71—Pay for Performance Bonus Sensitivity
+Annual incentive plans generally have caps and floors, as do
+many features of long-term incentive plans. Some years ago, I realized
+that companies need to modify the target-setting formula in
+years after performance surpasses a cap or a floor. In order to avoid
+discouraging improvement after the cap is reached, and to discourage
+our writing off the kitchen sink after the floor is reached, we
+set the target for the following year at the point where the floor
+or cap was reached. This allows the company to limit the payout
+in any given year while ensuring that the cumulative payout over
+time directly relates to cumulative RCE improvement. So, the cap
+isn’t really a cap per se on what can be earned over time; it’s more a
+cap on what can be paid in any given year. The excess performance
+above the cap (or below the floor) is rolled into the next year, in
+the form of a target RCE that is below (or above) the prior year’s
+actual result.
+It’s fundamental to everything covered in this entire book that
+readers clearly understand the beneficial, owner-like behaviors motivated
+by this annual incentive plan. To illustrate how this simple and
+highly effective compensation model works, consider the baseline
+case shown in figure 72.
+Baseline Year 1 Year 2 Year 3 Year 4 Year 5 Total
+A RCE $100.0 $105.0 $110.0 $115.0 $120.0 $125.0
+B ΔRCE $5.0 $5.0 $5.0 $5.0 $5.0 $25.0
+C Bonus Sensitivity $20.0 $20.0 $20.0 $20.0 $20.0
+D=B/C Performance Multiple 0.25x 0.25x 0.25x 0.25x 0.25x
+E Target Multiple 1.00x 1.00x 1.00x 1.00x 1.00x
+F=D+E Overall Incentive Multiple 1.25x 1.25x 1.25x 1.25x 1.25x
+Target Annual Incentive $100,000 $100,000 $100,000 $100,000 $100,000
+Annual Incentive Payout $125,000 $125,000 $125,000 $125,000 $125,000 $625,000
+Figure 72—Baseline RCE Incentive Simulation
+Rows A and B show that this baseline business forecasts strong
+RCE, at $100 million, and improving by $5 million per year. Row C
+shows that the bonus sensitivity is $20 million, which is the amount
+RCE would need to increase in a year to double the bonus, or to
+decline in a year to zero it out. In this case, since RCE improves by
+$5 million, the performance multiple is 0.25x, or simply 5 divided
+by 20. This is added to the target multiple of 1.0x, which is earned
+when the change in RCE is zero, to determine the overall incentive
+multiple of 1.25x. The executive’s target incentive payout of
+$100,000 is multiplied by the 1.25x multiple, and the actual payout
+is determined to be $125,000.
+Basically, if RCE rises you are paid more, and if it declines you get
+less. That’s it—there’s no negotiation of budgets and targets. So, stop
+spending time and effort on anything that doesn’t help improve the
+business over time! As this forecast is based on smoothly improving
+RCE, the payouts are the same each year. Yet, as we will see, generally
+this is not the case.
+What if a one-off bad performance happens one year? Maybe
+it’s a temporary labor strike or a raw material shortage that leads
+to elevated costs and choked production. But perhaps, after it
+happens, performance is expected to normalize the following
+year. In most bonus plans, executives get “whacked,” which is a
+technical compensation term. Their bonus suffers in the year of
+the one-off hit, and often the budgeted target is raised for the
+following year when the one-off problem is expected to be resolved.
+But the bonus is lost forever. In the recommended incentive plan,
+RCE declines so the payout also declines in the year of the oneoff;
+but as long as it really is one-off and if performance recovers
+the following year, RCE improves and the money is earned back.
+The executive loses only the time value of (the) money. This is
+demonstrated in figure 73.
+One-Off Decl ine Year 1 Year 2 Year 3 Year 4 Year 5 Total
+A RCE $100.0 $90.0 $110.0 $115.0 $120.0 $125.0
+B ΔRCE -$10.0 $20.0 $5.0 $5.0 $5.0 $25.0
+C Bonus Sensitivity $20.0 $20.0 $20.0 $20.0 $20.0
+D=B/C Performance Multiple -0.50x 1.00x 0.25x 0.25x 0.25x
+E Target Multiple 1.00x 1.00x 1.00x 1.00x 1.00x
+F=D+E Overall Incentive Multiple 0.50x 2.00x 1.25x 1.25x 1.25x
+Target Annual Incentive $100,000 $100,000 $100,000 $100,000 $100,000
+Annual Incentive Payout $50,000 $200,000 $125,000 $125,000 $125,000 $625,000
+Incremental Payout -$75,000 $75,000 $0 $0 $0
+Figure 73—RCE Incentive Simulation with One-Off Bad Year
+The difference in performance from the baseline case is caused
+by a raw material shortage in year one that causes RCE to decline by
+$10 million instead of rising by $5 million (as in the baseline case).
+The overall incentive multiple declines to 0.50x and the payout is
+only $50,000, which is $75,000 less than in year one of the baseline
+simulation. By the end of the year, luckily the industry recovers from
+the raw material shortage, and the RCE in year two is the very same
+$110 million as in the baseline case. The one-off problem in year one
+does not recur, and performance is back on track by year two. Just
+as the ΔRCE in year one was $15 million below the baseline case,
+the ΔRCE in year two is $15 million above baseline, so the $75,000
+forfeited in year one is earned back dollar-for-dollar in year two (again,
+less the time value of money). Once managers understand this, they
+behave differently! Sure, they still try to mitigate the impact of the
+raw material shortage in year one, because they would prefer to earn,
+say, $55,000 or $60,000 instead of just $50,000. But they will spend
+far less time worrying about these temporary setbacks so they can
+devote more time to overcoming persistent strategic obstacles, like
+reacting to a revolutionary product that a competitor is developing.
+To belabor the point, they act more like owners.
+Permanent Decl ine Year 1 Year 2 Year 3 Year 4 Year 5 Total
+A RCE $100.0 $90.0 $95.0 $100.0 $105.0 $110.0
+B ΔRCE -$10.0 $5.0 $5.0 $5.0 $5.0 $10.0
+C Bonus Sensitivity $20.0 $20.0 $20.0 $20.0 $20.0
+D=B/C Performance Multiple -0.50x 0.25x 0.25x 0.25x 0.25x
+E Target Multiple 1.00x 1.00x 1.00x 1.00x 1.00x
+F=D+E Overall Incentive Multiple 0.50x 1.25x 1.25x 1.25x 1.25x
+Target Annual Incentive $100,000 $100,000 $100,000 $100,000 $100,000
+Annual Incentive Payout $50,000 $125,000 $125,000 $125,000 $125,000 $550,000
+Incremental Payout -$75,000 $0 $0 $0 $0
+Figure 74—RCE Incentive Simulation with Permanent Decline
+Now, let’s consider figure 74. Perhaps in this case a new product
+was launched by a competitor that immediately steals some of
+our market share, which then stabilizes at a lower level. Like the
+one-off example, RCE declines to $90 million in year one, yet this
+time no full recovery occurs the next year. Instead, RCE rises at the
+same $5 million per year as the baseline case, but from this new,
+lower level. The lost annual incentive payout of $75,000 in year one
+is never recovered, because all the years that follow have the same
+payout as the baseline. The accountability for this more-permanent
+performance decline is immediate and absolute, but, happily, the
+incentive system immediately resets at this new level, providing an
+opportunity to start earning above-target bonuses again as soon as
+RCE improves from the new base. It’s almost like giving managers
+one-year exposure to stock and stock options, where the RCE is
+the stock price.
+Although it’s a little complex, an interesting and constructive relationship
+can be noted between the impact of the one-off decline and
+the permanent decline on both shareholder wealth and the executive’s
+incentive. First, let’s consider the investors: In the one-off case they
+lose $15 million of RCE, which has a present value of $15 million. If
+we simply assume that their required return is 10% in the permanent
+decline case, then the permanent decline of $15 million causes a netpresent-
+value loss of $150 million, or $15 million divided by 10% (the
+present value formula for a perpetuity). So, the permanent decline
+is worth 10 times as much to the investor. The executive has to wait
+a year to get the $75,000 that is forfeited in year one of the one-off
+case. Like investors, executives place a premium on certain money
+now versus potential money later. Who knows if performance will
+really improve with certainty? Since the manager’s annual incentive is
+exposed to risks similar to those of the shareholders, let’s assume the
+manager’s personal discount rate is also 10%. So, the cost of waiting
+a year for the $75,000 is simply 10% multiplied by $75,000, or $7,500
+in lost time value of money. The executive’s loss in the permanent
+decline case is $75,000. Notice that the ratio of $15 million to $150
+million for the investor is the same ratio as the $7,500 to $75,000 for
+the executive, so that the relative importance of one-off and permanent
+RCE changes is perfectly aligned.
+Indeed, this is perhaps more important for the upside, since executives
+earn 10 times as much for sustainable improvements as they
+do for one-off improvements; achieving the former has a significant
+impact on both strategy and execution priorities. Sustainable improvements
+are therefore much more valuable to both the investor and the
+executive who is motivated to improve RCE.
+Perhaps the most powerful attribute of the RCE incentive plan is
+what happens to annual incentives if management makes an investment
+that causes a short-term decline in RCE but is expected to drive
+significant RCE over time. Just like an owner, the manager is exposed
+to the cost and the benefit, and can decide if the size of the benefit
+and the confidence or likelihood that it will occur is enough to justify
+the risk. Consider figure 75, which shows the baseline case modified
+by management’s pursuit of an investment that takes time to pay off.
+Baseline + Investment Year 1 Year 2 Year 3 Year 4 Year 5 Total
+A RCE $100.0 $90.0 $107.0 $122.0 $135.0 $145.0
+B ΔRCE -$10.0 $17.0 $15.0 $13.0 $10.0 $45.0
+C Bonus Sensitivity $20.0 $20.0 $20.0 $20.0 $20.0
+D=B/C Performance Multiple -0.50x 0.85x 0.75x 0.65x 0.50x
+E Target Multiple 1.00x 1.00x 1.00x 1.00x 1.00x
+F=D+E Overall Incentive Multiple 0.50x 1.85x 1.75x 1.65x 1.50x
+Target Annual Incentive $100,000 $100,000 $100,000 $100,000 $100,000
+Annual Incentive Payout $50,000 $185,000 $175,000 $165,000 $150,000 $725,000
+Incremental payout with Investm-$e7n5t,000 $60,000 $50,000 $40,000 $25,000
+IRR 55%
+Figure 75—RCE Incentive Simulation with Good Investment
+Perhaps the new investment is the launch of a new brand extension
+into an adjacent product. The project kicks off in year one with some
+capital investment to build the capacity, followed by heavy marketing
+to position the new product with consumers. Sales begin in the
+second half of year one but only become significant in year two, so
+year one is an investment year with RCE declining by $15 million.
+Management nevertheless expects sales to pick up in year two and
+to continue growing at a declining rate in years three through five.
+By year five, RCE is fully $20 million higher than the base case. The
+executive takes a hit to the annual incentive of $75,000 in year one
+but earns an extra $175,000 over the next four years.
+Is this enough to motivate the investment? The cash flows to the
+executive represent an annualized internal rate of return of 55%,
+which is significantly higher than the executive’s 10% required return
+established above. Another important element of the decision must be
+noted, and it’s one of the most important behavioral aspects of this
+entire incentive program: How confident is the executive that the forecast
+is achievable? Do they fear the capital and marketing investments may
+actually be higher? Are they convinced of the sales forecasts? Is pricing
+reasonable? Cost estimates? Will there be any cannibalization of sales
+on existing products and, if so, what will that cost them? Have they
+adequately considered their competitors’ reactions? After the executive
+considers all this and more, the ultimate question is whether the
+executive is willing to risk $75,000 of his or her own money, in the form
+of forgone incentive in year one, in exchange for the $175,000 later.
+This presents a nearly perfect simulation of ownership. Investment
+proposals in such a corporate environment are no longer mere
+marketing documents aimed at convincing executives or directors that
+an investment is worthwhile. Before trying to convince anyone else of
+the value of the investment, executives must consider for themselves
+whether that is a good investment. Who says an annual incentive can’t
+motivate short- and long-term thinking at the same time?
+We could run many more simulations that prove the value of these
+incentive designs, and their consistency and reliability, when facing the
+various cultures and industries in which companies partake. But these
+scenarios as presented demonstrate how the RCE incentive approach
+can reinforce the ownership culture discussed throughout this book.
+Better Long-Term Incentives
+My former partner Bennett Stewart advocated a stock-option approach
+in which options would be somewhat in the money when granted,
+though the exercise price would rise over time.8 His intention was
+to simulate a leveraged management buyout without putting the
+company at risk. It’s as if the management would be buying shares,
+where the exercise price represents debt and where the difference
+between the exercise price and the stock price at the time of grant
+would represent the equity owned by management. The rising exercise
+price was intended to simulate interest on the debt, so management
+would only make money when the stock price rose faster than the
+exercise price. It was a superb idea, but unfortunately it was fraught
+with tax and accounting problems. Alas, the accountants, tax practitioners,
+and regulatory professionals of the world simply weren’t
+ready for Bennett’s innovative solution.
+Long-term executive compensation practices have become more and
+more complex over the years. Where restricted stock and stock options
+were once the predominant tools, we now have stock-appreciation
+rights, performance cash, deferred stock units, performance share units,
+performance options…and countless other alternatives and features.
+What’s more, the quest for better and more effective mousetraps has led
+to incentive methods that often do a worse job of motivating management
+to think and act like long-term owners.
+Perhaps, along the lines of Bennett’s thinking, today’s compensation
+committees should look to how private equity motivates executives.
+Management wins if private equity investors win and vice
+versa. Managements typically earn a “promote,” which is an equity
+participation that increases depending on how high the IRR is for the
+investors. They tend not to worry as much about whether the success
+was skill or luck; they simply reward success. And perhaps that helps
+them achieve more success.
+Often investors get a minimum return before management actually
+participates. This can be anywhere from 5% to 10% and is often
+described as an internal rate of return, or IRR. Note that, in this situation,
+IRR and TSR are indistinguishable. Any value created above
+this is shared between management and investors, according to a
+chosen formula. For example, management may get 15%, 20%, or
+25% of any value created above the minimum IRR. Generally, the
+larger the company, the smaller the share that goes to management,
+because executive human capital is essentially smaller in relation to
+the financial capital; there are, of course, additional possible drivers
+of the percentage, such as the experience and negotiating power of
+the executive team.
+Often another, higher IRR threshold looms, above which management
+will receive an even higher percentage of the value created.
+This is designed to step up the motivation after substantial success is
+already achieved, since improvement opportunities become scarcer
+as more and more are realized. Though the specifics vary, it is usually
+the case that the more money investors make, the more management
+earns, which forges a strong alignment of interests.
+Public company compensation committees could reach outside
+their normal comfort zone and implement long-term compensation
+structures that work more like those in private equity. This could
+directly copy the private equity arrangements or could be a simplified
+stock and stock-option structure designed to accomplish similar
+objectives.
+To emulate the typical private equity deal, a company could
+establish a subsidiary for the purpose of holding treasury stock that
+management can earn going forward. The subsidiary could be financed
+with, say, 10% in equity from management, via either paid-in capital
+or a time-vested grant. The remainder could be financed with debt or
+preferred stock along with a pay-in-kind feature, so that the amount
+of financing builds every month to a minimum threshold before
+management participates.
+The value of management’s stake would increase if the value of
+the company grows faster than the pay-in-kind financing. This would
+replace the typical annual equity grants over, say, five years with a
+single front-loaded opportunity, requiring the size of the equity pool
+to be calibrated so as to deliver an appropriate midpoint payoff relative
+to standard practice. Admittedly, though more feasible than Bennett
+Stewart’s rising exercise price options, implementing this subsidiary
+structure is also fraught with all sorts of legal, accounting, and tax
+complications; ultimately, it may prove too complicated or tendentious
+for investors and proxy advisory firms.
+However, a simplified stock-option structure can be used to mimic
+the private equity approach in a manner that is more consistent with
+normal public company practices. In place of the next five years of
+LTIP (Long-Term Incentive Plan) grants, management could instead
+be granted one front-loaded package of stock options that would come
+in five tranches, each with different vesting dates and exercise prices.
+The first tranche could vest in one year and have an exercise price
+8% above a benchmark share price of, say, the three-month trailing
+average price. The second tranche might vest in two years and have
+an exercise price 16% above the benchmark share price, and so on.
+Each tranche would be exercisable over one to three years after it vests.
+This structure is extremely well aligned with the annual RCEincentive
+structure discussed above, and it would reinforce all the
+same behaviors. Results matter more than variances, and the longterm
+trend matters more than the year-to-year path. As opposed to
+making annual grants, where a share price decline is almost rewarded
+by granting new stock and options at lower prices, the inevitable short318
+term share price fluctuations don’t matter much to the executive. This
+package would provide a huge potential payoff if management is
+very successful but precious little if they fail to create value. Though
+this sort of plan carries a greater potential for retention risk if the
+share price permanently declines, that must be weighed against the
+prospect of much stronger motivation to succeed.
+Even if such an approach doesn’t replace all other long-term
+incentives, many companies will find that weaving some elements
+of this into their normal compensation approach can be beneficial,
+even if they choose not to embrace it completely. But whether such
+an approach to long-term incentives is even contemplated, company
+management and the compensation committee should be sure to
+consider the behavior being encouraged as the primary determinant
+of long-term incentive design.
+Notes
+1 Michael C. Jensen, “CEO Incentives: It’s Not How Much You Pay, But How,”
+Harvard Business Review, no. 3 (May-June 1990).
+2 Adapted from Gregory V. Milano, “A Theory of Relativity Misses the Mark,”
+CFO.com, November 13, 2017, accessed January 15, 2019, http://ww2.cfo.com/
+compensation/2017/11/theory-relativity-misses-mark/; see also Gregory V. Milano,
+“The Relative TSR Conundrum,” Workspan magazine by WorldatWork, May
+2018.
+3 SCHEDULE 14A (Proxy Statement), filed by Varian Medical Systems, Inc., December
+21, 2018.
+4 SCHEDULE 14A (Proxy Statement), filed by National Oilwell Varco, Inc., March
+30, 2018.
+5 Stephen F. O’Byrne, “Total Compensation Strategy,” Journal of Applied Corporate
+Finance 8, no. 2 (1995).
+6 Stephen F. O’Byrne, “Measuring and Improving Pay for Performance,” in The
+Handbook of Board Governance (Hoboken, NJ: John Wiley & Sons, 2016), 536–54.
+7 James Collins and Jerry Porras, Built to Last: Successful Habits of Visionary Companies
+(Harper Business, 2011 edition).
+8 Bennett Stewart, “Remaking the Public Corporation from Within,” Harvard
+Business Review, July-August 1990.

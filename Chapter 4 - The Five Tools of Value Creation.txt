@@ -1,0 +1,733 @@
+SOMEONE ONCE EXPLAINED to me that he had identified
+over 400 key business performance indicators. This, of course, calls
+into question how “key” each of these indicators is. If 399 of the
+metrics increase and one declines, what does it mean? If the one is
+sales growth, and it drops significantly, it could be pretty bad despite
+the other 399 indicators’ being positive or neutral. Alternatively, if
+most of the metrics decline, but a few key ones rise, it could still be a
+pretty good outcome for the company. If, say, 223 measures rise and
+177 decline—or some more balanced mix like that—what does this tell
+you? The point is that when there are too many metrics, the picture
+becomes muddled. We need a hierarchy that allows us to balance
+various inputs in order to optimize a decisive measure.
+When it comes to performance measurement, corporate finance
+executives tend to layer measures on top of measures to ensure that
+nothing escapes measurement. Don’t do it—the use of too many
+measures will distort the signals needed to make decisions. If you
+managed a baseball team, you’d view success in a game as winning,
+not producing runs or limiting opponents’ runs. If all you cared about
+was runs scored, would you be happier with a 1–0 win or a 7–9 loss?
+What about team batting average? The ratio of strikes to balls of your
+pitchers? Number of errors? All these matter, but only to the extent
+that they help you win.
+As conveyed in chapter 3, the performance measure that best
+indicates success in terms of value creation is Residual Cash Earnings,
+or RCE. When RCE rises, value is created because the increase in cash
+earnings exceeds the required return on incremental investment. Even
+moving from a negative RCE to a less-negative RCE creates value by
+destroying less.
+Let’s use this insight to reconsider the sales decline example above.
+In most cases, when a sales growth rate declines from 8% to –5%,
+it’s not good. But sales growth alone isn’t what’s important—it’s the
+change in RCE. Using the example in figure 11, we see that value
+can be created by shrinking revenue, as long as the lost revenue was
+destroying value. Perhaps the company did a thorough analysis of RCE
+by customer (as will be discussed in chapter 9) and found a group of
+customers who were contributing negative RCE. By discontinuing business
+relations with these value-destroying customers, we forgo sales
+and Gross Cash Earnings. But so much capital was tied up—perhaps
+in woefully underutilized production capacity, inventory, accounts
+receivable, and collateral—that the RCE contribution was negative.
+When the contracts are discontinued, sales drop by $50 million and
+GCE declines by $5 million, which is determined after considering
+the effects of such reductions on fixed as well as variable costs.
+$millions Prior Year - Discontinued
+Contracts = Current Year
+Sales 1,000 (50) 950 ↓
+Sales Growth -5.0%
+Gross Cash Earnings (GCE) 300 (10) 290 ↓
+GCE Margin 30.0% 20.0% 30.5%
+Gross Operating Assets 2,000 (400) 1,600 ↓
+Asset Intensity 2.00x 8.00x 1.68x
+Gross Business Return 15.0% 2.5% 18.1% ↑
+Capital Charge @8% (160) 32 (128)
+Residual Cash Earnings (RCE) 140 22 162 ↑
+RCE Margin 14.0% n/a 17.1%
+ΔRCE 22 √
+Year 1: Shrinking Revenue by Discontinuing Customer Contracts
+with Low Margins and High Asset Intensity
+Figure 11—Eliminating Unprofitable Customers
+Since firing customers can be a tough sell to managers, a more
+tactful approach can be to raise prices and let customers decide if
+they want to continue transacting at this higher price. This method,
+of course, curbs demand and can recalibrate the RCE equation to
+yield a positive output.
+The critical result in figure 11 is that fully $400 million of Gross
+Operating Assets disappears; when this happens, returns go up by
+3% and, more important, RCE rises by $22 million. The company is
+better off without these customers—let someone else who is simply
+focused on earnings serve them. Although this is a hypothetical
+example, it is a situation that many companies find themselves in.
+Unfortunately, some companies are so consumed with concerns
+about growth and absorbing fixed costs that they can’t bring themselves
+to say no to the client or adjust pricing to spur customer attrition.
+They are understandably proud of their historical growth track
+record and are unwilling to tell investors that sales have declined.
+But regular reviews of customer profitability and proactive pruning
+of customers that destroy value are both essential to delivering
+continuous improvement in RCE.
+Let’s imagine now that this same company uses the freed-up
+capital to invest in organic and acquisitive growth the following
+year. As shown in figure 12, it invests a total of $1.4 billion in highly
+asset-intensive and high-margin activities that deliver incremental
+revenue of $250 million and Gross Cash Earnings of $160 million.
+The Gross Business Return on this investment is 11.4%, which is
+lower than the 18.1% of the existing business but well above the
+required return of 8%. This drives RCE up by $48 million, but drags
+the Gross Business Return down from 18.1% to 15.0%. Although
+the opening paragraph of this chapter indicates that a decline in
+returns is usually not great, in this case it’s a good thing; the return
+on the incremental investment, at 11.4%, is higher than the required
+return of 8%, even if not as high as the existing business. RCE helps
+us peer through the muddle of figures and metrics to see whether
+value has been created.
+$ millions Prior Year - Discontinued
+Contracts = Current Year
+Sales 950 250 1,200
+Sales Growth 26.3%
+Gross Cash Earnings (GCE) 290 160 450
+GCE Margin 30.5% 64.0% 37.5% ↓
+Gross Operating Assets 1,600 1,400 3,000
+Asset Intensity 1.68x 5.60x 2.50x
+Gross Business Return 18.1% 11.4% 15.0% ↓
+Capital Charge @8% (128) (112) (240)
+Residual Cash Earnings (RCE) 162 48 210 ↑
+RCE Margin 17.1% 19.2% 17.5%
+ΔRCE 48 √
+Year 2: Growing by Investing in Positive RCE Projects with
+Lower Gross Business Returns
+Figure 12—Reinvesting in Positive RCE Projects
+It is helpful in business to have several performance drivers in
+the scorecard. This way we can readily assess why RCE increases or
+decreases. Over the years, my colleagues at Fortuna Advisors and I
+developed what we call the Five Tools of Value Creation. It’s a take-off
+on the five-tool baseball player who can hit for average, hit for power,
+run the bases with speed, throw accurately, and field his position.
+Three of our five tools drive current value creation (current ΔRCE).
+The other two provide reliable indicators of how well the company
+is preparing for and investing in future value creation (indicators of
+future ΔRCE).
+Three Tools that Drive Current Value Creation
+Three measures, when viewed in combination, can provide a complete,
+fundamental picture of why RCE changes. But, again, each only
+represents one facet of performance and must be combined with the
+other two in order to determine if the net effect is desirable—that is,
+produces higher RCE. The three measures are sales growth, Gross
+Cash Earnings Margin (GCE Margin or GCM), and Gross Operating
+Asset Intensity (or asset intensity). GCE Margin is an indicator
+of P&L efficiency and pricing power, while asset intensity reflects
+capital productivity. Together with the required return, these three
+measures are sufficient to understand why RCE increased or decreased
+during the year.
+Consider a business with $1 million of sales last year, a GCE
+Margin of 30%, and asset intensity of 2.00x. What was its RCE last year?
+Assume an 8% required return. These are the steps to work this out:
+Step 1. Calculate Gross Cash Earnings, which is sales of
+$1 million multiplied by the 30% GCE Margin, or
+$300,000.
+Step 2. Calculate Gross Operating Assets, which is sales of
+$1 million multiplied by asset intensity of 2.00x, or
+$2 million.
+Step 3. Determine the Capital Charge, which is the 8%
+required return multiplied by the $2 million of Gross
+Operating Assets, or $160,000.
+Step 4. Calculate RCE by subtracting the $160,000 Capital
+Charge from the Gross Cash Earnings of $300,000,
+which yields an RCE of $140,000.
+We have just calculated the base year in the first column of figure
+11. Now comes the fun part: In the first year after the base year, sales
+declines 5% to $950,000, which in and of itself seems bad. But GCE
+Margin rises from 30.0% to 30.5%, and asset intensity declines from
+2.00x to 1.68x, which both seem positive on a stand-alone basis. A lower
+asset intensity implies less investment and, therefore, a lower capital
+charge per dollar of revenue. With growth moving against us while
+margin and asset intensity move in our favor, we need some way to
+determine if this change in performance will add or subtract value.
+Of course, we use RCE. We follow the same math to determine the
+RCE in year 1 and the change in RCE from the base year.
+Step 1. Calculate Gross Cash Earnings, which is sales of
+$950,000 multiplied by the 30.5% GCE Margin, or
+$290,000, which is a decline from the base year.
+Step 2. Calculate Gross Operating Assets, which is sales of
+$950,000 multiplied by asset intensity of 1.68x, or
+$1.6 million.
+Step 3. Determine the Capital Charge, which is the 8%
+required return multiplied by the $1.6 million of
+Gross Operating Assets, or $128,000.
+Step 4. Calculate RCE by subtracting the $128,000 Capital
+Charge from the Gross Cash Earnings of $290,000.
+RCE is $162,000, which is an increase of $22,000 of
+RCE over the base year.
+The same math can be applied to the year 2 information in figure
+12. The benefits of 26.3% growth and an increase in GCE Margin to
+37.5% are tempered when asset intensity jumps to 2.50x, but the net
+RCE effect remains positive. So, it’s good!
+Ultimately, what matters is the increase in RCE. But Revenue
+Growth, GCE Margin, and asset intensity all help diagnose RCE’s
+movements, as well as inform our strategy to improve RCE. One
+client hadn’t paid a lot of attention to its balance sheet before we
+were engaged. While Revenue Growth and GCE Margin looked
+decent, each year the asset intensity, already high, was increasing.
+In the end, the increase in the capital charge more than offset
+the improvements in Gross Cash Earnings, so RCE declined. We
+collaborated to determine that their capacity utilization had been
+declining as they added new technology assets without selling or
+disposing of the older assets that were being replaced. They also
+had been virtually giving away contract terms, including extended
+payment terms, to secure new orders. Without any price adjustment
+for the lenient terms, working capital ballooned, which
+dragged down RCE.
+We collaborated with the client to develop a plan to improve
+asset productivity by better managing capacity, shedding idle assets,
+negotiating contract terms with greater care, and using a series of
+other tactics designed to better balance Revenue Growth, GCE Margin,
+and asset intensity. In each of the next three years, RCE improved,
+along with the share price.
+This lack of concern for capital productivity is common and a
+real drag on value creation. A different client had a habit of hoarding
+assets for use as collateral to borrow against. We explained that if they
+monetized the assets by selling them or, in the case of accounts receivable,
+collecting them, they wouldn’t need the loan in the first place.
+Some have asked why I use asset intensity instead of one of the
+more commonly used asset turnover measures. A solid link has been
+established between GCE Margin and asset intensity in determining
+the RCE Margin, which tells us the average RCE contribution of each
+dollar of sales. In the first example above, if we multiply the 2.00x
+asset intensity by the 8% required return, we calculate the capital
+charge as a percentage of sales, as shown in figure 13.
+Dollars Margin
+Sales 1,000
+Gross Cash Earnings (GCE) 300 30.0%
+l
+Gross Operating Assets 2,000 l
+Asset Intensity 2.00x l
+Capital Charge @8% (160) (16%)
+l
+Residual Cash Earnings (RCE) 140 14.0%
+x 8% l
+Figure 13—Asset Intensity and Margins
+In this case it’s 16% (i.e., 2 Î 8% = 16%), which can be subtracted
+from the GCE Margin of 30% to determine the RCE Margin of 14%.
+The capital charge as a percentage of sales sets the minimum GCE
+margin needed to have positive RCE. Said differently, there is a maximum
+asset intensity that sets the RCE break-even, given a particular
+level of GCE margin.
+As will be discussed in chapter 7, the RCE Margin, or RCM,
+combines the GCE Margin and asset intensity tools and indicates
+the RCE of each dollar of sales growth. This makes it a perfect tool
+for evaluating the tradeoff between growth and capital productivity
+when determining a strategic position. The higher the RCM, the
+more valuable each dollar of sales, and the more a company should
+invest to fuel growth. More on that later.
+Two Tools that Drive Future Value Creation
+In early 2011, a client situation prompted me to develop a new
+way to measure future investment. I detailed this new method in
+an article entitled “Are You Reinvesting Enough?” in CFO magazine.
+1 The client faced desirable investment opportunities, but the
+CFO chose not to cut her substantial share repurchase program
+to fund the new investments. Instead, she decided to finance
+the new outlay by slashing investments in two other businesses,
+both of which were growing well and earning strong returns.
+So, she missed an opportunity to step up the rate at which the
+company profitably reinvests, which would have driven its share
+price higher over time.
+My article introduced the concept of the “Reinvestment Rate,”
+which quantifies the percentage of Gross Cash Earnings that is reinvested
+in the business. To calculate the reinvestment rate, add capital
+expenditures, acquisitions, research and development, and other investments
+(including changes in working capital), and divide that sum
+by Gross Cash Earnings. Top-line growth is, obviously, an important
+driver of TSR, as has been discussed. What may be less intuitive is
+that sustained growth is typically the result of having a higher reinvestment
+rate. My colleagues and I have studied the overall market
+and many sectors and industries, and have consistently found that
+the companies with the highest reinvestment rates have delivered
+higher median compound annual growth rates (CAGR) in revenue.
+In the original article, our research study sample was the largest 1,000
+nonfinancial U.S. companies, excluding those that were not public for
+the full decade ending in 2009.
+It may be easy to see that high reinvestment rates drive more
+revenue growth. However, is value really being created? Our capital
+market research has demonstrated time and again that the highest
+reinvestment-rate companies typically deliver better TSR. In the
+original study, the benefits of reinvestment are so significant that
+over 200 of the 277 companies that reinvested more than 100% of
+their cash flow for the full decade delivered higher TSR than the
+median of the 0%–50% reinvestment group. This outperformance
+by high-reinvestment companies is particularly noteworthy, considering
+the tough economic environment of the decade ending in 2009.
+Because the reinvestment rate is an important driver of TSR, we
+made it the fourth tool of what eventually became the Five Tools of
+Value Creation. The goal is not to maximize the rate of return, but
+rather to balance the pursuit of higher returns with adequate reinvestments
+to fuel business growth. Although larger companies may
+find it difficult to match the reinvestment rates of small companies,
+many large companies would benefit from a higher reinvestment rate,
+even if the average rate of return declines (as in the Oracle example
+shown in figure 10 in the previous chapter).
+Our research findings indicate that this is not a superficial stock
+market effect whereby investors arbitrarily assign higher multiples to
+high-reinvestment companies. In fact, it is quite the contrary. While
+high reinvestment typically boosts TSR over time, it does not increase
+average price-to-earnings multiples or enterprise value-to-EBITDA
+multiples. Nor does high reinvestment boost valuation at a point
+in time. Instead, it drives value appreciation over time by improving
+growth prospects, and usually RCE, too. Unfortunately, in an
+odd paradox, executives who are too fixated on current valuation
+multiples usually seek to maintain their current strong operating
+metrics. To avoid risk they tend to underinvest, which limits stock
+upside.
+Indeed, most executives at companies with low reinvestment rates
+understand and agree with our research findings that high reinvestment
+rates add value. But many claim they don’t have sufficient opportunities
+for profitable reinvestment. One CFO defended his position by stating
+that he “never turns down positive net-present-value investments.”
+But on closer inspection, we found that the company’s culture and
+internal processes together put excessive emphasis on avoiding bad
+investments. For upper middle-level managers, there appeared to be
+an asymmetry between reward for success and punishment for failure:
+the managers tended to feel they received only small amounts of praise
+for good investment outcomes, but major disciplining for bad ones.
+This asymmetry comes on top of, and no doubt reinforces, a
+natural behavioral bias known as “loss-aversion.” When coupled
+with processes that disproportionately punish losses, this encourages
+indecision and inaction. It also leads to less experimentation,
+even in situations where the costs are relatively small and the benefits
+potentially large.
+Such risk-averse corporate cultures are common. Given these
+internal and external influences, all but the highest-return investments
+are habitually shelved. In many companies, arbitrarily tight
+capital expenditure budgets set a strategic tone of restraint that, in
+turn, sets the bar very high for operating managers. And because
+of this tendency of these “high-return cultures” to produce low
+reinvestment-rate outcomes, such cultures need to change if top
+executives want to provide adequate support and incentive for desirable
+growth investments.
+But is the reinvestment rate likely to be more valuable for companies
+that are already earning high internal cash-on-cash operating
+returns than for companies with low returns? In our research, we
+found that whether you have high, medium, or low returns, TSR
+is positively related to higher rates of reinvestment. As we would
+expect, however, high-return companies get a larger benefit from
+reinvestment than low-return companies. On the other hand, lowerreturn
+companies need to be more careful since their success rate
+with reinvestment—a subject to be discussed in detail later—tends
+to be lower than for high-return companies.
+Some may question the causality in our findings that highreinvestment
+companies typically achieve higher revenue growth
+and higher TSR. Are the successful companies the only ones that
+can afford to reinvest more? Do the “good” industries skew the data,
+making reinvestment appear desirable for all? We have conducted
+extensive research in our client studies of their individual industries,
+including healthcare, industrial, energy, technology, and other
+sectors. The results are consistent across the board.
+Hard question: Are you reinvesting enough? Management
+teams should assess their companies’ reinvestment rates both
+on an ongoing basis and as part of the annual planning process.
+During this process, they should consider capital expenditures,
+R&D, marketing, and even acquisitions as means of building future
+value. It also helps if they examine the reinvestment rates across
+different business units to see if enough reinvestment is occurring
+where the returns and opportunities are highest. More on this in
+chapter 9.
+A few practical steps can be taken to ensure that the reinvestment
+rate remains at the level likely to maximize value. Most important, try
+to create a culture in which positive feedback on investment success
+is at least as strong as negative feedback on unsuccessful investment.
+Recognize that a willingness to fail is essential if you want managers
+to invest in clearly valuable projects despite facing uncertain conditions.
+And in performance reports and analyses, avoid measuring
+investments as a percentage of sales. Instead, be sure to measure and
+discuss the reinvestment rate as a percentage of Gross Cash Earnings,
+which is “pre-investment” cash flow. By thus linking reinvestment with
+cash profitability, management effectively signals and reinforces their
+company’s intent to invest heavily in its most profitable businesses.
+For a few years we were content to use just four tools of value
+creation—until we ran into a challenge when evaluating a certain
+client’s financial and share price performance. The client had strong
+RCE that stemmed from a desirable combination of a high GCE
+Margin and relatively low asset intensity, both in comparison to peers.
+Some of the company’s businesses offered products at premium prices
+that provided a big boost to GCE Margin. Other of its businesses used
+advanced manufacturing processes that enabled them to achieve their
+sales volumes with substantially less capital invested than peers, which
+provided an asset-intensity advantage. Overall, when the company’s
+high RCE Margin was multiplied by its fairly large sales figure, management
+was producing a very high level of RCE—one measured in
+billions of dollars.
+What’s more, the company had an industry-leading reinvestment
+rate, which, as discussed above, tends to lead to strong revenue growth
+as well as TSR. The client seemed to invest more as a percentage
+of GCE than any of its competitors. Yet, despite all these signs of
+success, its top-line growth was anemic. Its managers were investing
+billions and seemingly getting little for it. It became clear that their
+investments weren’t very effective.
+While looking for a simple way to evaluate and portray this aspect
+of performance, we came up with our fifth and final tool of value
+creation. We started by considering some version of incremental
+return on investment, but RCE and the three drivers of current value
+creation already told us pretty much everything we need to know
+about incremental returns. Our aim was to capture a distinct and
+new aspect of performance—one that was not being reflected in the
+other four tools.
+In the end, we developed a simple measure we called Reinvestment
+Effectiveness, defined as the three-year increment of sales (measured
+in dollars) as a percentage of the amount of investment in capital
+expenditures, R&D, marketing, acquisitions, and working capital
+(also measured in dollars). In other words, how many dollars of sales
+growth are you getting per dollar of investment?
+A “minimum acceptable” rate of Reinvestment Effectiveness
+can be determined as a function of the GCE Margin. The formula is
+simply the required return divided by the GCE Margin. A company
+with a GCE Margin of 15% and a required return of 10% must have
+Reinvestment Effectiveness of at least 67% (10%/15%) to generate
+enough sales and GCE to overcome the incremental capital charge. To
+check this, assume we invest $150,000 at Reinvestment Effectiveness
+of 67%, so the incremental sales are $100,000. Since the incremental
+GCE is 15%, GCE is $15,000, which is equal to the capital charge (10%
+of the $150,000 investment). At a Reinvestment Effectiveness above
+67%, the investment would drive RCE higher; below this level, RCE
+would decline, since the incremental GCE would be less than the
+incremental capital charge.
+Having told you this, it’s important that I also stress that there is
+no precise answer to how much Reinvestment Effectiveness is enough.
+Companies with exceptionally high RCE Margins can get by with a
+Reinvestment Effectiveness of 0.30x or even 0.25x; companies with
+lower RCE Margins will need a much higher Reinvestment Effectiveness
+to drive improvements in RCE.
+Now, let’s consider Amazon again, as we did in chapter 2. Over
+the five years through 2017, Amazon had reinvested a whopping $99
+billion back into the business, which is a 94% reinvestment rate when
+divided by the cumulative Gross Cash Earnings over the period. Its
+largest investment category was $67 billion in R&D, followed by $32
+billion in capital expenditures and $14 billion in acquisitions—primarily
+the Whole Foods acquisition. Offsetting these investments was a
+reduction in operating net working capital of $14 billion. Note that
+Amazon actually invested $113 billion but had $14 billion of it funded
+by structuring its operating working capital policies such that current
+liabilities are increasingly worked off more quickly than its current
+assets are replaced. In other words, it gets paid before it pays—and
+that helps fund its growth investments. Its working capital policies
+effectively paid for Whole Foods!
+Amazon’s reinvestment rate is above the median rate for the S&P
+500 over this period. But to see how well Amazon has performed, we
+must look at the company’s reinvestment effectiveness. During this
+period, its revenue increased by $117 billion, which, when divided by the
+investment of $99 billion, implies a reinvestment effectiveness of 118%.
+In summary, Amazon has been reinvesting 94% of its Gross Cash
+Earnings back into the business; it had a reinvestment effectiveness
+of 118%; and its RCE Margin has averaged 14.1% over the five-year
+period. It’s no wonder that its RCE increased more than fivefold
+from $5.4 billion in 2012 to $27.7 billion in 2017. During this period,
+Amazon’s five-year TSR was 366%, or 3.4 times the 107% TSR of the
+SPY ETF that tracks the S&P 500.
+Some say, “Sure, Amazon invests a lot—but will they ever generate
+a profit?” Indeed, Amazon seems to be a valuation conundrum to
+those who follow accounting net-income and EPS trends. Some say
+it is unprofitable; irrational investors are simply wowed by its story
+and its service. It’s easy to see how those who cherish EPS statistics
+can draw such conclusions from graphs like that in figure 14.
+Even in 2017, as the company’s EPS finally turned meaningfully
+positive, its average price-to-earnings multiple, using daily share prices
+and the last four quarters of reported EPS, averaged over 200x. Many
+observers see that as one of the biggest con jobs of our time. Such
+a view, which continues to be widespread even to this day, remains
+in thrall to the myth of EPS and accounting convention; and in so
+doing, it has completely missed one of the most remarkable episodes
+of value creation in our time.
+But when looking through the RCE lens, we see Amazon’s massive
+R&D expenditures as investments, and we also view its heavy capital
+expenditures on a cash basis. With these two simple alterations to
+basic accounting practices, we see the true value that Amazon is creating.
+It isn’t unprofitable at all! In fact, it is hugely profitable; it’s just
+that it is reinvesting most of its profits back into the business, and a
+large proportion of those investments are in a form that accountants
+require to be expensed. This preponderance of expensed investments
+makes it harder for investors to understand the profitability. But such
+investments also end up providing a massive tax shelter, as contrasted
+with investments in capital equipment, for example, where the tax
+benefits are usually realized more gradually, over time.
+-$200
+$0
+$200
+$400
+$600
+$800
+$1,000
+$1,200
+$1,400
+$1,600
+$1,800
+$2,000
+$2,200
+-$20.00
+$0.00
+$20.00
+$40.00
+$60.00
+$80.00
+$100.00
+$120.00
+$140.00
+$160.00
+$180.00
+$200.00
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Share Price
+EPS
+Price and EPS for Amazon.com, Inc.
+EPS
+Actual Share Price
+Figure 14—Price vs. EPS for Amazon
+Let’s pause for a moment and explain the RCE framework for
+valuation. Valuation through the RCE lens is based on a methodology
+similar to discounted cash flow. Enterprise value is estimated as
+Gross Operating Assets (GOA) plus the present value of RCE. When
+RCE is zero, no value is being created or destroyed, and estimated
+enterprise value equals Gross Operating Assets, no more and no less.
+When RCE is positive, the enterprise value is expected to rise as the
+company delivers returns above the required return demanded by
+investors—and value is destroyed by companies and their investments
+in which RCE is negative. One simple way to come up with an estimate
+of the present value of RCE is to capitalize RCE as if investors were
+pricing in a future in which RCE remains at the current level. Moreover,
+when calculated across the full market, such simple estimates
+of enterprise value based on capitalized RCE correlate remarkably
+well with actual enterprise values.
+How does this work for Amazon? As shown in figure 15, the
+share price has tracked Amazon’s RCE-implied share price quite well.
+$0
+$200
+$400
+$600
+$800
+$1,000
+$1,200
+$1,400
+$1,600
+$1,800
+$2,000
+$2,200
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Share Price
+RCE Implied Share Price for Amazon.com, Inc.
+GOA-Net Debt per Share
+Capitalized RCE per Share
+Actual Share Price
+Figure 15—RCE Implied Share Price for Amazon.com
+There is no con job—Amazon has in fact created significant value,
+and the market has recognized it. At times, the share price has been
+a bit below the price implied by RCE; at other times it has been a
+bit above it. It’s natural for there to be expectations of improving or
+declining RCE when positive or negative news surfaces. But, over time,
+investors have generally followed the capitalized RCE valuation pretty
+well—even before RCE was created, which is an important point. It’s
+not that thousands of investors are out there calculating RCE. Not
+at all. But savvy investors do care about growth, margin, and asset
+intensity. They prefer cash flow to profits, and they do see R&D as an
+investment in the long-term growth, viability, and cash generating
+capacity of the business. RCE captures each of these performance
+attributes in one easily calculated measure. This is what gives us
+confidence that if a company grows its RCE, its share price is likely
+to rise, even if its EPS doesn’t.
+Bringing Together the Five Tools of Value Creation
+We designed the Five Tools of Value Creation to capture the aspects
+of financial performance that drive share prices in as simple a framework
+as possible. We don’t need 400 key performance indicators; we
+just need five. Current value, or simply ΔRCE, is driven by revenue
+growth, GCE Margin (also known as Gross Cash Margin or GCM),
+and asset intensity. Future value is driven by the reinvestment rate
+and Reinvestment Effectiveness. The goal is to drive positive ΔRCE
+through the Five Tools of Value Creation, with reinvestment, innovation,
+excellence, and a long-term focus. The relationship of these
+measures is shown in figure 16.
+Five Tools
+(Scorecard)
+Revenue
+Growth
+Gross Cash
+Margin
+Asset
+Intensity
+Reinvestment
+Rate
+Reinvestment
+Effectiveness
+ΔRCE
+Valuation
+Multiple
+Value Creation
+/ Share
+• Differentiation
+• Profitable growth
+• Sustainability
+• Risk
+RCE
+Margin
+Figure 16—The Five Tools of Value Creation
+We help our clients customize the five tools and then, in performance
+scorecards and planning documents, show how they feed into
+and help evaluate both RCE and ΔRCE. With one client, we asked how
+they could expect to generate their forecasted growth with what was
+a particularly meager capex budget. The company would have needed
+twice their peak historical Reinvestment Effectiveness to achieve its
+planned growth for the investment. To be fair, in some cases a new type
+of investment is conceived, with much higher or lower Reinvestment
+Effectiveness, and in other cases there is meaningful underutilized
+capacity that can support growth. But at the very least, Reinvestment
+Effectiveness helps managements consider whether they are making
+logically consistent predictions.
+The interaction of the five tools can be insightful in many other
+ways, too. For example, in the case of another client, growth was
+slowing but they were still investing heavily in the future. Reinvestment
+Effectiveness had dropped off, which suggested a need
+for reevaluation. It turned out that many of the new investments
+supported products that were more differentiated and expected to
+have higher GCE Margins than the baseline company average. So,
+when we considered how this other key variable was interacting
+with the lower Reinvestment Effectiveness, we were able to determine
+that such investments would be adequate to still drive RCE
+improvements.
+A decline in Reinvestment Effectiveness can sometimes be acceptable.
+An example is when a company has a high concentration of
+new acquisitions that cost relatively more than past organic investments
+per unit of growth. This can still be value-increasing, if it
+provides sufficient growth and GCE Margin, over time, to deliver
+positive RCE improvements. Another case is a switch to more R&D
+investment, which takes time to generate sales and would reduce
+short- or medium-term Reinvestment Effectiveness. In the long term,
+this will still pay off if the R&D is successful and RCE increases.
+As with anything new, it can take time to see the trends and interactions
+among the five tools. Yet the only way to get there is to use
+them. Discussions during operating performance reviews and plan
+evaluations should actively use the five tools as part of the dialogue
+until it becomes natural. Once the team gets there, the clarity used
+when discussing performance and projections will greatly enhance
+understanding of what is happening and what needs to be done.
+It is important to track the reinvestment rate and Reinvestment
+Effectiveness, since improving RCE is more valuable when
+it can be done while investing effectively in the future, rather
+than at the expense of it. A general theme of this book is that
+many managers are inclined toward short-term thinking, profit
+and cash flow “squeezing,” and underinvestment. By including
+the reinvestment rate and Reinvestment Effectiveness on an equal
+footing with revenue growth, gross cash margin, and asset intensity,
+managers can be encouraged to balance both the short and
+the long term.
+Alternative for When Revenue Is Less Meaningful
+In some companies, revenue fluctuates with commodity prices that
+are simply passed through to the customer by contract. For example,
+many chemical companies are exposed to volatile input costs related
+to energy prices and various feedstocks. So, even as revenue rises and
+falls with these changing costs, this volatility typically won’t flow
+through to EBITDA or RCE.
+Such companies have learned over the years to look at returns on
+capital rather than margins, since the latter may be irrelevant because
+of the pass-through structure. For these companies, the standard Five
+Tools of Value Creation lose some of their explanatory power as they
+are influenced by the revenue fluctuation.
+Figure 17 shows one way of adapting the drivers to such a situation.
+The changes in RCE are driven by the same reinvestment rate that is
+used in this case to drive the growth in Gross Operating Assets. This
+is combined with the RCE Return, which is simply RCE divided by
+Gross Operating Assets, to determine the current and future growth
+in RCE. The RCE Return can also be portrayed as the spread between
+Gross Business Return and the Required Return.
+It’s also worth noting that this pass-through approach is more akin
+to the HOLT framework, as discussed in chapter 3, which drives cash
+flow forecasts from Cash Flow Return on Investment and inflationadjusted
+gross asset growth.
+Of course, we could define the RCE drivers per store for a retailer,
+per aircraft or passenger mile for an airline, per barrel of oil equivalent
+(production or reserves) for an oil and gas company, or even per
+employee for a professional services firm. It works well as long as the
+drivers are few enough in number to be understandable and mutually
+exclusive enough to each reflect discrete aspects of performance. By
+customizing the Five Tools of Value Creation for the specific business
+model, the framework becomes more useful.
+Gross Operating
+Asset Growth
+RCE Return
+ΔRCE
+Required Return
+Gross Business
+Return
+Reinvestment
+Rate
+Gross Operating
+Assets
+Gross Cash
+Earnings
+/
+-
+X
+Figure 17—RCE Drivers for Revenue Pass-through Businesses
+Moving Further Down the Measurement Hierarchy
+The focus should, of course, be on improvements in RCE, with the
+five tools providing the next layer of performance insights. All companies
+have secondary performance drivers that feed into these tools
+and calculations, so understanding and linking these inputs to the
+five tools can sometimes be useful. This is, naturally, very different
+than large scorecards with hundreds of loosely related metrics…. The
+following are examples of a few key lower-level metrics:
+Based on the job a person has, they may need to measure days
+of sales outstanding (DSO), inventory turns, production yields, or
+similarly important localized measures. If you are responsible for
+customer collections, DSO is a fairly important indicator of how well
+you are performing. To determine DSO, simply divide the accounts
+receivable balance by total annual revenue, and multiply by 365. Of
+course, the DSO may be rising in a way that is not the collection
+department’s fault (sure it’s not). No, really. Maybe, during the last
+round of negotiation, the customer requested to pay in 120 days, and
+your sales team responded by negotiating such a meaningful price
+increase that it more than covered the increase in capital charge that
+was expected to result from the extended payments. Although companies
+routinely measure DSO, when evaluating the performance of
+customer collections, what you really want to measure is the actual
+DSO versus the expected or contracted DSO. Then you hope that
+your negotiation team managed to achieve prices that reflect any
+financing your company is providing to the customer through the
+extended payment terms.
+Extended credit terms are essentially a loan and should be evaluated
+as a financier would evaluate a borrower. If the customer seems
+“too willing” to accept a substantial price increase in return for the
+extended payment terms, perhaps they are unable to secure financing
+elsewhere, and you should be on your guard and alert to this possibility.
+Similarly, procurement and inventory management folks may
+benefit from tracking inventory turnover, which is simply the annual
+cost of goods sold divided by the inventory. It reflects the number
+of times per year, on average, you turn over inventory. It may seem
+that it’s always good to have less inventory, or higher inventory turns,
+since this will make the capital charge lower in RCE. Yet the optimal
+inventory level is not necessarily the lowest. The value-maximizing
+level should be thought of as the one where any further reductions
+would cause a manufacturing slowdown that results in either a cost
+increase or a decline in sales volume attributable to stock-outs. Either
+of these problems could cost you more in Gross Cash Earnings than
+you gained by reducing inventory and the capital charge. The larger
+your profit margin, the more inventory you should hold, since any
+lost sales will cost you in RCE.
+Manufacturing yield can also be a useful measure for those trying
+to improve the efficiency and effectiveness of the production process.
+But, again, a higher yield is not always better, especially if it takes
+considerable investment and cost to achieve a small improvement.
+Scores of such measures are available—maybe some 400 of them—
+that can each provide an important signal to particular operations
+departments and corporate functions. But as shown in the examples
+in this chapter, each must be used with care. To consistently make
+the best decision, it’s important to understand and take into account
+how all of RCE’s key inputs feed into the final RCE output.
+Notes
+1 Gregory V. Milano, “Are You Reinvesting Enough?,” CFO.com, March 4, 2011,
+accessed January 15, 2019, http://ww2.cfo.com/accounting-tax/2011/03/areyou-
+reinvesting-enough-2/.

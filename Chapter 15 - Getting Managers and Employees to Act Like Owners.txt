@@ -1,0 +1,570 @@
+THEY SAY YOU can lead a horse to water but you can’t make it
+drink. I don’t know much about horses, but I do know that you can
+implement new performance metrics and business processes, and then
+you can back them up with supportive incentive programs. However,
+it’s very hard to get managers and executives to change their longstanding
+habits and behaviors. Implementing the ideas presented in
+this book is not about metrics, models, or processes; it’s about changing
+human behavior. It’s change management and it is successful only
+about half the time, according to researchers in the field.
+By far the most important first step in creating an ownership
+culture is to get senior executives to buy in and commit to a new way
+of thinking and behaving. It would be so easy to “talk the talk” and
+expect people to do things differently because they’ve been told to, yet
+it doesn’t work that way. Even after a full day of training, people tend
+to go back to their desks and do what they’ve done before. It takes
+constant reinforcement to overcome the natural human tendency to
+maintain familiar habits and behaviors.
+It is also critical that a company’s executives establish a “protocol” to
+reinforce the behaviors they seek, accompanied by constant reminders
+and reinforcements. For example, in many companies, managers fear
+operating reviews when their numbers are short of plan. That fear can
+contribute to an incentive to sandbag, even after the incentive targets
+are no longer derived from the plan. Executives must learn how to act
+in this new world by always emphasizing that, when it comes to value,
+more is always good and less is always bad. And they must realize that
+creating value is not easy, especially given the intensity of competition
+in most industries. So, it can be helpful to maintain a set of brief statements
+that convey a clear and simple message, such as “I’d rather plan
+for $10 million of profit and achieve $8 million than plan for $5 million
+and achieve $6 million. In other words, I’d rather make $8 million than
+$6 million.” When managers fall back into old negotiating behaviors,
+even these simple mantras can help reset their perspective.
+When a superior asks a business or department head if they
+can improve performance in their plan or budget, it can be good to
+remind them that this higher performance will make both of them
+richer. “We are both on the same side of the table,” you can say, “so
+it’s worth trying to figure out a better plan and then aim to achieve it.”
+Or, when a subordinate presents a forecast and asks a senior
+executive to approve a major investment, it’s important to remind
+them that the forecast is useful only for making decisions, and in
+the end it’s the results that matter. If the new investment beats the
+minimum required return, then RCE will rise, value will be created,
+and bonuses will also rise. With that being said, the crucial question
+to ask subordinates is: “Do you have enough confidence in your
+forecasted RCE improvements that you are willing to put your own
+money on the line?”
+It is vital to have the right spending authorities at each level of
+the organization. If managers must ask permission for even trivial
+expenditures, they will have a harder time embracing an ownership
+culture. But senior executives shouldn’t feel any pressure to increase
+authorities too quickly. By always asking whether subordinates have
+enough confidence in their forecasted RCE improvements before
+approving investments, managers cultivate the feeling of ownership.
+Over time, as the ownership culture takes hold and is clearly embraced
+by most of the organization (it will never be adopted by all), it may
+be reasonable to increase local autonomy for decision-making, but
+only after the intended RCE accountability has been established and
+is clearly embraced.
+Many years ago, when I was collaborating on an EVA implementation
+with Sir Roderick Deane, then the CEO of New Zealand Telecom,
+the rollout plan was driven by a cascading leadership structure. When
+I trained the direct reports to the CEO, he kicked off the session with
+a pretty meaningful 20- to 30-minute introduction on why we were
+doing this and what it meant to him. Just before he turned it over
+to me, he advised his leadership team that the next step was for me
+to train their direct reports, and that they would be responsible for
+the session kick-off comments. Knowing they would need to speak
+about EVA in front of their team, in their own words, Deane wisely
+knew they were sure to pay attention to my training. And his words
+conveyed no doubts at all about his commitment to our effort. As
+the EVA training percolated throughout the organization, each group
+received an initial introduction from their leader at the start of training,
+which encouraged them to pay attention.
+One of the major obstacles to change is the aloofness people feel
+in organizations that seem to be in a constant state of culture change.
+They wonder, “What will they be teaching us next week?” And they
+whisper, “Maybe if we ignore it, it will go away and be replaced by
+some new fad next week.” This attitude can be a major obstacle that
+makes the effort much harder—but it’s important to avoid throwing
+in the towel and to recognize that strong, decisive leadership will
+be needed to reinforce the new behaviors for some time before the
+changes stick. It will be worth it.
+Though the entire company leadership needs to be the face of the
+change, it’s important that this leadership be supported by teams with
+the knowledge and skills to establish a training and support network
+for the larger organization. When these ownership principles and
+methodologies are new, there is simply too high a risk that strategic
+situations and financial figures will be misinterpreted, so having experts
+is essential. For example, when I was a partner at Stern Stewart, I
+met numerous times with a large oil and gas services company about
+implementing EVA; in the end, they didn’t engage us but instead
+entrusted their finance department with the implementation. I felt
+frustrated at the time, but years later I learned that the decision was
+much worse for them than for me. They did a poor job of designing
+the approach, and an even poorer job of getting the organization to
+understand and embrace it.
+Over a decade later, another company brought us in to work on
+an implementation, and several executives had been at the company
+mentioned in the prior paragraph. We took the time to discuss what
+happened with the previous failed implementation. Most of these
+managers expressed their frustration by telling me outright: “EVA
+doesn’t work.” But then I found out that their former employer had
+emphasized the absolute level of EVA in bonus plans, not the improvement.
+So those lucky enough to run the highest-return businesses
+earned huge rewards, even if the EVA improvement was subpar, and
+the leaders of the weakest businesses could do nothing to earn much
+bonus at all. The poor-performing businesses drastically needed top
+talent to execute a turnaround, yet nobody wanted to work there.
+Also, as the company used the typical EVA approach of measuring
+net profits against a capital charge on net capital, the milking
+of old assets became an art form while the prospect of investing in
+the future wasn’t a priority at all. I learned of this when one of the
+managers attended my training session at the new company, and he
+remarked, “I know how to beat this EVA game! You go get the oldest
+[that is, most depreciated] piece-of-crap asset you can find, and you
+shine it up so it looks new.” I explained that in fact the new metric—
+a customized version of RCE—uses a capital charge based on gross
+assets, so no matter how old and depreciated an asset becomes, the
+capital charge stays the same. After resisting the idea at first, he told
+me a few days later, “You’re geniuses!” I then said I estimated that the
+original company had underperformed by so much, and for so long,
+that they had potentially left “a billion dollars” of market capitalization
+on the table—and then I joked that we wouldn’t have charged
+them even half that much to help them get it right.
+Communication, Training, and Coaching
+Internal leadership and the external implementation teams need to
+identify every potential obstacle to success before the rollout. They
+must involve people at different levels, in different regions, and in different
+functions to be sure they understand the potential roadblocks and
+identify workarounds. For example, managers across many companies
+have become so used to negotiating budgets that you can explain a
+hundred times that budgets are no longer used as incentive targets;
+and yet, when the first budget comes in, managers will still sandbag
+it. It may seem nonsensical—and it is—but this just shows the inertia
+of conditioned human behaviors.
+To combat this tendency, the start of the budget process can
+include a refresher on the new framework and offer some examples
+of how to stretch the thinking and to plan more aggressively.
+One way to identify such obstacles is to accompany the initial
+internal communication of the new management approach with
+an electronic questionnaire that encourages people to answer
+the question, “this may not work because _____________.” The
+findings can serve as a checklist when developing communications
+and training materials.
+When writing an article or making a presentation, experts say
+you need to first tell your audience what you are going to tell them,
+then you tell them, and finally you tell them again—this time in fewer
+words. An overall communications, training, and coaching program
+works the same way—through repetition. Initial communications set
+the stage by notifying the audience that changes are coming, with some
+indication of what the changes will be. It’s best at this point to refrain
+from any level of detail that will sidetrack the message, but instead
+to keep it high-level and clear. Often you will place more emphasis
+on the goals of the new management paradigm and less on how it
+will be accomplished. One client included the following message:
+VA Is Everyone’s Business
+Our business requires a lot of capital. We renew our fleet
+and facilities, purchase equipment and parts. We expand
+into markets where our clients go. Growing our business,
+gaining market share, buying new equipment, and opening
+new locations all require capital—which is either borrowed,
+directly invested by, or retained on behalf of our shareholders.
+We attract capital by promising to deliver an adequate
+return to shareholders.
+If we don’t, they will invest elsewhere.
+It can be very helpful to have additional information available on
+demand when the initial communications are made. As much as we
+want to keep the messages simple so that they are well understood,
+some employees will be curious and want to learn more. Some of
+them may well turn out to be “culture leaders,” so giving them access
+to more information, perhaps through a company portal or intranet
+site, can help get them on board. But even if this can’t be achieved
+simultaneously with the launch, instructions should be provided for
+those who want more information, perhaps an email address or a
+phone number to call.
+In addition to providing more in-depth training, as will be discussed
+below, communication should continue regularly. Sometimes it can be
+part of other normally scheduled communications, such as an internal
+newsletter, and can gradually share more about the new program,
+offering examples of things that have changed and the resulting benefits.
+One company explained it to employees with examples like this:
+Identifying Operating Inefficiencies: Can you find ways to
+reduce waste, trim inventories, control expenses, or operate
+equipment more efficiently? If you can, you’re improving
+performance.
+Generating Revenues: Are there things you can do to increase
+sales by better serving customers, further improving the
+quality of our products, or gaining a competitive advantage?
+Sometimes it helps to quote a great leader. Here’s an example
+(used by a company that was not Coca-Cola):
+Here’s what the chairman of Coca-Cola Company, Roberto
+Goizueta, says about the beneficial effect that charging for
+capital has on inventories: “I learned that when you start
+charging people for their capital, all sorts of things happen.
+All of a sudden, inventories get under control. You don’t have
+three months’ [supply] sitting around for an emergency.”
+It can be helpful to pose questions to get people thinking about
+how they can contribute. One client posed the following questions
+to their employees:
+BUILD: Commit fresh resources to endeavors that will more than cover
+the cost of the new capital employed.
+• What new equipment should we buy to provide new or better
+products to our customers?
+• What equipment should be upgraded to lower costs or improve
+quality?
+• What training activities will make people more effective?
+• What marketing efforts will improve customer and end-user
+satisfaction and will result in increased sales and profits?
+• Can we spend less capital and achieve the same or better-quality
+result?
+OPERATE: Increase profits without tying up any more capital.
+• How can we provide better service to our customers or sell
+more products without spending more?
+• How can we cut defects or increase yield?
+• What vendors can supply the same or better materials at lower
+prices?
+• How can we manage internal budgets more prudently?
+• How can we reduce working capital?
+• How can we decrease cycle time?
+• How can we increase productivity of existing assets?
+HARVEST: Withdraw capital from activities that produce an
+inadequate return compared to other uses for that capital.
+• What products or customers aren’t as profitable as we want?
+• What operating expenses aren’t getting us enough value?
+• What assets should be sold or shut down?
+As the basic practical ideas and activities behind an ownership
+mindset begin to sink in, a comprehensive training program should
+take it to the next level. Many types of training will be needed for
+people in various roles. The most in-depth training will be given to
+financial experts who need to understand the application of RCE
+inside out and also to help others. At the other end of the spectrum
+is the training of lower-level managers and supervisors who may
+need to know the basic concepts but will never really have to do any
+calculations using the new financial metrics. A good initial training
+program can consist of a brief video or computer-based training that
+goes beyond the scope of the initial communications, but stays at a
+high enough level to avoid losing most people’s interest or buy-in. The
+emphasis in this case is always on principles and guidelines.
+Rather than focus on either of these extremes, the following will
+describe an effective training approach for a fairly senior operating
+team of managers. For example, a business-unit management team
+may consist of a dozen or so managers representing a range of disciplines,
+including operations, marketing, sales, administration, and
+finance. The financial leader, in all likelihood, would have already
+participated in financial experts training, but often joins his or her
+colleagues for their training to help make sure they all understand it
+and also to establish a partner-like bond while conveying the feeling
+that “we are in this together.”
+The training of financial experts should aim to provide them with
+an in-depth understanding of “why” the new management processes
+work the way they do, perhaps offering them capital market research
+findings showing how companies that have improved these metrics
+have, on average, delivered much better results for shareholders. But
+the training of an operating team should focus more on “what” the
+new management processes are and “how” they are to be used. As
+much as possible, we want managers to be using the new metrics and
+analytics during the training in much the same way we expect them
+to be used in real situations.
+One recent training program my colleagues and I conducted
+began with a high-level discussion of the nature of ownership and
+what it means to act like an owner. Examples were used that all began
+with words like, “Let’s imagine you started your own business…” or,
+“Consider a situation where your neighbor starts a business and you
+agree to invest in it….” Of course, we are getting them accustomed to
+the new mindset before we have even explained what it is! This helps
+them develop an emotional connection with the principles, so that
+we can come back to them at any point in the training to reinforce
+more-specific points. It is far more important that everyone understands
+the nature of the cultural change than that they’re able to do
+the math. (That’s why we have a finance department.)
+With that said, we do want everybody to go through the fundamental
+math at least once. But if we did this by handing them the
+company’s financial statements, we would lose them right away. So,
+we need to build simple cases that are each designed to illustrate and
+elucidate the principles behind RCE. The client sometimes competes
+with small competitors, known colloquially as “mom and pops,”
+so we built the cases around this scenario. The company provides
+services to oil companies, and the initial case was based on a $1
+million investment needed to buy a set of assets to support a work
+team. This investment entailed cash operating costs of $350,000; a
+total of $550,000 in annual revenue received from the customers;
+income taxes simply set at 13% of EBITDA; and a required rate of
+return on capital of 12%. The trainees were separated into groups
+of three, given the information, and asked to calculate RCE for
+this small business. Lo and behold, the RCE is positive, as shown
+in figure 76.
+Then you’re going to incur costs
+(salaries, utilities, insurance)
+Operating Expenses ($350,000)
+EBITDA $200,000
+Then you’ve got to pay the gov’t Taxes (13% on EBITDA) ($26,000)
+Gross Cash Earnings $174,000
+But remember the folks who
+provided capital { Gross Operating Assets $1,000,000
+Required Return 12%
+Capital Charge ($120,000)
+Only after “paying them” back
+have you created any value RCE (Value Creation) $54,000
+First, you need customers who
+want to consume your services Revenue $550,000
+Figure 76—Baseline Training Case
+If this was indeed your business, you’d be quite happy—since
+you’ve earned more than the required return on investment!
+The second case, shown in figure 77, was designed to build on
+this situation by contemplating a growth investment. To establish a
+new team to provide similar services, we need to invest another $1
+million in assets. But this time we struggle to secure a customer, so
+the assets sit idle. Fortunately, we didn’t fully staff up, since we saw
+it was going to be hard to put the assets to work, but the investment
+still had an incremental cost of $50,000.
+Adding an idle asset is rarely good, and in this case it drives
+RCE down from a positive $54,000 to a negative $109,500. Notice
+that Gross Cash Earnings only declines $43,500, or just over a
+quarter of the total RCE decline. From this example, the trainees
+learn that the P&L is in fact an incomplete indicator of the cost
+of idle capacity.
+Revenue
+Operating Expenses
+EBITDA
+Taxes (13% on EBITDA)
+Gross Cash Earnings
+Gross Operating Assets
+Required Return
+Capital Charge
+RCE (Value Creation)
+Baseline
+$550,000
+($350,000)
+$200,000
+($26,000)
+$174,000
+$1,000,000
+12%
+($120,000)
+$54,000
+Case 2
+$550,000
+($400,000)
+$150,000
+($19,500)
+$130,500
+$2,000,000
+12%
+($240,000)
+($109,500)
+Figure 77—New Idle Assets
+The training went on from there to consider a deal with the customer
+to engage both service teams for a 10% discount, which would lead to
+much better RCE, though still not as high as the initial single work team.
+The lesson here is that making bad investments can have lingering negative
+implications. We then added working capital, including poor receivables
+collection, and it became clear how much capital can be consumed in poor
+cash-conversion-cycle times. Finally, we tightened up accounts receivable
+collection, and our RCE improved, demonstrating that improved capital
+efficiency is interchangeable with cost reduction.
+The cases went on—15 of them in total. The attendees had fun
+working out the simple math and gibing back and forth as each team
+stood up to take their turn explaining their answers. Since they were
+working in groups, nobody faced any embarrassment if they struggled
+with the math. Each case taught another aspect of what they need to
+know, and the participants all left the session with a better sense of how
+to improve performance than any sort of lecturing could have done.
+As a bonus, even the facilitators learned a lot in the process, which
+helps to improve each of their successive training sessions. Moreover,
+the interactive experience helped unearth needs and opportunities that
+can be elevated to the senior team. All of it amounts to an important
+part of the “soak time” necessary to bring the framework to life.
+If we stopped there, they would have had an enjoyable day, and
+then gone back to work and done what they have always done—since,
+as you know, changing behavior is tough. We can’t risk the mostsenior
+managers’ not using RCE, as that would rub off on everyone
+else. So, the next step is to coach them. The training involves simple
+examples of real-world decisions, but our aim during the coaching
+process is to get the senior execs to talk about actual decisions they
+are now dealing with, or have faced in the past. By encouraging such
+a discussion of a series of real decisions faced by the managers, we
+get the chance to work out the answers together. This could include
+the evaluation of new capital investments, brainstorming the pricing
+of a product or a major proposal bid, or just about anything else the
+manager wants to know how to answer by using RCE.
+Closing the Deal
+It’s always good to help managers see how the new decision processes
+in which we train them will drive cost efficiency, capital productivity,
+and overall value creation, which will all be beneficial for the company
+and—if the company is a major employer and taxpayer—for the greater
+community, as well. But managers also need to know what’s in it for
+them, so, by all means, explain to them the new incentive calculations.
+In fact, if the bonus calculations are explained early in the training
+day, each of the illustrative cases can close with a determination of
+the bonus implications. Managers will internalize the need for prioritization
+when decision A increases their bonus by $195 and decision
+B adds $25,000. We want the managers to see a direct connection
+between what’s good for the company and what’s good for them. This
+will strongly reinforce the ownership culture we seek.
+Once they have adopted and implemented RCE, companies
+should identify and celebrate real-world decisions that have
+succeeded in increasing RCE. This will communicate to everyone
+in the organization that improving RCE is both valuable and
+worthwhile. It’s strongly advisable to document special cases in
+company newsletters and other internal communications. Some
+companies have gone so far as to set up a knowledge management
+system to keep track of all the RCE wins, and then they use
+it to share best practices across the organization. Even if an RCE
+improvement that works in one business unit can’t be directly
+replicated in another, it may stimulate the thinking to come up
+with improvement ideas that are achievable.
+One company even set up an RCE task force that received intensive
+training designed to step up its expertise to the point where it
+could then support local teams seeking RCE improvement solutions
+to particularly tough historical problems. It rotated junior managers
+from all sorts of backgrounds through the task force, and those participants
+became RCE champions when they went back to their day jobs.
+Every team leader has to “walk the walk” every chance they get.
+The principles of owner-like behavior need to be discussed regularly
+as the basis for decisions and tactics until they become second nature,
+which could take years. Some executives think the organization should
+change faster, “because we said so.” But change management doesn’t
+work that way. Constant reinforcement is needed.
+It’s important to recognize, going in, that an ownership culture is
+different from the typical bureaucratic culture, so some managers may
+not feel comfortable in this new environment. Many will welcome the
+mindset, while others may need some leadership and coaching to get
+them on board, like that shown in the prologue of this book. But there
+very well may be 10% or more of managers who resist change, usually
+in subtle ways. Some may opt out and seek employment elsewhere in
+organizations that better fit their needs. Others may even need to be
+“managed out” to signal the company’s commitment to fostering a
+deliberate culture. But instituting and supporting an ownership culture
+will also help attract more-entrepreneurial managers who would not
+have even considered joining a bureaucratic organization. These shifts
+in human capital can be necessary to effect cultural change, so they
+must be handled directly and carefully.
+Once, when conversing with an Amazon executive, I was impressed
+not just with the quality of the company’s leadership principles, which
+she shared with me and are shown in figure 78, but also with how
+the executive emphasized that these are not platitudes to frame and
+mount in the conference rooms. Rather, they are business commandments
+by which one does one’s job. Frequently, one or more of the
+leadership principles are raised in meetings to guide the way toward
+the right decision. Every company should embrace such an approach
+by establishing its own set of such principles, perhaps called “Owner-
+Manager Principles,” and then actually using them day in and day out
+to guide decisions. This can truly close the loop on reinforcing the
+effective behaviors we seek.
+Figure 78—Amazon Leadership Principles
+Amazon Leadership Principles
+We use our Leadership Principles every day, whether we’re discussing ideas for
+new projects or deciding on the best approach to solving a problem. It is just
+one of the things that makes Amazon peculiar.
+Customer Obsession: Leaders start with the
+customer and work backwards. They work
+vigorously to earn and keep customer trust.
+Although leaders pay attention to competitors,
+they obsess over customers.
+Ownership: Leaders are owners. They
+think long term and don’t sacrifice longterm
+value for short-term results. They act
+on behalf of the entire company, beyond
+just their own team. They never say “that’s
+not my job.”
+Invent and Simplify: Leaders expect and
+require innovation and invention from their
+teams and always find ways to simplify. They
+are externally aware, look for new ideas
+from everywhere, and are not limited by
+“not invented here.” As we do new things,
+we accept that we may be misunderstood
+for long periods of time.
+Are Right, a Lot: Leaders are right a lot. They
+have strong judgment and good instincts.
+They seek diverse perspectives and work
+to disconfirm their beliefs.
+Learn and Be Curious: Leaders are never
+done learning and always seek to improve
+themselves. They are curious about new
+possibilities and act to explore them.
+Hire and Develop the Best: Leaders raise
+the performance bar with every hire and
+promotion. They recognize exceptional
+talent and willingly move them throughout
+the organization. Leaders develop leaders
+and take seriously their role in coaching
+others. We work on behalf of our people
+to invent mechanisms for development like
+Career Choice.
+Insist on the Highest Standards: Leaders
+have relentlessly high standards — many
+people may think these standards are
+unreasonably high. Leaders are continually
+raising the bar and drive their teams to
+deliver high quality products, services and
+processes. Leaders ensure that defects do
+not get sent down the line and that problems
+are fixed so they stay fixed.
+Think Big: Thinking small is a self-fulfilling
+prophecy. Leaders create and communicate
+a bold direction that inspires results. They
+think differently and look around corners
+for ways to serve customers.
+Bias for Action: Speed matters in business.
+Many decisions and actions are reversible
+and do not need extensive study. We value
+calculated risk-taking.
+Frugality: Accomplish more with less.
+Constraints breed resourcefulness, selfsufficiency
+and invention. There are no extra
+points for growing headcount, budget size
+or fixed expense.
+Earn Trust: Leaders listen attentively, speak
+candidly, and treat others respectfully. They
+are vocally self-critical, even when doing so
+is awkward or embarrassing. Leaders do
+not believe their or their team’s body odor
+smells of perfume. They benchmark themselves
+and their teams against the best.
+Dive Deep: Leaders operate at all levels, stay
+connected to the details, audit frequently,
+and are skeptical when metrics and anecdote
+differ. No task is beneath them.
+Have Backbone: Disagree and Commit:
+Leaders are obligated to respectfully challenge
+decisions when they disagree, even
+when doing so is uncomfortable or exhausting.
+Leaders have conviction and are tenacious.
+They do not compromise for the
+sake of social cohesion. Once a decision is
+determined, they commit wholly.
+Deliver Results: Leaders focus on the key
+inputs for their business and deliver them
+with the right quality and in a timely fashion.
+Despite setbacks, they rise to the occasion
+and never settle.
+The Value of a Long-Term Outlook
+According to research by the McKinsey Global Institute, long-term
+companies1 exhibit significantly better performance than others. Revenue
+for these companies cumulatively grew 47% more, on average,
+from 2001 to 2014, and with far less volatility. What’s more, long-term
+companies also showed higher earnings growth and hit more-stable
+earnings throughout the financial crisis. And as the McKinsey study
+also notes, the difference in value creation becomes even clearer when
+measured through economic profit, which I believe I have demonstrated
+throughout the book to be a much more suitable measure of
+performance. From 2001 to 2014, long-term companies generated
+a whopping 81% more economic profit than all other companies.2
+So, it should be clear that companies that embrace a long-term
+outlook consistently create greater value—therefore, we can trust that
+the misnomer of “long-termism” used to refer to poorly evaluated
+investments can be summarily rejected with the dissemination of this
+research. But, as we have also mentioned throughout the book, it’s
+not that easy to change a company’s culture and investment outlook.
+This is where this prescription for an ownership culture can be of
+tremendous value to corporate organizations.
+Companies that embrace an ownership culture to promote a
+balanced, long-term outlook will make more good investments, will
+be more accountable for delivering desirable returns on those investments,
+and will create more value. They will go by what investors do,
+rather than what they say, and they will generate more cash flow, deliver
+higher returns, and see their share price rise faster than at their peer
+companies. Most important, they will feel less concerned with what
+their share price is next week or next month, and more concerned
+about what their share price will be in the long run.
+Note
+1 The determination of what constitutes a “long-term” company was made by
+using a Corporate Horizon Index that factors investment, earnings quality, margin
+growth, quarterly management, and earnings-per-share growth. For more on this,
+refer to the methodology section of the study. Dominic Barton, James Manyika,
+Timothy Koller, Robert Palter, and Jonathan Godsall, “Measuring the Economic
+Impact of Short-Termism,” Discussion paper, McKinsey Global Institute, February
+2017.
+2 Ibid.

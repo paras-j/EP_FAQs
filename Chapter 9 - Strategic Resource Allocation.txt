@@ -1,0 +1,876 @@
+allocating capital expenditures, R&D, marketing,
+and other organic investments to where current and future expected
+returns are projected to be highest. Despite the simplicity of this
+resource allocation maxim, many management teams deviate rather
+significantly from the ideal allocation of their resources.
+The first problem is that suboptimal resource allocations often
+occur for “strategic” reasons, which can, at least in some cases, turn
+out to be very successful. Sometimes visionary strategists do, in fact,
+deploy resources on a hunch about some new opportunity that has no
+clear way to deliver returns—yet the project ends up being successful.
+(And, of course, such successes receive extraordinary attention from
+the business media.) Some of the biggest game-changers in history
+have started this way, but most vision-inspired projects and initiatives
+end up being a waste of resources that could have created more value
+elsewhere. By contrast, the appeal of being a successful visionary
+strategist is hard to resist. Most CEOs are impressed by how Steve
+Jobs, Bill Gates, or Jeff Bezos were able to invent products and services
+that didn’t previously exist, transform or create entire industries, and
+dramatically affect our day-to-day lives; and many would love to be
+seen by the world as visionary strategists like them. The problem,
+however, is that most people don’t realize how rare such visionary
+skills are, and how stacked the odds are against success.
+Let me be clear: Strategic vision can be a profound source of
+value for many businesses. But for vision to create value it must
+always be grounded in both observable (and accurate) measures and
+well-conceived forecasts. This usually requires pressure testing the
+idea by thoughtfully considering the scale of the potential advantage
+it would create, and then carefully anticipating customers’ and
+competitors’ reactions. Said differently, anyone can have a vision, but
+few come up with ideas that are sufficiently grounded in economic
+reality to succeed.
+In any case, most CEOs of large companies didn’t get where they
+are by being visionaries. They usually were successful at executing
+plans and delivering results, and their exceptional results impressed
+their predecessor or their board nominations committee. Or maybe
+their success was achieved by executing at a different company, and
+they were brought in through an executive search process because
+of their track record of delivering results. This record for delivering
+results probably started well before they were named CEO. Whatever
+department they started in, they were evidently better than their peers
+at getting things done and getting them done right, so they leapfrogged
+others along the way. Sure, they would never have been appointed
+CEO if they didn’t seem to have both leadership and managerial skills,
+but in addition they brought home the bacon. Managing your way
+to the top also requires skills in navigating what are sometimes fairly
+complex bureaucracies. And without a doubt, many true visionaries,
+frustrated by their attempts to deal with a bureaucracy, set out on
+their own entrepreneurial ventures well before they get close to the
+CEO seat.
+But for many of those who brave the bureaucracy and become
+CEOs, the power of the office somehow goes to their head once they
+get to that CEO suite. Their pay jumps immensely, their office gets
+bigger, their responsibilities expand, and they are finally in a position
+to reply, if they choose, “because I say so.” Top of the world, or at
+least the hill. No longer are they content with selling more products
+or services, improving quality and the customer experience so they
+can charge premium prices, or driving cost efficiencies and capital
+productivity. They “have people” to take care of these mundane tasks,
+just as they took care of them for their predecessor. Now that they
+are CEO, they suddenly have a vision for how they will transform the
+industry with a revolutionary product, a pioneering business model,
+or a reimagined…something or other. And the more revolutionary
+the product, the more likely it is to require investing significant sums
+for an extended period without profits. It’s all based on having blind
+faith in their vision without any compelling empirical underpinning.
+Please don’t misunderstand—pursuing visionary goals is wonderful
+when it works. Despite the tone of the prior paragraphs, there
+is in fact considerable value potential in developing visionary ideas,
+experimentation, creativity, and, yes, reimagination. But there is no
+reason why this must be the only plan. In the areas where we have
+proven expertise, we can focus attention on maximizing value by
+investing and managing effectively, while at the same time pursuing
+blue-sky creative ideas—though these may need to be separated
+organizationally for both to be effective.
+The second major problem with “strategic” resource allocation
+is the general tendency of top management or corporate headquarters
+to allocate capital among business units uneconomically. As we’ve
+previously discussed, this often results from a misguided attempt to
+be equitable to all their projects or departments, or because of their
+limited understanding of where their business really creates value—or
+often both.
+The SRA Process
+Getting the most out of the current businesses requires an effective
+SRA process. If the company has several businesses, the first step
+is to determine the RCE of each, based on historical and projected
+financial information, to see which businesses are most successful at
+converting precious funding into value. The SRA process must then
+dig deep to identify businesses with different products, services, geographies,
+distribution channels, and other dimensions that warrant more
+growth investment. The main aim in so doing is to distinguish such
+opportunities from the products and services that need to improve
+RCE margin and thereby earn the right to grow. We want to throw
+good money after good, not bad.
+As we touched on in chapter 7, the potential for long-term value
+creation is usually highly concentrated. It sounds like a consulting
+cliché, and it is, but the 80/20 rule—that roughly 80% of value creation
+comes from 20% of business activities—applies to most companies.
+This 20% is where we want to concentrate new resources. Beyond this
+all-important 20%, there are usually some modest value creators, some
+value-neutral activities, and a decent-sized group of value destroyers.
+Often the process of understanding where value is created gets
+bogged down in the assignment of cost and capital, and it is true
+that there is no perfect answer on this topic. Sometimes companies
+readjust the numbers over and over, while managers with different
+personal interests and biases seek the answer that helps their cause.
+It’s the ultimate analysis paralysis.
+-20%
+-10%
+0%
+10%
+20%
+30%
+A B C D E E F G H I
+RCE Return
+Allocation Method #1 Allocation Method #2
+Perspectives on the very
+best businesses are not
+usually affected by
+allocation methodology.
+Perspectives on the very
+worst businesses are not
+usually affected by
+allocation methodology.
+Figure 38—Perspectives on the Best and Worst Don’t Change
+But, as illustrated in figure 38, the reassignment of costs has
+little impact on one’s perspectives of the best and worst businesses,
+and these are the ones where real value creation and destruction is
+happening. Once a leader has a good feel for which businesses are
+the strongest and weakest value creators, it’s best to get about the
+business of investing to grow the high-RCE businesses and either
+fixing or disposing of the ones that are destroying value. The ones
+in the middle, with RCE that is slightly positive or slightly negative,
+depending on how costs are assigned, can be dealt with later; their
+strategic actions should be considered a lower priority.2
+Knowing that one product line creates, say, five or even 10 times as
+much value per dollar of sales as another line invites an opportunity to
+redeploy resources to boost performance. However, to do this, management
+must know exactly where value is being created and destroyed.
+They must estimate RCE for product and service lines, brands, geographies,
+distribution channels, and customer groups to see which create
+significant value. Only through this process can they become confident
+about where they should disproportionately invest in growth.
+By forecasting RCE, management can determine expected longterm
+value creation, which may differ significantly from current
+performance. Corporate finance theory and textbooks emphasize that
+valuation is—and should be—driven by the activities and performance
+of the future. But though this is right, it’s important to start by examining
+the current level of RCE and, in cases of low or negative current
+RCE, to accept business-unit projections of significant increases only
+when such projections come with meaningful and credible proposals
+for improving strategy or operations. Huge sums have been wasted on
+businesses struggling to create meaningful value that were believed to
+be on a turnaround path. It’s true that turnarounds can be extremely
+successful, but this typically comes from being effective at slashing
+costs, improving capital productivity, and stabilizing an otherwise
+poor-performing business. This can boost a negative RCE to zero
+(at which point, value ceases to be destroyed), though a turnaround
+rarely leads to meaningfully positive RCE. The exception, of course,
+is when the investments materially boost differentiation of products
+and services, as discussed below.
+It’s also important for executives at public companies to know
+that the frequency of turnaround success is far greater in private
+equity-owned companies than in publicly owned companies. One
+reason for this is that private companies often find it easier to take
+important, but unpleasant, actions without much publicity. They also
+almost always have stronger incentives that are more directly tied to
+value creation for the owners.
+It is critical to understand why value creation and destruction
+occur. The basic determinants of high, sustainable RCE—or recurring
+negative RCE—can be traced to the good or the bad economics
+of the market and strategic position. Market economics refers to
+the growth and return of the market as a whole—is it economically
+attractive? When a segment of an industry is rapidly growing, and
+everyone is earning decent returns on capital, the more successful
+competitors have plenty of opportunities to drive their own growth
+to attractive levels by winning a greater share of the growth. This is
+often more feasible than growing above-market in a less attractive and
+slow-growing industry, where your extra revenue requires someone
+else to have declining revenue. Competitors don’t like growing slower
+than the market, but this pales in comparison to their distaste for
+declines in revenue. Growing share in a fast-growing market is like
+being chased by wild animals in an open field, where there is plenty of
+room to maneuver. Growing share in a flat market is more like being
+chased by the same animals through a narrow, dead-end alleyway.
+The unfortunate outcome of growing above-market in a slowgrowth
+or flat-market segment is often a meaningful decline in profitability.
+As pricing, promotion, and other costs are used to juice
+the growth higher, usually the decrease in margin more than offsets
+the value of this growth. In the extreme, a price war ensues—and
+everybody loses. Exceptions to this can be found, but usually these
+only occur when the starting market share is so small that it doesn’t
+ruffle any feathers, or when the product is so well positioned that it
+can achieve market share increases without excessive margin erosion.
+Strategic position in a market refers to whether a business has
+a competitive advantage in product differentiation or costs. Perhaps
+the product has features not available from others, allowing an abovemarket
+price or market share gains. Or maybe the product is perceived
+to be of higher quality, or it sports a brand that consumers prefer to
+be associated with. Both real and perceived product differentiators
+can justify an advantaged strategic position, as can a low-cost process.
+The cost angle, however, will last only if the advantage can’t readily be
+replicated. Product and service differentiation tends to be more sustainable
+than a cost advantage, though there are examples of companies
+that have sustained a cost advantage, too, such as DuPont’s superior
+production processes for titanium dioxide—though even DuPont’s
+advantage has been threatened by offshore theft of its important trade
+secrets and other intellectual property.3
+Businesses that are advantaged in attractive markets will show high
+and growing RCE, while disadvantaged businesses in unattractive markets
+will have negative or declining RCE. Going back to our turnaround discussion,
+the practical limit on RCE in a turnaround often derives from a lack
+of differentiation. The combination of market economics and competitive
+position will determine how fast a business can grow and how much value
+the growth will create. In figure 39, some of the sources of competitive
+advantage that collectively drive RCE are identified.
+Sources of
+Competitive
+Advantage
+Brand Strength
+Innovation
+Process Know-How
+Sharper Decisions
+Captive Supply
+Execution Mentality
+Ownership Culture
+Price
+RCE
+Competitive
+Advantages
+Commoditization
+and Competitive
+Pressure
+Cost Including
+Capital Charges
+Perceived
+Value to
+Customer
+Figure 39—Competitive Advantages Drive RCE
+The starting point is the perceived value to the customer. If this
+value is not meaningfully higher than the total cost, including capital
+charges, there is no hope for generating strong RCE. But simply having
+a product that is valuable is likely to be effective at delivering RCE
+only when the product has meaningful differentiation that allows the
+company to set prices at a level that will deliver growth and positive
+RCE. And this requires being able to stick with a premium pricing
+strategy, even when competitors compete on price, which in turn
+requires having meaningful competitive advantages, or differentiation.
+Everyone waxes eloquent about their “competitive advantages”
+in investor presentations, but is your business or product truly differentiated?
+If so, you probably already have positive and growing RCE,
+because when a product is truly differentiated, management has the
+choice of whether either to charge a premium price or to grow faster
+than the market segment and thus gain market share, or some combination
+of the two. If your product does not sell at a premium price
+and is not gaining market share, then it’s not differentiated. True
+differentiation creates value for the customer that can be monetized
+by the seller either via a premium price (higher RCE Margin) or by
+gaining share (faster growth). Be dispassionate in evaluating competitive
+advantages and considering investments in innovation, so you can
+increase the strength of your competitive advantages.
+At Fortuna Advisors, we developed a strategic evaluation chart,
+as shown for the healthcare sector in figure 40, which can be helpful
+in understanding market attractiveness and strategic position. This
+chart is based on RCE Margin, which is a useful metric when we
+want to understand the value of revenue growth. But we can also
+recast this information into the form of an RCE Return when we
+want to understand the value of each element of investment. For a
+complete picture, we would also create a similar chart on revenue
+or investment growth, and the two together would provide answers
+about the attractiveness of our industry and whether our strategic
+position is advantaged or disadvantaged.
+A
+Pharmaceuticals
+B
+Healthcare Equipment and
+Supplies
+Healthcare Providers and
+Services
+Biotechnology
+Life Sciences Tools and Services
+Median RCE Margin of Industry Company RCE Margin
+Market Attractiveness
+Strategic Position
+Healthcare Sector Constituents by Industry
+Figure 40—Illustrative Strategic Evaluation Chart for Healthcare
+Each company or business is represented by a dot, though for
+visual clarity the figure only shows every third company horizontally.
+The horizontal dimension (x-axis) indicates the RCE margin for the
+company, and the vertical dimension (y-axis) indicates the median
+RCE margin of their industry within the sector. The pharmaceutical
+industry is at the top of the graph (i.e., it has the highest y-value),
+which means it’s the most attractive in terms of RCE margin. Although
+healthcare providers and services make up the least attractive industry,
+it is still decently positive, and each individual company is positive, as
+well. Healthcare is a great sector for value creation.
+The diagonal dotted line connects the origin and the medians of
+each industry. Companies to the right of this dotted line are advantaged
+relative to their industry because they are above the median.
+Those to the left of it are disadvantaged. Pharmaceutical company
+A is disadvantaged in the most attractive industry, while healthcare
+equipment and supplies company B is advantaged, though operating
+in an industry of only medium attractiveness. While both companies
+have about the same RCE Margin, the strategic import of this figure
+is that there is more upside for improving performance in company
+A because it operates in an industry with far greater proven upside
+potential, relative to current performance. If businesses A and B were
+divisions of the same company, this chart would be helpful in deciding
+how best to allocate resources.
+Of course, there is much more information to be considered, and
+decisions can be complex. Business A might have been advantaged a
+few years ago and has perhaps slipped because a few drugs have gone
+off-patent while the pipeline of new pharmaceutical products wasn’t
+adequate to replace them. Business B might have been disadvantaged,
+but maybe has since dramatically improved its strategic position
+through product innovation. The point is not that the Strategic
+Evaluation Charts make decisions easy, but rather that they provide
+useful information for judging performance, interpreting plans, and
+allocating resources.
+Sometimes it’s helpful to evaluate current and future RCE by
+customer or customer type, as we once were asked to do by a global
+oilfield service company with high asset-intensity and substantial
+fixed costs. Management historically had dreaded losing a project
+bid, for fixed-cost absorption reasons. Any unutilized capacity would
+effectively increase the cost of all the other capacity, since those fixed
+costs would be spread (and would drag down returns) across the rest
+of the organization. The finance and commercial teams did very
+sophisticated financial analysis at the time of each bid, but only highlevel
+sales and gross profits were tracked after the fact.
+We developed a line-of-sight into the RCE of each client project.
+In each geographic region, we allocated revenue, costs, and assets
+to determine customer RCE. Rolling this up globally by customer
+showed that many large global customers delivered negligible RCE,
+at best. Previously, many bids were justified based on retaining the
+business of these large global customers, yet there wasn’t much value
+created. With some large customers, it was so bad that the global
+RCE contribution of the customer was quite negative. If we concede
+price on project A to protect projects B and C—and then use the same
+logic to make price concessions on B and C, too—then we end up
+destroying value.
+The client created a small marketing group with the responsibility
+of overseeing global customers to ensure that their needs were
+properly serviced and that the regional management would accept
+marginal RCE projects only if meaningful positive RCE projects were
+found elsewhere with the same customer. One tough-negotiating
+customer generated such poor RCE that our client offered a contract
+renewal ultimatum: Either the customer had to pay more, or our client
+would reallocate resources. Their customer thought our client was
+bluffing, and the negotiations collapsed. Within months, the resources
+were working for a more profitable customer, and RCE improved.
+By understanding where they were creating value and where they
+were not, our client was able to materially increase the RCE run rate.
+Sure, for a few months RCE declined, so this also required a slightly
+longer-term view.
+Such hard-nosed decisions are often easier for a business owner
+to make than for an executive who is an employee. In the short run,
+losing a meaningful customer can reduce RCE, as capacity utilization
+drops and fixed costs are concentrated against fewer activities.
+This makes it hard to achieve or exceed budgeted performance in the
+current year, which personally costs the executives, since they experience
+a decline in their annual incentive plan payouts. It might be great
+if in a few months a new, more-desirable customer is contracted, but
+during the current year, the new contract may not make up for the
+revenue loss during the uncontracted period. And the benefits of the
+new customer will just get folded into the budget for the following
+year, so there will be no benefit to annual incentive payments next
+year, either. This is only one of the many ways that current management
+practices reinforce short-term thinking, which will be expanded
+on in chapter 14.
+For another client, we helped prepare a three-dimensional segmentation
+analysis by customer group, product family, and distribution
+channel, simultaneously, to better understand the results. The business
+was quite complicated and intertwined, but the client had already
+done a tremendous amount of good work on activity-based costing,
+also known as ABC. The problem was that they were long on analysis
+and short on useful interpretation and action. As often happens,
+every meeting to discuss the segmentation ended with skepticism and
+demands for “running the numbers again.” We were brought in to
+help develop the logic for applying the ABC methodology to allocate
+capital, to help the company interpret the findings, and to identify
+and simulate potential changes in both pricing and the allocation of
+capital and marketing resources.
+The idea of a three-dimensional segmentation is common, because
+a product may earn substantial RCE with a particular customer group
+that sees differentiation and values it, while a different customer group
+may be less sensitive to such differentiation and buy mainly on price.
+In some channels, such as modern online marketing, resources can
+be targeted to entice the valued customers without wasting resources
+on futile attempts to attract those that are unresponsive. Figure 41
+shows how a three-dimensional allocation works. In this case, three
+product families exist across three customer groups, with each served
+by three distribution channels.
+All revenues, costs, and assets must be fully allocated to the 27
+(3 Î 3 Î 3) cubes Of course, there can be four or five dimensions,
+in which cases the allocations work the same, though it is harder to
+visualize. Or we could have, as an extreme example, seven product
+families across six customer groups served by 11 channels, so the
+number of cubes can change. Some cubes may also be empty, since
+some customer groups may not buy certain product families nor use
+some distribution channels.
+Product Family
+Customer Group
+Distribution Channel
+Figure 41—Segmenting RCE in Three Dimensions
+When we finished creating and interpreting the three-dimensional
+allocation analysis, the answers were unambiguous. Certain combinations
+of product, customer, and channel were outstanding, with high
+RCE margin and, in some cases, RCE that was greater than 100%
+of invested assets. Back the truck up and invest as much as you can!
+Other segments needed to earn the right to grow, because they had
+meaningfully negative RCE even though they were allocated much
+lower costs and capital per unit of volume growth, based on their
+lighter-touch business model. The biggest problem, we found, was
+that the segments that should have been growing were shrinking,
+and those that should have been focused on improvements in pricing,
+efficiency, and productivity were rapidly growing—not good.
+The problem appeared to be pricing. A high percentage of their
+cost structure was fixed, and the same was true of their asset base.
+During the 2008–2009 downturn, volumes declined and financial
+performance dropped significantly in the face of expanding unutilized
+capacity. For certain large customers, the client turned to estimates of
+marginal costs when setting prices, figuring, correctly, that as long as
+their prices surpassed these marginal costs, the incremental volume
+would pad its bottom line. But as capacity utilization rose, the company
+maintained the low-pricing policies, in some cases because of committed
+long-term contracts—but in others due to simple managerial
+inertia. The growth felt good!
+Once the unutilized capacity dried up, the client began to invest
+considerable fresh capital on new capacity to handle the volume
+growth, and at that time its pricing models should have transitioned
+to more of a full-cost basis. But more important, even while the
+unutilized capacity was available, performance measurement should
+always have been done on a fully allocated cost basis. If our marginal
+cost estimates are accurate, and if we are paid prices above that
+level, then the new volume should increase the fully allocated results
+versus what would be the case without the volume. Maintaining
+performance measurement on fully allocated costs is an imperative,
+because estimating marginal costs is exceedingly tricky, especially
+when all sorts of shared costs and assets must be dealt with. As
+it turns out, many costs and assets are more variable than people
+want to think.
+The CEO of another client once said to me, “Obviously, I don’t
+cost any more if we sell a bit more product, so I am a fixed cost. And
+so is everyone else in this room. We really only want to include variable
+costs.” I politely asked whether, if the business were to double in
+size, the HR department and compensation consultants would show
+the board that the appropriate compensation package for him and
+his colleagues would be higher, since they would then be managing a
+bigger company. He only smiled. In the long run, everything is variable,
+so we only ever want to use a variable-cost approach for short, tactical
+pricing moves to fill up an unexpected low-capacity utilization. And
+when we choose to do this, we have to be extremely careful, since
+we can inadvertently be training customers to expect lower pricing.
+Unless we have significant differentiation, we may never be able to
+raise prices back up again without meaningful market share losses.
+Once we know the performance of different business areas, we
+need to scrutinize how well this aligns with resource allocation. The
+basic rule is, the better the RCE improvement opportunity, the more
+we should seek to invest in growth. Comparing resource allocations
+among businesses, products, and customer groups is best done using
+the concept of a “reinvestment rate,” which we defined in chapter 4
+as a percentage of Gross Cash Earnings.4
+The resource reinvestment rate approach automatically biases
+management toward investing more in the more profitable businesses,
+as shown in figure 42. It’s true, management may have
+increased the investment as a percentage of sales in the more
+profitable business, but maybe not to the level implied by the reinvestment
+rate. By limiting investment in the most profitable businesses,
+management may have been trying to avoid the appearance
+of playing favorites. But use of the reinvestment rate focuses the
+view of “fair and square” on cash profitability instead of revenue;
+and if business C wants a higher allocation, then it has to improve
+its profitability.
+Sales GCE RCE Investment
+% of
+Sales
+Reinvestment
+Rate Investment
+% of
+Sales
+Reinvestment
+Rate
+X 1,000 400 200 100 10% 25% 160 16% 40%
+Y 1,000 250 125 100 10% 40% 100 10% 40%
+Z 1,000 100 50 100 10% 100% 40 4% 40%
+Investment Allocated as a
+Constant Percentage of Sales
+Investment Allocated as a
+Constant Reinvestment Rate
+Figure 42—Benefits of Using a Reinvestment Rate
+Of course, it’s not only about moving resource numbers around.
+We need viable investment strategies and projects, which requires
+an effective process for creatively developing and rigorously evaluating
+resource allocation options. Don’t simply consider incremental
+improvements on the status quo. Once good line-of-sight is available,
+we must search far and wide for ideas that may help us invest more
+resources and create value. For high-RCE businesses, look for all
+possible ways to accelerate growth without significantly damaging
+returns. For chronically negative RCE businesses, come up with options
+to drive RCE higher, often by shrinking or harvesting and by focusing
+on the parts of the business that are profitable. This is an exercise in
+creative thinking grounded in market economics, competitive position,
+and RCE. Frequently, the best ideas come from customer dialogues,
+so take every opportunity to learn from them.
+It’s also important to assess the incremental RCE for each viable
+option after contemplating how customers and competitors will
+respond. Compare the options, based on ease of implementation as
+well as the likelihood of success and scale, which is the amount of
+expected RCE and value. The best options can then be selected and
+converted into a strategic plan. This comprehensive evaluation, project
+selection, and planning process requires open-minded creativity,
+candor, transparency, thoroughness, and discipline, along with pace
+and decisiveness, to drive action and results.
+A Case Example
+Consider a hypothetical company, based on a former client of mine,
+holding a portfolio of products that is quite profitable but unable to
+grow much faster than GDP. The biggest resource commitment it
+makes each year is capital spending, which averages about 10% of
+sales. Traditionally, capital has been allocated proportional to sales,
+with slight variations across the product portfolio, mostly based on
+differences in EBITDA margin and, occasionally, on other strategic
+factors as well. Management feels they are doing well, since so many
+companies only use gross margin or contribution margin to evaluate
+product profitability; and they have taken the extra step of allocating
+G&A and other costs to get to an EBITDA estimate by product.
+In figure 43, we see the four products, the size of each addressable
+market and market share, as well as the estimated EBITDA and
+EBITDA margins. The figure also shows the existing plan for capital
+expenditures and the percentage of sales for each business. Management
+is clearly biasing their investment toward product A, which is
+the largest product and has the highest EBITDA margin. Product C
+also has a high EBITDA margin and receives the next-highest allocation
+as a percentage of sales. But as we will see, since this is a less
+asset-intensive business, management has effectively reduced the
+allocation as a percentage of sales. More-asset-intensive businesses
+tend to require more maintenance capital, and it tends to take more
+capital for them to grow capacity, volume, and revenue. Products B
+and D both receive allocations that are a lower percentages of sales;
+and, again, the difference between the allocations to B and D are due
+to differences in asset intensity and maintenance capital requirements.
+Product A B C D
+Market Size 10,000 4,400 18,000 5,000
+Market Share 30.0% 50.0% 8.3% 14.0%
+Sales 3,000 2,200 1,500 700
+EBITDA 1,050 330 450 140
+EBITDA Margin 35.0% 15.0% 30.0% 20.0%
+CapEx (Existing Plan) 425 145 135 35
+% of Sales 14.2% 6.6% 9.0% 5.0%
+Figure 43—Case: Product Portfolio Characteristics
+One other consideration is market share and its implications
+for the potential runway for future growth. Products C and D have
+meaningfully lower market shares, and therefore may have more
+opportunity to grow at above-market rates by increasing market
+share. This doesn’t seem to have been considered by management.
+Next we will fill in some additional information on taxes, assets,
+and RCE, as shown in Figure 44.
+Product A B C D
+Tax (100) (30) (45) (15)
+Gross Cash Earnings 950 300 405 125
+GCE Margin 31.7% 13.6% 27.0% 17.9%
+Gross Operating Assets 6,000 3,300 1,200 350
+Asset Intensity 2.00x 1.50x 0.80x 0.50x
+Capital Charge (@10%) (600) (330) (120) (35)
+Residual Cash Earnings 350 (30) 285 90
+RCE Margin 11.7% -1.4% 19.0% 12.9%
+RCE Return 5.8% -0.9% 23.8% 25.7%
+Figure 44—Case: Product RCE Calculations
+Once we know the estimated taxes, which are determined after
+considering the depreciation each product is allocated based on producNINE:
+STRATEGIC RESOURCE ALLOCATION 195
+tion and other property, plant, and equipment, we can calculate Gross
+Cash Earnings, or GCE. We also estimate Gross Operating Assets, or
+GOA, including both net operating working capital and gross property,
+plant & equipment, so we can then calculate Residual Cash Earnings.
+The tax rates don’t vary much for this company, so the GCE margins
+are directionally similar to the EBITDA margins above. But once
+we bring the assets into the picture, the story completely changes.
+Products A and B are vertically integrated, with all parts manufactured
+and assembled in their Western European and Canadian plants. This
+production strategy, when compared to outsourcing, maintains control
+and keeps operating costs down; but it is very asset-intensive, which
+means higher capital costs.
+Once detailed line-of-sight information is available, the first
+important observation is that products C and D are both delivering
+RCE that is over 20% of their Gross Operating Assets, which we call
+RCE Return—and remember that RCE already reflects the charge
+for capital, so these performances are absolutely outstanding. This is
+particularly noteworthy for product D, whose low EBITDA margin
+is more than made up for by its efficient use of assets. Several years
+earlier, when their aging production facility was causing production
+delays and quality problems, they were faced with a decision to either
+build a new replacement production facility or find suppliers to do
+their production for them. Due to their lack of scale, they found the
+overall economics to be better by outsourcing. It may be that once they
+have scale, performance would be better with in-house production.
+These two businesses also have the lowest market share. So now
+that we know that they have both the most value-adding growth (high
+RCE margin) and the biggest potential for more growth, we can see
+that C and D should be the strategic priorities. Finding creative ways
+to invest in and grow these products will have the largest impact on
+the success of the overall company.
+Many financial managers reading this will be surprised that the
+emphasis is first and foremost on products C and D. Their eyes are
+finely tuned from years of hard work examining financial reports,
+and they are unconsciously drawn to any negative numbers in a table.
+They may even have been frustrated while reading the previous three
+paragraphs, waiting for an emphasis to be placed on the negative
+RCE being delivered by product B. “DON’T THEY SEE THAT IT’S
+NEGATIVE!” Yes, of course it’s negative, and addressing that is important.
+But as discussed in chapter 7, more value is usually created by
+nurturing and driving success in the best businesses than by fixing the
+worst businesses. We therefore want to reduce the rate of investment
+in product B and encourage the product management team to find
+ways to improve price, reduce cost, and become more productive in
+utilizing assets, so they can earn the right to grow. But fight the urge
+to spend so much time trying to fix problem businesses that you pay
+too little attention to the successful ones.
+In the upper portion of figure 45, we see the existing CapEx allocation
+again, with some additional statistics, including the reinvestment
+rate, which shows the percentages of Gross Cash Earnings that are
+reinvested back into the business as capital expenditures.
+Product A B C D
+CapEx (Existing Plan) 425 145 135 35
+% of Sales 14.2% 6.6% 9.0% 5.0%
+% of Assets 7.1% 4.4% 11.3% 10.0%
+Reinvestment Rate 44.7% 48.3% 33.3% 28.0%
+CapEx (Reallocation Plan) 300 75 275 90
+% of Sales 10.0% 3.4% 18.3% 12.9%
+% of Assets 5.0% 2.3% 22.9% 25.7%
+Reinvestment Rate 31.6% 25.0% 67.9% 72.0%
+Figure 45—Case: Product CapEx Reallocation
+The existing plan has a higher reinvestment rate in the two moreasset-
+intensive businesses, which is exactly the opposite of the priority
+we determined when we examined RCE return, above. The lower
+portion of the figure shows an illustrative reallocation of the same
+total capital expenditure budget with the priority on products C and
+D, so they have the resources they need to grow. How do we go about
+deciding on such reallocations of resources?
+To improve value creation and the likely TSR going forward,
+various strategic resource allocation options should be considered. Of
+course, the first priority is to shift the capital expenditure allocations
+to increase the reinvestment rate in the business delivering more RCE
+improvement per unit of investment. To make this work often involves
+both investing significantly more in innovation to extend and grow
+the higher RCE products and developing paths for growth through
+capital expenditure. These products are highly valuable, so if we can
+create new product extensions and applications, we may be able to
+amplify the total amount of potential value-creating investment and
+hence the amount of RCE we can generate.
+Finally, we need to reduce the cost and capital intensity of the big
+products, especially B, to drive RCE higher so that they earn the right
+to grow. Consider all possible cost cutting, process streamlining, and
+improvements in asset productivity via improved inventory management
+and capacity utilization. Also, given the success of product C,
+which has outsourced all production and assembly, it would be worth
+considering partial or complete outsourcing for products A and B, as
+well. Perhaps production is not our core competency. Maybe we can
+sell the production facilities to someone with strong manufacturing
+expertise and buy finished products under contract. In some cases, we
+can improve quality and reduce cost at the same time. Keep in mind
+throughout this process, though, that the goal is to create value, not
+to minimize costs. So be active in eliminating unnecessary costs and
+assets, but avoid a slash-and-burn mindset that can sometimes lead
+to cutting as much muscle as fat.
+Though it may start as a one-time special project, strategic resource
+allocation needs to become an ongoing way of life if the benefits are
+going to be significant. At a minimum, it should be repeated before
+every important strategic discussion at the front end of the annual
+planning process. And for companies that truly embrace the ownership
+culture, it should become a central feature in every strategic and
+tactical resource allocation decision, in performance evaluation, and
+in post-investment reviews.
+Investors Care About Strategic Resource Allocation
+Where and how a management team allocates its capital, R&D, and
+marketing resources tells investors a lot about its priorities. Investors
+and analysts ask questions at investor presentations and on earnings
+calls, and, even though details may not be published, the answers that
+management provides help build a picture of where they earn decent
+returns and how well their resource allocation is aligned.
+For companies that report segment information, investors can
+patch together a quick and revealing image of how well management
+invests its resources. Consider IBM, with primary operating segments
+reported as Cognitive Solutions, Global Business Services, Technology
+Services & Cloud Platforms, and Systems. IBM also reports a financing
+segment, and there are line items for eliminations and unallocated
+other items.
+If we focus on the four primary operating segments, it is fairly
+simple to estimate returns and reinvestment rates. The company
+reports segment revenue, operating profit, and depreciation and amortization,
+which collectively get us to an approximate EBITDA and
+EBITDA margin. It does not provide tax information, so we can do
+our segment analysis on a pretax basis to get a general idea of where
+it earns better returns. It is quite possible that the company’s performance
+and earnings power would be reflected more accurately if R&D
+were treated as an investment (instead of an expense), since it invests
+more than $5 billion a year in R&D. But since it’s not disclosed in the
+segment data, we will ignore it. Actual investors can ask questions
+during earnings calls and conference presentations to get a sense of
+such things, and a careful review of investor communication transcripts
+may reveal answers.
+We can determine a simple estimate of EBITDA and of EBITDA
+margin by segment, as shown in figure 46.
+The stock market has not been kind to IBM over the period, and it
+is easy to see why. Every segment has had declining revenue, declining
+net profit before tax, and declining estimated EBITDA. Three of the
+four segments have had declining estimated EBITDA margin, too,
+and the one with an increase in estimated EBITDA margin suffered
+the largest percentage decline in revenue.
+Next we turn to the assets, shown in figure 47, where we have
+much less information. Most companies, IBM included, provide only
+one total number for assets, which makes it hard to really know what’s
+included and what is operating or not. To keep it simple, we are relying
+exclusively on the reported segment information. But investors
+and analysts who follow the company can delve more deeply into
+published information and can ask questions to try to build out a
+more detailed model of IBM’s segments.
+2014 2015 2016 2017 CAGR
+Cognitive Solutions 21,906 20,055 20,817 21,100 -1.2%
+Global Business Services 20,055 17,664 17,109 16,711 -5.9%
+Technology Services & Cloud Platforms 39,729 35,840 36,052 34,934 -4.2%
+Systems 13,300 10,325 8 ,464 8 ,945 -12.4%
+2014 2015 2016 2017 CAGR
+Cognitive Solutions 8 ,215 7 ,245 6 ,352 6 ,817 -6.0%
+Global Business Services 3 ,347 2 ,602 1 ,732 1 ,401 -25.2%
+Technology Services & Cloud Platforms 7 ,084 5 ,669 4 ,707 4 ,344 -15.0%
+Systems 1 ,384 1 ,722 9 33 1 ,135 -6.4%
+2014 2015 2016 2017 CAGR
+Cognitive Solutions 1 ,040 9 21 1 ,228 1 ,121
+Global Business Services 9 8 8 1 1 04 1 01
+Technology Services & Cloud Platforms 1 ,982 1 ,944 2 ,224 2 ,359
+Systems 7 34 3 21 3 75 3 41
+2014 2015 2016 2017 CAGR
+Cognitive Solutions 9 ,255 8 ,166 7 ,580 7 ,938 -5.0%
+Global Business Services 3 ,445 2 ,683 1 ,836 1 ,502 -24.2%
+Technology Services & Cloud Platforms 9 ,066 7 ,613 6 ,931 6 ,703 -9.6%
+Systems 2 ,118 2 ,043 1 ,308 1 ,476 -11.3%
+2014 2015 2016 2017 Average % Change
+Cognitive Solutions 42.2% 40.7% 36.4% 37.6% 39.3% -11%
+Global Business Services 17.2% 15.2% 10.7% 9.0% 13.0% -48%
+Technology Services & Cloud Platforms 22.8% 21.2% 19.2% 19.2% 20.6% -16%
+Systems 15.9% 19.8% 15.5% 16.5% 16.9% 4%
+Revenues
+Net Profit Before Tax
+Depreciation & Amortization
+Estimated EBITDA (Net Profit Before Tax Plus Depreciation & Amortization)
+Estimated EBITDA Margin
+Note: CAGR is compound annual growth rate
+Figure 46—Estimated EBITDA Margin for IBM Segments
+With the assets given, we can calculate a simple cash return by
+dividing the estimated EBITDA by the reported segment assets.
+This information is admittedly incomplete, since it depends on
+the modest disclosures required by accounting rules. So, we tend
+only to compare returns, rather than to make absolute judgments
+about what is good or bad. It’s beyond the scope of this book, but in
+the more elaborate segment models my colleagues and I have built
+to understand the segments of client competitors, we allocate every
+element of the consolidated company’s GCE and GOA to the segments,
+using logical allocations like accounts receivable as a percentage of
+revenue and accumulated depreciation as a percent of assets. This
+would give us a picture that is likely to be more accurate, but the
+quick estimated approach depicted here provides directionally correct
+insights in most cases.
+2014 2015 2016 2017 CAGR
+Cognitive Solutions 9 ,255 8 ,166 7 ,580 7 ,938 -5.0%
+Global Business Services 3 ,445 2 ,683 1 ,836 1 ,502 -24.2%
+Technology Services & Cloud Platforms 9 ,066 7 ,613 6 ,931 6 ,703 -9.6%
+Systems 2 ,118 2 ,043 1 ,308 1 ,476 -11.3%
+2014 2015 2016 2017 CAGR
+Cognitive Solutions 19,525 20,017 25,517 24,829 27.2%
+Global Business Services 8 ,831 8 ,327 8 ,628 8 ,713 -1.3%
+Technology Services & Cloud Platforms 22,512 23,530 24,085 24,619 9.4%
+Systems 4 ,219 3 ,967 3 ,812 3 ,898 -7.6%
+2014 2015 2016 2017 Change
+Cognitive Solutions 0.89x 1.00x 1.23x 1.18x 0.29x
+Global Business Services 0.44x 0.47x 0.50x 0.52x 0.08x
+Technology Services & Cloud Platforms 0.57x 0.66x 0.67x 0.70x 0.14x
+Systems 0.32x 0.38x 0.45x 0.44x 0.12x
+2014 2015 2016 2017 Average % Change
+Cognitive Solutions 47.4% 40.8% 29.7% 32.0% 37.5% -32.6%
+Global Business Services 39.0% 32.2% 21.3% 17.2% 27.4% -55.8%
+Technology Services & Cloud Platforms 40.3% 32.4% 28.8% 27.2% 32.2% -32.4%
+Systems 50.2% 51.5% 34.3% 37.9% 43.5% -24.6%
+Assets
+Asset Intensity (ASSETS / Revenue)
+Estimated EBITDA (Net Profit Before Tax Plus Depreciation & Amortization)
+Quick Cash Return (Estimated EBITDA / Assets)
+Note: CAGR is compound annual growth rate
+Figure 47—Quick Cash Return for IBM Segments
+Each segment had higher asset intensity in 2017 than in 2014.
+So, since revenue and EBITDA have been sliding, each segment has
+also increased assets per dollar of revenue over the three-year period.
+This contributed to the decline in quick cash returns experienced by
+all four segments. Although all four have fading returns, it’s clear
+that Global Business Services has the lowest and sharpest-fading
+quick cash returns, while Systems has the highest and least-fading
+returns. It’s also notable that Systems had the largest decline in
+assets, despite apparently having the highest and most sustained
+quick cash returns.
+Because IBM also provides Capital Expenditure information by
+segment, we can estimate a reinvestment rate as CapEx divided by estimated
+EBITDA, as shown in figure 48.
+2014 2015 2016 2017 Average % Change
+Cognitive Solutions 47.4% 40.8% 29.7% 32.0% 37.5% -32.6%
+Global Business Services 39.0% 32.2% 21.3% 17.2% 27.4% -55.8%
+Technology Services & Cloud Platforms 40.3% 32.4% 28.8% 27.2% 32.2% -32.4%
+Systems 50.2% 51.5% 34.3% 37.9% 43.5% -24.6%
+2014 2015 2016 2017 CAGR % Total
+Cognitive Solutions 4 13 4 48 4 95 3 73 -3.3% 12.9%
+Global Business Services 7 9 8 6 5 5 5 0 -14.1% 1.7%
+Technology Services & Cloud Platforms 2 ,321 2 ,619 2 ,382 2 ,290 -0.4% 78.9%
+Systems 6 27 3 21 4 53 1 89 -33.0% 6.5%
+Note: Percentage of Total applies to 2017.
+2014 2015 2016 2017 Average % Change
+Cognitive Solutions 4.5% 5.5% 6.5% 4.7% 5.3% 5.3%
+Global Business Services 2.3% 3.2% 3.0% 3.3% 3.0% 45.2%
+Technology Services & Cloud Platforms 25.6% 34.4% 34.4% 34.2% 32.1% 33.4%
+Systems 29.6% 15.7% 34.6% 12.8% 23.2% -56.7%
+Quick Cash Return (Estimated EBITDA / Assets)
+Capital Expenditure
+Quick Reinvestment Rate (Capital Expenditure / Estimated EBITDA)
+Note: CAGR is compound annual growth rate
+Figure 48—Quick Reinvestment Rate for IBM Segments
+During this period, IBM invested heavily in R&D, so a more suitable
+reinvestment rate would include both capital expenditures and
+R&D. But because the published segment data doesn’t include the
+R&D information, we use only capital expenditures in the example.
+Our goal, after all, is to illustrate the technique.
+Capital expenditures in the Systems segment, which has the highest
+and most sustained quick cash returns, have declined by 33% per
+year, on average, and its quick reinvestment rate has been cut by
+more than half. Technology Services & Cloud Platforms, by contrast,
+received 78.9% of the 2017 total segment capital expenditures and
+has a quick reinvestment rate that is well above the rest—and indeed
+well above the rate of reinvestment in 2014. This is undoubtedly the
+area IBM is focused on growing, but it is somewhat concerning that
+at least on the dimensions studied here, the company doesn’t seem to
+be driving stronger or increasing returns; and its corporate revenue,
+estimated EBITDA, and estimated EBITDA margins are all heading
+meaningfully down. If it is increasing R&D in this segment, could
+that be influencing the apparent decline in margins? This would be
+a good question for investors to ask management.
+Companies should do this analysis on their own segments and
+make sure that the signals investors receive are accurate and as
+intended. There are, of course, limitations to this type of analysis.
+Since good and bad businesses can be mixed in the same segments, the
+segment performance details may be quite different from our quick
+estimates, based on segment reporting; and the numbers could even
+be clouded if management is trying to influence the interpretation.
+For example, in some cases it seems that management may be trying
+to make some segments look better through allocations and transfer
+pricing, of course within the constraints of what is legitimate, given
+the accounting rules. Perhaps it would like a segment that normally
+attracts a higher multiple to show a bit more profit. This, of course,
+is spin.
+Regardless of these shortcomings, it’s important to be aware that
+investors can do this analysis themselves and will form judgments on
+whether they believe management understands and embraces the idea
+that they should be investing more where returns are higher. To avoid
+any potential confusion, the message here is that companies should
+have better resource allocation—not that they should improve their
+presentation tactics.
+Notes
+1 A good portion of this chapter was derived from an article I coauthored with
+Jim McTaggart that was published by FEI Daily. Gregory V. Milano and Jim
+McTaggart, “Overcoming 3 Roadblocks to Strategic Resource Allocation,” FEI
+Daily, accessed January 15, 2019, https://www.financialexecutives.org/FEI-Daily/
+February-2018/Strategic-Resource-Allocation.aspx.
+2 Joseph Theriault, “How to Allocate Less Time to Allocations,” FEI Daily, January
+9, 2019, accessed June 25, 2019, http://fortuna-advisors.com/2019/01/15/
+how-to-allocate-less-time-to-allocations/.
+3 See Del Quentin Wilber, “How a Corporate Spy Swiped Plans for DuPont’s
+Billion-Dollar Color Formula,” Bloomberg Businessweek, accessed January 14, 2019,
+http://www.advancedsecurityprotection.com/files/stealing_white.pdf.
+4 Many wonder why the reinvestment rate isn’t defined as a percentage of RCE.
+Determining it as a percentage of Gross Cash Earnings works better because
+RCE, being a residual income amount, is more often negative, making the outputs
+meaningless.

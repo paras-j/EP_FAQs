@@ -1,0 +1,531 @@
+DESPITE THE BEST of intentions, many corporate management teams unwittingly foster a culture of short-termism that saps the financial strength of their companies. In aggregate, this behavior has
+the collective effect of limiting the overall growth, employment, and prosperity of the entire global economy. This view is often shrugged off as inevitable with statements such as “unfortunately, that’s the
+way it is” and “it’s what investors tell me they want, so I have to play the game.” Yet nothing could be further from the truth. Most investors don’t “want” short-termism, but from a CEO’s perspective,
+investors can appear as a jittery bunch who often seem to overreact to short-term news.
+Part of the problem is that some investors don’t hold their investments for very long periods. If an investor owns shares of a company for three months and then sells to buy other stock, they rightfully don’t care what happens after they sell—they care about share-price
+performance only while they hold the stock. And these short-term holders can often be extremely vocal, and thereby have an outsized influence on management. Today’s highly liquid capital markets may
+provide immense social benefits, but rapid shareholder turnover does have its drawbacks.
+
+Years ago, I began asking corporate client executives, “Would you be willing to take a strategic action you believe may be misunderstood in the short term, driving down your share price 10% to 15%, if you
+are convinced you are right and that the share price will be 20% to 30% higher than otherwise after three years when the strategy proves successful?” Most replied, in one way or another, that they would like
+to think so, but that investor pressures might lead them to pass on the action even if they personally believed in its value. This question, though, poses a tradeoff that gets to the heart of the issue at hand;
+that was the impetus that led me to pursue an improved framework for developing thoughtful corporate strategies, allocating resources wisely, and measuring performance more effectively.
+Short-termism begins with the quarterly earnings cycle. The problem is not that quarterly reporting is bad, but that the process that has been built up around these quarterly reports is fraught with
+demands and pressures that tend to influence management to overemphasize the short term at the expense of the long term. Pretty much everyone is aware of the problem, yet few business leaders
+know how to create an organizational environment with adequate accountability for delivering short-term results without sacrificing the long-term potential of the business.
+The quarterly earnings call ritual has taken on increasing importance for public company leaders and, in many cases, this triggers decisions that end up limiting success over the longer term. Executives
+tend to fear that their share prices will be crushed if they don’t deliver earnings per share, or EPS, that meets or exceeds analysts’ consensus estimates.
+And as far as the immediate reaction to bad earnings news is concerned, they are right. In 2016, Fortuna Advisors studied the 800 companies in the Russell 1000 that had been public since 2008. Our
+research showed that, over the quarter in which an earnings announcement is made, meeting or beating consensus EPS affects share price performance more than whether EPS increases.1 This might help
+explain why certain managers are far more focused on beating consensus than on whether EPS is increasing.
+
+But when we extended the measurement period from a quarter to a year, which is hardly “long-term,” we found the opposite result. Over this slightly longer period, EPS growth mattered much more than whether management beat consensus estimates (defined as the
+percentage of quarters in which actual EPS either met or beat the consensus). And when we lengthened this time horizon to two or three years, the importance of performance improvements relative
+to beating consensus became even clearer. Would investors prefer that management exceed consensus and improve results by 3%, or miss consensus but improve results by 10%? If you care about what
+your share price will be in three years, the actual improvement in results matters far more than whether these results beat an arbitrary short-term benchmark known as consensus earnings.
+So, how can beating consensus be that important to managers yet have so little impact on share price performance over time? In many cases, it’s because the consensus earnings themselves are derived
+from a process in which a substantial proportion of the information analysts use to build their financial models and determine their earnings forecasts comes from management itself. Since managers typically
+prefer to be perceived as succeeding rather than failing, they have an incentive to “guide”—consciously or not—the analyst forecasts lower by giving both formal and informal guidance that understates what
+they believe will happen. They are just being conservative, after all. By tempering the expectations of investors and analysts, management increases the chances that they will “beat consensus” and secure
+praise from business-TV pundits and reporters—and perhaps from their board of directors as well. In addition, many compensation committees consider consensus estimates when determining targets
+for incentive compensation, making it easier for management to earn more if they give conservative guidance.
+From an internal corporate perspective, this problem of “sandbagging” is, hands down, the very worst managerial behavior problem. Each year, most corporate business units submit a three- or
+five-year plan in which performance during the first year is projected to go down, but in every year thereafter is strongly up. The appeal of this well-known “hockey-stick” forecast for sandbagging managers
+is that it provides them with both an easy budget to beat in the annual incentive plan and a strong outlook beyond that, which helps gain top management’s approval of the capital requests they need
+to undertake all their desired investments. Though the internal plan generally promises more performance improvement than does the published guidance, the improvements projected in the plan still tend
+to significantly understate what management really thinks it can do. This sandbagging problem may well be the most underappreciated problem in the business world. If we asked a group of very smart
+people with no business experience whether they thought it would be better to encourage managers to develop plans for success or plans for mediocrity, I suspect the vast majority would encourage managers to
+plan for success. After all, at the start of every sporting event, don’t all athletes aim to win, even when the odds are stacked against them? Yet that’s not what most people with business experience expect of their
+team. To be fair, most of them grew up in the system of sandbagging and budget negotiations and never knew anything else. It takes hard work, courage, and consistency to change it.
+Hockey-stick forecasts can also result from poor integration of financial and strategic information in projections. Often, because the strategy is presented without any hard financial metrics, forecasts
+wishfully assume a positive drift in key variables. This is known as spreadsheet extrapolation, a practice that predictably causes the outyear results to be implausibly optimistic.
+But short-termism comes from more than just quarterly earnings, sandbagging, and spreadsheet extrapolation. A variety of behavioral problems are also caused by common practices for planning, decisionmaking,
+and performance management. The collective effect of these behavioral problems is a drag on corporate performance, shareholder returns, and overall economic growth and employment.
+Executives are often surprised by the sources of short-termism they find in their companies. For example, common financial performance measures can result in underinvestment. Consider a general manager
+of a business unit who is rewarded based on its improving return on invested capital (ROIC), which can be defined simply as the after-tax operating profit of the business divided by the invested capital (which
+includes working capital and net property, plant, and equipment). The ROIC measure is intended to indicate the efficiency with which a business uses its capital, so rewarding a manager for increasing ROIC would
+seem to be appropriate.
+
+But let’s examine the behavior encouraged by this practice. In 2017, the median ROIC of S&P 500 companies2 was 12.7%. For this illustration, consider a business earning a much higher ROIC, say 25%. This business would be in the top quartile among S&P 500
+companies. Any investment in this business that earns less than 25% will bring down the average return and thus reduce the bonus earned by the general manager. There may be investments that would earn,
+say, 20%, and yet management would be discouraged from making those investments, since the average ROIC would decline and the managers would accordingly earn less.
+Is the incentive to improve ROIC supplying the right motivation?
+The 20% incremental return on investment would be far higher than the return of the average company, and a lot higher than the cost of capital for most if not all companies. The core principle of modern
+corporate finance is that making an investment that earns a return above the cost of capital creates value. And since the cost of capital in 2017 was under 10% for most companies, investing in a project
+that earns a 20% return would clearly make the company more valuable—yet management would be paid less for pursuing this valuecreating investment. This is a common problem and, unfortunately
+for shareholders and other stakeholders, it’s a prescription for starving the best-performing businesses of growth capital, which leads to less
+value creation and worse share price performance. It’s bad for investors, workers, and the overall GDP growth of the economy.3 It’s a lose, lose, lose situation. Even as some politicians claim that “shareholders”
+are reaping gains off the backs of other stakeholders, the fact is that all but the most short-term investors are worse off after such an investment strategy.
+In fairness, many managers say they will do the right thing even if it reduces their compensation. But why force managers to have to choose between the good of their families and that of the company’s
+shareholders? The idea that paying people to improve either ROIC or nearly any percentage-based measure of performance could be reducing value is surprising to many, yet numerous other common
+management processes and quirks wind up encouraging less valuecreation.
+It’s All About Process and Behavior Ignorance and naiveté can at times be forgiven. But it is surely both inexcusable and indefensible when people know that what they are doing is wrong and still do it. When a chief executive officer and a management team are tasked with leading thousands of employees,
+overseeing countless customer relationships, producing and improving important products and services, and delivering success for all stakeholders (including shareholders), we would all like to think they will
+do their damndest to live up to these responsibilities and accomplish these goals.
+Nobody can truly say they have seen it all, but with close to three decades as an advisor to well over 200 companies operating in just about every industry and on every continent except Antarctica, I have
+seen a lot. Some of my most surprising, and frustrating, experiences as a consultant have come not from failing to persuade a client of the superiority of a particular strategy or tactic, but rather from watching
+a client executive first agree that a certain strategy would deliver a better outcome—and then choose not to pursue it and instead continue with the status quo.
+Why would executives do this? One answer was provided in 2005 by Duke University’s Professor John Graham and his coauthors who published a much-cited study of how corporate reporting was affecting
+managerial decisions and actions.4 When surveying over 400 chief financial officers, they found that some 80% of those CFOs expressed their willingness to sacrifice shareholder value simply to meet or beat
+a quarterly earnings goal.
+And given that the short-termism problems found in that survey were identified by fully 80%, and not just a handful, of CFOs, such value-destroying practices are clearly widespread. What’s more, we can
+only surmise that the actual percentage is probably higher, since some respondents may have been disinclined to confess to their willingness to forgo value. For a group that waxes on interminably about “shareholder
+value,” the cognitive dissonance is perhaps understandable.
+Bolstering these findings are those of a more recent discussion paper, published by the McKinsey Global Institute. Among other conclusions, it notes that 87% of executives and directors feel pressured
+to produce strong performance within two years or fewer; and 65% of executives and directors think that short-term pressures have increased over the past five years.5
+But how do companies actually sacrifice shareholder value? In some cases, they cut positive-net present value (NPV) investments that are expensed against earnings, such as research and development (R&D) and advertising—and in so doing, they reduce the value of
+both the earnings and the cash flows expected in future years. (Note
+that Amazon has shown no sign of succumbing to this temptation—
+and the company’s shareholders have been rewarded handsomely for
+management’s inattention to quarterly accounting earnings.) In other
+cases, earnings-focused executives delay positive-NPV projects that
+would be expected to grow the value of the company, but that may
+weigh on short-term results during the early stages of the project.
+As bad as this seems, this is only the tip of the iceberg. For every
+time a senior executive, in finance or otherwise, knowingly makes a
+decision to achieve a dollar of short-term success by giving up two
+dollars or more of long-term success, there are dozens, maybe even
+hundreds, of situations in that same company in which managers at
+all levels and functions are also making suboptimal decisions. But
+many don’t even know it. They are routinely following misguided
+business processes, using erroneous decision criteria, or aiming to
+optimize a flawed or incomplete performance measure or scorecard.
+This may not even be their fault, since they are doing only what they
+are being asked and paid to do. Yet that doesn’t make it any less of
+a problem. Senior managements must not only change their own
+behavior to better balance the short and long term, they also may
+well have to rethink every management process so they can provide
+managers throughout the organization with better measures, more
+reliable decision criteria, and more effective incentives.
+It may not seem as outrageous when a manager makes the wrong
+decision because he or she doesn’t know any better and is just doing
+what they have been told. The problem, though, may well be prevalent
+enough to create a national drag on productivity. The primary goals of
+my career have been to create an environment in which these adverse
+managerial behaviors are less prevalent, and then to implement such
+principles at as many companies as possible.
+Admittedly, most defective processes, decision criteria, and performance
+measures originate from the best of intentions. For example,
+when company management chooses to use ROIC improvement as the
+basis for incentives, they typically do so because they (rightly) believe
+that if everything else is the same, having a higher ROIC is better.
+However, they don’t think about the adverse behavioral incentives
+discussed above. As mentioned earlier, ROIC-based incentives can lead to throttling a company’s most-promising businesses, and this
+is made even worse in companies that measure performance using
+free cash flow (FCF) as a period measure. Rewarding managers for
+increasing FCF in a single period is an invitation to “milk” a business,
+since the full amount of an investment is subtracted dollar for dollar
+from the current-year performance measure.
+Moreover, the adverse incentives created by ROIC can end up
+reducing value in another way. Thus far, we have seen how the approach
+can starve high-return businesses of valuable growth investments. But
+tying rewards directly to the improvement in ROIC can also encourage
+weak businesses to overinvest. For example, the managers of a
+business with a 2% ROIC would realize a higher bonus if they made
+investments earning 3% or 4%, both of which bring up the average
+ROIC—even though such investments probably lie well below the
+cost of capital and are likely to destroy value.
+Nevertheless, years of experience have taught me an important
+lesson: If you are going to err, it’s still better that your best businesses
+get the capital they need to grow, even if this means also overinvesting
+in weak, low-return businesses. That’s because the value lost from
+starving great businesses is typically many times greater than that lost
+by overinvesting in weak ones. Over the 10 years ending in 2010, the
+top-quartile companies in the S&P 500 had average total shareholder
+returns of over 700%—while the bottom quartile delivered a staggering
+–35%.6 A simple comparison of these two numbers suggests that
+preserving a minimum of 1% of the value creation potential in the
+best businesses is, on average, about 20 times as important as achieving
+1% less downside in the worst businesses. This relationship varies by
+company, of course.
+There is much more that is wrong with the typical management
+processes than simply the use of poor measures. Often there
+is confusion about what “strategy” really means. For example,
+some executives describe their strategy as “double revenue, expand
+margins, and grow EPS at double digit rates.” Though these might
+be credible goals, they are not “strategies.” Strategy involves assessing
+the competition and environment, evaluating and enhancing
+competitive advantages, and choosing to allocate resources to grow
+sales of products and services that are competitively advantaged in
+attractive markets. Management needs to maintain a firm grip on
+ONE: CORPORATE SHORT-TERMISM AND HOW IT HAPPENS 11
+the attractiveness of the markets they serve and the strategic position
+of their businesses within those markets. Attractive markets
+offer desirable growth opportunities along with the ability to deliver
+advantageous returns on capital. Strategic position comes from the
+differentiation achieved by developing distinctive and meaningful
+product or service attributes, stronger brands, and better manufacturing
+or service delivery processes. Many give too little credence
+to these important drivers of strategic thinking and care only about
+the financial numbers, which is a very bad idea. Goals are generally
+meaningless without a strategy to achieve them.
+Often executives balk at such observations and boast about their
+rigorous strategic planning process. Yet, as with most things in life, we
+must not confuse effort with results. At many companies, months of
+preparation, thousands of human-hours, and hundreds of pages of
+slides often get shelved right after they are presented. The dynamic
+and competitive world surrounding the company presents new challenges
+that were never contemplated in the strategic plan, therefore
+management must respond—all the while delivering quarterly earnings.
+In some companies, things are so bad that the people preparing
+the plan know it has no meaning; they are just compiling data and
+preparing materials as parts of a routine designed to check a box and
+take home a paycheck.
+The planning process itself has the ability to spur significant value
+creation, even as it falls short of this potential at most companies.
+Creative thinking, experimentation, and prudent risk-taking are critical
+to finding ways to both strengthen and capitalize on competitive
+advantages and, by so doing, achieve success far beyond the industry
+norm. For business units that are struggling, planning offers an opportunity
+to start fresh, to seek opportunities to consider new strategies,
+and to step up execution, thereby “earning the right to grow.”
+Even when strategic planning is more actively embraced, other
+problems can arise. In some cases, managers try to right the wrongs
+of the past by developing plans that are essentially just throwing
+good money after bad in attempts to avoid admitting failure. Doing
+the hard work to recognize poor performance, cut losses, and move
+on to greener pastures is almost certain to be more productive than
+obsessing over the improvement of recurring losers. Some business
+observers have come to refer to this as “long-termism”—essentially,
+code for not doing a rigorous analysis of existing investments. For
+obvious (I think) reasons, I find this term to be a misnomer, but it’s
+perhaps worth mentioning all the same.
+In other cases, managers ignore evolving market conditions and
+manage as if everything will stay the same. This often becomes a
+problem when a new management team is running a company that
+has been successful for years. They give too little credence to the
+possibility that competitors will leap-frog them with better products
+and services, or that consumer needs and desires will change. Even if
+their offering remains distinctive, success often breeds complacency,
+leading to bloated operating costs and underinvestment in the future.
+Perhaps most important, managers often seem obsessed with
+extrapolating the present into the future, thinking good times or
+bad times will endure forever. Some managers are too wedded to
+the principle of “If it isn’t broken, don’t fix it.” They rest on their
+laurels, satisfied with the status quo, while competitors innovate new
+products and marketing strategies—and pass them by. This is one
+form of “recency bias,” a common behavioral bias that is particularly
+prevalent (and problematic) in cyclical industries. Recency bias also
+tends to be a more-acute problem in highly successful companies,
+since managers may not want to mess with a “proven” formula, even
+as the conditions that made that formula successful change. It may
+seem like a good problem to have, but this is the cause of many fallen
+stars—think Kodak and Xerox.
+At many companies, a significant process-related problem is the
+lack of accountability for projections, which in turn creates the need
+for excessive control. Most companies emphasize profit-and-loss (P&L)
+measures, such as operating profit and EBITDA, that provide little or
+no recognition of the cost of capital. Capital is effectively free, and
+so it has to be tightly controlled.7 And overly tight controls tend to
+reinforce a culture of incrementalism, which in turn reduces entrepreneurial
+thinking, innovation, dynamic course changes, and, worst
+of all, accountability.
+Almost every company says they need a “better” follow-up process
+to see how well projects deliver on the projections used to justify
+the investment for approval. At best, these “investment look-back”
+processes tend to be ad hoc, incomplete, and “for information only,”
+since the data is rarely tracked properly and the findings of these
+ONE: CORPORATE SHORT-TERMISM AND HOW IT HAPPENS 13
+look-backs are fraught with estimates and approximations. The worst
+part is that everyone understands this lack of follow-through and
+accountability; at the time of the investments, the managers making
+the projections to justify them know that their assumptions will most
+likely be forever forgotten. The entire system has no memory.
+Anyone who has ever developed a 5- or 10-year cash flow forecast
+for a new investment knows how much higher the NPV and internal
+rate of return (IRR) can be when we step up growth and margins by a
+few percent, and perhaps assume 30-day receivables, even though the
+company typically runs 60–90 days. The abundance of great high-return
+projects seems surreal—which of course it is!—and the only way senior
+management can put a lid on such capital spending is to erect arbitrary
+limits for capital budgets and say, “we simply cannot afford any more.”
+One of my favorite client quotes of all time was uttered by Herb
+Sklenar, who was chairman and CEO of Vulcan Materials when we
+worked together in the 1990s. I once had a one-on-one meeting with
+Herb so that I could gain a thorough understanding of the company
+and its strengths and flaws from his vantage point. During the meeting,
+Herb expressed frustration that he regularly approved 15%–20%
+return investments and, as a company, they kept earning 8%–10%
+returns. He began by saying that because nobody can really accurately
+forecast the future, we should expect actual performance to deviate
+from projections. But, as he went on to say, if the inability to perfectly
+forecast the future were the only problem, there would be just as many
+projects that exceed the forecast as those that fall short. The reality,
+of course, was that most projects fell short of projections, as they do
+in most companies. We then discussed the misalignment between the
+capital approval process and performance measurement; together with
+the rest of his management team, we began the process of implementing
+a performance measure called Economic Value Added, or
+EVA. Loosely speaking, EVA is net operating profit after taxes minus
+a capital charge that reflects the cost of equity as well as debt. In the
+case of Vulcan Materials, management adjusted the measure further
+after our work together, so they could establish their own customized
+measure, which they called “EBITDA Economic Profit,”8 still in use
+by them today. This measure shares some attributes with Residual
+Cash Earnings (RCE), a measure we developed at Fortuna Advisors
+that we will return to later in the book.
+Vulcan Materials has been an extremely strong performer, with
+a cumulative total shareholder return (TSR), including dividends
+and share price appreciation, of 426% over the 20 years ending in
+2017. This far exceeds the performance of the overall market, which
+delivered TSR of 294% over the same period.9 That result is downright
+outstanding for a company that basically crushes rocks and sells
+construction aggregates, asphalt, and ready-mix concrete.
+In any event, the primary problem with corporate processes is
+that management spends far too much time dillydallying on process
+efficiency, scalability, and metrics, and not enough on the behavior
+that it should encourage. It is imperative, therefore, to review every
+important process with careful consideration of the behavior that
+is encouraged, and then to make improvements that channel the
+behaviors of management in the desired direction. And, like any organizational
+change process, such changes require strong support from
+senior executives, who must visibly embrace and actively conform to
+the new behavioral template. After all, this is a cultural change.
+People Are Not That Rational
+We are all human, at least most of us (the jury is still out on Jeff Bezos,
+Warren Buffett, Bill Gates, and a handful of others). And as humans
+we are susceptible to human biases. Most people intend to behave
+rationally and do the right thing but, owing to these innate human
+biases, they often miss the mark and don’t behave as described in the
+economics textbooks. We humans are not all that rational—at least
+not consistently.
+Consider the stock market, which is generally believed to be fairly
+efficient. Was the stock market efficient when both the S&P 500 and
+the NASDAQ Composite peaked in March of 2000? How about on
+October 9, 2002, when the S&P 500 was down 49% and the NASDAQ
+had fallen a massive 78%? Just five years later, on October 9, 2007,
+the S&P 500 again peaked at over twice the previous trough and the
+NASDAQ was up over 150%. A mere 17 months later, the market
+was again in the doldrums, with the S&P 500 and the NASDAQ each
+down over 50% from the 2007 peak. As of July 26, 2019, the S&P
+500 was up 347% from the 2009 bottom, and the NASDAQ was up
+557%. As Peter Lynch once quipped, “Everyone has the brainpower
+to make money in stocks. Not everyone has the stomach. If you are
+ONE: CORPORATE SHORT-TERMISM AND HOW IT HAPPENS 15
+susceptible to selling everything in a panic, you ought to avoid stocks
+and mutual funds altogether.”10
+If markets were truly rational, company valuations would be
+higher, as a multiple of earnings, at the bottom of the cycle, because
+investors would be anticipating that at some point there will be an
+upturn. And, of course, valuation multiples would be lower near the
+top of the cycle as investors expect a downturn. At both the top and
+bottom of the cycle, investors would be unsure when these cyclical
+patterns would occur, but they would be pretty confident that at some
+point cyclical troughs will turn up and cyclical peaks will turn down.
+But what really happens? Of the 500 companies that make up the
+current S&P 500, 294 were public both at the peak of the Internet
+bubble and in the trough that followed. These companies had an
+average PE multiple of 29.0x at the top of the cycle in 2000, when
+they should have been pricing-in declines, and an average PE of 23.4x
+when the market bottomed 31 months later. As this example suggests,
+instead of dampening the effect of cyclical earnings by tempering the
+extremes of the market, investors exacerbate the problem by forgetting
+(or ignoring) that these cycles exist.
+This is a more telling example of the recency bias discussed above.
+And along with its effects on investors, recency bias has all sorts of
+negative consequences for managerial planning and decision-making.
+Like investors, corporate managers tend to act as if cyclical highs and
+lows will continue forever. Consider, for example, the near-universal
+tendency of corporate strategic plans to show more growth at the
+top of the cycle than they do at the bottom. This tendency leads to
+more investment in the business in the upper portion of market cycles,
+when assets are most expensive and capacity is least needed, given
+the downturn that invariably follows.
+And it’s not just organic investment—acquisitions tend to peak
+when companies are at their highest values and grind to a halt when
+acquisitions are cheap. Managers often say sellers don’t want to sell
+in downturns, but that is because the acquiring companies don’t
+adjust their perception of fair pricing. Bankers show the pricing of
+comparable acquisitions and say, “It’s okay to pay X% premium.” But
+the reality, of course, is that it’s the price that matters to the selling
+companies, and not the percentage premium over their (currently
+depressed) values.11
+In addition to recency bias, there is also a behavioral bias toward
+“herding,” or doing what everyone else is. In 1841 Charles Mackay
+published Extraordinary Popular Delusions and the Madness of Crowds,12
+in which he wrote, “Men, it has been well said, think in herds; it will
+be seen that they go mad in herds, while they only recover their senses
+slowly, and one by one.”
+When everyone is doing deals, there is a tendency to want to
+join in for fear of missing out. This herd-like mentality leads many
+companies to acquire more at the top of the stock market cycle than
+at the bottom. And one big problem with herding is that it creates
+competitive bidding and increases the final price paid, which cuts into,
+if not eliminates, the deal’s value-creation potential for the acquirer’s
+shareholders, effectively transferring that value to the seller’s shareholders.
+Indeed, during the 10 years from 2001 through 2011, total
+U.S. acquisition volume was nearly 70% higher in the five years when
+the S&P 500 was above average than in the years when it was below
+average.
+When the stock market is down, the board of a selling company
+often demands a higher premium to cede control of their company.
+But the purchase-price premium, as we suggested earlier for sellers,
+is not the most reliable indicator of value for buyers, either. The
+median transaction premium in 2009 was 34%, which seems expensive
+when compared to the 21% premium in 2006. However, if we
+examine the acquisition prices in relation to book value, we get a
+better sense of the absolute value paid at each point in the cycle. It
+turns out that despite the lower premium, the average price paid in
+2006, when measured as a multiple of book value, was 25% higher
+than the average price paid in 2009. When the stock market is low,
+it can be worthwhile to pay a higher premium over the prevailing
+market price of the acquisition target, if that’s what it takes to make
+a value-creating deal.
+To understand why companies don’t pull the trigger on organic
+investments and acquisitions at the bottom of the cycle also requires
+understanding another bias, this one known as “loss avoidance.”
+Academics who focus on behavioral finance have shown through
+empirical testing that people feel losses more than twice as strongly
+as they feel profits of similar amount. This loss avoidance bias interferes
+with decisiveness and delays decision-making. Loss avoidance
+ONE: CORPORATE SHORT-TERMISM AND HOW IT HAPPENS 17
+also tends to bias executives against making contrarian investments,
+which are the essence of “buying low and selling high.”
+To overcome these natural human biases and deliver higher TSR,
+companies must implement well-designed processes and objective
+decision criteria. The management processes in many companies
+simply don’t encourage managers to gather enough information,
+including historical statistics on their own business, and to use it in a
+rules-based way to make objective, unemotional decisions.
+Sound crazy? One company I worked with filled in the cost,
+investment, price, and terms data in its pricing evaluation model only
+after it had negotiated a deal with a customer—and this on contracts
+worth hundreds of millions of dollars! Another client showed the
+same contempt for analysis by filling in its discounted cash flow (DCF)
+valuation model only after the CEO had used “gut feel” to agree to
+the transaction price on an acquisition worth over $1 billion. Why
+have a process to estimate the present value of free cash flow of a
+business deal if you are going to do the analysis after you sign the deal
+and the parameters are set in stone?
+Undeniably, these management problems are not as sensational
+as the ones involved in the Enron, Worldcom, and Tyco scandals.
+But collectively, over decades and across thousands of companies,
+these common management pitfalls are costing society much more
+in potential economic output, jobs, and wealth creation. It has been
+estimated that short-termism has cost $1 trillion in forgone gross domestic
+product (GDP) over the last decade, and if the trend continues, this could
+rise to $3 trillion by 2025.13 Every company should carefully consider
+all management processes to ensure that they don’t encourage valuereducing
+behavior.
+Decision-Making Should Hinge on Long-Term
+Shareholder Value
+To improve management processes requires understanding and
+embracing the goal of delivering long-term improvements in shareholder
+value. Put simply, if a business decision creates long-term
+value, it is good—and if it does not, it is bad. Of course, at times
+management must approve investments that seem to destroy value,
+and they typically justify these as “strategic.” But what this usually
+means is that it’s hard to quantify and communicate the value creation,
+despite management’s conviction that the value is real. For this reason
+alone, maintaining discipline on strategic investments is tough, yet
+extremely important.
+Nevertheless, a clear and purposeful focus on long-term shareholder
+value should be the goal of all business planning and decision
+processes, performance measures, and incentive compensation. Otherwise,
+management teams and organizations can get lost in the endless
+number of possible priorities, which then can lead to suboptimal or
+value-reducing decisions and results.
+Regrettably, many executives have become disillusioned with
+shareholder value. The very term “shareholder value” sounds so
+politically incorrect to many that the concept may be dismissed
+even before the discussion begins. Critics of shareholder value often
+promote “stakeholder value” instead, a concept that is reinforced
+by the reduced emphasis on capitalism in favor of more-progressive
+principles. But the pursuit of stakeholder value, however noble, is
+close to useless as a way to run a business—since it is neither objective
+nor easily measurable.
+Further to this point, Fortuna’s own research from 2019
+demonstrates that companies that produce more shareholder value
+(measured as TSR) are far likelier to be recognized for their contributions
+and commitment to stakeholders at large. What’s more, the
+50% of S&P 500 companies with above-median TSR for the 10 years
+through 2018 increased aggregate employment by 61%, compared
+to just 2% for those companies with below-median TSR. In the
+process, the high TSR companies created 3.3 million more jobs than
+their low-TSR counterparts. All this suggests that shareholder and
+stakeholder value are much more aligned than the current public
+perception might suggest.14
+In any case, corporate managers need a way to decide where
+to invest, and then how to manage those investments and optimize
+operations. Measuring the improvement in shareholder value is both
+practical and accurate—it is the right way to evaluate performance.
+Where consideration of long-run shareholder value becomes
+especially important is in the critical task of balancing the two main
+pillars of corporate value: growth and returns. To achieve the optimal
+balance in the ever-present growth vs. return tradeoff requires consideration
+of long-term value.15 When companies focus exclusively or
+ONE: CORPORATE SHORT-TERMISM AND HOW IT HAPPENS 19
+excessively on either, resources are misallocated. Our research in many
+industries—including, for example, healthcare16 and tech17—shows
+that delivering long-term value through a combination of growth
+and returns produces the highest TSR.
+• • •
+Different companies must face a surprisingly wide range of problems—
+and there is no panacea for all of them. Even within a single
+company, different business lines or regions may face entirely different
+short-term pressures.
+Even so, the benefits of addressing short-termism at an organizational
+level can be substantial. Yet there are no guarantees of
+success even for companies that have been successful in recent years.
+As shown in figure 1, the fact that a given company has been a topquartile
+performer for shareholders during one five-year period tells
+us less than one may think about how the company will do during
+the next five years. Indeed, during the five years ending in 2017, the
+companies that were top-quartile performers during the previous five
+years were slightly more likely to be bottom-quartile than top-quartile.
+0%
+25%
+50%
+75%
+100%
+0% 25% 50% 75% 100%
+TSR Percentile Last Five Years (2013-17) TSR Percentile Prior Five Years (
+2008-12)
+TSR Percentiles v. S&P 500
+in Successive Five-Year Periods
+Figure 1—Past Performance Is No Guarantee of Future Success
+But despite this tendency to give up ground, the good news
+is that however well or poorly a company performed over the last
+five years, there is considerable upside for companies that develop
+objectively informed strategies; allocate capital and other resources
+more effectively; make all value-creating investments by ensuring
+accountability for delivering growth and returns; and encourage
+all of the above with better performance measures and incentive
+compensation designs. That upside is likely to take the form of
+significant increases in annual cash flow, higher rates of return on
+capital, more revenue growth, and substantially higher TSR. This is
+supported by recent research by McKinsey Global Institute showing
+that, on average, long-term companies had a 50% greater likelihood
+to be top decile or top quartile in TSR by 2014, while market capitalization
+of long-term firms grew by $7 billion more than that of
+other firms between 2001 and 2014.18
+Getting there, however, requires a concerted plan and sustained
+corporate-wide efforts to overcome the overwhelming tendency to
+focus on the short term. Companies must improve processes and
+behaviors to overcome organizational inertia and ongoing human
+biases. To reinforce this longer-term focus, management should seek
+to create an ownership culture in which managers throughout the
+organization participate in, and assume responsibility for, decisions,
+results, and consequences. When each manager and each employee
+accept their business obligations as if they owned them, organizations
+create more value.
+
+Notes
+1 Gregory V. Milano and Allison Cavasino, “Stop the Quarterly Madness!,” CFO.com, August 16, 2016, https://fortuna-advisors.com/2016/08/26/stop-thequarterly-madness/.
+2 Note that financial and real estate companies were removed from the sample, because returns are generally defined differently for these sectors. The data source is Capital IQ.
+3 Dominic Barton, James Manyika, Timothy Koller, Robert Palter, and Jonathan Godsall, Measuring the Economic Impact of Short-Termism, Discussion Paper, McKinsey Global Institute, February 2017.
+4 John R. Graham, Campbell R. Harvey, and Shiva Rajgopal, The Economic Implications of Corporate Financial Reporting, Working Paper, Duke University, January 11, 2005, https://faculty.fuqua.duke.edu/~charvey/Research/Working_Papers/W73_The_economic_implications.pdf.
+5 Barton et al., Measuring the Economic Impact of Short-Termism.
+6 Gregory V. Milano, “Are You Wasting Time on Poor Performers?,” CFO.com, July 8, 2011, https://fortuna-advisors.com/2011/07/08/are-you-wasting-timeon-poor-performers/.
+7 Thanks to my former partner Bennett Stewart who probably said this over a hundred times when we were in meetings together.
+8 See Annex A to the Vulcan Materials Company Schedule 14A (a.k.a. the proxy) filed March 26, 2018.
+9 Market performance was measured using the “SPY” ETF, which tracks the S&P 500.
+10 Peter Lynch and John Rothchild, Beating the Street (Norwalk, CT: Easton Press, 1993), rule #17.
+11 Gregory V. Milano, “Do Acquisition Premiums Matter?,” CFO.com, July 29, 2011, https://fortuna-advisors.com/2011/07/29/do-acquisition-premiums-matter/.
+12 Charles MacKay, Extraordinary Popular Delusions, And, the Madness of Crowds, New York: Crown Publishers, 1996.
+13 Barton et al., Measuring the Economic Impact of Short-Termism.
+14 Gregory V. Milano, Michael Chew, and Jinbae Kim, “Companies That Do Well Also Do Good,” CFO.com, May 15, 2019, http://fortuna-advisors.com/2019/05/15/companies-that-do-well-also-do-good/.
+15 Gregory V. Milano and Jim McTaggart, “Overcoming 3 Roadblocks to Strategic Resource Allocation,” FEI Daily, February 28, 2018, http://fortuna-advisors.com/2018/02/28/overcoming-3-roadblocks-to-strategic-resource-allocation/.
+16 Gregory V. Milano, Marwaan R. Karame, and Joseph G. Theriault, “Improving the Health of Healthcare Companies,” Journal of Applied Corporate Finance 29, no. 3 (Summer 2017): 18–29.
+17 Gregory V. Milano, Arshia Chatterjee, and David Fedigan, “Drivers of Shareholder Returns in Tech Industries (or How to Make Sense of Amazon’s Market Value),” Journal of Applied Corporate Finance 28, no. 3 (2016): 48–55.
+18 Barton et al., Measuring the Economic Impact of Short-Termism.

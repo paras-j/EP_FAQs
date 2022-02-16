@@ -1,0 +1,341 @@
+INVESTORS SOMETIMES REMARK, “That’s a great company
+but it’s not a great stock.” This can have different meanings, but it
+often refers to a large, highly profitable company that is well regarded
+and trades at a high valuation. So, it is a great company that’s valued
+accordingly, but the investor doesn’t see much room to earn a good
+return. Indeed, many great companies have had stagnating or even
+fading share prices for extended periods.
+Consider Microsoft, by all accounts a great company. As of
+mid-2018 the company was worth about $850 billion and had over
+120,000 employees. For decades it has played a major role in transforming
+the usability and accessibility of computers for everyday consumers
+and employees around the globe. In August of 1997, Microsoft even
+invested $150 million in Apple preferred stock, an investment that
+some described as saving its competitor. Indeed, this cash infusion
+helped ensure that the world would benefit from all the innovation
+that Apple has produced since then. Microsoft went public on March
+13, 1986, and over a nearly 14-year period (ending on December 27,
+1999), investors realized a 59% compound annual return on their
+investment—enough to turn $10,000 into over $6 million. Microsoft
+was clearly a great company and a great stock.
+But then Microsoft’s share price languished for more than a decade.
+A dollar invested in its stock on December 27, 1999, wouldn’t be
+worth a dollar again for more than 14 years. Zero return over such a
+long period is by all accounts a pretty bad return on investment. But
+there is absolutely no doubt it was still a great company. To management’s
+credit, over the four and a half years from the day the stock
+finally crawled over that 1999 peak to the end of 2018, the stock has
+delivered returns of 24% per year. Once again, Microsoft was both a
+great company and a great stock.
+The message to corporate executives should be clear: It’s not
+enough to be a great company. To also be a great stock requires
+continuous improvement. Whether an investor has a short horizon—
+say, a day or a week—or a longer horizon of several years, the
+objective is to earn a decent total shareholder return (TSR). So, what
+does it take to deliver strong TSR and to be a great stock? In 2016,
+we published a comprehensive article1 that reported the findings of
+our study of the drivers of TSR in technology companies. This study
+was particularly noteworthy, since so many believe that the kind
+of economic analysis discussed in this book doesn’t really apply to
+the valuation of the tech sector, with its economic idiosyncrasies.
+We proved them wrong.
+We studied the operating and stock market performance of no
+fewer than 169 publicly traded tech companies with ending market
+capitalization of at least $1 billion that were listed from 2004 through
+2015. We collected data for the companies on eight different performance
+metrics for the 12-year period starting in 2004 and running
+through the end of 2015. As listed in figure 21, the metrics included
+five widely measured and monitored performance indicators as
+well as three cash-value measures that were developed by Fortuna
+Advisors.
+Widely Used Measures
+(1) Sales Growth
+(2) Gross Margin
+(3) Operating Margin
+(4) EBITDA margin
+(5) Return on Equity (ROE)
+Cash Value Measures
+(6) Gross Business Return
+(7) (change in) Residual Cash Earnings (ΔRCE)
+(8) Residual Cash Margin
+Figure 21—Measures Used in Tech Study
+Our next step was to divide our 12 years of operating data and
+performance measures into 10 rolling three-year periods with endpoints
+in each year from 2006 to 2015. The first period runs from 2004 to
+2006, the next from 2005 to 2007, and so on. Then, for every one of
+the eight operating measures, we assigned each of the companies to
+one of three performance tiers—high, medium, and low. For example,
+the companies with the highest cumulative average growth rates in
+three-year sales were put in tier 1, and those with the lowest salesgrowth
+rates went into tier 3. For each performance metric, we then
+compared the median TSR of the high-performance companies in
+tier 1 with the median TSR of the low-performance companies in tier
+3. This difference gave us a sense of the importance of each metric
+as a driver of TSR in tech.
+It was the change in RCE (ΔRCE), as a percentage of beginning
+assets, that turned out to be the strongest driver of TSR, as reflected
+in the large difference between the median TSR of the best ΔRCE
+performers (tier 1) and the worst (tier 3). When we aggregated the
+10 rolling three-year periods in our sample, the top ΔRCE companies
+had median annual TSR that was over 14% higher per year than that
+of the bottom ΔRCE companies.
+The next two most value-related metrics were sales growth and
+ROE, in that order. This makes sense, since growth and return tend
+to be the two most important drivers of RCE, which of course clarifies
+the tradeoff between growth and return. The clear message from
+these findings is that if you want your tech company to be a great
+stock, improve your RCE. Typically, this requires a combination of
+sales growth and improved returns.
+Many investors have been bedazzled by exotic tech valuation
+metrics, such as value per click or per eyeball. So, they are usually
+surprised to hear that RCE is the most important driver of tech TSR.
+Sure, some tech companies attract extraordinary valuations for a
+host of reasons that don’t show up in current RCE improvements.
+Sometimes it’s a general expectation of future RCE improvements.
+At other times it’s a technology or market breakthrough with no clear
+sign of how the opportunity will translate into profitability. Often the
+results grow into the valuation. But sometimes these optimistic valuations
+turn out to be inflated and will revert to a more normal level
+over time. But if these gyrations happen in all industries, they seem
+to happen more often, and to a greater degree, in tech and related
+industries like biotechnology.
+Nevertheless, when we examine the whole tech industry over
+time, we find that improving RCE is what drives TSR. Just as in other
+industries, then, the objective should be to grow RCE. Continuous
+improvement in RCE leads to strong TSR the vast majority of the
+time, and more so than any other metric I’ve studied.
+When presenting to corporate management teams and at conferences,
+I have found that the words “continuous improvement” often
+trigger defensive reactions that are rooted in perceptions of and
+concerns about volatility and cyclicality. A participant might ask,
+“How can you expect me to improve every year when the market is
+highly variable?” Often, they describe this variability as being driven
+by volatility in commodity prices, exchange rates, demand, and other
+factors.
+Perhaps what is most surprising is that these comments don’t
+just come from business leaders in volatile or cyclical industries, such
+as energy or commodity chemicals. Even those in relatively stable
+businesses tend to be overly concerned about the effects of volatility.
+Reflecting on these trends and conversations, I’ve become convinced
+that these perceptions of volatility and cyclicality largely derive from
+managers’ tendency to view their own company’s historical trends as
+a broadly applicable, industry-wide frame of reference or benchmark.
+In the case of highly volatile businesses, which routinely experience
+both up- and down-swings in profits amounting to 5% or even
+10% of sales, managers are likely to need to respond decisively to
+such swings. When upturns happen, managers need to find available
+capacity, keep customers happy, and simultaneously maintain a reasonable
+level of structure and organization. And the downturns are often
+more demanding, since a reduction in orders can beget a whirlwind
+of layoffs, shortened shifts, asset sales, and just about every type of
+crisis management imaginable. The relative calm when profits shift
+by only 2% of sales seems almost like a vacation.
+But now let’s consider another leadership team—one that operates
+in a highly stable business that has never seen a profit swing of more
+than 2% of sales. When it does swing 2%, it feels like a momentous
+event, even though the same level of volatility seemed like a vacation
+in the prior example. Attempts to explain how such volatility
+is relatively low are met with resistance. The truth is, regardless of
+the actual absolute amount of volatility that a business faces, many
+managements think of their business as being volatile. Hence their
+skepticism about the term “continuous improvement,” which they
+mistakenly perceive as implying the need to improve every single year.
+I have advised many oil and gas exploration and production companies,
+and the volatility they experience is positively gut-wrenching.
+On June 30, 2014, for example, the price of a barrel of West Texas
+Intermediate oil was $106. Just over 19 months later it bottomed at
+$26—a decline of over 75%. How many companies can survive a 75%
+decline in their selling price? And for many oil and gas service and
+equipment companies, it turned out even worse. In some cases, sales
+volumes and prices dropped so low that it was no longer economical
+to keep producing. Hundreds of thousands of employees lost their
+jobs, and hundreds of billions in market capitalization disappeared.
+That’s volatility.
+Nonetheless, even companies facing very little volatility can find it
+difficult to improve every year. I don’t expect any company to improve
+smoothly every year, for much the same reasons that I don’t expect
+a company’s stock price to go up every year. But what is important
+is not that a company always improves, but that its management is
+always striving to do so. Some external factors will get in the way
+some years. And internal factors will have to be dealt with, as well.
+But if we are developing and executing sound strategies, RCE will
+improve over time—and TSR will follow.
+The U.S. Declaration of Independence recognizes the “pursuit
+of happiness” as an unalienable right. It doesn’t say that all U.S. citizens
+will be happy, only that they have the right to pursue happiness.
+Along these lines, maybe we should describe the corporate goal as
+the “continuous pursuit of improvement.”
+A corporate focus on multiyear continuous improvement can
+also help reduce the pressure exerted by relatively minor short-term
+concerns that otherwise end up excessively consuming management’s
+time and attention. Consider a fire in a supplier’s plant that shrinks
+supply and causes a temporary spike in commodity prices, resulting
+in a short-term increase in your costs. You know that in a few
+months the plant will be back on line and the commodity price will
+revert. So long as the spike isn’t threatening the survivability of your
+company, why waste much time worrying about it? Companies that
+are too focused on achieving quarterly goals risk being consumed by
+every variance, small or large—even those that are temporary. Sure,
+they will be able explain why all the factors that hurt the company’s
+performance were out of their control. But is this really a justifiable
+use of management’s time? In most cases, the answer is no.
+This is not to say you shouldn’t take action to mitigate the effects
+of such spikes. Maybe there is a substitute commodity that, though
+usually more expensive, could be used during the price-spike period.
+Maybe some of the effects can and should be temporarily passed on
+to your customers. But when making such a decision, you should
+take care to avoid a temporary cost recapture that ends up either
+reducing long-term revenue or raising long-term costs. For example,
+if customers feel they are being price gouged, they may stay away for
+a long time. There is a gas station near my home that raised prices
+excessively, to my mind, after hurricane Sandy. Seven years have passed
+since then, and I still haven’t gone back. While there may be no legal
+penalties associated with this type of predatory pricing, the loss of
+business is likely to be a far bigger cost.
+And because managements are often faced with tradeoffs between
+near-term and longer-term revenues and costs, it may be more accurate
+to describe the corporate objective not as continuous improvement, but
+rather as cumulative improvement. Of course, we want management to
+make continual efforts to identify and achieve improvements. In other
+words, we want the managerial inputs into the value-creation process
+to be continuously provided and improving in quality if not quantity.
+But when evaluating the measurable output of the value-creation
+process—say, in the form of RCE—cumulative improvement may be
+the most reliable and realistic description of the goal. For, even after
+we take into consideration the ups and downs of the business, and if
+we do all the right things, our RCE may in fact not get bigger every
+year. Yet when we look back in a few years, we will end up reporting
+a significant cumulative increase in the measure.
+This brings me to a recurring, and critical, question raised in this
+book: Would you, as the CEO of a public company, be willing to take
+actions that are almost certain to be negatively received by investors in
+the short run but, once the new initiatives pan out, are likely to drive
+your share price up significantly in a few years? Say the stock would
+drop from $20 down to $18 or $17 over the next few months but will
+have risen to between $30 and $40 in two or three years. Would you
+still take your proposed actions? Most will recognize the inherent
+value of such a tradeoff when it’s posed hypothetically. But, in practice,
+many managers are all too willing to forgo such investments to
+avoid even a relatively small reduction in value over the short term.
+We cannot eliminate cyclicality or volatility, but we can do our
+best to ensure that each peak is higher, and each trough shallower,
+than the last. Figure 22 shows how this plays out over time.
+Figure 22—Continuous Improvement in a Cyclical Business
+If our goal is to maximize results this year, we will focus too
+much attention on dampening cyclical effects to meet our quarterly
+or annual goals or investor guidance. Sometimes this leads to cutting
+deals that really don’t yield enough value over the long term. For
+example, say that your customers are offered unusual discounts to
+place an order at the end of a fiscal year or quarter that otherwise
+would have occurred at the start of the following period. Overall, the
+shareholders make less money, but in the short term management
+hits a quarterly number. An owner wouldn’t do that.
+If, by contrast, the goal is to maximize performance three to five
+years from now, business managers will spend more time identifying,
+evaluating, and implementing investments and efficiencies that have
+enduring effects throughout the cycle. Longer-term managers buy
+assets at the bottom of the cycle when they are selling for a fraction
+of the price, compared to short-term managers who want to buy
+capacity only at the peak, at a time when they don’t know what else
+to do with all the cash they are generating. Longer-term managers
+also take the other side of the bad year-end deal above: They accept
+unusually large shipments (at big discounts, thereby reducing their
+own cost of goods sold) at times when it’s convenient to support the
+quarterly accounting figures of their short-term-focused supplier.
+It sounds simple, but the continuous-improvement mindset
+requires a constant, deliberate effort to develop and maintain. First,
+it requires a good understanding of where we are now in the business
+and market cycle versus peers as well as the broader capital market
+on every important dimension of growth and efficiency. And this
+requires overcoming “recency bias” that, as we discussed previously,
+can lead managers to extrapolate recent conditions as if they were
+to continue indefinitely.
+Second, we need to also understand the elements of performance
+at the top and bottom of the last cycle. Did we do relatively better
+when times were good or when they were tough? This sounds like
+a straightforward metric, but to understand it requires a thorough
+understanding of the company’s business model in terms of fixed
+and variable costs—and this includes consideration of financing costs
+such as interest and even dividends, which are not contractual but
+behave like fixed costs.
+Unfortunately, many companies make predictably poor decisions
+as a result of neglecting to incorporate cycles into their plans
+and forecasts. An example would be a very large capacity-expanding
+investment when demand is at its peak and circumstances appear
+most favorable. By making such an investment, a company ends up
+in a tough situation in the next downturn, and this can accelerate
+the decline in its share price and potentially damage its reputation
+with investors.
+At the top of the business cycle, many companies also voluntarily
+absorb more risk by insourcing services or acquiring suppliers
+to reduce costs. But inadequate attention is often paid to the reduction
+in flexibility that comes from converting these variable costs to
+fixed costs. Since the cost savings are typically estimated based on
+smooth forecasts with relatively constant growth and margins, when
+a downturn eventually arrives these companies are faced with costly
+excess capacity. When companies buy these services externally, they
+can simply scale back on them. But when services and the like are
+insourced, they bear the burden of fixed leases and equipment as
+well as of full-time staff who are much harder to flex up and down.
+Third, and most important, we need to identify the desired future
+state of the company. Without worrying about how to get there, which
+elements of the business model should be changed over the next three
+to five years? How big should we be? How profitable? How much
+should we invest? We can start by understanding what competitors
+do better than our own company. Are their products and services of
+higher quality? Is their response time quicker to customer needs? Do
+they produce at a lower cost? Which of these benefits would be useful
+to adopt? Where can we leapfrog them? Which attributes would be
+adequately valued by customers to warrant the effort?
+And if we consider the needs of customers—as of course we
+should—are there better ways to serve them? Sometimes they don’t
+even know what they need because they haven’t thought of it; but
+perhaps we can find a way to improve their experience. None of us
+knew we “needed” an iPhone, but that didn’t stop Apple.
+Once the desired future state is established, the path needs to be
+considered. And this is where goal-setting ends and planning starts.
+We know how high we want to stretch and we’ve set some general
+parameters about what “there” looks like. Now we must develop and
+weight alternative paths to get there—and then develop a plan, which
+is the subject of the next chapter.
+As you may recall from chapter 3, we recommend setting performance
+targets based on the prior year’s RCE. Some have questioned
+whether continuous improvement motivated in this way can be sustainable—
+consider a manager faced with a target based on exceptionally
+good performance the year before, for example. But this actually serves
+to unlock the true performance potential of a business.
+There likely is a limit to how high margins can go, and asset intensity
+can fall, as a result of competitive forces; at large scale, organic
+growth alone usually isn’t sufficient. But there isn’t a limit to how
+much profitable growth can be achieved if management is creative
+and has the right incentives.
+Managers in these situations are motivated to move beyond incremental
+improvement and to find alternative solutions to adding value,
+whether that means acquiring, moving into adjacent markets, seeking
+out value-adding synergies, or pursuing other more-innovative
+strategies (Berkshire Hathaway is a good example of a company
+that consistently does this). And this is exactly how great companies
+regularly exceed expectations.
+The pursuit of continuous improvement is very different from the
+typical incrementalism of managing quarter to quarter and extrapolating
+annual budgets. The benefits are clear, but the obstacles to getting
+there are many. Company leaders face the pressures of providing
+guidance to investors and analysts, running quarterly earnings calls,
+and dealing with the increasingly rapid news cycle. Adding to and
+complicating these challenges are the counterproductive incentives
+provided by today’s prevailing practices of performance measurement
+and compensation.
+Developing a continuous improvement mindset in a large organization
+is hard work. It begins with a firm and explicit commitment by top
+management to the task of creating long-run value. It involves reconfiguring
+goals, management processes, and especially management
+incentives, to emphasize “more is better”; and it demands constant
+communication, training, and coaching of at least those near the
+top of the organization and, in most cases, even some up and down
+the ranks. But if it involves changes in financial decision-making and
+processes, the expected outcome is nothing less than a fundamental
+change in corporate culture.
+Notes
+1 Gregory V. Milano, Arshia Chatterjee, and David Fedigan, “Drivers of Shareholder
+Returns in Tech Industries (or How to Make Sense of Amazon’s Market
+Value),” Journal of Applied Corporate Finance 28, no. 3 (2016): 48–55.

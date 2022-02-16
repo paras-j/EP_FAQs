@@ -1,0 +1,910 @@
+AN IMPORTANT ROLE of the senior executive team at most
+corporations is to manage the portfolio of businesses or activities.
+In some companies, for example GE or Siemens, these portfolios
+include a diverse group of businesses. Other, more-focused companies
+manage a portfolio of various product lines, brands, customer groups,
+geographies, or some other logical segmentation of the businesses.
+Still, everyone manages a portfolio of business activities.
+Many of us were first exposed to portfolio management via the
+Boston Consulting Group (BCG) Growth/Share Matrix, shown in
+figure 23, which was intended to illuminate both opportunities and
+problems.
+Dog
+Relative Market Share
+High Low
+Market Growth
+High
+Star Question
+Mark
+Low Cash Cow
+Figure 23—The Boston Consulting Group Growth/Share Matrix
+Products with high market share in a fast-growing market were
+labeled stars because they had a high market share in growing industries.
+But they also required a lot of fresh investment to maintain their
+growth status. Well-managed stars can be significant drivers of TSR.
+These days the term “cash cow” has taken on many new meanings.
+As used by BCG, it designated products with high market share
+but whose overall market growth was relatively low. These products
+were expected to have minimal opportunities for investing in growth,
+so the cash they generate can be thrown off, or “milked,” in order to
+fuel growth elsewhere.
+Before we move on to the low-market share side of the matrix,
+consider the differences between stars and cash cows. They both have
+high market share and are expected to throw off a lot of operating
+cash flow, but in the case of the stars, the value-maximizing strategy
+tends to be reinvesting to fuel profitable growth. For the cash cows,
+by contrast, the suggested strategy is to minimize reinvestment and
+to milk the cash for other uses. This is a significant difference, so the
+person or team managing the portfolio needs to have an extensive
+understanding of the rate of past, current, and future market growth.
+What if you were in the cell phone business and trying to forecast
+market growth right before Steve Jobs introduced the first iPhone? Or
+what if you produced vinyl records just before the compact disc was
+released? To strictly apply the matrix, we need to firmly understand
+what is happening in our own industry. Despite the best of intentions,
+it’s often hard to know what’s coming. As a result, many cash
+cows have been mistaken for stars—and far too much was invested
+in expected growth that never materialized. Perhaps even worse,
+many stars received too little growth investment and lost market
+share because they were thought to be cash cows. How do we avoid
+such strategic errors?
+Four clear steps can reduce this risk. First, consciously develop
+a mindset that avoids rigidly applying successful strategies from the
+past; instead, your management should be flexible and nimble in
+considering what may work in the future. Second, keep your organization’s
+ears to the ground. Avoid an exclusively internal focus—stay
+close to customers, follow your competitors’ innovation plans, and
+monitor adjacent industries that could encroach on your business.
+(Incidentally, these tasks are best carried out in the business unit, not
+the corporate planning department.) Third, undertake each year a
+thorough qualitative and quantitative portfolio review at the start of
+the business planning process, and be sure to seek new information
+to understand what has changed. Finally, be responsive to unexpected
+innovations when they occur. Develop roadmaps for responding to
+potential changes by considering expected innovations, preparing
+response strategies, and quickly executing to mitigate the disruptive
+effects of such changes. You will still be surprised at times, but less
+frequently than in the past, and your team will be able to respond
+more quickly when it counts.
+Let’s go back to the BCG Matrix. It’s rarely still used in its
+original form, but it will be discussed here because it provides a
+useful backdrop for making some important points before recommending
+a new approach. The two boxes on the right, “question
+marks” and “dogs,” are for products that have relatively low market
+share. The easier ones to deal with are the dogs—products with
+a low market share in a slow-growth market. Alas, most managements
+get it wrong. As I wrote in 2011 in a CFO.com article titled
+“Are You Wasting Time on Poor Performers?”1 it is common for
+executives to devote more attention and financial capital to fixing
+poor-performing products and businesses, while at the same time
+mistakenly assuming that stronger products and business units
+will “take care of themselves.” This mistake can be in response
+to investors’ challenging executives with tough questions about
+the company’s unsuccessful products and business units. In other
+cases, it may be personal pride that motivates executives to improve
+disappointing projects during their tenure.
+But is shareholder value really maximized when the corporate
+office devotes a higher proportion of time or capital to turning around
+poor-performing products and business units? Or would the shareholders
+be better served by exiting their losers and focusing executive effort
+on investing in and growing the revenue and value of the winners?
+To help answer this question, we examined long-term shareholder
+return trends in capital markets, to develop a pragmatic perspective
+on where corporate resources should be devoted. At the time of the
+study, the then-current members of the S&P 500, excluding those not
+public for the full period, were evaluated over the 10-year period from
+2001 through 2010 on the basis of their cumulative TSR.
+The high performers whose returns are shown at the far right of
+(both parts of ) figure 24 delivered outstanding value creation. And
+when we grouped all companies into performance quartiles (based
+on TSR), the top-quartile performers, as shown in the graph at the
+right, delivered dramatically higher average TSR (+709%) than those
+at the bottom (–35%). A favorite consulting maxim says that roughly
+80% of value creation comes from 20% of activities. We will broach
+this in more detail later, but for now it’s worth noting that the data in
+the figure neatly follows this dictum: Of the total value of all quartiles
+(877%), the top quartile (or 25%—close enough for our purposes)
+represents 81%. This is only one data point, of course, but it supports
+the idea that value creation tends to be highly concentrated.
+-1000%
+0%
+1000%
+2000%
+3000%
+4000%
+5000%
+6000%
+0% 25% 50% 75% 100%
+10-Year Compound TSR
+Percentile (S&P 500)
+-35%
+44%
+159%
+709%
+-100%
+0%
+100%
+200%
+300%
+400%
+500%
+600%
+700%
+800%
+Q1 Q2 Q3 Q4
+Average 10-Year Compound TSR of Each Quartile
+Quartile
+Figure 24—Average TSR by S&P 500 Quartile 2001–2010
+But how do these companies achieve such outstanding results?
+Doing so requires sound strategy and outstanding execution; in most
+cases, these top-quartile companies successfully reinvest a substantial
+percentage of their cash flow in capital expenditures, R&D, acquisitions,
+and other investments that lead to strong, top-line revenue
+growth. They typically deliver a strong cash return on capital, as well.
+To apply these findings in a given organization, consider a hypothetical
+company with four business units, each valued at $100 million
+at the start of 2001. We then assume that each of the business units
+grows in value at the average TSR of one of the four quartiles in our
+study. In other words, the value of the top business unit A grows by
+709%, B grows by 159%, C grows by 44%, and D declines in value by
+35%. Figure 25 demonstrates the change in value of our hypothetical
+company. The star business unit A grows over 10 years to be worth
+over eight times its starting value, representing 63% of the value of
+the company in 2010. This value creation in A is 20 times higher than
+the value destroyed by the bottom business D.
+Initial Value 10-Year TSR Ending Value Percent of
+Total
+A $100 709% $809 63%
+B $100 159% $259 20%
+C $100 44% $144 11%
+D $100 -35% $65 5%
+Consolidated $400 219% $1,277 100%
+D D
+C C
+B
+A B
+A
+0
+200
+400
+600
+800
+1000
+1200
+1400
+Initial Value Ending Value
+Value of Businesses
+Figure 25—Change in Value of Hypothetical Four-Business Company
+What does this mean for the priorities of executives? If a lack of
+corporate attention and investment causes the top business to deliver
+only 90% of its potential, then $71 million of the $709 million in
+expected growth vanishes. For sure, A would still be a great business,
+but this $71 million shortfall wipes out twice as much value as the
+entire $35 million in value destroyed by D.
+In many client situations, my colleagues and I have observed that
+executives overseeing multi-business companies often limit the potential
+of their star businesses by underinvesting in their future. Capital
+allocation can become a bureaucratic process in which negotiations,
+a misplaced concern for fairness, and fear of change lead to an indiscriminate
+smearing of capital, R&D, and marketing resources across
+the company’s business units with far too little attention to the differences
+in value creation opportunities. Maximizing shareholder value
+involves focus, which is to say it often requires investing substantially
+more in strong products and businesses than in the weak ones. This
+will be discussed extensively in chapter 9.
+Sometimes the only effective way to divert attention from a dog
+business is a sale or spinoff. There is often a hesitancy to sell, since
+these poor businesses don’t fetch much in the market, so executives
+often prefer to try to “fix” performance first and then consider a
+divestiture. Unfortunately, the reluctance to sell these businesses often
+exacerbates the problem by delaying the true potential value of the
+stars. In the example above, it may be beneficial to sell business D at
+the outset, even at a substantial discount, if needed. This may help
+focus management’s attention and investment on business A and so
+avoid giving up millions more in potential value. Some managers,
+though, worry that the write-off from taking such a loss on a sale
+will tank EPS and cause their stock to crash. In most cases, luckily,
+investors have already baked the book loss into the price, and the stock
+actually increases due to the signal that the company is taking action.
+This is yet another reason why an RCE outlook is more accurate and
+comprehensive than focusing on EPS alone.
+The products in the final quadrant of the BCG Growth/Share
+Matrix are characterized as question marks, or what are sometimes
+referred to as problem children. These products are in high-growth
+markets but have been unable to amass a meaningful market share.
+You can’t develop a true default strategy for these products without
+first understanding why they are where they are—which is why the
+“question mark” nomenclature is perhaps more fitting than “problem
+children.”
+For example, a product could be relatively new and innovative,
+with a low market share that is expected to be temporary. Products
+facing this situation are hardly “problem children”; they are in fact
+future stars, and in the best of cases they present the most likely opportunities
+for success. Often, the ideal value-creating strategy for such
+products is to reinvest in their development and growth at a very high
+rate—often with a reinvestment rate of well over 100%. That is, more
+than 100% of the cash flow they generate is plowed back into growth.
+The extra cash needs can be met through debt financing, issuing
+equity, or using cash generated from other products. For stand-alone
+companies, where such products are the company’s only business, it
+can be difficult to maximize value. This is why such businesses often
+make great acquisition targets for large competitors that are replete
+with cash cows and yet lacking effective areas for reinvestment.
+At the other end of the spectrum, some products that show up
+as question marks have been around for quite some time but, even
+with the best of efforts and intentions, have been unable to gain the
+customer traction needed to attain significant market share. Perhaps
+they have a weak or unappealing brand, or they are perceived as lowquality
+or lacking reliability. Or maybe there is nothing wrong with
+the product, though tactical execution has been ineffective.
+In principle, having low market share in a fast-growing market
+should provide the opportunity to beat market growth. The key to
+determining the right strategy is to figure out what has caused the
+underperformance. Given the potential size of the upside, it is worth
+considering alternatives to revitalize the product, increase growth,
+and move it into the star quadrant. Possible improvements to the
+product, the positioning, and brand identity, as well as to distribution
+and other aspects, should be considered. In some cases, incremental
+improvements aren’t worth much, so the best path is to leapfrog the
+product with a new and better offering that cannibalizes the existing
+product but has a better chance of delivering above-market growth
+and market-share gains.
+The BCG Matrix has revolutionized strategic thinking, though
+many experts have identified problems with it. Some of the criticisms
+relate to how it is often implemented in more of a backward-looking
+rather than forward-looking manner. It is imperative that the marketshare
+and market-growth indicators are based on forward expectations,
+not the past. Of course, evaluating the past can be important
+in ensuring that the forecast of the future is grounded in reality. Big
+changes from past to future should be expected only when their causes
+are fully understood and considered probable.
+The BCG Matrix was developed as a process to reallocate cash
+internally between businesses. But it poses unnecessary constraints
+on growth because it ignores the ability to finance externally through
+debt or new-equity issuances. It also has the potential to encourage
+overinvestment, since it similarly ignores the possibility of distributions
+to shareholders.
+But potentially the biggest problem with the original matrix is
+that it doesn’t factor in actual profitability. The originators made
+assumptions about what the likely profitability would be in each
+quadrant and used that to inform the strategy. But, of course, we will
+find products in commodity businesses that are in the star quadrant,
+yet whose average rates of return through a business cycle are hardly
+attractive. Investing in these products could well be value-destroying.
+And there are dogs that produce decent cash flow and perhaps should
+be treated more like cash cows, especially if such businesses command
+such a low-valuation multiple that the proceeds from a disposal would
+be worth significantly less than the option of continuing to harvest
+the remaining cash flow.
+Before I propose a new, improved, two-by-two strategic matrix,
+which will be discussed below, consider first how an investor studies
+a portfolio of stocks. And the same principles, by the way, are at
+work for any investor holding a portfolio of fixed-income securities,
+real-estate assets, commodities, or even cryptocurrencies. I use the
+stock example because it’s more akin to managing a portfolio of
+operating businesses.
+At its core, the goal of stock investors is to hold shares in companies
+that will rise in value, with consideration for both stock-price
+appreciation and dividends. Of course, they won’t get them all right,
+but if they pick more stocks that outperform than underperform the
+rate of return of the overall market, their portfolio will likely perform
+well. The same is true inside a company. If we’re in management,
+we want to have our capital invested in products and businesses that
+we expect to rise in value. As discussed in chapter 6, it’s not about
+investing in good companies. It’s about investing in companies that
+improve more than the market already expects them to. Think of
+the cumulative RCE trend of each product or business as its stock
+price performance. We want to hold products and businesses that are
+expected to be able to meaningfully increase RCE; and if we achieve
+that, the overall company’s stock price is highly likely to rise.
+Countless factors drive a company’s RCE, and hence its share
+price. But if we use the simplest portrayal, RCE increases either when
+revenue grows or when the RCE margin improves, or both. It is critical
+to understand that the higher the RCE margin, the more valuable the
+growth is. Let’s say companies X and Y both add $1 million in revenue,
+but that company X has an RCE margin of 10%, as compared to just 2%
+for company Y. In that case, whereas company X would add $100,000
+in RCE, the RCE increase for company Y will only be $20,000. Of
+course, it’s better for company Y to grow its RCE by $20,000 than to
+have no growth at all; yet the important point here is that the identical
+revenue growth of company X generates five times as much RCE
+improvement as the revenue growth of company Y—and that’s likely
+to translate into five times the value creation per dollar of growth.
+If these two businesses were part of the same corporate business
+portfolio, we would want to be sure we funded all the growth available
+in company X, even if we have to curtail the growth investment
+budget in company Y to do so. Unfortunately, as discussed above, far
+too many companies “peanut butter” spread2 resources across their
+portfolio and thus end up underfunding their best opportunities. This
+is one of the most important reasons why spinoffs of smaller, fastergrowing
+businesses tend to create tremendous value. As part of a
+large corporate infrastructure, promising businesses often find it hard
+to attract the resources needed to fuel all their available growth. The
+leaders of all the other more-established businesses in the corporation
+sometimes complain, “Why do they get to invest 10% of sales in
+growth, but we only get 4%?” You see the problem….
+The negotiations and backroom deals that occur during capital
+budgeting often hinge on fairness and balance, which aren’t words
+the average stock-market investor can even spell. Imagine Warren
+Buffett investing equally in 10 companies because he didn’t want
+the leaders of the lower-performing companies to feel he was being
+unfair. What’s worse is when internal cronyism diverts resources to
+favor the subpar businesses. Say business unit X has more valuable
+growth opportunities, but the head of business unit Y was the college
+roommate of the chief operating officer; so though business unit Y
+may create scarcely one-fifth of the value, it very well may end up
+getting as many or more investment dollars.
+Of course, nobody will ever say they are allocating more resource
+to a business because the leader is a close friend. They always have
+some strategic sounding mumbo jumbo like, “Susan, I know you and
+your team are really delivering and you have some exciting plans and
+investment opportunities, but this year we will need you to be team
+players while we plow untold millions into shoring up the faltering
+strategic position of Harry’s business unit.” The affronting manager
+continues, “They have taken a hit lately and their business built this
+company 50 years ago. How would it look if we didn’t do everything
+we can to fix it? In the end we may be throwing good money at bad
+investments, but we’ve got to try. Maybe we can fund your growth
+plan next year….” These situations, as regrettable as they are, happen
+all the time.
+The Tradeoff between Growth and Return
+Because value is created by the combination of growth and return, we
+should dispassionately allocate more resources to the best growth and
+return opportunities. To build a better two-by-two matrix, we need
+one dimension to capture growth and the other to capture return.
+Simply using market growth is inadequate—we need to augment
+this with some sense of whether we can gain market share. A basic
+methodology is to combine market growth with market share, where
+lower market share relates to a greater opportunity to capture more.
+The higher the market share, the more limited are the opportunities
+to increase it; in fact, it may be hard just to maintain market share if
+it’s already high.
+A table can be created in which a company’s (or product’s) growth
+score is derived based on its market growth, plus an increment determined
+by its current market share as a percentage of the market
+leader’s. An examination of historical growth versus the ratio of
+market share to the leaders’ share for our product and peer products
+can be used to estimate a useful table for a product market or industry.
+For example, consider figure 26, which is based on apparel retailers3
+currently in the Russell 1000 that were public for the full period
+of 2000 through mid-2018. The graph relates the one-year percentage
+change in market share to the initial market share at the start of the
+period as a percentage of the leader’s share at that time. As this is just
+an illustration, this graph shows whole companies, but some of these
+companies have multiple brands, and better insights would come from
+an analysis of market share and revenue growth by brand. But even
+in this case, it is easy to see how low-market-share companies tend
+to gain share while higher-market-share businesses tend to lose it.
+y = -0.057ln(x) - 0.0347
+R² = 0.4055
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Subsequent 1-Year % Change in Market Share
+Initial Market Share as a % of Market Leader
+% Change in Market Share vs. Initial Share
+vs. Leader (Apparel Retail 2000-2018)
+Figure 26—Percentage Change in Market Share vs. Initial Share as a
+Percentage of the Leader Share
+The next important growth characteristic is market growth. In
+many product categories there are experts who forecast growth, in
+some cases with decent accuracy; but the longer the forecast, the less
+reliable it is. It’s important to use such forecasts but also to examine
+past experience before management makes a judgment about what
+they expect in terms of forward growth in a market. It is essential to
+recognize that, though there are many credible inputs from forecasting
+experts, in the end management must make its own judgment. There
+is no escaping this responsibility, especially given that 10 “experts”
+will give 10 different answers.
+How about 22 experts? As of September 2018, Apple was the most
+valuable company in the world, so, given the amount of money at
+stake, it is scrutinized by many highly skilled sell-side analysts. For
+the quarter ending September 2019 (a year from the time I wrote
+this), there are 22 analysts following Apple who have made revenue
+forecasts. They range from $59.7 billion to $65.4 billion, with fairly
+good dispersion across this range. The consensus estimate for the
+current quarter is $61.1 billion, so the projected growth rates from this
+level range from –2.3% to +7.0%. If you were collecting such data for
+Apple and some peers in order to estimate market growth, it would
+be a challenging decision to settle on an expected market-growth rate.
+Fortunately, when we “average” the experts’ forecasts, we tend to
+get much better predictions. Not perfect, but much better. This is really
+just what’s known as “the wisdom of crowds,” whereby the average
+answer of a group tends to be better than that of any individual in
+the group—since each of their unique perspectives, along with the
+errors they entail, is mitigated by the averaging process.
+The wisdom of crowds is compelling. In the book Out of Control,4
+Kevin Kelly describes how in 1991 Loren Carpenter led a group of
+about 5,000 computer graphics conference attendees who were given
+a wand with a red and a green side. Carpenter and his team used
+cameras to pick up the average signals from the crowd. The two sides
+of the room were able to control paddles and play the then-popular
+game of Pong. To take up something harder, they began flying an
+airplane. I suspect few, if any, of the computer graphics crowd knew
+how to fly, so undoubtedly many got it wrong. But on average, they
+directed the aircraft controls correctly and fly they did. (I highly recommend
+the book.)
+Back to our apparel industry example. In figure 27, we see for
+the aggregate apparel industry both the one-year consensus revenue
+growth forecast and the actual growth that occurred. The forecasts
+are derived by adding up the average revenue forecasts of the analysts
+following each company, as of each historical quarter going back
+over 60 quarters.
+The graph has a lot going on. In stable times the analysts do a
+quite good job of estimating growth. And the median of analysts’
+forecasts over time of 5.1% is very close to the actual median of
+5.0%. But when big swings happen, the analysts are a step behind. In
+mid-2006 they forecasted 5.9% market growth—actual was 6.7%—
+but a year later they were still forecasting 4.7%, and actual dropped
+to 0.2%. By the end of the third quarter in 2008, they still predicted
+4.1%, almost as if they didn’t want to recognize reality; Q3 growth
+dipped to –3.6%. Finally, by the first quarter of 2009, they forecasted
+a decline of –3.5%, but nope; the market had now turned, and the
+actual apparel industry growth turned out to be a positive 1.7%. Two
+quarters later, the predicted growth turned positive at +2.6%, yet the
+actual growth that quarter was a whopping 7.2%.
+-6.0%
+-4.0%
+-2.0%
+0.0%
+2.0%
+4.0%
+6.0%
+8.0%
+10.0%
+12.0%
+Dec-01
+Dec-02
+Dec-03
+Dec-04
+Dec-05
+Dec-06
+Dec-07
+Dec-08
+Dec-09
+Dec-10
+Dec-11
+Dec-12
+Dec-13
+Dec-14
+Dec-15
+Dec-16
+Apparel One-Year Forward Market Growth Rate
+Consensus Market Growth Actual Market Growth
+Decline happened
+quicker and lasted longer
+than expected
+Bounce back happened
+quicker and rose higher
+than expected
+Figure 27—Historical Apparel Market Growth
+This is not to blame the analysts—it’s normal human behavior!
+As discussed earlier, behavioral economists refer to this as recency
+bias. It can be hard to avoid such innate biases, which is why it is
+recommended that rules-based decision processes be implemented
+wherever possible.
+To bring together market growth and market share into a grid for
+use in assessing market opportunity, like that in figure 28, we simply
+combine the historical market growth at various percentiles with the
+typical growth achieved as a function of market share (that is, as a
+percentage of the market share of the market leader). The white box
+at the upper left, for example, is simply the sum of the 9.7% above
+and the 10.3% to the left. Typically, apparel companies with such a
+small share in such a fast-growing market achieve as much as 20%
+revenue growth.
+9.7% 5.7% 3.4% 1.8% 0.5% -0.6% -1.4% -2.2% -2.9% -3.5% Market Share
+Growth
+Min 20% 30% 40% 50% 60% 70% 80% 90% Max % of Leader
+Share
+10.3% Max 20% 16% 14% 12% 11% 10% 9% 8% 7% 7%
+8.5% 90% 18% 14% 12% 10% 9% 8% 7% 6% 6% 5%
+6.8% 80% 16% 13% 10% 9% 7% 6% 5% 5% 4% 3%
+6.4% 70% 16% 12% 10% 8% 7% 6% 5% 4% 4% 3%
+5.8% 60% 15% 12% 9% 8% 6% 5% 4% 4% 3% 2%
+5.0% 50% 15% 11% 8% 7% 6% 4% 4% 3% 2% 2%
+4.7% 40% 14% 10% 8% 6% 5% 4% 3% 2% 2% 1%
+4.2% 30% 14% 10% 8% 6% 5% 4% 3% 2% 1% 1%
+3.2% 20% 13% 9% 7% 5% 4% 3% 2% 1% 0% 0%
+0.5% 10% 10% 6% 4% 2% 1% 0% -1% -2% -2% -3%
+-3.6% Min 6% 2% 0% -2% -3% -4% -5% -6% -6% -7%
+Market
+Growth
+Historical
+Percentile
+Market Growth
+Market Share as a Percentage of Market Leader’s Share
+Figure 28—Growth Score Based on Market Growth and Market Share
+The shading in the figure indicates those combinations of market
+growth and market share that would be expected to have a belowaverage
+revenue-growth opportunity. It is important to note that
+actual growth may well be different from the growth opportunity,
+but for characterizing the market, the growth-opportunity score is
+what is needed.
+This growth score needs to be compared to a score that reflects
+pricing, efficiency, and productivity. The ideal measure for that purpose
+is Residual Cash Margin (RCM), which is simply RCE as a percentage
+of revenue. Several advantages accrue from the use of RCM, versus
+return on capital or similar return measures. The product of RCM and
+revenue is RCE in dollars, so RCM directly tells us, as discussed above,
+how much value is created by each increment of revenue growth. It
+is straightforward to determine if giving up some RCM to achieve
+higher growth will lead to more RCE dollars, or, alternatively, if giving
+up some growth to achieve higher RCM adds value. And of course,
+since RCE is determined on a cash basis relative to a required return
+on assets shown at their original cost, there is no bias either against
+investment or in favor of milking old assets well beyond their useful
+life, as discussed in chapter 3.
+One important benefit of using RCM is that it is agnostic about
+the value-maximizing level of asset intensity. That means RCM works
+just as well for asset-intensive businesses as for asset-light ones. An
+asset-light business, like a pure service company, will have very few
+assets, so any measure of return is likely to be astronomically high—
+and it may seem that more assets should be invested. But alas, in
+such a business there is really no capital investment opportunity, so
+the signals are misguided. With RCM, it doesn’t matter if a business
+is asset-intensive or asset-light; in both cases, asset intensity is simply
+treated as a cost in determining RCE and RCM.
+With the revenue growth score and the RCM in hand, we can
+now introduce the Fortuna Advisors Growth/RCM Matrix. Products
+and businesses can be placed into the two-by-two matrix, based on
+whether they are above or below average on the growth score and
+RCM, as shown in figure 29.
+Low High
+Residual Cash Margin (RCM)
+Growth Score
+Earn Right to
+Grow
+Monetize
+Step on the
+Gas
+Explore
+Expansion
+Plans
+Low High
+Figure 29—The Fortuna Advisors Growth/RCM Matrix
+As we have found in our client work, the most value, by far, is
+created by the products and companies in the upper-right quadrant
+(“Step on the Gas”), where both the growth opportunity and the
+profitability are above average. As shown next in figure 30, high136
+revenue growth and RCM products typically deliver the best TSR,
+so we really need to step on the gas. We examined the TSR of the
+largest nonfinancial companies listed in the United States at the end
+of 2017 and sorted them based on whether their three-year revenue
+growth and RCM were each above or below median.
+The median TSR of the companies in the step-on-the-gas quadrant
+was 66%, which was over 3½ times the median TSR of the companies
+in the monetize quadrant at 18%. The longer the time horizon, the
+more this gap widens.
+33%
+Three-Year Average RCM
+Low High
+Three-Year Growth CAGR
+High
+41% 66%
+Low
+18%
+Figure 30—Median Three-Year TSR vs. Growth and RCM (2015–17)
+Those companies above median on growth but below on RCM had
+median TSR of 41%, which is somewhat better than the 33% median
+TSR achieved by the companies that were above median on RCM but
+below median on growth. Not to overemphasize this, but it shows that
+growth has been somewhat more important than profitability among
+this broad population of companies over this period. This finding can
+and does vary by industry, and for many industries the findings can be
+different at various points in the economic and market cycle.
+Several important strategic insights should be considered in each
+quadrant of the Fortuna Advisors Growth/RCM Matrix, further
+discussed below.
+Step-on-the-Gas Products and Services
+Step-on-the-gas products in the upper-right quadrant should receive
+the highest priority for resource allocations and command the most
+attention from management. The opportunity to create value is the
+greatest, but the chance to fall short of the potential is greatest, too.
+Avoid the temptation to get caught up in spending all your time
+fixing “problem products.” Unless the problems are threatening the
+survival of the company, far more of the potential difference in the
+success of a leader will be determined by how they manage their
+step-on-the-gas products.
+A step-on-the-gas product typically consists of a well-differentiated
+product in a fast-growing market that is highly meaningful to consumers.
+For example, consider the iPhone, which introduced impressive
+new technological features that revolutionized and significantly
+expanded the smartphone market. At the Macworld convention on
+January 9, 2007, Steve Jobs introduced the world to the iPhone, and it
+became available a few months later. Between 2007 and 2018, Apple
+introduced no fewer than 11 models, each with new features…and
+a higher price tag. Total iPhone units sold soared from 1.4 million in
+2007 to more than 216 million in 2017. Talk about stepping on the gas!
+To determine how best to step on the gas requires an understanding
+of the potential sources of differentiation. For example, does the
+product (or service) have superior features and capabilities that are
+useful and important to the customer? Or do customers simply like
+being associated with the product as a symbol of status and prestige?
+If so, the product may be said to be differentiated, which allows the
+possibility for premium pricing—customers will pay more for it.
+There are also other sources of differentiation, for example process
+efficiencies. Say a product is more readily available or has faster delivery
+thanks to a logistics advantage (cough—Amazon). This would be
+an example of a process improvement creating a functional benefit
+that drives differentiation. But not all process efficiencies result in
+differentiation.
+Say, instead, that a product is made through a more-streamlined
+process that allows it to be available at a price discount while still
+maintaining comparable profitability with competitors. In this case,
+we’re dealing with a cost advantage—not exactly a product differentiator,
+though this still allows for the ability to profitably grow market
+share. In any case, many types of differentiation and other comparative
+advantages abound, but it is critical that these all be evaluated in
+an objective and disciplined manner.
+Everyone thinks they have a differentiated brand, but these days
+we have credible ways to assess how differentiated a brand really is in
+the collective eyes of the consumer audience. One useful source of
+brand assessment insights, which will be discussed in detail in chapter
+11, is BERA Brand Management, a firm that Fortuna Advisors began
+working with in 2017. BERA developed one of the largest brand-equity
+assessment platforms in the world, capturing one million consumers’
+perceptions across over some 4,000 brands. Such perceptions are then
+used to explain and quantify not only how brands grow, but, perhaps
+more important, how brand growth translates into financial performance,
+including valuation. Tools like BERA provide managements
+with a strict, fact-based ability to interpret and apply insights on the
+sources of brand differentiation.
+Differentiation is always defined by the customers’ being willing
+to pay a price premium due to their perception that the value
+to them of the product or service is higher than that of competing
+offers—in short, differentiation is defined by relative consumer value.
+We can assess it in two ways: first, by surveying consumers and asking
+questions that can quantify differentiation; and second, by analyzing
+changes in both market share and relative pricing data to determine
+whether our product is priced at a premium, at parity, or at a discount.
+If a product is not priced at a premium or is growing market share,
+it is not differentiated.
+Once the sources of differentiation are understood, management
+needs to explore how robust these differentiators are, whether (and
+the extent to which) competition is encroaching and so could neutralize
+the differentiators, and whether any other external or internal
+trends are on the horizon that could reduce the company’s potential
+for profitable growth. The first priority for investment must be to
+reinforce and extend the sources of differentiation, and to be prepared
+to leapfrog existing products with new and improved offerings despite
+the potential for cannibalizing current sales.
+We were all impressed with the first iPhone, and would continue
+to be awestruck by how it changed the world of mobile telephony,
+even if nothing followed it. But from a commercial perspective, each
+successive new iPhone created the opportunity to reach a higher and
+higher plateau, even though that plateau wasn’t visible when it all
+began. The pipeline of new iPhones and upgraded versions keeps
+producing, and though some versions have underperformed, the
+volumes attained would have been considered so wishful that they
+would have sounded laughable in 2007. We have no way of knowing
+what Steve Jobs really thought the potential was, back when the
+original product development project began, but it’s hard to believe
+he expected annual sales of 216 million units as a reasonable forecast.
+It was the relentless pursuit of continuous improvement in the iPhone
+user experience that led Jobs and his successors to greatness, and this
+required a constant and massive ongoing innovation investment in a
+product that was already remarkable, to make it even better.
+The next priority for step-on-the-gas products, after investing in
+sustaining and expanding the sources of differentiation, is to actually
+step on the gas. And that requires marketing expenditures, including
+traditional media such as TV, radio, and print ads, along with an
+increasing investment in newer marketing methods, such as social
+media, email campaigns, and Internet ads. Perhaps an investment to
+expand a sales force can help drive sales in areas that are underserved,
+as the industrial supply company W. W. Grainger did when it hired
+over 500 mobile territory sales representatives to reach customers
+far from its stores. This was a large increase in annual expenses, and
+the benefits took time to pay off with each new wave of representatives
+hired. But, overall, it created substantial value by accessing new
+customers and making new, and highly profitable, sales.5
+When considering these growth and investment plans, it is important
+to use the Reinvestment Effectiveness metric introduced in chapter 4.
+Many companies underinvest in growth even when they have strong
+revenue growth projections. This reluctance to commit more capital
+can stem from an excessive focus on period free cash flow, for example.
+Such forecasts typically imply a higher level of Reinvestment Effectiveness—
+which, again, is the increase in revenue divided by the amount of
+investment over three or five years—than the company has achieved in
+the past. But though it’s possible that such new levels of Reinvestment
+Effectiveness will be realized, unless a new source of differentiation is
+discovered, such underinvestment will likely lead to underperformance
+against growth forecasts. Conversely, low rates of both projected revenue
+growth and Reinvestment Effectiveness can provide an indication of,
+and so help prevent, overinvestment in capacity in relation to projected
+sales growth. Such overinvestment often takes the form of building too
+much production capacity, or by what we used to call, when I worked
+in engineering, “unnecessary gold plating.” (Engineers enjoy impressing
+other engineers.)
+To effectively make such tradeoffs requires the integration of the
+P&L budget and the capital budget, as will be discussed in chapter 9.
+Explore-Expansion-Plan Products and Services
+Explore-expansion-plan products, which occupy the lower-right quadrant
+in figure 29, have above-average profitability, as indicated by a high
+RCM. But they don’t score highly in growth because of either low
+market growth or a high market share that is more likely to decline
+than increase. As a result of such high RCM, even small increases in
+growth for these products and services tend to be highly valuable,
+while small losses in share can be very costly. So, it is worth taking
+the time to try to find new strategic paths to growth either by trying
+to expand the market, as Apple did with the iPhone, or by finding
+applications in adjacent markets.
+But seeking to generate growth from a product with a low growth
+score is fraught with risks—for example, extending a brand to an
+adjacent product can end up having a negative effect on consumer
+perception of the brand. To avoid such possibilities, it’s best to start
+by considering lower-risk expansion plans and then introducing risky
+alternatives only if the opportunity is significant enough to drive a
+desirable risk-return relationship.
+The lowest-risk strategy is to pursue growth in existing and adjacent
+markets. A dominant market leader sometimes can drive the size
+of the market higher by publicizing new uses and expanded fulfilment
+of customer needs. As long ago as 1972, McDonalds launched
+its breakfast menu, a very successful market-expanding strategy that
+originated with a franchisee who showed founder Ray Kroc a sandwich
+made with eggs Benedict.
+Brand extension is most feasible when there are potential customers
+who prefer a competitive product with different attributes but are
+open to a switch if adequately enticed to do so. Adjacent subcategories
+can be tapped with brand extensions, such as when Cheerios was
+extended to Honey Nut Cheerios, to address the sweetened cereal
+customer, along with Multi-Grain Cheerios, Very Berry Cheerios,
+and the rest of the current 16-product Cheerios line. Each of these
+product proliferations undoubtedly cannibalized some sales of the
+original Cheerios, but most of these new products probably brought
+in many new customers, too. And if Cheerios had stood still, it would
+likely have lost share to other products introduced by competition.
+Market extensions into new geographies can be fruitful. For many
+years, Guinness was viewed as a cold-weather beverage, probably due
+to the strong taste, thick viscosity, and a warmer suggested serving
+temperature. The theory was that, in warm climates, consumers wanted
+beer with a light taste, a watery flow, and a virtue of being best served
+extremely cold. The company decided to try a big push into Africa,
+which seemed unlikely. As of 2018, the company now boasts in an
+advertisement that among their top 10 countries by volume are Nigeria
+(#4), Cameroon (#5), Kenya (#6), Ghana (#7), and Ivory Coast
+(#9). All these countries are ahead of Canada (#10), known in ads as
+the country that “invented ice.” Sometimes we need to overcome our
+preconceived notions when we consider brand and market extensions.
+The farther the subcategory is from the core market, the riskier the
+extension, and that risk manifests itself both in terms of the potential
+failure of the new extended product offering and also in potentially
+negative feedback effects on the core product. The company can end
+up worse off than before the investment. It is important to perform
+adequate pretesting but also to have a process for small, regional
+introductions that are rapidly and progressively scaled up if successful
+feedback is received, but with an eye toward swiftly canceling the
+experiment if enough negative feedback emerges. The landscape is
+littered with unsuccessful brand extensions, including Harley-Davidson
+cake-decorating kits, Chicken Soup Pet Food for the Pet Lover’s Soul,
+and Zippo, the women’s perfume that comes in a container that
+resembles a lighter.
+One common obstacle to the success of explore-expansion-plan
+products is a focus on percentage performance measures, such as profit
+margins and rates of return. The whole reason we are exploring an
+expansion is the high profitability of the product, and many successful
+expansions will create value but may bring down the average when
+blended in with the high margins and rates of return. So, the type of
+growth often involves giving up some margin and return in exchange
+for growth; to make this tradeoff, we can rely on the RCE decision
+framework, as illustrated earlier.
+Products and Services that Need to Earn the Right to Grow
+Products in the upper-left quadrant of figure 29 are labeled earnright-
+to-grow due to their below-average RCM in an environment
+with an above-average growth score. Unfortunately, management
+teams often grow such products rapidly because they can, not because
+they should. Growth should be slowed on such products while the
+product management team considers ways of improving RCM. And
+if RCM can indeed be improved, then management will have earned
+the right to invest in growth. If not, then their top priorities should
+be continuously focused on cost efficiency and capital productivity,
+or on divestiture (as we’ll see the next section).
+An exception to this occurs when a product is new, does not have
+economies of scale, and has not yet advanced down the learning curve
+with regard to production efficiencies. In such cases, it may be OK to
+grow, yet careful monitoring is required to ensure that the situation
+improves over time.
+It is easy to see the challenges faced by multi-business companies.
+It’s culturally difficult for senior leadership to encourage some of their
+product management teams to step on the gas while telling others
+to wrack their brains to come up with expansion plans for products
+having low-growth scores. Still other product management teams are
+told not to grow, but instead to focus on cost efficiency and capital
+productivity. Imagine how confusing it can get if products across these
+quadrants share sales teams and production facilities!
+Nevertheless, products with negative RCM, or such low RCM that
+growth adds little value, need to prioritize improving RCM even if it
+means losing market share. The likelihood of success in improving
+RCM depends on the reasons for RCM’s being low to begin with.
+If the product is undifferentiated, no opportunity will arise to drive
+premium pricing, so the only possible path to a high RCM is to be the
+low-cost producer. This pure focus on minimizing cost and capital
+often seems more achievable than it is. Only when unique production
+or distribution methods are employed can a sustainable cost advantage
+be achieved and protected. Otherwise, cost and capital reductions
+will simply be matched by competitors, and prices will be “competed
+down” to eliminate the surplus value.
+A company has a greater chance of success when its products
+are differentiated and are already commanding premium pricing,
+but also when RCM is low because of inefficient cost structures and
+unproductive asset utilization. The identification and implementation
+of industry best-practices in manufacturing, logistics, and service can
+bring cost and capital levels in line, and the benefits will flow directly
+into an improved RCM.
+The only big risk occurs when the high-cost profile is achieved not
+because of inefficiency but rather because of the higher-cost nature
+of the product or service, especially when the higher cost is driven
+by attributes that produce the differentiation. Consider a restaurant
+where extra waitstaff improves service, a key element of differentiation
+relative to other local eateries. Perhaps leaving more space between
+tables improves the ambiance, which is positively perceived by patrons,
+but this reduces the number of tables and the amount of sales per
+dollar of capital. Maybe the investment in higher-quality ingredients,
+such as fresher vegetables and better cuts of meat and fish, improves
+the most important differentiator—the quality of the food. With all
+this differentiation, the restaurant may attract more patrons who are
+willing to pay higher prices, generating maybe 50% or even 75% more
+revenue per patron—but its costs will be much higher, too. In such a
+situation, a blind focus on cost control might lead to a reduction in
+staff, an increase in the number of tables, and even a downgrade in
+the quality of food ingredients. These efforts may dramatically reduce
+differentiation, and as a result, revenue may decline more than cost. It
+is imperative, therefore, that cost inefficiencies be distinguished from
+desirable investments in differentiation.
+Because these earn-right-to-grow products are frequently the most
+misunderstood, they often have the most misaligned strategies applied
+to sell them. Traditional strategic thought says if you are in a fastgrowing
+market, “then just grow!” A common assumption has it that
+growing markets must be profitable, but this is certainly not always
+the case, at least not for all products in such markets. By balancing
+the emphasis on growth and return, the Fortuna Advisors Growth/
+RCM Matrix helps managers identify and appropriately drive success
+in such product areas.
+Products and Services that Should Be Monetized
+The combination of being below average on both the growth score
+and RCM provides little hope for success in most circumstances. At
+times opportunities will present themselves to rejuvenate a brand,
+reimagine a technology, or restructure inefficient manufacturing and
+distribution processes. Yet for every home run it seems there are far
+too many strikeouts, especially when the turnaround is undertaken
+within a large, multi-business company. Even when business-unit turnarounds
+work, they often come at the expense of neglect of the most
+successful businesses, so it’s like winning a battle but losing the war.
+As mentioned above, sometimes the only way to divert management
+attention away from this type of business is a sale or spin-off.
+The private equity industry is far better suited to achieving successful
+turnarounds, thanks to its much more powerful incentive and governance
+structures, as well as to their ability to reduce public transparency
+along with the short-termism that comes with the quarterly earnings
+cycle. Nevertheless, private equity buyers don’t like to pay premium
+prices, so management often hesitates and instead holds onto poor
+performers to “fix” them and improve their value. This prolongs the
+drain of value by distracting management from maximizing value in
+their step-on-the-gas products and businesses.
+The situation must be studied on a case-by-case basis. In most
+companies, though, management will find that selling these businesses
+helps them to focus on the areas where they can create more value,
+even if the sale happens at a price below what management really
+thinks the business could be worth. And beyond the immediate benefit
+of exiting an inferior business, divestitures can simplify the company,
+reducing overheads and enabling simpler management processes.
+Notes
+1 Gregory V. Milano, “Are You Wasting Time on Poor Performers?,” CFO.com,
+accessed July 8, 2011, https://fortuna-advisors.com/2011/07/08/are-you-wastingtime-
+on-poor-performers/.
+2 A term used in allocations where resources are spread evenly across segments.
+3 For this simple illustration, data was gathered from CapitalIQ for Foot Locker,
+L Brands, Ross Stores, The Gap, The TJX Companies, and Urban Outfitters.
+4 Kevin Kelly, Out of Control: The New Biology of Machines (London: Fourth Estate,
+1995).
+5 If these sales and marketing efforts pay off, volumes will increase, so there may
+be necessary investments in production capacity, logistical capacity, and even
+supplier capacity. This should be intentionally decided on after considering adding
+new volume to reduce the risk of unnecessarily adding idle capacity. Unutilized
+capacity increases fixed-cost and capital charges per unit, and can dramatically
+reduce overall RCE, valuation multiples, and share price.

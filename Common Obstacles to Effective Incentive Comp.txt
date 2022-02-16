@@ -1,0 +1,78 @@
+
+In principle, the test of a good executive compensation program is the consistency with which pay rises when good things happen and declines when bad things happen. Seems straightforward, right? The executive compensation field is replete with thousands of experts, pundits, and advisers that are at the beck and call of compensation committees. Yet, somehow, despite all of this, and undoubtedly the best of intentions, executive compensation is a mess—full of highly questionable compensation strategies, structures, and execution. The following are common obstacles to effective incentive compensation that all board members should be aware of.¹
+
+Too Many (Incomplete) Measures
+
+Someone once explained to me that they had identified over 400 key business performance indicators. This, of course, calls into question how “key” each of these indicators is. If, say, 223 measures rise and 177 decline, what does this tell you? The point is that when there are too many metrics, the picture becomes muddled.
+
+We need a hierarchy that allows us to balance various inputs to optimize a decisive measure. When it comes to performance measurement, corporate finance executives tend to layer measures on top of measures to ensure that nothing escapes measurement. They appear to do this because none of the measures are really that good, or complete. Don’t do it—the use of too many measures will obscure and distort the signals needed to make decisions, and many suboptimal decisions will end up increasing pay arbitrarily.
+
+This is why proxy advisors are increasingly looking to comprehensive measures that can underpin their compensation design, investment frameworks, and overall approach to corporate governance. The well-known proxy advisory firm Institutional Shareholder Services signaled its support for these types of economic profit measures when it acquired EVA Dimensions in 2018. The benefit of economic profit-type measures is that they combine growth, margins, and investment in one measure. So up is good and down is bad.²
+
+Obstacles
+
+Sandbagged Budgets
+
+From an internal corporate perspective, the problem of “sandbagging” is, hands down, the worst managerial behavior problem. Each year, most businesses submit a multiyear plan in which performance during the first year is projected to go down, but in every year thereafter is strongly up. The appeal of this well-known “hockey-stick” forecast for managers is that it provides an easy budget to beat in the annual incentive plan and a strong outlook beyond that, which helps them gain top management’s approval for their capital requests.
+
+To achieve better managerial behavior, it’s essential to decouple plans and budgets from performance targets. Instead, performance targets can be set equal to prior-year performance to instill a mentality of continuous improvement, though this approach requires a very complete measure, as described in my book Curing Corporate Short-Termism.
+
+Weak Upside
+
+The often relentless focus on how much CEOs are paid diverts public attention from the real problem—how CEOs are paid. In most publicly held companies, the compensation of top executives is poorly linked to value creation—instead, these leaders are often paid more like bureaucrats. Is it any wonder then that so many CEOs act like bureaucrats rather than longterm committed owners?
+
+Just as we don’t want to overpay for poor performance, we don’t want to underpay for strong value creation either. Consider, for example, Transocean, the leading offshore driller, which delivered 480% total shareholder return (TSR) over the five years from the end of 2002 through the end of 2007, which was almost six times the S&P 500. In three of those five years, its annual incentive plan for executives paid nothing, and in the other two years it paid an average of below-target annual incentives. Clearly, management was underpaid, which presents challenges in recruiting and retaining executive talent.
+
+Avoid jacking up performance targets when times are good, lest we take away the incentive to influence and create good times.
+
+The Relative TSR Conundrum
+
+Over 50% of S&P 500 companies use relative total shareholder return to determine some part of executive compensation. The logic goes that relative TSR rewards success while limiting the risk that large payouts might accumulate and attract media attention simply because of an upward-drifting stock market or industry. This sounds great, but to those of us who’ve studied it, relative TSR just weakens the alignment between shareholders and executives while amplifying compensation volatility and uncertainty.
+
+Companies typically calculate the percentile ranking of a company’s TSR, which includes dividends and capital gains, over a period against the constituents of a stock index, the members of an industry, or a customized set of peers. The grant of performance share units (PSUs) is scaled up for high-percentile rankings and vice versa, with a common range of 0–200%. The intent is to deliver more shares to an executive team that leads a tough industry, and fewer to an executive group that trails in a high-performing industry.
+
+We published capital market research on relative TSR in 2016 in CFO and 2017 in Workspan. In this research, we found large gaps between the average rewards to management and the cumulative returns for shareholders. Consider the semiconductor company NVIDIA, with 12-year cumulative TSR of 1,712%.³ This was 98th percentile and should have generated a fantastic reward. But due to the pattern of the cycle-bycycle relative TSR, NVIDIA’s average relative TSR ranking was only 44th percentile, and their executives would have vested in less than 100% of their PSUs.
+
+Across the whole sample, management teams would have either overvested or undervested, on average, by 45% of their total original number of PSUs. This is such a large average deviation from the intended outcome that it completely dismisses any notion that relative TSR is useful for aligning management with owners over time.
+
+Also, within each relative TSR cycle, earned awards can vary considerably, depending on which day the cycle ends. For example, at the start of 2017, Celgene would have vested in 148% of its PSUs. This vesting dropped to 122% for the cycle ending at the conclusion of one month. Then over the following weeks, the vesting percentage would have increased until it reached the cap of 200% by mid-April, where it stayed for two months. But as the middle of the year approached, a substantial deterioration occurred in relative TSR, and for December, its relative TSR was bottom-quartile, so no PSU vesting would have been triggered.⁴
+
+With only a few months of movement in the vesting date, the value of this allegedly long-term incentive would have reached either the cap or the floor, so either the managers or the owners are likely to feel shortchanged. Although, in principle, relative TSR appears attractive, in reality it does not align managers and owners over long periods; and, within a given cycle, the executives will vest in vastly different numbers of shares, depending on the day the three-year cycle ends. Many executives already discount the value of stock awards. Using relative TSR only exacerbates this, which is not at all helpful for attracting or retaining talent.
+
+Problems With Base Pay
+
+When it comes to senior executive salaries, that’s one of those peculiar situations in life when less is more. If we are trying to motivate owner-like behavior, why would we want the big, dead anchor of a high fixed salary in the mix? The reason many executives are given high salaries is not that they need some minimum income, at least not CEOs. It’s that everything else in compensation is granted as a percentage or multiple of salary. So, let’s stop that right away and separate the two.
+
+For now, let’s consider cash compensation only. Since salary requires solely that the executive keep the job, it is of lower risk than other variable elements of compensation. Annual incentives, for example, vary year to year and therefore carry more risk. Sure, they may be higher, but they could be lower, too.
+
+In finance, we discount cash flows for risk, and we can do the same with compensation. If a dollar of salary is worth one dollar, then a dollar of target annual incentive plan payment, which can end up being worth more or less, must be worth less than one dollar. This follows the basic principle that stable cash flows are worth more than variable cash flows, so for variable cash flows to have the same value, they must be targeted at a higher level.
+
+One of the great things consulting firms do well regarding executive compensation is to gather, sort, and apply data. Let’s say, in a given industry, the median CEO salary is $500,000 and the median target bonus is 100% of this, or another $500,000. Let’s further assume that the bonus can rise to 200% or drop to zero, based on performance. So, in a great year the bonus will be two times $500,000, or $1,000,000, and total cash compensation will be $1,500,000. Sounds great, but of course the pendulum can swing both ways and the bonus can be zero.
+
+If instead, we offer $400,000 in base pay—a reduction of $100,000—we would need to increase the target incentive compensation by more than $100,000 to compensate for risk. But we may find this greater exposure better aligns managers with shareholders. It is always worth considering alternative combinations of fixed and variable pay rather than assuming everything has to be set as a percentage of salary.
+
+Recommendations
+
+Having spent three decades designing incentive compensation for many different types of companies across the globe, I believe there are a few key learnings to share. First, boards should carefully consider the performance measure (or measures) that is most likely to encourage the desired behaviors in managers. This right metric for one company may be a poor fit for another, but there are some that will be reliable across nearly all industries. At Fortuna, we recommend Residual Cash Earnings, or RCE, which is a cash-based version of economic profit that was developed to improve on Economic Value Added (EVA). Our research has also demonstrated that RCE relates better to total shareholder return (as a proxy for value creation) than EVA in a comprehensive study of all major industries.⁵
+
+Second, companies should decouple budgets and plans from incentive compensation by setting targets equal to prior-year performance, as indicated by a complete measure like RCE. (This is a process detailed in full in Curing Corporate Short-Termism.)⁶ To demonstrate how well this “RCE versus last year” incentive paradigm works, we recently studied a client and about 15 peers. Using 120 data points of the group of companies over a span of years, we sorted the companies based on bonus multiples actually paid, and compared this to a simulation of incentives paid based on RCE versus the prior year.
+
+In both cases, managers earning above-target bonuses delivered higher median TSR than those earning below-target bonuses. But this TSR advantage was more than twice as high when we sorted companies based on RCE bonus multiples than when we used the actual bonus multiples reported. So, in effect, RCE-based incentives showed a far stronger relationship to value creation than the various methodologies being used across different companies. This demonstrates that the combination of a complete measure like RCE and measurement against prior-year performance can provide a far better alignment of management’s and shareholders’ interests than the various measures and target-setting negotiations that are commonly used.
+
+A final recommendation is that boards should be willing to break from the trend when it comes to incentive compensation. In my decades implementing and studying incentive designs, I have observed a strong pressure for compensation committees to conform to often dysfunctional industry norms. Many boards feel compelled to fall back on these standards, as it’s the safe choice. After all, board members don’t stand to benefit from the potential upside of compensation decisions to anywhere near the degree they are exposed to the downside in the form of criticism, potential job loss, and reputational risk—if the design does not work out as planned. But, as we have seen, this has led many companies to embrace and maintain questionable compensation practices. Boards that seek to align managers’ behavior with the interest of long-term owners, and fuel a mindset of continuous improvement, should consider innovative approaches to compensation design.
+
+Gregory V. Milano is the author of Curing Corporate Short-Termism: Future Growth vs. Current Earnings. He is an expert in incentive compensation design, with nearly 30 years’ experience in management consulting. He has specialized in promoting an “ownership culture” in large corporations through innovative performance measurement and managerial incentives, and is currently the founder and chief executive officer of Fortuna Advisors LLC. Before founding Fortuna Advisors, he was a partner at Stern Stewart and a managing director at Credit Suisse. He has appeared on Bloomberg TV, CNBC, and Sky Business News, and his research has been featured in Fortune, the Wall Street Journal, Financial Times, and the Journal of Applied Corporate Finance, among other publications
+
+REFERENCES
+
+1. Certain parts of this article are adapted from Curing Corporate Short-Termism, by Gregory V. Milano.
+
+2. Karame, M. (2018, Dec. 4). Prepare for this pay-for-performance measure. CFO. Retrieved from https://www.cfo.com/governance/2018/12/prepare-for-this-payfor-performance-measure/.
+
+3. Milano, G. V. (2017, Nov. 13). A theory of relativity misses the mark. CFO. Retrieved from https://www.cfo.com/compensation/2017/11/theory-relativity-misses-mark/.
+
+4. Milano, G. V. (2018, May 1). The relative TSR conundrum. Workspan. Retrieved from https://www.worldatwork.org/workspan/ issues/may-2018.
+
+5. Milano, G. V. (2019). Beyond EVA. Journal of Applied Corporate Finance, 31(3), 116–125.
+
+6. Milano, G. V. (2020). Curing corporate short-termism: Future growth vs. current earnings. New York, NY: Fortuna Advisors.
